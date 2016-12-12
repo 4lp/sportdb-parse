@@ -33,18 +33,28 @@ def parseFile(fname):
 	score = ''
 	formattedLines = []
 	for line in content:
-		if count % 4 == 0:
+		if "Round " in line:
+			formattedRoundLine = formatRoundLine(line.rstrip())
+			formattedLines.append(formattedRoundLine)
+		elif count % 4 == 0:
 			date = line.rstrip()
+			count += 1
 		elif count % 4 == 1:
 			team1 = line.rstrip()
+			count += 1
 		elif count % 4 == 2:
 			team2 = line.rstrip()
+			count += 1
 		elif count % 4 == 3:
 			score = line.rstrip()
 			formattedLine = formatLine(date, team1, team2, score)
 			formattedLines.append(formattedLine)
-		count += 1
+			count += 1
 	return formattedLines
+
+def formatRoundLine(roundline):
+	line = '%s' % roundline
+	return line
 
 def formatLine(date, team1, team2, score):
 	line = '%s %s %s %s' % (date, team1, score, team2)
