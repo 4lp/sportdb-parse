@@ -1,4 +1,6 @@
 import os, sys, getopt
+from datetime import datetime
+import time
 
 def main(argv):
 	inputfile = ''
@@ -37,16 +39,18 @@ def parseFile(fname):
 			formattedRoundLine = formatRoundLine(line.rstrip())
 			formattedLines.append(formattedRoundLine)
 		elif count % 4 == 0:
-			date = line.rstrip()
+			rawDate = line.strip().replace(",", "")
+			date = datetime.strptime(rawDate, "%b %d %I:%M %p")
+			date = date.ctime().strip("1900")
 			count += 1
 		elif count % 4 == 1:
-			team1 = line.rstrip()
+			team1 = line.strip()
 			count += 1
 		elif count % 4 == 2:
-			team2 = line.rstrip()
+			team2 = line.strip()
 			count += 1
 		elif count % 4 == 3:
-			score = line.rstrip()
+			score = line.strip().replace(" : ", "-")
 			formattedLine = formatLine(date, team1, team2, score)
 			formattedLines.append(formattedLine)
 			count += 1
@@ -63,6 +67,7 @@ def formatLine(date, team1, team2, score):
 def writeFile(content, saveLoc):
 	saveLoc = os.path.normpath(saveLoc)
 	file = open(saveLoc,"w")
+	content.reverse()
 	for row in content:
 		file.write(row + "\n")
 	file.close()
