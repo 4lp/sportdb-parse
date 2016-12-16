@@ -1,0 +1,8 @@
+geckodriver.log
+**/Include
+**/Lib
+**/Scripts
+**/selenium
+**/tcl
+pip-selfcheck.json
+results.txt

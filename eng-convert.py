@@ -33,15 +33,19 @@ def parseFile(fname):
 	team1 = ''
 	team2 = ''
 	score = ''
+	matchday = 1
 	formattedLines = []
 	for line in content:
 		if "Round " in line:
-			formattedRoundLine = formatRoundLine(line.rstrip())
+			formattedRoundLine = "Matchday %s" % matchday
 			formattedLines.append(formattedRoundLine)
+			matchday += 1
 		elif count % 4 == 0:
 			rawDate = line.strip().replace(",", "")
 			date = datetime.strptime(rawDate, "%b %d %I:%M %p")
-			date = date.ctime().strip("1900")
+			date = date.strftime("%b %d")
+			date = date.replace(" ", "/")
+			date = "[%s]" % date
 			count += 1
 		elif count % 4 == 1:
 			team1 = line.strip()
@@ -67,7 +71,6 @@ def formatLine(date, team1, team2, score):
 def writeFile(content, saveLoc):
 	saveLoc = os.path.normpath(saveLoc)
 	file = open(saveLoc,"w")
-	content.reverse()
 	for row in content:
 		file.write(row + "\n")
 	file.close()
