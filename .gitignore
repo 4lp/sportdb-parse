@@ -6,3 +6,5 @@ geckodriver.log
 **/tcl
 pip-selfcheck.json
 results.txt
+parseresults.txt
+finalresults.txt

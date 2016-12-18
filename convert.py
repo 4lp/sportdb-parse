@@ -5,6 +5,7 @@ import time
 def main(argv):
 	inputfile = ''
 	outputfile = ''
+	formattedContent = []
 	try:
 		opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile="])
 	except getopt.GetoptError:
@@ -21,13 +22,20 @@ def main(argv):
 		else:
 			print('error')
 			sys.exit()
-	writeFile(parseFile(inputfile), outputfile)
+	with open(inputfile) as f:
+		content = f.read()
+		content = content.replace("[","")
+		content = content.replace("]","")
+		content = content.replace("\'","")
+		content = content.split(",")
+	for line in content:
+		if (line != "" and line != " " and line != "  " and not line.endswith(")") and not line.startswith("(")):
+			formattedContent.append(line)
+	print(formattedContent)
+	writeFile(parseFile(formattedContent), outputfile)
 
-def parseFile(fname):
+def parseFile(content):
 	lines = ''
-	with open(fname) as f:
-		content = f.readlines()
-	f.close()
 	count = 0
 	date = ''
 	team1 = ''
@@ -36,6 +44,7 @@ def parseFile(fname):
 	matchday = 1
 	formattedLines = []
 	for line in content:
+		#Is there a team this would conflict with?
 		if "Round " in line:
 			formattedRoundLine = "Matchday %s" % matchday
 			formattedLines.append(formattedRoundLine)
@@ -45,7 +54,6 @@ def parseFile(fname):
 			date = datetime.strptime(rawDate, "%b %d %I:%M %p")
 			date = date.strftime("%b %d")
 			date = date.replace(" ", "/")
-			date = "[%s]" % date
 			count += 1
 		elif count % 4 == 1:
 			team1 = line.strip()
@@ -71,6 +79,7 @@ def formatLine(date, team1, team2, score):
 def writeFile(content, saveLoc):
 	saveLoc = os.path.normpath(saveLoc)
 	file = open(saveLoc,"w")
+	content.reverse()
 	for row in content:
 		file.write(row + "\n")
 	file.close()

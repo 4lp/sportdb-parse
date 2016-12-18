@@ -1,7 +1,7 @@
 from urllib.request import urlopen
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
-import win_unicode_console
+# import win_unicode_console
 from contextlib import closing
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.webdriver import Firefox
@@ -14,7 +14,7 @@ import os
 import time
 
 #only for print() testing
-win_unicode_console.enable()
+#win_unicode_console.enable()
 
 driver = webdriver.Firefox(firefox_binary=FirefoxBinary(
         firefox_path='C:\\Program Files\\Mozilla FirefoxESR\\firefox.exe'
@@ -27,7 +27,7 @@ def writeFile(content, saveLoc):
 	file.close()
 
 with closing(Firefox()) as driver:
-	driver.get("http://www.scoreboard.com/mls/results/")
+	driver.get("http://www.scoreboard.com/soccer/england/premier-league/results/")
 	button = driver.find_element_by_xpath("//*[@id='tournament-page-results-more']/tbody/tr/td/a")
 	while(button):
 		try:
