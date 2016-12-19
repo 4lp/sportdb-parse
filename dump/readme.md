@@ -1,0 +1,1 @@
+dump of scraped data. ready for import into sportdb but could use some cleaning of superfluous rounds. 

@@ -131,7 +131,7 @@ def main(argv):
 				# EC.presence_of_element_located((By.XPATH, "//*[@id='fs-overlay'][@style='display: none']")
 				# ))
 				# couldn't get WebDriverWait to work so using hacky time.sleep in the interim
-				time.sleep(2)
+				time.sleep(5)
 			except ElementNotVisibleException:
 				page_source = driver.page_source
 				bsObj = BeautifulSoup(page_source, "html.parser")

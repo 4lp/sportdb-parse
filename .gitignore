@@ -1,5 +1,7 @@
-*
+/*
+!.gitignore
 !sportdb-scrape.py
 !requirements.txt
 !readme.md
 !sportdb-scrape.ps1
+!dump/
