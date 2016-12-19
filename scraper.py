@@ -12,6 +12,7 @@ from selenium import webdriver
 from selenium.common.exceptions import TimeoutException, ElementNotVisibleException
 import os
 import time
+import re
 
 #only for print() testing
 #win_unicode_console.enable()
@@ -27,7 +28,7 @@ def writeFile(content, saveLoc):
 	file.close()
 
 with closing(Firefox()) as driver:
-	driver.get("http://www.scoreboard.com/soccer/england/premier-league/results/")
+	driver.get("http://www.scoreboard.com/soccer/england/championship-2014-2015/results/")
 	button = driver.find_element_by_xpath("//*[@id='tournament-page-results-more']/tbody/tr/td/a")
 	while(button):
 		try:
@@ -48,7 +49,7 @@ with closing(Firefox()) as driver:
 			if (button.is_displayed() == False):
 				page_source = driver.page_source
 				bsObj = BeautifulSoup(page_source, "html.parser")
-				results = bsObj.find_all('tr', class_="stage-finished")
+				results = bsObj.find_all('tr', class_=re.compile(r"^(event_round|stage-finished)$"))
 				saveLoc = ".\\results.txt"
 				writeFile(results, saveLoc)
 				print("done!")

@@ -1,10 +1,5 @@
-geckodriver.log
-**/Include
-**/Lib
-**/Scripts
-**/selenium
-**/tcl
-pip-selfcheck.json
-results.txt
-parseresults.txt
-finalresults.txt
+*
+!sportdb-scrape.py
+!requirements.txt
+!readme.md
+!sportdb-scrape.ps1
