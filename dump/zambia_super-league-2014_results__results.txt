@@ -1,0 +1,363 @@
+
+ Round 30
+
+Nov/23 National Assembly 0-6 Nkana
+Nov/22 Green Buffaloes FC 3-0 Indeni
+Nov/22 Green Eagles 1-1 NAPSA Stars
+Nov/22 Konkola 0-2 Roan United
+Nov/22 Nchanga Rangers 3-1 Konkola Mine Police
+Nov/22 Power Dynamos 1-0 Nakambala Leopards
+Nov/22 Red Arrows 4-0 Zanaco
+Nov/22 ZESCO 3-1 Kabwe
+
+ Round 29
+
+Nov/16 Kabwe 0-0 Green Buffaloes FC
+Nov/16 Nakambala Leopards 2-0 ZESCO
+Nov/15 Indeni 0-1 Nchanga Rangers
+Nov/15 Konkola 0-0 Green Eagles
+Nov/15 NAPSA Stars 1-1 National Assembly
+Nov/15 Nkana 0-2 Red Arrows
+Nov/15 Roan United 1-1 Konkola Mine Police
+Nov/15 Zanaco 1-0 Power Dynamos
+
+ Round 28
+
+Oct/26 Green Eagles 2-0 Roan United
+Oct/26 National Assembly 2-0 Konkola
+Oct/26 Power Dynamos 1-2 Nkana
+Oct/26 Red Arrows 1-0 NAPSA Stars
+Oct/26 ZESCO 0-0 Zanaco
+Oct/26 Green Buffaloes FC 5-1 Nakambala Leopards
+Oct/25 Nchanga Rangers 0-0 Kabwe
+Oct/25 Konkola Mine Police 2-0 Indeni
+
+ Round 27
+
+Oct/19 Roan United 0-1 Indeni
+Oct/12 Green Eagles 1-2 National Assembly
+Oct/12 Kabwe 1-1 Konkola Mine Police
+Oct/12 Konkola 1-0 Red Arrows
+Oct/12 Nakambala Leopards 0-0 Nchanga Rangers
+Oct/12 NAPSA Stars 0-0 Power Dynamos
+Oct/11 Zanaco 1-1 Green Buffaloes FC
+Oct/11 ZESCO 3-0 Nkana
+
+ Round 26
+
+Oct/05 Red Arrows 1-2 Green Eagles
+Oct/04 Green Buffaloes FC 1-2 Nkana
+Oct/04 Indeni 1-1 Kabwe
+Oct/04 Konkola Mine Police 3-1 Nakambala Leopards
+Oct/04 Nchanga Rangers 2-2 Zanaco
+Oct/04 Power Dynamos 3-0 Konkola
+Oct/04 ZESCO 2-0 NAPSA Stars
+Oct/04 National Assembly 1-0 Roan United
+
+ Round 21
+
+Oct/01 Nkana 0-0 Nakambala Leopards
+
+ Round 22
+
+Oct/01 ZESCO 0-1 Red Arrows
+
+ Round 25
+
+Sep/27 Green Eagles 0-0 Power Dynamos
+Sep/27 Konkola 0-1 ZESCO
+Sep/27 Nakambala Leopards 2-0 Indeni
+Sep/27 NAPSA Stars 2-1 Green Buffaloes FC
+Sep/27 Nkana 1-2 Nchanga Rangers
+Sep/27 Zanaco 0-0 Konkola Mine Police
+Sep/27 National Assembly 0-1 Red Arrows
+Sep/27 Roan United 0-0 Kabwe
+
+ Round 24
+
+Sep/21 Nchanga Rangers 4-1 NAPSA Stars
+Sep/21 Konkola Mine Police 2-3 Nkana
+Sep/20 Green Buffaloes FC 1-0 Konkola
+Sep/20 Kabwe 1-0 Nakambala Leopards
+Sep/20 Power Dynamos 7-1 National Assembly
+Sep/20 Red Arrows 3-2 Roan United
+Sep/20 ZESCO 2-1 Green Eagles
+Sep/20 Indeni 1-2 Zanaco
+
+ Round 19
+
+Sep/11 Roan United 1-2 Nkana
+
+ Round 23
+
+Sep/07 Green Eagles 1-1 Green Buffaloes FC
+Sep/07 Konkola 1-0 Nchanga Rangers
+Sep/07 National Assembly 1-1 ZESCO
+Sep/07 Nkana 1-1 Indeni
+Sep/07 Red Arrows 1-2 Power Dynamos
+Sep/07 Zanaco 2-0 Kabwe
+Sep/07 NAPSA Stars 2-1 Konkola Mine Police
+Sep/07 Roan United 1-1 Nakambala Leopards
+
+ Round 22
+
+Sep/03 Green Buffaloes FC 2-2 National Assembly
+
+ Round 17
+
+Sep/03 Konkola 1-0 Nkana
+
+ Round 22
+
+Aug/31 Konkola Mine Police 1-0 Konkola
+Aug/31 Nchanga Rangers 0-0 Green Eagles
+Aug/30 Indeni 1-0 NAPSA Stars
+Aug/30 Kabwe 0-2 Nkana
+Aug/30 Nakambala Leopards 1-0 Zanaco
+Aug/30 Power Dynamos 3-1 Roan United
+
+ Round 21
+
+Aug/23 Green Eagles 2-0 Konkola Mine Police
+Aug/23 Konkola 1-0 Indeni
+Aug/23 NAPSA Stars 1-1 Kabwe
+Aug/23 National Assembly 0-1 Nchanga Rangers
+Aug/23 Power Dynamos 2-1 ZESCO
+Aug/23 Red Arrows 0-0 Green Buffaloes FC
+Aug/23 Roan United 1-1 Zanaco
+
+ Round 20
+
+Aug/17 Konkola Mine Police 2-1 National Assembly
+Aug/17 Nchanga Rangers 0-0 Red Arrows
+Aug/16 Green Buffaloes FC 1-1 Power Dynamos
+Aug/16 Kabwe 2-0 Konkola
+Aug/16 Nakambala Leopards 0-0 NAPSA Stars
+Aug/16 Zanaco 1-2 Nkana
+Aug/16 ZESCO 2-0 Roan United
+Aug/16 Indeni 0-1 Green Eagles
+
+ Round 19
+
+Aug/10 Konkola 0-1 Nakambala Leopards
+Aug/10 Power Dynamos 1-1 Nchanga Rangers
+Aug/09 Green Eagles 1-2 Kabwe
+Aug/09 NAPSA Stars 0-0 Zanaco
+Aug/09 National Assembly 2-0 Indeni
+Aug/09 Red Arrows 0-0 Konkola Mine Police
+Aug/06 ZESCO 2-2 Green Buffaloes FC
+
+ Round 18
+
+Aug/02 Green Buffaloes FC 0-0 Roan United
+Aug/02 Indeni 3-1 Red Arrows
+Aug/02 Kabwe 2-1 National Assembly
+Aug/02 Konkola Mine Police 1-1 Power Dynamos
+Aug/02 Nakambala Leopards 0-0 Green Eagles
+Aug/02 Nchanga Rangers 1-2 ZESCO
+Aug/02 Nkana 0-2 NAPSA Stars
+Aug/02 Zanaco 2-0 Konkola
+
+ Round 17
+
+Jul/27 Power Dynamos 5-1 Indeni
+Jul/27 Red Arrows 1-3 Kabwe
+Jul/27 Roan United 0-0 NAPSA Stars
+Jul/27 ZESCO 2-2 Konkola Mine Police
+Jul/26 Green Eagles 0-2 Zanaco
+Jul/26 National Assembly 1-1 Nakambala Leopards
+Jul/26 Green Buffaloes FC 0-0 Nchanga Rangers
+
+ Round 16
+
+Jul/20 Kabwe 2-3 Power Dynamos
+Jul/19 Indeni 1-1 ZESCO
+Jul/19 Konkola Mine Police 0-1 Green Buffaloes FC
+Jul/19 Nakambala Leopards 1-0 Red Arrows
+Jul/19 Nchanga Rangers 2-0 Roan United
+Jul/19 Nkana 2-3 Green Eagles
+Jul/19 Zanaco 4-3 National Assembly
+Jul/19 NAPSA Stars 2-0 Konkola
+
+ Round 10
+
+Jul/12 Nchanga Rangers 1-3 Nkana
+
+ Round 12
+
+Jul/09 ZESCO 1-0 Nkana
+
+ Round 9
+
+Jul/05 Nkana 3-1 Konkola Mine Police
+
+ Round 15
+
+Jun/29 Kabwe 1-0 ZESCO
+Jun/28 Indeni 2-1 Green Buffaloes FC
+Jun/28 Konkola Mine Police 1-2 Nchanga Rangers
+Jun/28 Nakambala Leopards 1-1 Power Dynamos
+Jun/28 NAPSA Stars 1-0 Green Eagles
+Jun/28 Nkana 3-2 National Assembly
+Jun/28 Roan United 1-0 Konkola
+Jun/28 Zanaco 2-0 Red Arrows
+
+ Round 6
+
+Jun/25 Nakambala Leopards 1-0 Nkana
+
+ Round 14
+
+Jun/22 Red Arrows 0-3 Nkana
+Jun/21 Green Buffaloes FC 1-1 Kabwe
+Jun/21 Green Eagles 0-0 Konkola
+Jun/21 Konkola Mine Police 0-0 Roan United
+Jun/21 National Assembly 1-4 NAPSA Stars
+Jun/21 Nchanga Rangers 2-1 Indeni
+Jun/21 Power Dynamos 2-2 Zanaco
+Jun/21 ZESCO 3-1 Nakambala Leopards
+
+ Round 5
+
+Jun/18 Nkana 2-0 Zanaco
+
+ Round 13
+
+Jun/15 Konkola 1-1 National Assembly
+Jun/14 Indeni 1-1 Konkola Mine Police
+Jun/14 Kabwe 2-0 Nchanga Rangers
+Jun/14 Nakambala Leopards 0-1 Green Buffaloes FC
+Jun/14 NAPSA Stars 1-0 Red Arrows
+Jun/14 Nkana 1-1 Power Dynamos
+Jun/14 Zanaco 0-1 ZESCO
+Jun/14 Roan United 0-3 Green Eagles
+
+ Round 12
+
+Jun/08 Konkola Mine Police 1-0 Kabwe
+Jun/08 Nchanga Rangers 2-1 Nakambala Leopards
+Jun/07 Green Buffaloes FC 2-3 Zanaco
+Jun/07 National Assembly 1-0 Green Eagles
+Jun/07 Power Dynamos 2-0 NAPSA Stars
+Jun/07 Red Arrows 1-2 Konkola
+Jun/07 Indeni 3-1 Roan United
+
+ Round 11
+
+May/31 Green Eagles 1-0 Red Arrows
+May/31 Kabwe 1-1 Indeni
+May/31 Konkola 1-0 Power Dynamos
+May/31 Nakambala Leopards 2-0 Konkola Mine Police
+May/31 NAPSA Stars 0-1 ZESCO
+May/31 Nkana 5-1 Green Buffaloes FC
+May/31 Roan United 0-1 National Assembly
+May/31 Zanaco 3-2 Nchanga Rangers
+
+ Round 10
+
+May/25 Indeni 1-1 Nakambala Leopards
+May/25 Kabwe 1-4 Roan United
+May/25 Konkola Mine Police 0-3 Zanaco
+May/25 Power Dynamos 1-0 Green Eagles
+May/25 ZESCO 3-0 Konkola
+May/24 Red Arrows 1-0 National Assembly
+May/24 Green Buffaloes FC 2-2 NAPSA Stars
+
+ Round 9
+
+May/18 Zanaco 4-0 Indeni
+May/17 Green Eagles 3-1 ZESCO
+May/17 Konkola 2-1 Green Buffaloes FC
+May/17 Nakambala Leopards 0-1 Kabwe
+May/17 NAPSA Stars 2-0 Nchanga Rangers
+May/17 Roan United 0-2 Red Arrows
+May/17 National Assembly 0-0 Power Dynamos
+
+ Round 8
+
+May/11 ZESCO 2-1 National Assembly
+May/11 Indeni 0-0 Nkana
+May/10 Green Buffaloes FC 1-0 Green Eagles
+May/10 Kabwe 0-3 Zanaco
+May/10 Nakambala Leopards 0-1 Roan United
+May/10 Nchanga Rangers 1-3 Konkola
+May/10 Power Dynamos 1-1 Red Arrows
+May/10 Konkola Mine Police 0-2 NAPSA Stars
+
+ Round 2
+
+May/07 Konkola Mine Police 1-1 ZESCO
+May/07 Nkana 2-1 Konkola
+
+ Round 7
+
+May/04 NAPSA Stars 0-1 Indeni
+May/04 Zanaco 4-0 Nakambala Leopards
+May/03 Green Eagles 1-1 Nchanga Rangers
+May/03 Konkola 1-0 Konkola Mine Police
+May/03 Nkana 5-0 Kabwe
+May/03 Red Arrows 1-1 ZESCO
+May/03 Roan United 1-1 Power Dynamos
+May/03 National Assembly 0-0 Green Buffaloes FC
+
+ Round 6
+
+Apr/26 Green Buffaloes FC 2-0 Red Arrows
+Apr/26 Indeni 1-2 Konkola
+Apr/26 Kabwe 0-0 NAPSA Stars
+Apr/26 Konkola Mine Police 1-1 Green Eagles
+Apr/26 Nchanga Rangers 0-0 National Assembly
+Apr/26 Zanaco 3-0 Roan United
+Apr/26 ZESCO 0-0 Power Dynamos
+
+ Round 5
+
+Apr/21 Konkola 1-0 Kabwe
+Apr/20 Green Eagles 0-0 Indeni
+Apr/20 National Assembly 1-0 Konkola Mine Police
+Apr/20 Power Dynamos 3-1 Green Buffaloes FC
+Apr/20 Red Arrows 1-0 Nchanga Rangers
+Apr/20 Roan United 1-2 ZESCO
+Apr/20 NAPSA Stars 2-0 Nakambala Leopards
+
+ Round 4
+
+Apr/13 Konkola Mine Police 2-2 Red Arrows
+Apr/13 Nchanga Rangers 0-1 Power Dynamos
+Apr/12 Green Buffaloes FC 0-1 ZESCO
+Apr/12 Kabwe 0-3 Green Eagles
+Apr/12 Nakambala Leopards 2-1 Konkola
+Apr/12 Nkana 0-0 Roan United
+Apr/12 Zanaco 1-1 NAPSA Stars
+Apr/12 Indeni 1-2 National Assembly
+
+ Round 3
+
+Apr/06 Red Arrows 2-2 Indeni
+Apr/05 Green Eagles 0-1 Nakambala Leopards
+Apr/05 Konkola 1-2 Zanaco
+Apr/05 NAPSA Stars 0-0 Nkana
+Apr/05 Power Dynamos 6-0 Konkola Mine Police
+Apr/05 Roan United 3-4 Green Buffaloes FC
+Apr/05 ZESCO 3-1 Nchanga Rangers
+Apr/05 National Assembly 3-0 Kabwe
+
+ Round 2
+
+Mar/23 Nchanga Rangers 2-1 Green Buffaloes FC
+Mar/19 Indeni 1-3 Power Dynamos
+Mar/19 Kabwe 0-0 Red Arrows
+Mar/19 Nakambala Leopards 0-0 National Assembly
+Mar/19 Zanaco 4-0 Green Eagles
+Mar/19 NAPSA Stars 1-0 Roan United
+
+ Round 1
+
+Mar/16 Red Arrows 4-0 Nakambala Leopards
+Mar/15 Green Buffaloes FC 1-2 Konkola Mine Police
+Mar/15 Green Eagles 0-0 Nkana
+Mar/15 Konkola 0-1 NAPSA Stars
+Mar/15 National Assembly 2-2 Zanaco
+Mar/15 Power Dynamos 3-1 Kabwe
+Mar/15 Roan United 0-2 Nchanga Rangers
+Mar/15 ZESCO 2-1 Indeni

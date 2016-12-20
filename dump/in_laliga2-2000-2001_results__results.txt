@@ -1,0 +1,591 @@
+
+ Round 42
+
+Jun/16 Albacete 2-3 Univ. Las Palmas
+Jun/16 Elche 2-2 Compostela
+Jun/16 Getafe 0-1 Atl. Madrid
+Jun/16 Gijon 2-2 Cordoba
+Jun/16 Jaen 0-2 Betis
+Jun/16 Leganes 0-1 Tenerife
+Jun/16 Levante 2-1 CD Badajoz
+Jun/15 Lleida 2-2 CF Extremadura
+Jun/15 Recreativo Huelva 1-2 Ferrol
+Jun/15 Salamanca 1-2 Murcia
+Jun/15 Sevilla 2-1 Eibar
+
+ Round 41
+
+Jun/09 Atl. Madrid 1-0 Gijon
+Jun/09 Betis 1-0 Recreativo Huelva
+Jun/09 CD Badajoz 2-2 Getafe
+Jun/09 Compostela 0-0 Jaen
+Jun/09 Cordoba 1-4 Albacete
+Jun/09 Eibar 1-3 Salamanca
+Jun/09 Ferrol 1-1 Levante
+Jun/09 Murcia 0-1 Elche
+Jun/09 Tenerife 3-2 Lleida
+Jun/09 Univ. Las Palmas 2-1 Leganes
+Jun/08 CF Extremadura 1-1 Sevilla
+
+ Round 40
+
+Jun/02 Albacete 0-1 Atl. Madrid
+Jun/02 Getafe 1-2 Ferrol
+Jun/02 Gijon 1-0 CD Badajoz
+Jun/02 Jaen 3-1 Elche
+Jun/02 Leganes 4-0 Cordoba
+Jun/02 Lleida 4-2 Univ. Las Palmas
+Jun/02 Murcia 1-0 Eibar
+Jun/02 Recreativo Huelva 2-0 Compostela
+Jun/02 Salamanca 1-2 CF Extremadura
+Jun/02 Sevilla 1-0 Tenerife
+Jun/01 Levante 3-2 Betis
+
+ Round 39
+
+May/26 Atl. Madrid 1-0 Leganes
+May/26 Betis 1-0 Getafe
+May/26 CD Badajoz 0-0 Albacete
+May/26 CF Extremadura 2-0 Murcia
+May/26 Compostela 1-1 Levante
+May/26 Cordoba 3-0 Lleida
+May/26 Tenerife 1-1 Salamanca
+May/25 Elche 2-0 Eibar
+May/25 Ferrol 2-3 Gijon
+May/25 Jaen 3-1 Recreativo Huelva
+May/25 Univ. Las Palmas 1-3 Sevilla
+
+ Round 38
+
+May/19 Albacete 1-0 Ferrol
+May/19 Eibar 0-0 CF Extremadura
+May/19 Leganes 0-0 CD Badajoz
+May/19 Levante 2-2 Jaen
+May/19 Lleida 1-1 Atl. Madrid
+May/19 Recreativo Huelva 0-0 Elche
+May/19 Salamanca 4-0 Univ. Las Palmas
+May/19 Sevilla 2-0 Cordoba
+May/18 Getafe 0-3 Compostela
+May/18 Gijon 1-2 Betis
+May/18 Murcia 0-1 Tenerife
+
+ Round 37
+
+May/12 Betis 1-2 Albacete
+May/12 CD Badajoz 1-0 Lleida
+May/12 Compostela 1-2 Gijon
+May/12 Cordoba 1-1 Salamanca
+May/12 Elche 3-1 CF Extremadura
+May/12 Ferrol 1-0 Leganes
+May/12 Jaen 3-1 Getafe
+May/12 Recreativo Huelva 1-1 Levante
+May/12 Tenerife 0-0 Eibar
+May/12 Univ. Las Palmas 2-1 Murcia
+May/11 Atl. Madrid 2-0 Sevilla
+
+ Round 36
+
+May/05 Albacete 2-0 Compostela
+May/05 CF Extremadura 1-0 Tenerife
+May/05 Gijon 1-0 Jaen
+May/05 Leganes 1-1 Betis
+May/05 Murcia 0-0 Cordoba
+May/05 Salamanca 1-3 Atl. Madrid
+May/05 Sevilla 5-2 CD Badajoz
+May/04 Eibar 3-0 Univ. Las Palmas
+May/04 Getafe 0-1 Recreativo Huelva
+May/04 Levante 3-3 Elche
+May/04 Lleida 0-1 Ferrol
+
+ Round 35
+
+Apr/28 Cordoba 2-0 Eibar
+Apr/28 Elche 0-2 Tenerife
+Apr/28 Ferrol 1-1 Sevilla
+Apr/28 Jaen 3-0 Albacete
+Apr/28 Levante 3-3 Getafe
+Apr/28 Recreativo Huelva 1-1 Gijon
+Apr/28 Univ. Las Palmas 1-0 CF Extremadura
+Apr/27 Atl. Madrid 0-3 Murcia
+Apr/27 Betis 4-1 Lleida
+Apr/27 CD Badajoz 0-1 Salamanca
+Apr/27 Compostela 1-1 Leganes
+
+ Round 34
+
+Apr/21 Albacete 0-2 Recreativo Huelva
+Apr/21 CF Extremadura 1-0 Cordoba
+Apr/21 Eibar 2-1 Atl. Madrid
+Apr/21 Getafe 1-1 Elche
+Apr/21 Gijon 1-2 Levante
+Apr/21 Lleida 1-2 Compostela
+Apr/21 Murcia 0-0 CD Badajoz
+Apr/21 Salamanca 1-1 Ferrol
+Apr/21 Sevilla 1-1 Betis
+Apr/20 Leganes 0-0 Jaen
+Apr/20 Tenerife 2-0 Univ. Las Palmas
+
+ Round 33
+
+Apr/14 Atl. Madrid 2-0 CF Extremadura
+Apr/14 Betis 2-1 Salamanca
+Apr/14 CD Badajoz 1-0 Eibar
+Apr/14 Elche 0-1 Univ. Las Palmas
+Apr/14 Ferrol 1-1 Murcia
+Apr/14 Getafe 3-1 Gijon
+Apr/14 Jaen 2-1 Lleida
+Apr/14 Levante 0-0 Albacete
+Apr/14 Recreativo Huelva 1-1 Leganes
+Apr/13 Compostela 0-2 Sevilla
+Apr/13 Cordoba 1-0 Tenerife
+
+ Round 32
+
+Apr/07 Albacete 2-1 Getafe
+Apr/07 CF Extremadura 1-0 CD Badajoz
+Apr/07 Eibar 1-1 Ferrol
+Apr/07 Gijon 2-1 Elche
+Apr/07 Leganes 1-0 Levante
+Apr/07 Murcia 1-3 Betis
+Apr/07 Salamanca 1-2 Compostela
+Apr/07 Tenerife 1-2 Atl. Madrid
+Apr/06 Lleida 0-0 Recreativo Huelva
+Apr/06 Sevilla 0-1 Jaen
+Apr/06 Univ. Las Palmas 0-2 Cordoba
+
+ Round 31
+
+Mar/31 Betis 1-0 Eibar
+Mar/31 CD Badajoz 1-2 Tenerife
+Mar/31 Compostela 2-0 Murcia
+Mar/31 Gijon 4-2 Albacete
+Mar/31 Jaen 2-1 Salamanca
+Mar/31 Levante 3-2 Lleida
+Mar/31 Recreativo Huelva 1-1 Sevilla
+Mar/30 Atl. Madrid 2-0 Univ. Las Palmas
+Mar/30 Elche 1-2 Cordoba
+Mar/30 Ferrol 1-1 CF Extremadura
+Mar/30 Getafe 0-1 Leganes
+
+ Round 30
+
+Mar/24 Albacete 2-0 Elche
+Mar/24 CF Extremadura 1-0 Betis
+Mar/24 Eibar 0-0 Compostela
+Mar/24 Leganes 0-1 Gijon
+Mar/24 Lleida 1-2 Getafe
+Mar/24 Murcia 2-2 Jaen
+Mar/24 Salamanca 0-1 Recreativo Huelva
+Mar/24 Sevilla 3-2 Levante
+Mar/24 Tenerife 1-1 Ferrol
+Mar/24 Univ. Las Palmas 1-1 CD Badajoz
+Mar/23 Cordoba 1-1 Atl. Madrid
+
+ Round 29
+
+Mar/17 Albacete 0-0 Leganes
+Mar/17 Betis 0-2 Tenerife
+Mar/17 Compostela 3-2 CF Extremadura
+Mar/17 Ferrol 1-2 Univ. Las Palmas
+Mar/17 Getafe 0-1 Sevilla
+Mar/17 Gijon 1-2 Lleida
+Mar/17 Jaen 1-0 Eibar
+Mar/17 Levante 2-0 Salamanca
+Mar/17 Recreativo Huelva 4-1 Murcia
+Mar/16 CD Badajoz 0-0 Cordoba
+Mar/16 Elche 2-1 Atl. Madrid
+
+ Round 28
+
+Mar/10 CF Extremadura 2-0 Jaen
+Mar/10 Cordoba 0-1 Ferrol
+Mar/10 Eibar 2-1 Recreativo Huelva
+Mar/10 Leganes 2-0 Elche
+Mar/10 Lleida 1-2 Albacete
+Mar/10 Murcia 2-0 Levante
+Mar/10 Salamanca 4-2 Getafe
+Mar/10 Tenerife 4-0 Compostela
+Mar/10 Univ. Las Palmas 1-1 Betis
+Mar/09 Atl. Madrid 2-0 CD Badajoz
+Mar/09 Sevilla 1-1 Gijon
+
+ Round 27
+
+Mar/03 Albacete 2-1 Sevilla
+Mar/03 Elche 0-0 CD Badajoz
+Mar/03 Ferrol 0-2 Atl. Madrid
+Mar/03 Getafe 4-0 Murcia
+Mar/03 Gijon 2-0 Salamanca
+Mar/03 Jaen 0-0 Tenerife
+Mar/03 Leganes 0-0 Lleida
+Mar/03 Recreativo Huelva 3-1 CF Extremadura
+Mar/02 Betis 1-1 Cordoba
+Mar/02 Compostela 0-0 Univ. Las Palmas
+Mar/02 Levante 0-0 Eibar
+
+ Round 26
+
+Feb/24 Atl. Madrid 2-1 Betis
+Feb/24 CD Badajoz 1-0 Ferrol
+Feb/24 CF Extremadura 2-1 Levante
+Feb/24 Cordoba 0-0 Compostela
+Feb/24 Murcia 5-0 Gijon
+Feb/24 Salamanca 1-2 Albacete
+Feb/24 Sevilla 4-2 Leganes
+Feb/24 Univ. Las Palmas 0-0 Jaen
+Feb/23 Eibar 0-0 Getafe
+Feb/23 Lleida 1-1 Elche
+Feb/23 Tenerife 1-1 Recreativo Huelva
+
+ Round 17
+
+Feb/20 Ferrol 3-2 Albacete
+
+ Round 25
+
+Feb/17 Albacete 2-1 Murcia
+Feb/17 Betis 1-1 CD Badajoz
+Feb/17 Elche 2-0 Ferrol
+Feb/17 Getafe 0-1 CF Extremadura
+Feb/17 Gijon 0-0 Eibar
+Feb/17 Leganes 0-1 Salamanca
+Feb/17 Levante 2-0 Tenerife
+Feb/17 Lleida 0-1 Sevilla
+Feb/16 Compostela 2-3 Atl. Madrid
+Feb/16 Jaen 0-0 Cordoba
+Feb/16 Recreativo Huelva 4-1 Univ. Las Palmas
+
+ Round 24
+
+Feb/10 Atl. Madrid 5-0 Jaen
+Feb/10 CD Badajoz 2-1 Compostela
+Feb/10 CF Extremadura 1-2 Gijon
+Feb/10 Cordoba 1-3 Recreativo Huelva
+Feb/10 Eibar 0-0 Albacete
+Feb/10 Ferrol 0-1 Betis
+Feb/10 Murcia 2-2 Leganes
+Feb/10 Salamanca 2-0 Lleida
+Feb/10 Tenerife 3-0 Getafe
+Feb/10 Univ. Las Palmas 2-2 Levante
+Feb/09 Sevilla 1-1 Elche
+
+ Round 23
+
+Feb/03 Albacete 2-1 CF Extremadura
+Feb/03 Compostela 0-5 Ferrol
+Feb/03 Elche 1-1 Betis
+Feb/03 Getafe 0-0 Univ. Las Palmas
+Feb/03 Gijon 0-0 Tenerife
+Feb/03 Jaen 0-0 CD Badajoz
+Feb/03 Leganes 1-1 Eibar
+Feb/03 Levante 2-1 Cordoba
+Feb/03 Lleida 0-1 Murcia
+Feb/03 Sevilla 2-0 Salamanca
+Feb/02 Recreativo Huelva 1-1 Atl. Madrid
+
+ Round 22
+
+Jan/27 CD Badajoz 1-1 Recreativo Huelva
+Jan/27 CF Extremadura 0-3 Leganes
+Jan/27 Cordoba 4-1 Getafe
+Jan/27 Eibar 2-0 Lleida
+Jan/27 Ferrol 1-1 Jaen
+Jan/27 Murcia 1-1 Sevilla
+Jan/27 Salamanca 2-0 Elche
+Jan/27 Tenerife 1-0 Albacete
+Jan/27 Univ. Las Palmas 0-2 Gijon
+Jan/26 Atl. Madrid 1-1 Levante
+Jan/26 Betis 2-0 Compostela
+
+ Round 21
+
+Jan/20 Betis 1-0 Jaen
+Jan/20 CD Badajoz 1-1 Levante
+Jan/20 CF Extremadura 0-0 Lleida
+Jan/20 Cordoba 2-0 Gijon
+Jan/20 Ferrol 1-0 Recreativo Huelva
+Jan/20 Murcia 1-2 Salamanca
+Jan/20 Tenerife 3-2 Leganes
+Jan/19 Atl. Madrid 2-1 Getafe
+Jan/19 Compostela 1-1 Elche
+Jan/19 Eibar 1-0 Sevilla
+Jan/19 Univ. Las Palmas 1-0 Albacete
+
+ Round 20
+
+Jan/13 Albacete 0-0 Cordoba
+Jan/13 Elche 1-1 Murcia
+Jan/13 Getafe 2-1 CD Badajoz
+Jan/13 Gijon 1-0 Atl. Madrid
+Jan/13 Jaen 1-1 Compostela
+Jan/13 Leganes 1-1 Univ. Las Palmas
+Jan/13 Levante 0-0 Ferrol
+Jan/13 Recreativo Huelva 1-1 Betis
+Jan/13 Salamanca 0-2 Eibar
+Jan/12 Lleida 1-1 Tenerife
+Jan/12 Sevilla 3-0 CF Extremadura
+
+ Round 19
+
+Jan/06 Atl. Madrid 0-0 Albacete
+Jan/06 CD Badajoz 2-0 Gijon
+Jan/06 CF Extremadura 0-1 Salamanca
+Jan/06 Compostela 2-0 Recreativo Huelva
+Jan/06 Cordoba 1-1 Leganes
+Jan/06 Eibar 0-1 Murcia
+Jan/06 Elche 0-0 Jaen
+Jan/06 Ferrol 2-1 Getafe
+Jan/06 Tenerife 1-2 Sevilla
+Jan/06 Univ. Las Palmas 0-0 Lleida
+Jan/05 Betis 1-0 Levante
+
+ Round 18
+
+Dec/20 Leganes 1-2 Atl. Madrid
+Dec/19 Albacete 1-1 CD Badajoz
+Dec/19 Eibar 2-1 Elche
+Dec/19 Getafe 0-2 Betis
+Dec/19 Gijon 1-1 Ferrol
+Dec/19 Levante 0-2 Compostela
+Dec/19 Lleida 2-0 Cordoba
+Dec/19 Murcia 1-3 CF Extremadura
+Dec/19 Recreativo Huelva 2-0 Jaen
+Dec/19 Salamanca 3-1 Tenerife
+Dec/19 Sevilla 2-2 Univ. Las Palmas
+
+ Round 17
+
+Dec/16 Atl. Madrid 3-2 Lleida
+Dec/16 Betis 1-0 Gijon
+Dec/16 CD Badajoz 1-0 Leganes
+Dec/16 CF Extremadura 2-0 Eibar
+Dec/16 Compostela 1-1 Getafe
+Dec/16 Cordoba 0-1 Sevilla
+Dec/16 Elche 0-1 Recreativo Huelva
+Dec/15 Jaen 0-1 Levante
+Dec/15 Tenerife 1-0 Murcia
+Dec/15 Univ. Las Palmas 1-3 Salamanca
+
+ Round 16
+
+Dec/09 Albacete 0-0 Betis
+Dec/09 Gijon 5-2 Compostela
+Dec/09 Leganes 1-1 Ferrol
+Dec/09 Levante 1-1 Recreativo Huelva
+Dec/09 Murcia 1-1 Univ. Las Palmas
+Dec/09 Sevilla 3-1 Atl. Madrid
+Dec/08 CF Extremadura 1-2 Elche
+Dec/08 Eibar 2-2 Tenerife
+Dec/08 Getafe 0-1 Jaen
+Dec/08 Lleida 1-1 CD Badajoz
+Dec/08 Salamanca 1-1 Cordoba
+
+ Round 15
+
+Dec/02 Betis 2-1 Leganes
+Dec/02 CD Badajoz 2-0 Sevilla
+Dec/02 Compostela 0-2 Albacete
+Dec/02 Cordoba 1-3 Murcia
+Dec/02 Jaen 0-2 Gijon
+Dec/02 Tenerife 0-2 CF Extremadura
+Dec/01 Atl. Madrid 3-0 Salamanca
+Dec/01 Elche 1-1 Levante
+Dec/01 Ferrol 3-1 Lleida
+Dec/01 Recreativo Huelva 0-0 Getafe
+Dec/01 Univ. Las Palmas 0-0 Eibar
+
+ Round 14
+
+Nov/25 Albacete 2-1 Jaen
+Nov/25 Eibar 3-0 Cordoba
+Nov/25 Getafe 1-2 Levante
+Nov/25 Gijon 0-1 Recreativo Huelva
+Nov/25 Leganes 3-0 Compostela
+Nov/25 Murcia 1-1 Atl. Madrid
+Nov/25 Salamanca 1-1 CD Badajoz
+Nov/25 Sevilla 3-0 Ferrol
+Nov/25 Tenerife 3-1 Elche
+Nov/24 CF Extremadura 2-1 Univ. Las Palmas
+Nov/24 Lleida 0-1 Betis
+
+ Round 13
+
+Nov/18 Betis 1-3 Sevilla
+Nov/18 CD Badajoz 1-1 Murcia
+Nov/18 Compostela 2-1 Lleida
+Nov/18 Cordoba 2-0 CF Extremadura
+Nov/18 Elche 1-4 Getafe
+Nov/18 Ferrol 0-1 Salamanca
+Nov/18 Jaen 0-0 Leganes
+Nov/18 Levante 1-1 Gijon
+Nov/17 Atl. Madrid 1-1 Eibar
+Nov/17 Recreativo Huelva 1-0 Albacete
+Nov/17 Univ. Las Palmas 0-1 Tenerife
+
+ Round 12
+
+Nov/11 Albacete 1-1 Levante
+Nov/11 Eibar 0-1 CD Badajoz
+Nov/11 Gijon 3-1 Getafe
+Nov/11 Leganes 1-1 Recreativo Huelva
+Nov/11 Lleida 5-2 Jaen
+Nov/11 Murcia 1-1 Ferrol
+Nov/11 Salamanca 1-0 Betis
+Nov/11 Sevilla 4-0 Compostela
+Nov/11 Tenerife 3-0 Cordoba
+Nov/10 CF Extremadura 0-1 Atl. Madrid
+Nov/10 Univ. Las Palmas 2-2 Elche
+
+ Round 11
+
+Nov/04 Atl. Madrid 1-2 Tenerife
+Nov/04 Betis 2-1 Murcia
+Nov/04 CD Badajoz 1-1 CF Extremadura
+Nov/04 Compostela 2-1 Salamanca
+Nov/04 Cordoba 2-1 Univ. Las Palmas
+Nov/04 Elche 2-2 Gijon
+Nov/04 Ferrol 0-1 Eibar
+Nov/04 Getafe 1-1 Albacete
+Nov/04 Levante 0-2 Leganes
+Nov/04 Recreativo Huelva 1-1 Lleida
+Nov/03 Jaen 2-1 Sevilla
+
+ Round 10
+
+Oct/31 Albacete 3-1 Gijon
+Oct/31 CF Extremadura 1-0 Ferrol
+Oct/31 Cordoba 0-1 Elche
+Oct/31 Eibar 0-0 Betis
+Oct/31 Leganes 2-3 Getafe
+Oct/31 Lleida 3-3 Levante
+Oct/31 Murcia 2-0 Compostela
+Oct/31 Salamanca 1-0 Jaen
+Oct/31 Sevilla 0-0 Recreativo Huelva
+Oct/31 Tenerife 3-0 CD Badajoz
+Oct/31 Univ. Las Palmas 2-1 Atl. Madrid
+
+ Round 9
+
+Oct/28 Atl. Madrid 1-1 Cordoba
+Oct/28 Betis 1-0 CF Extremadura
+Oct/28 Elche 0-1 Albacete
+Oct/28 Getafe 2-1 Lleida
+Oct/28 Gijon 2-2 Leganes
+Oct/28 Jaen 2-1 Murcia
+Oct/27 CD Badajoz 3-1 Univ. Las Palmas
+Oct/27 Compostela 2-1 Eibar
+Oct/27 Ferrol 1-2 Tenerife
+Oct/27 Levante 2-0 Sevilla
+Oct/27 Recreativo Huelva 0-0 Salamanca
+
+ Round 8
+
+Oct/21 CF Extremadura 3-2 Compostela
+Oct/21 Cordoba 2-0 CD Badajoz
+Oct/21 Eibar 1-0 Jaen
+Oct/21 Leganes 0-0 Albacete
+Oct/21 Lleida 0-1 Gijon
+Oct/21 Murcia 2-0 Recreativo Huelva
+Oct/21 Salamanca 1-1 Levante
+Oct/21 Sevilla 1-1 Getafe
+Oct/20 Atl. Madrid 2-0 Elche
+Oct/20 Tenerife 0-1 Betis
+Oct/20 Univ. Las Palmas 1-3 Ferrol
+
+ Round 7
+
+Oct/14 Albacete 2-1 Lleida
+Oct/14 Compostela 0-2 Tenerife
+Oct/14 Elche 1-1 Leganes
+Oct/14 Ferrol 0-2 Cordoba
+Oct/14 Getafe 1-2 Salamanca
+Oct/14 Gijon 3-0 Sevilla
+Oct/14 Jaen 0-0 CF Extremadura
+Oct/14 Levante 2-3 Murcia
+Oct/14 Recreativo Huelva 3-0 Eibar
+Oct/13 Betis 2-0 Univ. Las Palmas
+Oct/13 CD Badajoz 0-0 Atl. Madrid
+
+ Round 6
+
+Oct/07 Atl. Madrid 1-1 Ferrol
+Oct/07 CD Badajoz 1-1 Elche
+Oct/07 CF Extremadura 1-1 Recreativo Huelva
+Oct/07 Lleida 1-0 Leganes
+Oct/07 Murcia 2-1 Getafe
+Oct/07 Salamanca 2-1 Gijon
+Oct/07 Sevilla 1-0 Albacete
+Oct/07 Tenerife 1-1 Jaen
+Oct/07 Univ. Las Palmas 1-1 Compostela
+Oct/06 Cordoba 1-0 Betis
+Oct/06 Eibar 0-0 Levante
+
+ Round 5
+
+Sep/30 Albacete 1-0 Salamanca
+Sep/30 Betis 1-1 Atl. Madrid
+Sep/30 Compostela 0-1 Cordoba
+Sep/30 Getafe 0-0 Eibar
+Sep/30 Gijon 2-2 Murcia
+Sep/30 Jaen 1-0 Univ. Las Palmas
+Sep/30 Levante 1-0 CF Extremadura
+Sep/29 Elche 2-1 Lleida
+Sep/29 Ferrol 2-2 CD Badajoz
+Sep/29 Leganes 1-1 Sevilla
+Sep/29 Recreativo Huelva 0-0 Tenerife
+
+ Round 4
+
+Sep/23 CD Badajoz 0-0 Betis
+Sep/23 CF Extremadura 1-0 Getafe
+Sep/23 Eibar 0-0 Gijon
+Sep/23 Murcia 2-0 Albacete
+Sep/23 Salamanca 1-1 Leganes
+Sep/23 Sevilla 2-0 Lleida
+Sep/23 Univ. Las Palmas 0-0 Recreativo Huelva
+Sep/22 Atl. Madrid 2-0 Compostela
+Sep/22 Cordoba 1-0 Jaen
+Sep/22 Ferrol 2-1 Elche
+Sep/22 Tenerife 1-1 Levante
+
+ Round 3
+
+Sep/16 Betis 2-1 Ferrol
+Sep/16 Compostela 0-1 CD Badajoz
+Sep/16 Getafe 0-5 Tenerife
+Sep/16 Gijon 2-0 CF Extremadura
+Sep/16 Jaen 1-0 Atl. Madrid
+Sep/16 Leganes 3-2 Murcia
+Sep/16 Levante 2-0 Univ. Las Palmas
+Sep/16 Lleida 0-3 Salamanca
+Sep/16 Recreativo Huelva 1-0 Cordoba
+Sep/15 Albacete 1-3 Eibar
+Sep/15 Elche 1-2 Sevilla
+
+ Round 2
+
+Sep/09 Betis 1-2 Elche
+Sep/09 CD Badajoz 0-1 Jaen
+Sep/09 CF Extremadura 1-1 Albacete
+Sep/09 Cordoba 1-1 Levante
+Sep/09 Eibar 0-1 Leganes
+Sep/09 Ferrol 1-3 Compostela
+Sep/09 Murcia 0-0 Lleida
+Sep/09 Salamanca 0-1 Sevilla
+Sep/09 Tenerife 1-0 Gijon
+Sep/08 Atl. Madrid 0-1 Recreativo Huelva
+Sep/08 Univ. Las Palmas 0-1 Getafe
+
+ Round 1
+
+Sep/02 Compostela 0-0 Betis
+Sep/02 Elche 2-0 Salamanca
+Sep/02 Gijon 0-0 Univ. Las Palmas
+Sep/02 Jaen 1-0 Ferrol
+Sep/02 Leganes 1-1 CF Extremadura
+Sep/02 Levante 4-1 Atl. Madrid
+Sep/02 Recreativo Huelva 0-0 CD Badajoz
+Sep/02 Sevilla 2-1 Murcia
+Sep/01 Albacete 1-0 Tenerife
+Sep/01 Getafe 0-0 Cordoba
+Sep/01 Lleida 0-0 Eibar

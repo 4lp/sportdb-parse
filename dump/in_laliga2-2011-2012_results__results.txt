@@ -1,0 +1,603 @@
+
+ Final
+
+Jun/16 Valladolid 1-1 Alcorcon
+Jun/13 Alcorcon 0-1 Valladolid
+
+ Semi-finals
+
+Jun/10 Alcorcon 0-0 Hercules
+Jun/10 Valladolid 3-0 Cordoba
+Jun/06 Cordoba 0-0 Valladolid
+Jun/06 Hercules 1-1 Alcorcon
+
+ Round 42
+
+Jun/03 Almeria 1-0 Alcoyano
+Jun/03 Celta Vigo 0-0 Cordoba
+Jun/03 Elche 1-0 Gimnastic
+Jun/03 Huesca 1-2 Hercules
+Jun/03 Numancia 0-1 Alcorcon
+Jun/03 Valladolid 1-3 Guadalajara
+Jun/03 Villarreal B 0-1 Dep. La Coruna
+Jun/03 Xerez CD 0-6 Barcelona B
+Jun/02 Las Palmas 3-2 Sabadell
+Jun/02 Murcia 1-2 Girona
+Jun/02 Recreativo Huelva 1-2 Cartagena
+
+ Round 41
+
+May/27 Alcorcon 2-2 Valladolid
+May/27 Alcoyano 4-0 Elche
+May/27 Cartagena 6-2 Villarreal B
+May/27 Cordoba 2-1 Murcia
+May/27 Dep. La Coruna 2-1 Huesca
+May/27 Gimnastic 1-2 Celta Vigo
+May/27 Girona 0-0 Recreativo Huelva
+May/27 Guadalajara 0-1 Almeria
+May/27 Hercules 2-2 Xerez CD
+May/27 Sabadell 1-3 Numancia
+May/26 Barcelona B 2-0 Las Palmas
+
+ Round 30
+
+May/24 Valladolid 1-0 Recreativo Huelva
+May/24 Almeria 2-0 Numancia
+May/23 Gimnastic 1-2 Dep. La Coruna
+May/23 Alcorcon 1-0 Sabadell
+May/23 Alcoyano 0-5 Hercules
+May/23 Celta Vigo 4-1 Xerez CD
+May/23 Elche 1-2 Las Palmas
+May/23 Guadalajara 2-0 Barcelona B
+May/23 Murcia 0-1 Huesca
+May/22 Cordoba 2-0 Cartagena
+May/22 Girona 2-1 Villarreal B
+
+ Round 40
+
+May/20 Valladolid 2-0 Sabadell
+May/20 Xerez CD 3-2 Dep. La Coruna
+May/20 Murcia 2-2 Gimnastic
+May/20 Numancia 3-0 Barcelona B
+May/19 Almeria 2-0 Alcorcon
+May/19 Celta Vigo 4-0 Alcoyano
+May/19 Elche 2-3 Guadalajara
+May/19 Girona 3-1 Cordoba
+May/19 Huesca 1-0 Cartagena
+May/19 Las Palmas 2-0 Hercules
+May/19 Villarreal B 2-0 Recreativo Huelva
+
+ Round 39
+
+May/16 Barcelona B 1-2 Valladolid
+May/16 Cartagena 0-0 Xerez CD
+May/16 Villarreal B 4-2 Huesca
+May/16 Alcorcon 3-1 Elche
+May/16 Alcoyano 1-3 Murcia
+May/16 Dep. La Coruna 3-1 Las Palmas
+May/16 Gimnastic 1-1 Girona
+May/16 Hercules 1-3 Numancia
+May/16 Recreativo Huelva 0-1 Cordoba
+May/16 Sabadell 2-1 Almeria
+May/16 Guadalajara 0-3 Celta Vigo
+
+ Round 38
+
+May/13 Elche 1-1 Sabadell
+May/13 Xerez CD 0-1 Villarreal B
+May/13 Valladolid 1-1 Hercules
+May/12 Celta Vigo 3-0 Alcorcon
+May/12 Girona 5-1 Alcoyano
+May/12 Huesca 0-2 Recreativo Huelva
+May/12 Murcia 2-2 Guadalajara
+May/12 Numancia 0-3 Dep. La Coruna
+May/12 Almeria 1-2 Barcelona B
+May/11 Las Palmas 1-2 Cartagena
+May/11 Cordoba 4-2 Gimnastic
+
+ Round 33
+
+May/08 Cartagena 1-1 Celta Vigo
+
+ Round 37
+
+May/06 Dep. La Coruna 1-1 Valladolid
+May/06 Recreativo Huelva 2-2 Gimnastic
+May/05 Alcorcon 3-0 Murcia
+May/05 Barcelona B 0-1 Elche
+May/05 Guadalajara 1-4 Girona
+May/05 Hercules 0-0 Almeria
+May/05 Huesca 2-1 Xerez CD
+May/05 Sabadell 1-2 Celta Vigo
+May/05 Villarreal B 1-4 Las Palmas
+May/05 Cartagena 2-1 Numancia
+May/04 Alcoyano 3-3 Cordoba
+
+ Round 36
+
+Apr/29 Xerez CD 3-1 Recreativo Huelva
+Apr/29 Elche 0-3 Hercules
+Apr/28 Celta Vigo 4-1 Barcelona B
+Apr/28 Almeria 2-0 Dep. La Coruna
+Apr/28 Gimnastic 2-0 Alcoyano
+Apr/28 Girona 0-0 Alcorcon
+Apr/28 Las Palmas 1-3 Huesca
+Apr/28 Murcia 1-0 Sabadell
+Apr/28 Numancia 0-1 Villarreal B
+Apr/28 Valladolid 2-1 Cartagena
+Apr/27 Cordoba 3-2 Guadalajara
+
+ Round 35
+
+Apr/22 Barcelona B 1-0 Murcia
+Apr/22 Dep. La Coruna 4-3 Elche
+Apr/21 Alcorcon 2-0 Cordoba
+Apr/21 Guadalajara 1-0 Gimnastic
+Apr/21 Hercules 1-0 Celta Vigo
+Apr/21 Huesca 2-1 Numancia
+Apr/21 Sabadell 2-3 Girona
+Apr/21 Xerez CD 2-0 Las Palmas
+Apr/21 Recreativo Huelva 1-3 Alcoyano
+Apr/21 Cartagena 1-1 Almeria
+Apr/20 Villarreal B 0-1 Valladolid
+
+ Round 34
+
+Apr/15 Gimnastic 0-2 Alcorcon
+Apr/15 Celta Vigo 2-3 Dep. La Coruna
+Apr/14 Las Palmas 0-0 Recreativo Huelva
+Apr/14 Alcoyano 0-1 Guadalajara
+Apr/14 Cordoba 0-0 Sabadell
+Apr/14 Girona 1-1 Barcelona B
+Apr/14 Murcia 2-6 Hercules
+Apr/14 Numancia 2-2 Xerez CD
+Apr/14 Valladolid 3-0 Huesca
+Apr/14 Elche 2-1 Cartagena
+Apr/13 Almeria 0-0 Villarreal B
+
+ Round 33
+
+Apr/08 Barcelona B 2-0 Cordoba
+Apr/08 Dep. La Coruna 3-1 Murcia
+Apr/07 Las Palmas 1-1 Numancia
+Apr/07 Alcorcon 2-1 Alcoyano
+Apr/07 Huesca 1-0 Almeria
+Apr/07 Recreativo Huelva 4-2 Guadalajara
+Apr/07 Sabadell 1-0 Gimnastic
+Apr/07 Villarreal B 2-0 Elche
+Apr/07 Xerez CD 0-4 Valladolid
+Apr/06 Hercules 4-2 Girona
+
+ Round 32
+
+Apr/01 Celta Vigo 2-0 Villarreal B
+Apr/01 Cordoba 3-1 Hercules
+Mar/31 Alcoyano 2-1 Sabadell
+Mar/31 Almeria 1-1 Xerez CD
+Mar/31 Elche 1-2 Huesca
+Mar/31 Gimnastic 1-1 Barcelona B
+Mar/31 Guadalajara 1-2 Alcorcon
+Mar/31 Murcia 2-1 Cartagena
+Mar/31 Valladolid 2-1 Las Palmas
+Mar/31 Girona 1-0 Dep. La Coruna
+Mar/30 Numancia 1-0 Recreativo Huelva
+
+ Round 31
+
+Mar/25 Dep. La Coruna 2-0 Cordoba
+Mar/25 Barcelona B 2-1 Alcoyano
+Mar/25 Numancia 1-4 Valladolid
+Mar/24 Las Palmas 2-2 Almeria
+Mar/24 Cartagena 1-1 Girona
+Mar/24 Huesca 1-1 Celta Vigo
+Mar/24 Recreativo Huelva 1-2 Alcorcon
+Mar/24 Sabadell 2-2 Guadalajara
+Mar/24 Xerez CD 0-0 Elche
+Mar/24 Hercules 1-3 Gimnastic
+Mar/23 Villarreal B 2-0 Murcia
+
+ Round 29
+
+Mar/18 Barcelona B 3-2 Alcorcon
+Mar/18 Valladolid 1-1 Almeria
+Mar/17 Cartagena 1-3 Gimnastic
+Mar/17 Hercules 5-0 Guadalajara
+Mar/17 Huesca 2-1 Girona
+Mar/17 Las Palmas 3-1 Celta Vigo
+Mar/17 Numancia 3-0 Elche
+Mar/17 Recreativo Huelva 1-1 Sabadell
+Mar/17 Xerez CD 3-1 Murcia
+Mar/17 Dep. La Coruna 3-0 Alcoyano
+Mar/16 Villarreal B 1-1 Cordoba
+
+ Round 28
+
+Mar/11 Alcoyano 2-2 Cartagena
+Mar/11 Elche 1-2 Valladolid
+Mar/10 Alcorcon 1-0 Hercules
+Mar/10 Almeria 2-2 Recreativo Huelva
+Mar/10 Cordoba 3-1 Huesca
+Mar/10 Gimnastic 0-1 Villarreal B
+Mar/10 Guadalajara 1-2 Dep. La Coruna
+Mar/10 Murcia 1-2 Las Palmas
+Mar/10 Sabadell 0-0 Barcelona B
+Mar/10 Girona 5-3 Xerez CD
+Mar/09 Celta Vigo 5-0 Numancia
+
+ Round 27
+
+Mar/04 Recreativo Huelva 0-0 Barcelona B
+Mar/04 Almeria 0-2 Elche
+Mar/03 Las Palmas 3-2 Girona
+Mar/03 Cartagena 0-2 Guadalajara
+Mar/03 Huesca 0-0 Gimnastic
+Mar/03 Numancia 1-0 Murcia
+Mar/03 Valladolid 1-2 Celta Vigo
+Mar/03 Villarreal B 4-3 Alcoyano
+Mar/03 Xerez CD 1-2 Cordoba
+Mar/03 Hercules 1-0 Sabadell
+Mar/02 Dep. La Coruna 2-1 Alcorcon
+
+ Round 26
+
+Feb/26 Cordoba 1-0 Las Palmas
+Feb/26 Celta Vigo 4-3 Almeria
+Feb/25 Alcorcon 1-0 Cartagena
+Feb/25 Alcoyano 0-3 Huesca
+Feb/25 Elche 0-3 Recreativo Huelva
+Feb/25 Gimnastic 0-1 Xerez CD
+Feb/25 Girona 2-0 Numancia
+Feb/25 Guadalajara 0-2 Villarreal B
+Feb/25 Sabadell 1-0 Dep. La Coruna
+Feb/25 Murcia 2-0 Valladolid
+Feb/24 Barcelona B 0-1 Hercules
+
+ Round 25
+
+Feb/19 Recreativo Huelva 1-0 Hercules
+Feb/19 Las Palmas 1-0 Gimnastic
+Feb/19 Elche 0-2 Celta Vigo
+Feb/18 Almeria 4-2 Murcia
+Feb/18 Cartagena 1-0 Sabadell
+Feb/18 Dep. La Coruna 2-1 Barcelona B
+Feb/18 Huesca 2-1 Guadalajara
+Feb/18 Villarreal B 0-3 Alcorcon
+Feb/18 Xerez CD 1-0 Alcoyano
+Feb/18 Valladolid 1-0 Girona
+Feb/17 Numancia 5-0 Cordoba
+
+ Round 24
+
+Feb/12 Girona 0-1 Almeria
+Feb/12 Hercules 1-4 Dep. La Coruna
+Feb/11 Alcorcon 2-0 Huesca
+Feb/11 Alcoyano 2-0 Las Palmas
+Feb/11 Barcelona B 4-0 Cartagena
+Feb/11 Cordoba 2-0 Valladolid
+Feb/11 Gimnastic 1-1 Numancia
+Feb/11 Guadalajara 1-2 Xerez CD
+Feb/11 Sabadell 3-1 Villarreal B
+Feb/11 Murcia 0-2 Elche
+Feb/10 Celta Vigo 4-1 Recreativo Huelva
+
+ Round 23
+
+Feb/05 Valladolid 4-0 Gimnastic
+Feb/05 Cartagena 0-3 Hercules
+Feb/04 Las Palmas 3-2 Guadalajara
+Feb/04 Almeria 2-1 Cordoba
+Feb/04 Celta Vigo 1-0 Murcia
+Feb/04 Elche 1-0 Girona
+Feb/04 Huesca 0-0 Sabadell
+Feb/04 Numancia 2-0 Alcoyano
+Feb/04 Xerez CD 2-2 Alcorcon
+Feb/04 Recreativo Huelva 0-1 Dep. La Coruna
+Feb/03 Villarreal B 0-0 Barcelona B
+
+ Round 22
+
+Jan/29 Gimnastic 1-2 Almeria
+Jan/29 Dep. La Coruna 2-1 Cartagena
+Jan/29 Cordoba 2-0 Elche
+Jan/28 Alcorcon 3-1 Las Palmas
+Jan/28 Barcelona B 4-2 Huesca
+Jan/28 Girona 0-1 Celta Vigo
+Jan/28 Guadalajara 1-0 Numancia
+Jan/28 Hercules 0-2 Villarreal B
+Jan/28 Murcia 0-3 Recreativo Huelva
+Jan/28 Sabadell 2-0 Xerez CD
+Jan/28 Alcoyano 0-1 Valladolid
+
+ Round 21
+
+Jan/22 Barcelona B 2-0 Xerez CD
+Jan/22 Cordoba 0-0 Celta Vigo
+Jan/21 Alcorcon 2-2 Numancia
+Jan/21 Cartagena 3-1 Recreativo Huelva
+Jan/21 Gimnastic 1-0 Elche
+Jan/21 Girona 1-1 Murcia
+Jan/21 Guadalajara 0-3 Valladolid
+Jan/21 Hercules 2-0 Huesca
+Jan/21 Sabadell 1-1 Las Palmas
+Jan/21 Dep. La Coruna 1-0 Villarreal B
+Jan/20 Alcoyano 2-2 Almeria
+
+ Round 20
+
+Jan/15 Numancia 2-1 Sabadell
+Jan/15 Xerez CD 2-1 Hercules
+Jan/15 Huesca 0-2 Dep. La Coruna
+Jan/14 Elche 1-2 Alcoyano
+Jan/14 Las Palmas 3-1 Barcelona B
+Jan/14 Murcia 2-1 Cordoba
+Jan/14 Recreativo Huelva 3-0 Girona
+Jan/14 Valladolid 1-1 Alcorcon
+Jan/14 Villarreal B 0-0 Cartagena
+Jan/14 Almeria 4-0 Guadalajara
+Jan/13 Celta Vigo 1-0 Gimnastic
+
+ Round 19
+
+Jan/08 Cordoba 1-0 Girona
+Jan/08 Alcorcon 1-1 Almeria
+Jan/07 Cartagena 2-0 Huesca
+Jan/07 Dep. La Coruna 2-1 Xerez CD
+Jan/07 Gimnastic 0-2 Murcia
+Jan/07 Guadalajara 2-4 Elche
+Jan/07 Hercules 2-1 Las Palmas
+Jan/07 Recreativo Huelva 3-1 Villarreal B
+Jan/07 Sabadell 1-4 Valladolid
+Jan/07 Barcelona B 1-1 Numancia
+Jan/06 Alcoyano 0-3 Celta Vigo
+
+ Round 18
+
+Dec/18 Almeria 3-0 Sabadell
+Dec/18 Las Palmas 0-1 Dep. La Coruna
+Dec/17 Celta Vigo 2-0 Guadalajara
+Dec/17 Cordoba 0-0 Recreativo Huelva
+Dec/17 Girona 3-2 Gimnastic
+Dec/17 Huesca 1-0 Villarreal B
+Dec/17 Murcia 3-2 Alcoyano
+Dec/17 Numancia 2-1 Hercules
+Dec/17 Xerez CD 3-0 Cartagena
+Dec/17 Valladolid 1-0 Barcelona B
+Dec/16 Elche 6-0 Alcorcon
+
+ Round 17
+
+Dec/11 Guadalajara 2-1 Murcia
+Dec/11 Hercules 2-2 Valladolid
+Dec/10 Alcorcon 0-0 Celta Vigo
+Dec/10 Alcoyano 2-1 Girona
+Dec/10 Cartagena 0-0 Las Palmas
+Dec/10 Dep. La Coruna 3-1 Numancia
+Dec/10 Gimnastic 0-0 Cordoba
+Dec/10 Recreativo Huelva 1-1 Huesca
+Dec/10 Villarreal B 3-1 Xerez CD
+Dec/10 Sabadell 0-0 Elche
+Dec/09 Barcelona B 3-3 Almeria
+
+ Round 16
+
+Dec/04 Valladolid 0-0 Dep. La Coruna
+Dec/04 Cordoba 3-0 Alcoyano
+Dec/03 Almeria 1-1 Hercules
+Dec/03 Celta Vigo 4-1 Sabadell
+Dec/03 Gimnastic 1-2 Recreativo Huelva
+Dec/03 Girona 0-0 Guadalajara
+Dec/03 Murcia 0-2 Alcorcon
+Dec/03 Numancia 0-0 Cartagena
+Dec/03 Xerez CD 1-3 Huesca
+Dec/03 Elche 3-0 Barcelona B
+Dec/02 Las Palmas 3-1 Villarreal B
+
+ Round 15
+
+Nov/27 Sabadell 2-2 Murcia
+Nov/27 Hercules 1-2 Elche
+Nov/26 Alcorcon 1-0 Girona
+Nov/26 Alcoyano 0-0 Gimnastic
+Nov/26 Barcelona B 2-1 Celta Vigo
+Nov/26 Cartagena 0-0 Valladolid
+Nov/26 Huesca 2-0 Las Palmas
+Nov/26 Recreativo Huelva 1-2 Xerez CD
+Nov/26 Villarreal B 0-0 Numancia
+Nov/26 Guadalajara 3-1 Cordoba
+Nov/25 Dep. La Coruna 3-1 Almeria
+
+ Round 14
+
+Nov/20 Almeria 0-0 Cartagena
+Nov/20 Elche 3-2 Dep. La Coruna
+Nov/19 Las Palmas 0-0 Xerez CD
+Nov/19 Alcoyano 2-1 Recreativo Huelva
+Nov/19 Celta Vigo 0-1 Hercules
+Nov/19 Cordoba 3-1 Alcorcon
+Nov/19 Girona 1-1 Sabadell
+Nov/19 Murcia 0-2 Barcelona B
+Nov/19 Numancia 1-1 Huesca
+Nov/19 Valladolid 2-1 Villarreal B
+Nov/18 Gimnastic 0-0 Guadalajara
+
+ Round 13
+
+Nov/13 Dep. La Coruna 2-1 Celta Vigo
+Nov/13 Recreativo Huelva 4-2 Las Palmas
+Nov/13 Villarreal B 2-1 Almeria
+Nov/13 Guadalajara 1-1 Alcoyano
+Nov/12 Sabadell 0-3 Cordoba
+Nov/12 Alcorcon 0-1 Gimnastic
+Nov/12 Barcelona B 2-2 Girona
+Nov/12 Cartagena 1-1 Elche
+Nov/12 Hercules 0-1 Murcia
+Nov/12 Xerez CD 1-2 Numancia
+Nov/12 Huesca 2-2 Valladolid
+
+ Round 12
+
+Nov/07 Murcia 0-0 Dep. La Coruna
+Nov/06 Gimnastic 5-0 Sabadell
+Nov/05 Alcoyano 0-0 Alcorcon
+Nov/05 Almeria 2-1 Huesca
+Nov/05 Celta Vigo 1-0 Cartagena
+Nov/05 Elche 3-0 Villarreal B
+Nov/05 Girona 1-0 Hercules
+Nov/05 Guadalajara 0-2 Recreativo Huelva
+Nov/05 Numancia 3-2 Las Palmas
+Nov/05 Valladolid 2-1 Xerez CD
+Nov/04 Cordoba 1-1 Barcelona B
+
+ Round 11
+
+Oct/30 Dep. La Coruna 3-2 Girona
+Oct/30 Villarreal B 2-3 Celta Vigo
+Oct/30 Cartagena 1-2 Murcia
+Oct/29 Las Palmas 1-0 Valladolid
+Oct/29 Alcorcon 1-0 Guadalajara
+Oct/29 Barcelona B 1-0 Gimnastic
+Oct/29 Huesca 0-1 Elche
+Oct/29 Recreativo Huelva 1-1 Numancia
+Oct/29 Sabadell 2-2 Alcoyano
+Oct/29 Xerez CD 0-1 Almeria
+Oct/29 Hercules 1-0 Cordoba
+
+ Round 1
+
+Oct/27 Cartagena 2-1 Dep. La Coruna
+Oct/26 Las Palmas 2-0 Alcorcon
+Oct/26 Huesca 0-1 Barcelona B
+Oct/26 Numancia 4-0 Guadalajara
+Oct/26 Recreativo Huelva 0-2 Murcia
+Oct/26 Xerez CD 2-2 Sabadell
+Oct/26 Elche 0-1 Cordoba
+Oct/26 Almeria 3-1 Gimnastic
+Oct/25 Celta Vigo 2-0 Girona
+Oct/25 Villarreal B 0-1 Hercules
+Oct/25 Valladolid 2-0 Alcoyano
+
+ Round 10
+
+Oct/23 Almeria 1-1 Las Palmas
+Oct/23 Elche 1-0 Xerez CD
+Oct/22 Alcorcon 2-1 Recreativo Huelva
+Oct/22 Alcoyano 1-4 Barcelona B
+Oct/22 Celta Vigo 4-0 Huesca
+Oct/22 Cordoba 0-2 Dep. La Coruna
+Oct/22 Gimnastic 0-1 Hercules
+Oct/22 Girona 0-2 Cartagena
+Oct/22 Murcia 3-1 Villarreal B
+Oct/22 Valladolid 2-1 Numancia
+Oct/21 Guadalajara 1-0 Sabadell
+
+ Round 9
+
+Oct/16 Xerez CD 3-3 Celta Vigo
+Oct/16 Barcelona B 1-2 Guadalajara
+Oct/15 Las Palmas 1-1 Elche
+Oct/15 Cartagena 0-0 Cordoba
+Oct/15 Hercules 1-0 Alcoyano
+Oct/15 Huesca 2-2 Murcia
+Oct/15 Numancia 1-0 Almeria
+Oct/15 Recreativo Huelva 1-1 Valladolid
+Oct/15 Sabadell 1-0 Alcorcon
+Oct/15 Dep. La Coruna 2-2 Gimnastic
+Oct/14 Villarreal B 2-2 Girona
+
+ Round 8
+
+Oct/10 Sabadell 1-0 Recreativo Huelva
+Oct/09 Cordoba 1-1 Villarreal B
+Oct/09 Almeria 1-1 Valladolid
+Oct/09 Gimnastic 0-0 Cartagena
+Oct/09 Guadalajara 1-2 Hercules
+Oct/08 Alcoyano 2-0 Dep. La Coruna
+Oct/08 Elche 2-2 Numancia
+Oct/08 Alcorcon 2-2 Barcelona B
+Oct/08 Celta Vigo 1-2 Las Palmas
+Oct/08 Girona 1-1 Huesca
+Oct/08 Murcia 0-0 Xerez CD
+
+ Round 7
+
+Oct/03 Xerez CD 2-1 Girona
+Oct/02 Numancia 0-2 Celta Vigo
+Oct/02 Valladolid 2-1 Elche
+Oct/01 Barcelona B 0-1 Sabadell
+Oct/01 Cartagena 1-2 Alcoyano
+Oct/01 Hercules 1-0 Alcorcon
+Oct/01 Huesca 0-1 Cordoba
+Oct/01 Las Palmas 1-1 Murcia
+Oct/01 Recreativo Huelva 0-1 Almeria
+Oct/01 Dep. La Coruna 4-0 Guadalajara
+Sep/30 Villarreal B 3-2 Gimnastic
+
+ Round 6
+
+Sep/25 Celta Vigo 1-1 Valladolid
+Sep/25 Cordoba 2-1 Xerez CD
+Sep/25 Murcia 2-1 Numancia
+Sep/24 Alcorcon 4-0 Dep. La Coruna
+Sep/24 Alcoyano 1-1 Villarreal B
+Sep/24 Barcelona B 2-2 Recreativo Huelva
+Sep/24 Gimnastic 1-3 Huesca
+Sep/24 Girona 4-2 Las Palmas
+Sep/24 Guadalajara 2-0 Cartagena
+Sep/24 Sabadell 1-1 Hercules
+Sep/23 Elche 1-3 Almeria
+
+ Round 5
+
+Sep/18 Villarreal B 3-3 Guadalajara
+Sep/18 Almeria 1-0 Celta Vigo
+Sep/17 Las Palmas 0-1 Cordoba
+Sep/17 Cartagena 0-2 Alcorcon
+Sep/17 Dep. La Coruna 2-1 Sabadell
+Sep/17 Huesca 3-3 Alcoyano
+Sep/17 Numancia 1-0 Girona
+Sep/17 Recreativo Huelva 1-0 Elche
+Sep/17 Xerez CD 0-0 Gimnastic
+Sep/17 Valladolid 1-3 Murcia
+Sep/16 Hercules 2-1 Barcelona B
+
+ Round 4
+
+Sep/11 Barcelona B 2-3 Dep. La Coruna
+Sep/11 Gimnastic 1-3 Las Palmas
+Sep/11 Girona 1-1 Valladolid
+Sep/11 Celta Vigo 1-2 Elche
+Sep/10 Alcorcon 1-1 Villarreal B
+Sep/10 Alcoyano 0-1 Xerez CD
+Sep/10 Cordoba 1-0 Numancia
+Sep/10 Guadalajara 2-1 Huesca
+Sep/10 Murcia 0-2 Almeria
+Sep/10 Sabadell 3-2 Cartagena
+Sep/10 Hercules 0-1 Recreativo Huelva
+
+ Round 3
+
+Sep/04 Recreativo Huelva 1-2 Celta Vigo
+Sep/04 Dep. La Coruna 0-1 Hercules
+Sep/04 Cartagena 0-4 Barcelona B
+Sep/04 Numancia 0-0 Gimnastic
+Sep/03 Valladolid 2-0 Cordoba
+Sep/03 Las Palmas 1-0 Alcoyano
+Sep/03 Almeria 2-2 Girona
+Sep/03 Elche 1-0 Murcia
+Sep/03 Huesca 0-3 Alcorcon
+Sep/03 Villarreal B 3-4 Sabadell
+Sep/03 Xerez CD 0-2 Guadalajara
+
+ Round 2
+
+Aug/28 Gimnastic 0-3 Valladolid
+Aug/28 Murcia 1-3 Celta Vigo
+Aug/27 Cordoba 1-1 Almeria
+Aug/27 Alcorcon 0-1 Xerez CD
+Aug/27 Alcoyano 1-1 Numancia
+Aug/27 Dep. La Coruna 1-0 Recreativo Huelva
+Aug/27 Guadalajara 1-1 Las Palmas
+Aug/27 Hercules 2-0 Cartagena
+Aug/27 Sabadell 2-1 Huesca
+Aug/27 Barcelona B 0-2 Villarreal B
+Aug/26 Girona 1-4 Elche

@@ -1,0 +1,366 @@
+
+ Round 6
+
+Jun/19 Sittard 1-2 Zwolle
+Jun/19 Volendam 2-1 Telstar
+Jun/17 Cambuur 1-4 Excelsior
+Jun/17 G.A. Eagles 1-1 Sparta Rotterdam
+
+ Round 5
+
+Jun/16 Telstar 1-3 Sittard
+Jun/16 Zwolle 2-0 Volendam
+Jun/13 Excelsior 3-3 G.A. Eagles
+
+ Round 4
+
+Jun/13 Sittard 3-1 Volendam
+
+ Round 5
+
+Jun/13 Sparta Rotterdam 2-0 Cambuur
+
+ Round 4
+
+Jun/13 Telstar 1-1 Zwolle
+
+ Round 3
+
+Jun/10 Volendam 1-0 Sittard
+
+ Round 4
+
+Jun/09 Cambuur 4-2 G.A. Eagles
+Jun/09 Sparta Rotterdam 3-1 Excelsior
+
+ Round 3
+
+Jun/09 Zwolle 1-1 Telstar
+Jun/06 Excelsior 3-4 Sparta Rotterdam
+Jun/06 G.A. Eagles 1-2 Cambuur
+
+ Round 2
+
+Jun/06 Sittard 2-1 Telstar
+Jun/06 Volendam 1-0 Zwolle
+Jun/03 Cambuur 2-1 Sparta Rotterdam
+
+ Round 1
+
+Jun/03 Telstar 2-1 Volendam
+Jun/03 Zwolle 0-0 Sittard
+
+ Round 2
+
+Jun/02 G.A. Eagles 1-0 Excelsior
+
+ Round 1
+
+May/30 Sparta Rotterdam 3-1 G.A. Eagles
+May/29 Excelsior 3-2 Cambuur
+May/28 Graafschap 1-1 Breda
+May/28 Sittard 4-1 Willem II
+May/26 Ajax 5-1 AZ Alkmaar
+May/26 Heerenveen 1-1 Twente
+May/26 Nijmegen 2-4 PSV
+May/26 Roosendaal 0-1 Feyenoord
+May/26 Sparta Rotterdam 2-2 Vitesse
+May/26 Utrecht 6-0 Groningen
+May/26 Waalwijk 3-2 Roda
+May/19 AZ Alkmaar 2-2 Heerenveen
+May/19 Breda 2-0 Sparta Rotterdam
+May/19 Feyenoord 2-2 Utrecht
+May/19 Groningen 1-2 Waalwijk
+May/19 PSV 3-2 Graafschap
+May/19 Roda 4-1 Nijmegen
+May/19 Twente 1-3 Ajax
+May/19 Vitesse 3-0 Sittard
+May/19 Willem II 3-0 Roosendaal
+May/16 Ajax 1-2 Vitesse
+May/12 Ajax 3-4 Feyenoord
+May/12 Nijmegen 0-2 Breda
+May/12 Sparta Rotterdam 0-3 AZ Alkmaar
+May/12 Utrecht 3-0 Roda
+May/11 Graafschap 0-1 Waalwijk
+May/11 Heerenveen 0-0 Vitesse
+May/11 Willem II 3-0 Groningen
+May/10 Roosendaal 1-2 PSV
+May/10 Sittard 0-2 Twente
+May/05 Breda 0-0 Utrecht
+May/05 Feyenoord 2-3 Sittard
+May/05 Graafschap 2-1 Nijmegen
+May/05 Groningen 1-1 Sparta Rotterdam
+May/05 PSV 3-0 Heerenveen
+May/04 AZ Alkmaar 2-3 Willem II
+May/04 Twente 4-1 Roosendaal
+May/04 Vitesse 1-1 Roda
+May/02 Waalwijk 2-2 Ajax
+May/01 Heerenveen 1-2 Utrecht
+Apr/28 Nijmegen 5-1 Waalwijk
+Apr/28 Roda 1-0 Feyenoord
+Apr/28 Roosendaal 1-2 Utrecht
+Apr/27 Sittard 1-1 Groningen
+Apr/27 Sparta Rotterdam 1-3 Heerenveen
+Apr/27 Twente 1-0 AZ Alkmaar
+Apr/27 Vitesse 2-1 Graafschap
+Apr/27 Willem II 1-1 PSV
+Apr/26 Ajax 1-0 Breda
+Apr/20 Breda 0-0 AZ Alkmaar
+Apr/20 Feyenoord 3-0 Nijmegen
+Apr/20 Graafschap 4-0 Twente
+Apr/20 Groningen 2-0 Roosendaal
+Apr/20 Heerenveen 6-1 Sittard
+Apr/20 Roda 1-0 Sparta Rotterdam
+Apr/19 PSV 3-1 Waalwijk
+Apr/19 Utrecht 1-0 Willem II
+Apr/15 Roda 1-1 Ajax
+Apr/15 Twente 0-0 Utrecht
+Apr/15 Willem II 1-3 Breda
+Apr/14 Feyenoord 1-2 Graafschap
+Apr/14 Vitesse 0-0 PSV
+Apr/13 AZ Alkmaar 2-0 Groningen
+Apr/13 Roosendaal 1-3 Sparta Rotterdam
+Apr/13 Waalwijk 1-1 Heerenveen
+Apr/12 Sittard 2-0 Nijmegen
+Apr/07 Ajax 0-1 PSV
+Apr/07 Breda 1-0 Feyenoord
+Apr/07 Groningen 1-3 Roda
+Apr/07 Sparta Rotterdam 0-2 Sittard
+Apr/06 Graafschap 2-2 Roosendaal
+Apr/06 Heerenveen 5-0 Nijmegen
+Apr/06 Twente 1-1 Waalwijk
+Apr/06 Vitesse 1-2 Willem II
+Apr/05 Utrecht 1-0 AZ Alkmaar
+Mar/31 Groningen 0-1 Vitesse
+Mar/31 Nijmegen 1-0 Ajax
+Mar/31 Sparta Rotterdam 0-1 Utrecht
+Mar/31 Waalwijk 2-0 Feyenoord
+Mar/30 AZ Alkmaar 0-1 Graafschap
+Mar/30 Breda 1-0 Sittard
+Mar/30 Heerenveen 2-0 Roosendaal
+Mar/30 PSV 2-1 Twente
+Mar/30 Willem II 1-1 Roda
+Mar/18 Ajax 9-0 Sparta Rotterdam
+Mar/18 Feyenoord 5-1 Twente
+Mar/18 Nijmegen 1-0 Groningen
+Mar/18 PSV 5-1 Utrecht
+Mar/18 Waalwijk 3-2 Willem II
+Mar/17 AZ Alkmaar 0-2 Sittard
+Mar/17 Breda 2-2 Heerenveen
+Mar/17 Roda 3-1 Graafschap
+Mar/16 Roosendaal 0-3 Vitesse
+Mar/11 Groningen 3-3 Ajax
+Mar/11 Utrecht 0-0 Vitesse
+Mar/11 Willem II 3-1 Feyenoord
+Mar/10 AZ Alkmaar 1-3 Waalwijk
+Mar/10 Sittard 2-1 Roosendaal
+Mar/10 Twente 1-1 Nijmegen
+Mar/09 Graafschap 0-1 Heerenveen
+Mar/09 Roda 1-0 Breda
+Mar/04 Roosendaal 1-3 Ajax
+Mar/04 Nijmegen 1-1 AZ Alkmaar
+Mar/04 Sparta Rotterdam 5-1 Twente
+Mar/04 Utrecht 1-0 Sittard
+Mar/04 Vitesse 0-0 Feyenoord
+Mar/03 PSV 0-0 Roda
+Mar/03 Willem II 6-0 Graafschap
+Mar/02 Heerenveen 0-0 Groningen
+Mar/02 Waalwijk 0-0 Breda
+Feb/24 Ajax 2-0 Utrecht
+Feb/24 Feyenoord 1-2 PSV
+Feb/24 Groningen 0-0 Breda
+Feb/23 AZ Alkmaar 2-4 Roda
+Feb/23 Twente 2-1 Vitesse
+Feb/23 Waalwijk 1-0 Sittard
+Feb/22 Nijmegen 0-3 Sparta Rotterdam
+Feb/22 Willem II 1-6 Heerenveen
+Feb/21 Breda 0-0 Twente
+Feb/17 Breda 1-2 PSV
+Feb/17 Groningen 2-0 Twente
+Feb/17 Sparta Rotterdam 2-2 Waalwijk
+Feb/17 Utrecht 3-1 Graafschap
+Feb/16 Heerenveen 0-0 Roda
+Feb/16 Roosendaal 2-3 AZ Alkmaar
+Feb/15 Sittard 0-3 Ajax
+Feb/10 Ajax 1-1 Willem II
+Feb/10 Feyenoord 1-0 Groningen
+Feb/10 Roda 2-1 Roosendaal
+Feb/10 Utrecht 1-1 Nijmegen
+Feb/10 Waalwijk 3-0 Vitesse
+Feb/09 PSV 3-0 AZ Alkmaar
+Feb/08 Graafschap 2-1 Sparta Rotterdam
+Feb/03 AZ Alkmaar 0-3 Feyenoord
+Feb/03 Sittard 0-0 Graafschap
+Feb/03 Sparta Rotterdam 0-1 PSV
+Feb/03 Vitesse 2-2 Nijmegen
+Feb/02 Roosendaal 0-3 Waalwijk
+Feb/02 Twente 3-1 Willem II
+Jan/31 Graafschap 1-3 Ajax
+Jan/30 Heerenveen 1-0 Feyenoord
+Jan/30 Nijmegen 2-3 Roosendaal
+Jan/30 PSV 3-0 Groningen
+Jan/30 Sittard 1-0 Roda
+Jan/30 Vitesse 2-4 Breda
+Jan/30 Willem II 4-1 Sparta Rotterdam
+Jan/27 Feyenoord 2-0 Breda
+Jan/26 PSV 6-0 Roosendaal
+Dec/20 Groningen 2-1 Heerenveen
+Dec/20 PSV 1-1 Sittard
+Dec/20 Roosendaal 2-2 Twente
+Dec/19 Feyenoord 2-0 Vitesse
+Dec/19 Utrecht 2-1 Waalwijk
+Dec/19 Willem II 2-0 Nijmegen
+Dec/16 Ajax 5-1 Twente
+Dec/16 AZ Alkmaar 0-5 PSV
+Dec/16 Graafschap 0-3 Utrecht
+Dec/16 Groningen 1-0 Feyenoord
+Dec/16 Nijmegen 0-2 Roda
+Dec/16 Roosendaal 0-3 Heerenveen
+Dec/16 Waalwijk 2-0 Sparta Rotterdam
+Dec/15 Breda 1-1 Vitesse
+Dec/15 Willem II 3-1 Sittard
+Dec/12 Heerenveen 0-1 Willem II
+Dec/12 Sittard 2-4 Feyenoord
+Dec/12 Sparta Rotterdam 1-2 Breda
+Dec/12 Vitesse 3-2 AZ Alkmaar
+Dec/11 Twente 0-2 Roda
+Dec/11 Waalwijk 1-1 PSV
+Dec/09 Feyenoord 3-1 Ajax
+Dec/09 Utrecht 5-0 Breda
+Dec/09 Vitesse 0-0 Heerenveen
+Dec/08 AZ Alkmaar 0-0 Nijmegen
+Dec/08 Graafschap 0-4 Groningen
+Dec/08 Roda 0-1 Willem II
+Dec/08 Sittard 2-1 Sparta Rotterdam
+Dec/02 Ajax 6-2 Heerenveen
+Dec/02 Nijmegen 1-0 Twente
+Dec/02 Waalwijk 0-0 Groningen
+Dec/01 Sittard 0-1 Utrecht
+Dec/01 Sparta Rotterdam 2-1 Graafschap
+Dec/01 Willem II 1-1 AZ Alkmaar
+Nov/30 Roda 1-2 PSV
+Nov/29 Ajax 3-0 Waalwijk
+Nov/28 Feyenoord 2-1 Sparta Rotterdam
+Nov/28 Heerenveen 1-1 AZ Alkmaar
+Nov/28 Roosendaal 0-1 Breda
+Nov/27 Roda 2-3 Vitesse
+Nov/25 Feyenoord 1-0 Willem II
+Nov/25 Nijmegen 0-0 Heerenveen
+Nov/25 PSV 2-1 Breda
+Nov/25 Twente 3-0 Groningen
+Nov/25 Utrecht 2-1 Ajax
+Nov/24 AZ Alkmaar 1-1 Sparta Rotterdam
+Nov/24 Graafschap 5-1 Sittard
+Nov/24 Roosendaal 0-4 Roda
+Nov/18 Breda 0-3 Ajax
+Nov/18 Nijmegen 1-3 Feyenoord
+Nov/18 Waalwijk 1-0 Graafschap
+Nov/17 Heerenveen 1-4 PSV
+Nov/17 Sittard 1-1 AZ Alkmaar
+Nov/17 Vitesse 2-1 Roosendaal
+Nov/17 Willem II 2-2 Twente
+Nov/16 Roda 2-1 Utrecht
+Nov/11 Ajax 4-1 Graafschap
+Nov/11 AZ Alkmaar 2-1 Utrecht
+Nov/11 PSV 1-0 Feyenoord
+Nov/11 Roda 3-1 Heerenveen
+Nov/11 Sparta Rotterdam 0-2 Nijmegen
+Nov/11 Twente 4-0 Breda
+Nov/11 Vitesse 2-2 Groningen
+Nov/10 Sittard 0-0 Waalwijk
+Nov/09 Roosendaal 2-1 Willem II
+Nov/04 Feyenoord 4-2 Roda
+Nov/04 Graafschap 1-2 Vitesse
+Nov/04 Groningen 1-2 AZ Alkmaar
+Nov/04 Roosendaal 3-1 Sittard
+Nov/04 Utrecht 1-1 Sparta Rotterdam
+Nov/04 Willem II 0-1 Ajax
+Nov/03 Breda 2-2 Nijmegen
+Nov/03 Twente 0-2 PSV
+Nov/01 Feyenoord 5-1 Roosendaal
+Oct/31 Heerenveen 1-1 Sparta Rotterdam
+Oct/31 Nijmegen 2-1 Graafschap
+Oct/31 PSV 2-0 Vitesse
+Oct/31 Roda 1-0 Sittard
+Oct/31 Waalwijk 4-1 Utrecht
+Oct/28 Nijmegen 3-0 Willem II
+Oct/28 PSV 1-1 Ajax
+Oct/28 Roda 0-1 Waalwijk
+Oct/28 Sparta Rotterdam 2-0 Groningen
+Oct/28 Utrecht 1-1 Feyenoord
+Oct/27 Heerenveen 1-0 Graafschap
+Oct/26 AZ Alkmaar 5-0 Twente
+Oct/26 Sittard 1-2 Breda
+Oct/21 AZ Alkmaar 0-2 Vitesse
+Oct/21 Groningen 4-0 Sittard
+Oct/21 Utrecht 5-3 Roosendaal
+Oct/20 Feyenoord 2-0 Heerenveen
+Oct/20 Graafschap 1-1 Willem II
+Oct/20 Twente 3-1 Sparta Rotterdam
+Oct/19 Ajax 4-2 Roda
+Oct/14 Roosendaal 2-4 Graafschap
+Oct/14 Sparta Rotterdam 1-4 Feyenoord
+Oct/14 Vitesse 3-2 Ajax
+Oct/13 Heerenveen 1-1 Waalwijk
+Oct/13 PSV 0-0 Nijmegen
+Oct/13 Roda 2-0 Groningen
+Oct/13 Twente 1-1 Sittard
+Oct/13 Willem II 6-2 Utrecht
+Oct/12 AZ Alkmaar 3-1 Breda
+Oct/01 Heerenveen 2-2 Ajax
+Sep/30 Graafschap 2-3 Feyenoord
+Sep/30 Groningen 0-1 PSV
+Sep/30 Roda 4-2 AZ Alkmaar
+Sep/30 Sparta Rotterdam 1-2 Willem II
+Sep/30 Vitesse 2-1 Utrecht
+Sep/30 Waalwijk 1-1 Twente
+Sep/23 Breda 2-0 Willem II
+Sep/23 Groningen 1-3 Utrecht
+Sep/23 Twente 3-1 Graafschap
+Sep/23 Waalwijk 0-0 Nijmegen
+Sep/22 Sittard 1-4 Vitesse
+Sep/21 Ajax 2-0 Roosendaal
+Sep/16 AZ Alkmaar 3-2 Ajax
+Sep/16 Nijmegen 1-1 Sittard
+Sep/16 Roosendaal 0-2 Groningen
+Sep/16 Utrecht 1-2 Twente
+Sep/16 Vitesse 1-0 Waalwijk
+Sep/15 Breda 3-0 Graafschap
+Sep/15 PSV 2-1 Sparta Rotterdam
+Sep/12 Breda 2-1 Roosendaal
+Sep/09 Nijmegen 1-1 Utrecht
+Sep/09 Sparta Rotterdam 3-5 Roosendaal
+Sep/08 Ajax 3-1 Groningen
+Sep/08 Feyenoord 3-1 Waalwijk
+Sep/08 Graafschap 4-2 AZ Alkmaar
+Sep/08 Heerenveen 2-1 Breda
+Sep/08 Roda 2-2 Twente
+Sep/08 Willem II 2-2 Vitesse
+Sep/07 Sittard 0-3 PSV
+Sep/05 Ajax 0-0 Nijmegen
+Sep/05 Breda 1-1 Roda
+Sep/05 Groningen 1-0 Graafschap
+Sep/05 Twente 2-2 Heerenveen
+Sep/05 Vitesse 5-1 Sparta Rotterdam
+Sep/05 Waalwijk 3-0 AZ Alkmaar
+Sep/04 PSV 2-2 Willem II
+Sep/02 Waalwijk 2-1 Roosendaal
+Aug/26 Nijmegen 4-1 Vitesse
+Aug/26 Sparta Rotterdam 3-0 Ajax
+Aug/26 Twente 1-2 Feyenoord
+Aug/26 Utrecht 1-3 PSV
+Aug/25 AZ Alkmaar 3-0 Roosendaal
+Aug/25 Breda 5-1 Groningen
+Aug/25 Graafschap 1-3 Roda
+Aug/25 Sittard 0-2 Heerenveen
+Aug/25 Willem II 2-0 Waalwijk
+Aug/22 Groningen 4-4 Nijmegen
+Aug/21 Ajax 5-0 Sittard
+Aug/19 Groningen 1-1 Willem II
+Aug/19 Roosendaal 2-3 Nijmegen
+Aug/19 Utrecht 2-0 Heerenveen
+Aug/19 Vitesse 3-1 Twente
+Aug/18 Breda 0-1 Waalwijk
+Aug/18 Feyenoord 2-0 AZ Alkmaar
+Aug/18 Graafschap 2-0 PSV
+Aug/17 Sparta Rotterdam 2-2 Roda

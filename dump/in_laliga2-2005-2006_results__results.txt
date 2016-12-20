@@ -1,0 +1,597 @@
+
+ Round 42
+
+Jun/18 Hercules 0-2 Recreativo Huelva
+Jun/17 Granada 74 2-0 Gimnastic
+Jun/17 Lleida 0-1 Levante
+Jun/17 Lorca Deportiva 0-0 El Ejido
+Jun/17 Tenerife 1-1 Albacete
+Jun/17 Valladolid 2-2 Elche
+Jun/17 Xerez CD 4-2 Malaga B
+Jun/17 Castellon 2-0 Almeria
+Jun/17 Numancia 3-2 Real Madrid B
+Jun/17 Gijon 1-0 Murcia
+Jun/17 Eibar 1-1 Ferrol
+
+ Round 41
+
+Jun/11 Albacete 2-2 Granada 74
+Jun/11 Almeria 3-1 Lleida
+Jun/11 El Ejido 0-1 Eibar
+Jun/11 Gimnastic 1-1 Hercules
+Jun/11 Levante 0-0 Lorca Deportiva
+Jun/10 Ferrol 0-1 Valladolid
+Jun/10 Elche 0-0 Gijon
+Jun/10 Malaga B 5-4 Numancia
+Jun/10 Murcia 2-2 Tenerife
+Jun/10 Real Madrid B 1-2 Castellon
+Jun/10 Recreativo Huelva 1-2 Xerez CD
+
+ Round 40
+
+Jun/04 Castellon 2-2 Malaga B
+Jun/04 Lorca Deportiva 1-2 Lleida
+Jun/04 Almeria 3-2 Real Madrid B
+Jun/04 Eibar 1-1 Levante
+Jun/04 Hercules 2-1 Albacete
+Jun/04 Valladolid 0-1 El Ejido
+Jun/04 Numancia 0-3 Recreativo Huelva
+Jun/03 Granada 74 1-0 Murcia
+Jun/03 Gijon 3-1 Ferrol
+Jun/03 Tenerife 0-0 Elche
+Jun/03 Xerez CD 0-0 Gimnastic
+
+ Round 39
+
+May/28 Albacete 2-0 Xerez CD
+May/28 El Ejido 1-0 Gijon
+May/28 Elche 0-0 Granada 74
+May/28 Gimnastic 1-0 Numancia
+May/28 Lleida 2-1 Real Madrid B
+May/28 Recreativo Huelva 2-2 Castellon
+May/27 Levante 2-1 Valladolid
+May/27 Lorca Deportiva 1-0 Eibar
+May/27 Murcia 3-1 Hercules
+May/27 Ferrol 2-3 Tenerife
+May/27 Malaga B 3-1 Almeria
+
+ Round 38
+
+May/21 Gijon 0-2 Levante
+May/21 Xerez CD 2-0 Murcia
+May/21 Castellon 0-2 Gimnastic
+May/21 Valladolid 1-1 Lorca Deportiva
+May/21 Real Madrid B 4-1 Malaga B
+May/21 Almeria 2-1 Recreativo Huelva
+May/20 Tenerife 2-1 El Ejido
+May/20 Numancia 1-0 Albacete
+May/20 Hercules 0-0 Elche
+May/20 Eibar 1-1 Lleida
+May/20 Granada 74 2-1 Ferrol
+
+ Round 37
+
+May/14 Eibar 0-1 Valladolid
+May/14 El Ejido 2-3 Granada 74
+May/14 Murcia 3-1 Numancia
+May/14 Albacete 1-1 Castellon
+May/14 Lleida 0-0 Malaga B
+May/14 Elche 1-0 Xerez CD
+May/14 Gimnastic 1-0 Almeria
+May/13 Ferrol 1-1 Hercules
+May/13 Levante 1-0 Tenerife
+May/13 Lorca Deportiva 1-0 Gijon
+May/13 Recreativo Huelva 4-1 Real Madrid B
+
+ Round 36
+
+May/07 Malaga B 0-2 Recreativo Huelva
+May/07 Xerez CD 2-0 Ferrol
+May/07 Hercules 1-0 El Ejido
+May/07 Valladolid 3-2 Lleida
+May/07 Granada 74 2-1 Levante
+May/07 Real Madrid B 1-0 Gimnastic
+May/06 Gijon 1-1 Eibar
+May/06 Almeria 1-2 Albacete
+May/06 Castellon 2-1 Murcia
+May/06 Numancia 3-1 Elche
+May/06 Tenerife 2-3 Lorca Deportiva
+
+ Round 35
+
+Apr/30 El Ejido 4-1 Xerez CD
+Apr/30 Gimnastic 3-2 Malaga B
+Apr/30 Elche 1-2 Castellon
+Apr/30 Ferrol 1-3 Numancia
+Apr/30 Lleida 0-4 Recreativo Huelva
+Apr/30 Albacete 1-0 Real Madrid B
+Apr/30 Lorca Deportiva 2-2 Granada 74
+Apr/29 Eibar 0-1 Tenerife
+Apr/29 Levante 2-0 Hercules
+Apr/29 Murcia 1-0 Almeria
+Apr/29 Valladolid 1-3 Gijon
+
+ Round 34
+
+Apr/23 Tenerife 2-1 Valladolid
+Apr/23 Almeria 2-0 Elche
+Apr/23 Castellon 1-0 Ferrol
+Apr/23 Gijon 2-0 Lleida
+Apr/23 Numancia 1-2 El Ejido
+Apr/23 Hercules 0-2 Lorca Deportiva
+Apr/23 Recreativo Huelva 3-0 Gimnastic
+Apr/22 Malaga B 1-1 Albacete
+Apr/22 Granada 74 0-2 Eibar
+Apr/22 Real Madrid B 1-0 Murcia
+Apr/22 Xerez CD 0-1 Levante
+
+ Round 33
+
+Apr/16 Murcia 4-1 Malaga B
+Apr/16 Lorca Deportiva 1-1 Xerez CD
+Apr/16 Valladolid 0-2 Granada 74
+Apr/16 Eibar 0-1 Hercules
+Apr/16 El Ejido 0-2 Castellon
+Apr/16 Ferrol 1-1 Almeria
+Apr/16 Levante 1-0 Numancia
+Apr/15 Albacete 1-0 Recreativo Huelva
+Apr/15 Elche 2-1 Real Madrid B
+Apr/15 Lleida 1-2 Gimnastic
+Apr/15 Gijon 2-2 Tenerife
+
+ Round 32
+
+Apr/09 Tenerife 2-2 Lleida
+Apr/09 Gimnastic 4-1 Albacete
+Apr/09 Hercules 2-0 Valladolid
+Apr/09 Malaga B 1-3 Elche
+Apr/09 Numancia 1-0 Lorca Deportiva
+Apr/09 Almeria 1-2 El Ejido
+Apr/09 Recreativo Huelva 1-0 Murcia
+Apr/08 Castellon 0-0 Levante
+Apr/08 Granada 74 1-0 Gijon
+Apr/08 Xerez CD 2-1 Eibar
+Apr/08 Real Madrid B 1-0 Ferrol
+
+ Round 27
+
+Apr/05 Hercules 0-3 Xerez CD
+
+ Round 31
+
+Apr/02 Murcia 0-1 Gimnastic
+Apr/02 Valladolid 3-1 Xerez CD
+Apr/02 Lleida 3-0 Albacete
+Apr/02 Lorca Deportiva 3-2 Castellon
+Apr/02 Elche 1-1 Recreativo Huelva
+Apr/02 Ferrol 2-1 Malaga B
+Apr/02 Levante 2-4 Almeria
+Apr/01 Eibar 1-2 Numancia
+Apr/01 El Ejido 0-3 Real Madrid B
+Apr/01 Gijon 1-1 Hercules
+Apr/01 Tenerife 0-1 Granada 74
+
+ Round 30
+
+Mar/26 Castellon 2-0 Eibar
+Mar/26 Xerez CD 0-0 Gijon
+Mar/26 Malaga B 0-1 El Ejido
+Mar/26 Numancia 3-2 Valladolid
+Mar/26 Recreativo Huelva 3-0 Ferrol
+Mar/26 Real Madrid B 0-0 Levante
+Mar/25 Albacete 0-0 Murcia
+Mar/25 Almeria 1-0 Lorca Deportiva
+Mar/25 Gimnastic 1-0 Elche
+Mar/25 Granada 74 3-1 Lleida
+Mar/25 Hercules 1-0 Tenerife
+
+ Round 26
+
+Mar/22 Numancia 1-0 Hercules
+
+ Round 29
+
+Mar/19 Gijon 1-0 Numancia
+Mar/19 Levante 2-1 Malaga B
+Mar/19 Eibar 0-1 Almeria
+Mar/19 Ferrol 1-1 Gimnastic
+Mar/19 Valladolid 1-0 Castellon
+Mar/19 Lorca Deportiva 2-1 Real Madrid B
+Mar/18 El Ejido 0-0 Recreativo Huelva
+Mar/18 Elche 4-3 Albacete
+Mar/18 Granada 74 1-0 Hercules
+Mar/18 Lleida 1-1 Murcia
+Mar/18 Tenerife 3-1 Xerez CD
+
+ Round 28
+
+Mar/12 Xerez CD 0-0 Granada 74
+Mar/12 Albacete 1-2 Ferrol
+Mar/12 Gimnastic 2-0 El Ejido
+Mar/12 Murcia 1-0 Elche
+Mar/12 Recreativo Huelva 4-1 Levante
+Mar/11 Almeria 2-1 Valladolid
+Mar/11 Castellon 1-0 Gijon
+Mar/11 Numancia 2-0 Tenerife
+Mar/11 Real Madrid B 1-0 Eibar
+Mar/11 Hercules 2-1 Lleida
+Mar/11 Malaga B 2-1 Lorca Deportiva
+
+ Round 27
+
+Mar/05 Valladolid 1-0 Real Madrid B
+Mar/05 Eibar 1-1 Malaga B
+Mar/05 El Ejido 2-0 Albacete
+Mar/05 Granada 74 0-1 Numancia
+Mar/05 Levante 1-1 Gimnastic
+Mar/05 Lorca Deportiva 2-1 Recreativo Huelva
+Mar/04 Ferrol 2-2 Murcia
+Mar/04 Gijon 1-0 Almeria
+Mar/04 Lleida 0-0 Elche
+Mar/04 Tenerife 1-1 Castellon
+
+ Round 26
+
+Feb/26 Castellon 1-2 Granada 74
+Feb/26 Xerez CD 0-1 Lleida
+Feb/26 Elche 1-0 Ferrol
+Feb/26 Murcia 0-0 El Ejido
+Feb/26 Gimnastic 2-0 Lorca Deportiva
+Feb/25 Albacete 1-1 Levante
+Feb/25 Almeria 2-0 Tenerife
+Feb/25 Real Madrid B 1-1 Gijon
+Feb/25 Recreativo Huelva 0-0 Eibar
+Feb/25 Malaga B 2-1 Valladolid
+
+ Round 25
+
+Feb/19 Tenerife 0-1 Real Madrid B
+Feb/19 El Ejido 2-1 Elche
+Feb/19 Levante 1-0 Murcia
+Feb/19 Lleida 1-1 Ferrol
+Feb/19 Xerez CD 1-1 Numancia
+Feb/19 Valladolid 0-1 Recreativo Huelva
+Feb/18 Eibar 0-1 Gimnastic
+Feb/18 Hercules 1-0 Castellon
+Feb/18 Gijon 0-0 Malaga B
+Feb/18 Lorca Deportiva 3-0 Albacete
+Feb/18 Granada 74 0-0 Almeria
+
+ Round 22
+
+Feb/15 Albacete 1-0 Gijon
+
+ Round 24
+
+Feb/12 Almeria 1-0 Hercules
+Feb/12 Castellon 3-2 Xerez CD
+Feb/12 Albacete 2-1 Eibar
+Feb/12 Ferrol 0-1 El Ejido
+Feb/12 Gimnastic 3-2 Valladolid
+Feb/12 Murcia 0-1 Lorca Deportiva
+Feb/12 Numancia 1-0 Lleida
+Feb/12 Real Madrid B 0-1 Granada 74
+Feb/12 Recreativo Huelva 0-0 Gijon
+Feb/11 Elche 0-1 Levante
+Feb/11 Malaga B 1-4 Tenerife
+
+ Round 23
+
+Feb/05 Levante 2-1 Ferrol
+Feb/05 Eibar 0-0 Murcia
+Feb/05 Granada 74 5-0 Malaga B
+Feb/05 Lleida 1-0 El Ejido
+Feb/05 Lorca Deportiva 2-1 Elche
+Feb/05 Numancia 2-1 Castellon
+Feb/05 Xerez CD 0-0 Almeria
+Feb/04 Gijon 0-1 Gimnastic
+Feb/04 Hercules 0-1 Real Madrid B
+Feb/04 Tenerife 1-0 Recreativo Huelva
+Feb/04 Valladolid 0-1 Albacete
+
+ Round 22
+
+Jan/29 Recreativo Huelva 1-0 Granada 74
+Jan/29 Almeria 1-2 Numancia
+Jan/29 Castellon 0-3 Lleida
+Jan/29 Elche 1-1 Eibar
+Jan/29 Ferrol 0-3 Lorca Deportiva
+Jan/29 Murcia 2-2 Valladolid
+Jan/28 El Ejido 0-0 Levante
+Jan/28 Gimnastic 0-0 Tenerife
+Jan/28 Malaga B 1-1 Hercules
+Jan/28 Real Madrid B 4-3 Xerez CD
+
+ Round 21
+
+Jan/22 Almeria 2-1 Castellon
+Jan/22 Real Madrid B 1-1 Numancia
+Jan/22 El Ejido 2-3 Lorca Deportiva
+Jan/22 Ferrol 4-0 Eibar
+Jan/22 Gimnastic 2-0 Granada 74
+Jan/22 Recreativo Huelva 1-0 Hercules
+Jan/22 Elche 0-2 Valladolid
+Jan/21 Albacete 3-2 Tenerife
+Jan/21 Levante 2-0 Lleida
+Jan/21 Malaga B 0-0 Xerez CD
+Jan/21 Murcia 1-0 Gijon
+
+ Round 20
+
+Jan/15 Tenerife 3-1 Murcia
+Jan/15 Numancia 2-1 Malaga B
+Jan/15 Castellon 3-1 Real Madrid B
+Jan/15 Gijon 2-2 Elche
+Jan/15 Lleida 1-0 Almeria
+Jan/15 Lorca Deportiva 1-1 Levante
+Jan/15 Valladolid 3-3 Ferrol
+Jan/15 Xerez CD 1-1 Recreativo Huelva
+Jan/14 Eibar 3-1 El Ejido
+Jan/14 Granada 74 0-0 Albacete
+Jan/14 Hercules 0-1 Gimnastic
+
+ Round 19
+
+Jan/08 Real Madrid B 0-1 Almeria
+Jan/08 Albacete 2-0 Hercules
+Jan/08 El Ejido 1-1 Valladolid
+Jan/08 Levante 0-0 Eibar
+Jan/08 Lleida 2-2 Lorca Deportiva
+Jan/08 Recreativo Huelva 1-1 Numancia
+Jan/08 Malaga B 1-2 Castellon
+Jan/08 Murcia 0-0 Granada 74
+Jan/07 Elche 2-2 Tenerife
+Jan/07 Ferrol 0-0 Gijon
+Jan/07 Gimnastic 0-3 Xerez CD
+
+ Round 18
+
+Dec/22 Castellon 2-0 Recreativo Huelva
+Dec/22 Eibar 0-3 Lorca Deportiva
+Dec/21 Xerez CD 3-1 Albacete
+Dec/21 Almeria 2-1 Malaga B
+Dec/21 Hercules 1-1 Murcia
+Dec/21 Gijon 1-1 El Ejido
+Dec/21 Granada 74 4-1 Elche
+Dec/21 Numancia 0-1 Gimnastic
+Dec/21 Valladolid 3-3 Levante
+Dec/20 Tenerife 1-2 Ferrol
+Dec/20 Real Madrid B 0-0 Lleida
+
+ Round 17
+
+Dec/18 Recreativo Huelva 2-0 Almeria
+Dec/18 Gimnastic 1-1 Castellon
+Dec/18 Lorca Deportiva 2-0 Valladolid
+Dec/18 Elche 1-1 Hercules
+Dec/17 Albacete 0-0 Numancia
+Dec/17 El Ejido 2-0 Tenerife
+Dec/17 Levante 0-0 Gijon
+Dec/17 Lleida 0-0 Eibar
+Dec/17 Malaga B 0-1 Real Madrid B
+Dec/17 Murcia 0-1 Xerez CD
+Dec/17 Ferrol 1-1 Granada 74
+
+ Round 16
+
+Dec/12 Malaga B 0-1 Lleida
+Dec/11 Almeria 0-1 Gimnastic
+Dec/11 Tenerife 0-1 Levante
+Dec/11 Granada 74 0-1 El Ejido
+Dec/11 Castellon 0-0 Albacete
+Dec/11 Gijon 1-0 Lorca Deportiva
+Dec/11 Numancia 0-0 Murcia
+Dec/11 Valladolid 0-0 Eibar
+Dec/11 Xerez CD 1-2 Elche
+Dec/10 Hercules 1-1 Ferrol
+Dec/10 Real Madrid B 1-2 Recreativo Huelva
+
+ Round 15
+
+Dec/04 Albacete 3-1 Almeria
+Dec/04 Elche 4-1 Numancia
+Dec/04 Eibar 0-1 Gijon
+Dec/04 El Ejido 3-1 Hercules
+Dec/04 Gimnastic 0-1 Real Madrid B
+Dec/04 Recreativo Huelva 0-0 Malaga B
+Dec/04 Levante 6-0 Granada 74
+Dec/03 Ferrol 1-1 Xerez CD
+Dec/03 Lleida 0-4 Valladolid
+Dec/03 Lorca Deportiva 1-1 Tenerife
+Dec/03 Murcia 4-1 Castellon
+
+ Round 14
+
+Nov/27 Castellon 1-1 Elche
+Nov/27 Gijon 1-1 Valladolid
+Nov/27 Granada 74 1-0 Lorca Deportiva
+Nov/27 Numancia 1-1 Ferrol
+Nov/27 Real Madrid B 3-0 Albacete
+Nov/27 Recreativo Huelva 3-2 Lleida
+Nov/27 Almeria 2-0 Murcia
+Nov/27 Malaga B 1-2 Gimnastic
+Nov/26 Hercules 3-0 Levante
+Nov/26 Tenerife 1-1 Eibar
+Nov/26 Xerez CD 1-1 El Ejido
+
+ Round 13
+
+Nov/20 Albacete 0-1 Malaga B
+Nov/20 Eibar 0-0 Granada 74
+Nov/20 El Ejido 0-1 Numancia
+Nov/20 Ferrol 1-1 Castellon
+Nov/20 Gimnastic 0-0 Recreativo Huelva
+Nov/20 Lorca Deportiva 4-0 Hercules
+Nov/20 Murcia 1-1 Real Madrid B
+Nov/20 Levante 2-3 Xerez CD
+Nov/19 Elche 0-0 Almeria
+Nov/19 Lleida 0-1 Gijon
+Nov/19 Valladolid 1-1 Tenerife
+
+ Round 12
+
+Nov/13 Granada 74 0-2 Valladolid
+Nov/13 Tenerife 1-3 Gijon
+Nov/13 Numancia 0-1 Levante
+Nov/13 Almeria 2-1 Ferrol
+Nov/13 Castellon 2-1 El Ejido
+Nov/13 Malaga B 2-0 Murcia
+Nov/13 Real Madrid B 4-0 Elche
+Nov/13 Xerez CD 3-0 Lorca Deportiva
+Nov/12 Gimnastic 0-2 Lleida
+Nov/12 Hercules 1-1 Eibar
+Nov/12 Recreativo Huelva 1-1 Albacete
+
+ Round 11
+
+Nov/06 El Ejido 0-1 Almeria
+Nov/06 Elche 2-0 Malaga B
+Nov/06 Ferrol 0-0 Real Madrid B
+Nov/06 Gijon 2-2 Granada 74
+Nov/06 Lorca Deportiva 1-1 Numancia
+Nov/06 Valladolid 1-1 Hercules
+Nov/06 Murcia 0-2 Recreativo Huelva
+Nov/05 Albacete 1-4 Gimnastic
+Nov/05 Eibar 0-1 Xerez CD
+Nov/05 Levante 3-2 Castellon
+Nov/05 Lleida 2-1 Tenerife
+
+ Round 10
+
+Oct/30 Recreativo Huelva 2-0 Elche
+Oct/30 Albacete 1-0 Lleida
+Oct/30 Castellon 0-0 Lorca Deportiva
+Oct/30 Numancia 1-2 Eibar
+Oct/30 Real Madrid B 2-0 El Ejido
+Oct/30 Malaga B 0-1 Ferrol
+Oct/30 Xerez CD 0-0 Valladolid
+Oct/29 Hercules 3-2 Gijon
+Oct/29 Almeria 5-1 Levante
+Oct/29 Gimnastic 3-1 Murcia
+Oct/29 Granada 74 3-0 Tenerife
+
+ Round 9
+
+Oct/23 Ferrol 0-3 Recreativo Huelva
+Oct/23 Gijon 1-1 Xerez CD
+Oct/23 Lleida 1-2 Granada 74
+Oct/23 Lorca Deportiva 1-1 Almeria
+Oct/23 Tenerife 0-0 Hercules
+Oct/23 Levante 3-0 Real Madrid B
+Oct/23 Eibar 2-0 Castellon
+Oct/23 Valladolid 3-1 Numancia
+Oct/23 Murcia 2-0 Albacete
+Oct/22 El Ejido 1-2 Malaga B
+Oct/22 Elche 1-0 Gimnastic
+
+ Round 8
+
+Oct/16 Hercules 2-1 Granada 74
+Oct/16 Almeria 1-1 Eibar
+Oct/16 Murcia 2-0 Lleida
+Oct/16 Numancia 1-0 Gijon
+Oct/16 Real Madrid B 1-2 Lorca Deportiva
+Oct/16 Xerez CD 3-1 Tenerife
+Oct/15 Albacete 1-2 Elche
+Oct/15 Castellon 0-0 Valladolid
+Oct/15 Gimnastic 1-2 Ferrol
+Oct/15 Malaga B 0-0 Levante
+Oct/15 Recreativo Huelva 2-2 El Ejido
+
+ Round 7
+
+Oct/09 Granada 74 2-6 Xerez CD
+Oct/09 Elche 1-1 Murcia
+Oct/09 Eibar 1-3 Real Madrid B
+Oct/09 Lorca Deportiva 1-0 Malaga B
+Oct/09 Gijon 2-0 Castellon
+Oct/09 Levante 1-3 Recreativo Huelva
+Oct/09 Valladolid 1-0 Almeria
+Oct/08 Tenerife 2-1 Numancia
+Oct/08 El Ejido 2-0 Gimnastic
+Oct/08 Ferrol 2-3 Albacete
+Oct/08 Lleida 0-1 Hercules
+
+ Round 6
+
+Oct/03 Malaga B 1-1 Eibar
+Oct/02 Recreativo Huelva 2-1 Lorca Deportiva
+Oct/02 Elche 3-2 Lleida
+Oct/02 Almeria 3-0 Gijon
+Oct/02 Albacete 1-0 El Ejido
+Oct/02 Murcia 2-1 Ferrol
+Oct/02 Xerez CD 1-0 Hercules
+Oct/02 Numancia 1-1 Granada 74
+Oct/01 Castellon 1-0 Tenerife
+Oct/01 Real Madrid B 2-3 Valladolid
+Oct/01 Gimnastic 1-0 Levante
+
+ Round 5
+
+Sep/25 Granada 74 0-0 Castellon
+Sep/25 Lorca Deportiva 1-0 Gimnastic
+Sep/25 El Ejido 0-3 Murcia
+Sep/25 Tenerife 2-1 Almeria
+Sep/25 Gijon 1-1 Real Madrid B
+Sep/25 Valladolid 1-1 Malaga B
+Sep/25 Levante 1-1 Albacete
+Sep/24 Hercules 4-0 Numancia
+Sep/24 Eibar 2-1 Recreativo Huelva
+Sep/24 Ferrol 2-1 Elche
+Sep/24 Lleida 0-1 Xerez CD
+
+ Round 4
+
+Sep/18 Murcia 0-0 Levante
+Sep/18 Elche 2-0 El Ejido
+Sep/18 Albacete 1-0 Lorca Deportiva
+Sep/18 Gimnastic 1-0 Eibar
+Sep/18 Ferrol 0-0 Lleida
+Sep/18 Numancia 1-1 Xerez CD
+Sep/18 Recreativo Huelva 2-0 Valladolid
+Sep/17 Almeria 1-0 Granada 74
+Sep/17 Castellon 1-2 Hercules
+Sep/17 Malaga B 1-0 Gijon
+Sep/17 Real Madrid B 1-2 Tenerife
+
+ Round 3
+
+Sep/11 Granada 74 2-1 Real Madrid B
+Sep/11 Lorca Deportiva 0-1 Murcia
+Sep/11 El Ejido 4-2 Ferrol
+Sep/11 Gijon 1-1 Recreativo Huelva
+Sep/11 Tenerife 3-2 Malaga B
+Sep/11 Xerez CD 2-1 Castellon
+Sep/11 Levante 1-0 Elche
+Sep/10 Hercules 2-2 Almeria
+Sep/10 Valladolid 0-2 Gimnastic
+Sep/10 Eibar 1-1 Albacete
+Sep/10 Lleida 5-0 Numancia
+
+ Round 2
+
+Sep/04 Albacete 2-3 Valladolid
+Sep/04 Elche 1-3 Lorca Deportiva
+Sep/04 Murcia 1-0 Eibar
+Sep/04 Real Madrid B 3-0 Hercules
+Sep/04 Almeria 3-0 Xerez CD
+Sep/04 El Ejido 2-1 Lleida
+Sep/04 Gimnastic 0-4 Gijon
+Sep/04 Malaga B 0-1 Granada 74
+Sep/03 Castellon 0-1 Numancia
+Sep/03 Ferrol 1-2 Levante
+Sep/03 Recreativo Huelva 3-1 Tenerife
+
+ Round 1
+
+Aug/28 Hercules 1-1 Malaga B
+Aug/28 Lleida 1-0 Castellon
+Aug/28 Numancia 3-0 Almeria
+Aug/28 Valladolid 1-0 Murcia
+Aug/28 Eibar 1-2 Elche
+Aug/27 Gijon 2-0 Albacete
+Aug/27 Tenerife 3-1 Gimnastic
+Aug/27 Levante 2-0 El Ejido
+Aug/27 Xerez CD 2-1 Real Madrid B
+Aug/27 Granada 74 3-1 Recreativo Huelva
+Aug/27 Lorca Deportiva 1-1 Ferrol

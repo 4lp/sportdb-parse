@@ -1,0 +1,588 @@
+
+ Round 42
+
+Jun/15 Albacete 3-1 Las Palmas
+Jun/15 Celta Vigo 2-3 Alaves
+Jun/15 Ferrol 1-0 Castellon
+Jun/15 Gijon 2-0 Eibar
+Jun/15 Hercules 1-1 Cadiz CF
+Jun/15 Malaga 2-1 Tenerife
+Jun/15 Real Sociedad 1-1 Cordoba
+Jun/15 Xerez CD 1-0 Elche
+Jun/15 Sevilla FC B 4-2 Granada 74
+Jun/14 Gimnastic 1-2 Salamanca
+Jun/14 Numancia 2-2 El Ejido
+
+ Round 41
+
+Jun/08 Alaves 3-2 Real Sociedad
+Jun/08 Cadiz CF 0-0 Sevilla FC B
+Jun/08 Castellon 1-0 Gijon
+Jun/08 Cordoba 1-0 Ferrol
+Jun/08 Eibar 1-0 Numancia
+Jun/08 El Ejido 0-0 Albacete
+Jun/08 Granada 74 0-0 Malaga
+Jun/08 Las Palmas 0-0 Xerez CD
+Jun/08 Salamanca 3-1 Celta Vigo
+Jun/08 Tenerife 2-1 Gimnastic
+Jun/07 Elche 0-2 Hercules
+
+ Round 40
+
+Jun/01 Malaga 0-0 Cadiz CF
+Jun/01 Albacete 1-0 Eibar
+Jun/01 Numancia 2-2 Castellon
+Jun/01 Xerez CD 1-0 El Ejido
+Jun/01 Sevilla FC B 3-4 Hercules
+May/31 Celta Vigo 2-2 Tenerife
+May/31 Elche 1-4 Las Palmas
+May/31 Ferrol 1-1 Alaves
+May/31 Gijon 2-1 Cordoba
+May/31 Gimnastic 3-2 Granada 74
+May/31 Real Sociedad 1-1 Salamanca
+
+ Round 39
+
+May/25 Alaves 0-0 Gijon
+May/25 Cadiz CF 0-2 Gimnastic
+May/25 Eibar 0-0 Xerez CD
+May/25 El Ejido 2-0 Elche
+May/25 Hercules 1-2 Las Palmas
+May/25 Salamanca 2-1 Ferrol
+May/25 Cordoba 3-2 Numancia
+May/24 Castellon 0-2 Albacete
+May/24 Sevilla FC B 0-1 Malaga
+May/24 Tenerife 1-2 Real Sociedad
+May/24 Granada 74 1-1 Celta Vigo
+
+ Round 38
+
+May/18 Albacete 0-1 Cordoba
+May/18 Celta Vigo 5-2 Cadiz CF
+May/18 Elche 1-1 Eibar
+May/18 Gimnastic 1-0 Sevilla FC B
+May/18 Malaga 4-6 Hercules
+May/18 Numancia 0-0 Alaves
+May/17 Las Palmas 2-1 El Ejido
+May/17 Ferrol 0-0 Tenerife
+May/17 Gijon 0-0 Salamanca
+May/17 Real Sociedad 3-1 Granada 74
+May/17 Xerez CD 2-1 Castellon
+
+ Round 37
+
+May/11 Cadiz CF 2-2 Real Sociedad
+May/11 Cordoba 2-1 Xerez CD
+May/11 Hercules 1-2 El Ejido
+May/11 Alaves 0-0 Albacete
+May/11 Salamanca 0-1 Numancia
+May/10 Castellon 1-0 Elche
+May/10 Eibar 2-2 Las Palmas
+May/10 Malaga 1-2 Gimnastic
+May/10 Sevilla FC B 2-1 Celta Vigo
+May/10 Tenerife 0-2 Gijon
+May/10 Granada 74 3-3 Ferrol
+
+ Round 36
+
+May/04 El Ejido 1-0 Eibar
+May/04 Elche 3-2 Cordoba
+May/04 Gimnastic 2-2 Hercules
+May/04 Xerez CD 3-0 Alaves
+May/04 Celta Vigo 1-2 Malaga
+May/04 Ferrol 2-1 Cadiz CF
+May/04 Numancia 4-2 Tenerife
+May/03 Las Palmas 1-1 Castellon
+May/03 Albacete 2-1 Salamanca
+May/03 Gijon 2-1 Granada 74
+May/03 Real Sociedad 2-0 Sevilla FC B
+
+ Round 35
+
+Apr/27 Tenerife 2-2 Albacete
+Apr/27 Castellon 1-0 El Ejido
+Apr/27 Salamanca 2-2 Xerez CD
+Apr/27 Cadiz CF 0-1 Gijon
+Apr/27 Alaves 2-0 Elche
+Apr/26 Malaga 0-2 Real Sociedad
+Apr/26 Cordoba 0-1 Las Palmas
+Apr/26 Gimnastic 2-1 Celta Vigo
+Apr/26 Hercules 5-1 Eibar
+Apr/26 Granada 74 1-1 Numancia
+Apr/26 Sevilla FC B 2-1 Ferrol
+
+ Round 34
+
+Apr/20 Albacete 3-2 Granada 74
+Apr/20 Eibar 1-2 Castellon
+Apr/20 Gijon 4-1 Sevilla FC B
+Apr/20 Numancia 0-1 Cadiz CF
+Apr/20 Real Sociedad 0-0 Gimnastic
+Apr/20 Xerez CD 2-1 Tenerife
+Apr/20 Ferrol 0-0 Malaga
+Apr/20 Elche 0-3 Salamanca
+Apr/19 Celta Vigo 1-0 Hercules
+Apr/19 El Ejido 1-0 Cordoba
+Apr/19 Las Palmas 2-1 Alaves
+
+ Round 33
+
+Apr/13 Alaves 2-1 El Ejido
+Apr/13 Gimnastic 0-0 Ferrol
+Apr/13 Salamanca 2-2 Las Palmas
+Apr/13 Cadiz CF 2-1 Albacete
+Apr/13 Malaga 3-2 Gijon
+Apr/13 Sevilla FC B 1-1 Numancia
+Apr/12 Celta Vigo 1-1 Real Sociedad
+Apr/12 Cordoba 0-1 Eibar
+Apr/12 Hercules 1-0 Castellon
+Apr/12 Tenerife 1-1 Elche
+Apr/12 Granada 74 1-1 Xerez CD
+
+ Round 32
+
+Apr/06 Albacete 1-0 Sevilla FC B
+Apr/06 El Ejido 1-1 Salamanca
+Apr/06 Elche 0-0 Granada 74
+Apr/06 Castellon 1-1 Cordoba
+Apr/06 Real Sociedad 2-1 Hercules
+Apr/06 Numancia 2-1 Malaga
+Apr/05 Eibar 2-0 Alaves
+Apr/05 Ferrol 2-1 Celta Vigo
+Apr/05 Gijon 3-3 Gimnastic
+Apr/05 Las Palmas 1-1 Tenerife
+Apr/05 Xerez CD 2-1 Cadiz CF
+
+ Round 31
+
+Mar/30 Malaga 0-0 Albacete
+Mar/30 Salamanca 1-0 Eibar
+Mar/30 Tenerife 2-1 El Ejido
+Mar/30 Cadiz CF 1-1 Elche
+Mar/30 Hercules 2-1 Cordoba
+Mar/30 Real Sociedad 1-2 Ferrol
+Mar/30 Celta Vigo 0-0 Gijon
+Mar/29 Alaves 0-0 Castellon
+Mar/29 Gimnastic 1-2 Numancia
+Mar/29 Granada 74 0-3 Las Palmas
+Mar/29 Sevilla FC B 1-1 Xerez CD
+
+ Round 30
+
+Mar/23 Albacete 0-0 Gimnastic
+Mar/23 Castellon 1-0 Salamanca
+Mar/23 Cordoba 0-1 Alaves
+Mar/23 El Ejido 1-0 Granada 74
+Mar/23 Ferrol 1-1 Hercules
+Mar/23 Numancia 1-2 Celta Vigo
+Mar/22 Las Palmas 2-0 Cadiz CF
+Mar/22 Eibar 4-0 Tenerife
+Mar/22 Elche 2-0 Sevilla FC B
+Mar/22 Gijon 1-0 Real Sociedad
+Mar/22 Xerez CD 1-0 Malaga
+
+ Round 29
+
+Mar/16 Tenerife 2-1 Castellon
+Mar/16 Celta Vigo 0-1 Albacete
+Mar/16 Gimnastic 1-1 Xerez CD
+Mar/16 Hercules 1-1 Alaves
+Mar/16 Salamanca 1-1 Cordoba
+Mar/16 Malaga 2-0 Elche
+Mar/15 Cadiz CF 2-0 El Ejido
+Mar/15 Ferrol 2-2 Gijon
+Mar/15 Real Sociedad 0-1 Numancia
+Mar/15 Sevilla FC B 0-0 Las Palmas
+Mar/15 Granada 74 1-0 Eibar
+
+ Round 28
+
+Mar/09 Alaves 0-0 Salamanca
+Mar/09 Albacete 1-2 Real Sociedad
+Mar/09 Castellon 2-1 Granada 74
+Mar/09 Elche 2-0 Gimnastic
+Mar/09 Las Palmas 1-2 Malaga
+Mar/09 Numancia 1-0 Ferrol
+Mar/09 Gijon 1-1 Hercules
+Mar/08 Cordoba 2-2 Tenerife
+Mar/08 Eibar 1-0 Cadiz CF
+Mar/08 El Ejido 2-0 Sevilla FC B
+Mar/08 Xerez CD 1-0 Celta Vigo
+
+ Round 27
+
+Mar/02 Cadiz CF 1-1 Castellon
+Mar/02 Celta Vigo 2-2 Elche
+Mar/02 Gimnastic 2-0 Las Palmas
+Mar/02 Hercules 2-2 Salamanca
+Mar/02 Malaga 1-1 El Ejido
+Mar/02 Real Sociedad 4-2 Xerez CD
+Mar/02 Gijon 1-0 Numancia
+Mar/02 Sevilla FC B 2-0 Eibar
+Mar/01 Ferrol 1-1 Albacete
+Mar/01 Granada 74 0-2 Cordoba
+Mar/01 Tenerife 1-0 Alaves
+
+ Round 26
+
+Feb/24 Alaves 2-2 Granada 74
+Feb/24 Eibar 1-1 Malaga
+Feb/24 El Ejido 1-1 Gimnastic
+Feb/24 Salamanca 1-0 Tenerife
+Feb/24 Xerez CD 0-2 Ferrol
+Feb/24 Numancia 2-1 Hercules
+Feb/23 Castellon 0-0 Sevilla FC B
+Feb/23 Albacete 1-2 Gijon
+Feb/23 Cordoba 2-2 Cadiz CF
+Feb/23 Elche 0-0 Real Sociedad
+Feb/23 Las Palmas 1-0 Celta Vigo
+
+ Round 25
+
+Feb/17 Cadiz CF 2-0 Alaves
+Feb/17 Ferrol 1-0 Elche
+Feb/17 Real Sociedad 4-0 Las Palmas
+Feb/17 Malaga 3-1 Castellon
+Feb/17 Sevilla FC B 2-1 Cordoba
+Feb/16 Celta Vigo 2-1 El Ejido
+Feb/16 Gijon 2-0 Xerez CD
+Feb/16 Gimnastic 2-1 Eibar
+Feb/16 Hercules 2-1 Tenerife
+Feb/16 Numancia 1-0 Albacete
+Feb/16 Granada 74 0-0 Salamanca
+
+ Round 24
+
+Feb/10 Tenerife 2-0 Granada 74
+Feb/10 Albacete 1-1 Hercules
+Feb/10 Eibar 2-1 Celta Vigo
+Feb/10 El Ejido 0-1 Real Sociedad
+Feb/10 Salamanca 1-1 Cadiz CF
+Feb/10 Xerez CD 0-3 Numancia
+Feb/10 Elche 3-1 Gijon
+Feb/09 Alaves 1-0 Sevilla FC B
+Feb/09 Castellon 3-1 Gimnastic
+Feb/09 Cordoba 2-1 Malaga
+Feb/09 Las Palmas 2-2 Ferrol
+
+ Round 23
+
+Feb/03 Ferrol 2-0 El Ejido
+Feb/03 Gimnastic 2-2 Cordoba
+Feb/03 Hercules 0-0 Granada 74
+Feb/03 Numancia 0-1 Elche
+Feb/03 Gijon 0-1 Las Palmas
+Feb/03 Sevilla FC B 2-1 Salamanca
+Feb/02 Albacete 1-0 Xerez CD
+Feb/02 Cadiz CF 0-0 Tenerife
+Feb/02 Celta Vigo 1-2 Castellon
+Feb/02 Malaga 1-0 Alaves
+Feb/02 Real Sociedad 1-1 Eibar
+
+ Round 22
+
+Jan/27 Castellon 1-0 Real Sociedad
+Jan/27 Cordoba 0-2 Celta Vigo
+Jan/27 Eibar 1-3 Ferrol
+Jan/27 Granada 74 2-1 Cadiz CF
+Jan/27 Xerez CD 4-3 Hercules
+Jan/27 Salamanca 0-0 Malaga
+Jan/26 Las Palmas 1-2 Numancia
+Jan/26 Alaves 1-1 Gimnastic
+Jan/26 El Ejido 1-1 Gijon
+Jan/26 Elche 1-1 Albacete
+Jan/26 Tenerife 1-1 Sevilla FC B
+
+ Round 21
+
+Jan/20 Cadiz CF 1-2 Hercules
+Jan/20 Castellon 1-0 Ferrol
+Jan/20 Cordoba 1-3 Real Sociedad
+Jan/20 El Ejido 1-2 Numancia
+Jan/20 Elche 2-4 Xerez CD
+Jan/20 Salamanca 1-1 Gimnastic
+Jan/20 Tenerife 1-1 Malaga
+Jan/20 Eibar 0-3 Gijon
+Jan/19 Alaves 2-3 Celta Vigo
+Jan/19 Granada 74 1-1 Sevilla FC B
+Jan/19 Las Palmas 2-1 Albacete
+
+ Round 20
+
+Jan/13 Albacete 2-0 El Ejido
+Jan/13 Ferrol 0-1 Cordoba
+Jan/13 Gijon 0-2 Castellon
+Jan/13 Gimnastic 1-1 Tenerife
+Jan/13 Numancia 1-1 Eibar
+Jan/13 Hercules 0-1 Elche
+Jan/13 Sevilla FC B 1-2 Cadiz CF
+Jan/12 Celta Vigo 0-0 Salamanca
+Jan/12 Malaga 1-1 Granada 74
+Jan/12 Real Sociedad 1-0 Alaves
+Jan/12 Xerez CD 0-3 Las Palmas
+
+ Round 19
+
+Jan/06 Las Palmas 1-0 Elche
+Jan/06 Tenerife 3-2 Celta Vigo
+Jan/06 Alaves 1-0 Ferrol
+Jan/06 El Ejido 0-0 Xerez CD
+Jan/06 Granada 74 1-0 Gimnastic
+Jan/06 Hercules 1-2 Sevilla FC B
+Jan/06 Salamanca 3-2 Real Sociedad
+Jan/06 Cordoba 2-2 Gijon
+Jan/05 Cadiz CF 0-1 Malaga
+Jan/05 Castellon 0-0 Numancia
+Jan/05 Eibar 1-0 Albacete
+
+ Round 18
+
+Dec/23 Albacete 2-0 Castellon
+Dec/23 Numancia 2-1 Cordoba
+Dec/23 Celta Vigo 4-1 Granada 74
+Dec/22 Elche 2-1 El Ejido
+Dec/22 Gijon 3-2 Alaves
+Dec/22 Ferrol 0-2 Salamanca
+Dec/22 Gimnastic 0-1 Cadiz CF
+Dec/22 Las Palmas 0-0 Hercules
+Dec/22 Real Sociedad 2-1 Tenerife
+Dec/22 Malaga 3-0 Sevilla FC B
+Dec/22 Xerez CD 3-3 Eibar
+
+ Round 17
+
+Dec/16 Hercules 1-1 Malaga
+Dec/16 Tenerife 2-1 Ferrol
+Dec/16 Cadiz CF 3-1 Celta Vigo
+Dec/16 Castellon 1-0 Xerez CD
+Dec/16 Granada 74 1-2 Real Sociedad
+Dec/16 Sevilla FC B 2-0 Gimnastic
+Dec/15 Alaves 1-1 Numancia
+Dec/15 Cordoba 1-1 Albacete
+Dec/15 Eibar 2-1 Elche
+Dec/15 El Ejido 3-1 Las Palmas
+Dec/15 Salamanca 1-1 Gijon
+
+ Round 16
+
+Dec/09 Numancia 1-0 Salamanca
+Dec/09 Celta Vigo 2-1 Sevilla FC B
+Dec/09 El Ejido 0-0 Hercules
+Dec/09 Real Sociedad 0-0 Cadiz CF
+Dec/09 Xerez CD 0-0 Cordoba
+Dec/09 Gijon 0-1 Tenerife
+Dec/08 Las Palmas 1-0 Eibar
+Dec/08 Albacete 0-3 Alaves
+Dec/08 Elche 1-0 Castellon
+Dec/08 Gimnastic 1-1 Malaga
+Dec/08 Ferrol 1-3 Granada 74
+
+ Round 15
+
+Dec/02 Cordoba 1-1 Elche
+Dec/02 Alaves 0-0 Xerez CD
+Dec/02 Cadiz CF 3-1 Ferrol
+Dec/02 Castellon 1-1 Las Palmas
+Dec/02 Eibar 1-0 El Ejido
+Dec/02 Salamanca 0-1 Albacete
+Dec/02 Malaga 1-1 Celta Vigo
+Dec/01 Granada 74 1-0 Gijon
+Dec/01 Hercules 3-0 Gimnastic
+Dec/01 Sevilla FC B 0-0 Real Sociedad
+Dec/01 Tenerife 0-2 Numancia
+
+ Round 14
+
+Nov/25 Real Sociedad 2-0 Malaga
+Nov/25 Albacete 0-0 Tenerife
+Nov/25 Eibar 0-3 Hercules
+Nov/25 El Ejido 1-0 Castellon
+Nov/25 Ferrol 1-1 Sevilla FC B
+Nov/25 Gijon 4-2 Cadiz CF
+Nov/25 Numancia 0-2 Granada 74
+Nov/25 Xerez CD 1-1 Salamanca
+Nov/25 Celta Vigo 1-1 Gimnastic
+Nov/24 Elche 2-2 Alaves
+Nov/24 Las Palmas 3-1 Cordoba
+
+ Round 13
+
+Nov/18 Cadiz CF 0-0 Numancia
+Nov/18 Alaves 3-1 Las Palmas
+Nov/18 Salamanca 3-1 Elche
+Nov/18 Tenerife 3-1 Xerez CD
+Nov/18 Castellon 0-0 Eibar
+Nov/18 Cordoba 1-1 El Ejido
+Nov/18 Hercules 0-1 Celta Vigo
+Nov/17 Sevilla FC B 1-3 Gijon
+Nov/17 Gimnastic 1-1 Real Sociedad
+Nov/17 Granada 74 1-0 Albacete
+Nov/17 Malaga 4-2 Ferrol
+
+ Round 12
+
+Nov/11 Xerez CD 2-1 Granada 74
+Nov/11 Albacete 0-1 Cadiz CF
+Nov/11 El Ejido 1-0 Alaves
+Nov/11 Elche 3-1 Tenerife
+Nov/11 Numancia 0-1 Sevilla FC B
+Nov/11 Real Sociedad 1-1 Celta Vigo
+Nov/11 Gijon 0-1 Malaga
+Nov/10 Las Palmas 1-2 Salamanca
+Nov/10 Castellon 0-0 Hercules
+Nov/10 Eibar 2-1 Cordoba
+Nov/10 Ferrol 0-2 Gimnastic
+
+ Round 11
+
+Nov/04 Celta Vigo 1-1 Ferrol
+Nov/04 Cordoba 2-1 Castellon
+Nov/04 Hercules 1-1 Real Sociedad
+Nov/04 Salamanca 4-1 El Ejido
+Nov/04 Sevilla FC B 0-0 Albacete
+Nov/04 Malaga 0-1 Numancia
+Nov/03 Alaves 1-0 Eibar
+Nov/03 Cadiz CF 2-1 Xerez CD
+Nov/03 Gimnastic 2-0 Gijon
+Nov/03 Tenerife 2-2 Las Palmas
+Nov/03 Granada 74 0-0 Elche
+
+ Round 10
+
+Oct/28 Albacete 2-1 Malaga
+Oct/28 Castellon 2-0 Alaves
+Oct/28 Cordoba 3-3 Hercules
+Oct/28 Eibar 2-2 Salamanca
+Oct/28 Numancia 1-0 Gimnastic
+Oct/28 Xerez CD 0-0 Sevilla FC B
+Oct/28 Gijon 0-1 Celta Vigo
+Oct/27 Las Palmas 0-1 Granada 74
+Oct/27 El Ejido 1-1 Tenerife
+Oct/27 Elche 1-0 Cadiz CF
+Oct/27 Ferrol 0-0 Real Sociedad
+
+ Round 9
+
+Oct/21 Tenerife 4-2 Eibar
+Oct/21 Gimnastic 0-2 Albacete
+Oct/21 Alaves 0-2 Cordoba
+Oct/21 Hercules 1-0 Ferrol
+Oct/21 Malaga 1-0 Xerez CD
+Oct/21 Salamanca 1-0 Castellon
+Oct/21 Celta Vigo 2-2 Numancia
+Oct/20 Cadiz CF 0-0 Las Palmas
+Oct/20 Granada 74 1-0 El Ejido
+Oct/20 Real Sociedad 0-1 Gijon
+Oct/20 Sevilla FC B 2-1 Elche
+
+ Round 8
+
+Oct/14 Elche 2-0 Malaga
+Oct/14 Castellon 1-1 Tenerife
+Oct/14 Cordoba 1-1 Salamanca
+Oct/14 Eibar 2-0 Granada 74
+Oct/14 Gijon 0-0 Ferrol
+Oct/14 Xerez CD 2-2 Gimnastic
+Oct/13 Las Palmas 0-1 Sevilla FC B
+Oct/13 Alaves 2-1 Hercules
+Oct/13 Albacete 1-1 Celta Vigo
+Oct/13 El Ejido 1-0 Cadiz CF
+Oct/13 Numancia 2-1 Real Sociedad
+
+ Round 7
+
+Oct/07 Gimnastic 1-2 Elche
+Oct/07 Tenerife 0-0 Cordoba
+Oct/07 Cadiz CF 1-2 Eibar
+Oct/07 Salamanca 2-3 Alaves
+Oct/07 Ferrol 1-3 Numancia
+Oct/06 Celta Vigo 3-1 Xerez CD
+Oct/06 Hercules 2-3 Gijon
+Oct/06 Malaga 2-0 Las Palmas
+Oct/06 Real Sociedad 1-0 Albacete
+Oct/06 Granada 74 1-1 Castellon
+Oct/06 Sevilla FC B 2-2 El Ejido
+
+ Round 6
+
+Sep/30 Cordoba 0-0 Granada 74
+Sep/30 Eibar 0-1 Sevilla FC B
+Sep/30 Xerez CD 1-1 Real Sociedad
+Sep/30 Albacete 1-2 Ferrol
+Sep/30 Salamanca 1-1 Hercules
+Sep/30 Elche 2-0 Celta Vigo
+Sep/29 Las Palmas 1-0 Gimnastic
+Sep/29 Alaves 0-0 Tenerife
+Sep/29 Castellon 2-0 Cadiz CF
+Sep/29 El Ejido 2-3 Malaga
+Sep/29 Numancia 0-2 Gijon
+
+ Round 5
+
+Sep/23 Celta Vigo 2-0 Las Palmas
+Sep/23 Tenerife 2-1 Salamanca
+Sep/23 Ferrol 1-2 Xerez CD
+Sep/23 Gijon 1-0 Albacete
+Sep/23 Malaga 1-0 Eibar
+Sep/23 Hercules 1-3 Numancia
+Sep/22 Gimnastic 4-1 El Ejido
+Sep/22 Cadiz CF 0-1 Cordoba
+Sep/22 Real Sociedad 2-1 Elche
+Sep/22 Granada 74 2-2 Alaves
+Sep/22 Sevilla FC B 2-2 Castellon
+
+ Round 4
+
+Sep/16 Salamanca 3-1 Granada 74
+Sep/16 Cordoba 2-1 Sevilla FC B
+Sep/16 Tenerife 0-1 Hercules
+Sep/16 Eibar 2-0 Gimnastic
+Sep/16 El Ejido 0-1 Celta Vigo
+Sep/16 Castellon 2-3 Malaga
+Sep/15 Albacete 1-4 Numancia
+Sep/15 Las Palmas 2-3 Real Sociedad
+Sep/15 Alaves 1-1 Cadiz CF
+Sep/15 Elche 0-1 Ferrol
+Sep/15 Xerez CD 0-2 Gijon
+
+ Round 3
+
+Sep/09 Cadiz CF 1-0 Salamanca
+Sep/09 Hercules 2-0 Albacete
+Sep/09 Real Sociedad 0-1 El Ejido
+Sep/09 Ferrol 3-1 Las Palmas
+Sep/09 Numancia 2-1 Xerez CD
+Sep/09 Gijon 1-1 Elche
+Sep/09 Sevilla FC B 1-0 Alaves
+Sep/08 Celta Vigo 0-1 Eibar
+Sep/08 Gimnastic 1-0 Castellon
+Sep/08 Granada 74 4-1 Tenerife
+Sep/08 Malaga 4-1 Cordoba
+
+ Round 2
+
+Sep/02 Cordoba 2-2 Gimnastic
+Sep/02 El Ejido 1-3 Ferrol
+Sep/02 Elche 1-1 Numancia
+Sep/02 Salamanca 0-1 Sevilla FC B
+Sep/02 Tenerife 2-0 Cadiz CF
+Sep/02 Xerez CD 1-1 Albacete
+Sep/02 Alaves 0-1 Malaga
+Sep/01 Castellon 2-1 Celta Vigo
+Sep/01 Eibar 0-1 Real Sociedad
+Sep/01 Las Palmas 2-2 Gijon
+Sep/01 Granada 74 2-3 Hercules
+
+ Round 1
+
+Aug/26 Albacete 0-1 Elche
+Aug/26 Gimnastic 2-0 Alaves
+Aug/26 Gijon 4-0 El Ejido
+Aug/26 Real Sociedad 0-2 Castellon
+Aug/26 Sevilla FC B 1-1 Tenerife
+Aug/26 Malaga 3-0 Salamanca
+Aug/26 Celta Vigo 1-1 Cordoba
+Aug/25 Cadiz CF 2-0 Granada 74
+Aug/25 Ferrol 1-1 Eibar
+Aug/25 Hercules 2-2 Xerez CD
+Aug/25 Numancia 3-0 Las Palmas

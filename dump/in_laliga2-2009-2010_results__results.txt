@@ -1,0 +1,597 @@
+
+ Round 42
+
+Jun/19 Betis 4-0 Levante
+Jun/19 Cadiz CF 4-2 Numancia
+Jun/19 Cartagena 0-4 Albacete
+Jun/19 Castellon 0-1 Cordoba
+Jun/19 Celta Vigo 0-1 Huesca
+Jun/19 Elche 4-1 Real Sociedad
+Jun/19 Girona 1-1 Murcia
+Jun/19 Las Palmas 1-0 Gimnastic
+Jun/19 R. Union 0-2 Hercules
+Jun/19 Rayo Vallecano 4-0 Recreativo Huelva
+Jun/19 Villarreal B 1-2 Salamanca
+
+ Round 41
+
+Jun/13 Albacete 3-0 Girona
+Jun/13 Cordoba 4-0 R. Union
+Jun/13 Gimnastic 3-1 Elche
+Jun/13 Hercules 2-1 Rayo Vallecano
+Jun/13 Huesca 2-1 Cadiz CF
+Jun/13 Levante 3-1 Castellon
+Jun/13 Murcia 1-0 Las Palmas
+Jun/13 Real Sociedad 2-0 Celta Vigo
+Jun/13 Recreativo Huelva 1-0 Cartagena
+Jun/13 Salamanca 1-1 Betis
+Jun/12 Numancia 1-0 Villarreal B
+
+ Round 40
+
+Jun/06 Cartagena 0-0 Hercules
+Jun/06 R. Union 2-1 Levante
+Jun/06 Rayo Vallecano 3-2 Cordoba
+Jun/05 Betis 2-0 Numancia
+Jun/05 Albacete 1-3 Recreativo Huelva
+Jun/05 Cadiz CF 1-3 Real Sociedad
+Jun/05 Celta Vigo 3-1 Gimnastic
+Jun/05 Elche 1-2 Murcia
+Jun/05 Las Palmas 0-1 Girona
+Jun/05 Villarreal B 1-1 Huesca
+Jun/05 Castellon 1-2 Salamanca
+
+ Round 39
+
+May/30 Hercules 5-1 Albacete
+May/30 Numancia 2-1 Castellon
+May/30 Gimnastic 0-2 Cadiz CF
+May/30 Girona 0-0 Recreativo Huelva
+May/30 Murcia 4-1 Celta Vigo
+May/30 Salamanca 3-0 R. Union
+May/29 Levante 2-1 Rayo Vallecano
+May/29 Cordoba 1-2 Cartagena
+May/29 Huesca 0-1 Betis
+May/29 Las Palmas 4-1 Elche
+May/29 Real Sociedad 2-1 Villarreal B
+
+ Round 38
+
+May/23 Betis 1-0 Real Sociedad
+May/23 Cadiz CF 1-0 Murcia
+May/23 Recreativo Huelva 0-0 Hercules
+May/23 Rayo Vallecano 0-0 Salamanca
+May/23 Villarreal B 1-0 Gimnastic
+May/22 Albacete 3-0 Cordoba
+May/22 Cartagena 3-5 Levante
+May/22 Castellon 1-2 Huesca
+May/22 Celta Vigo 1-0 Las Palmas
+May/22 R. Union 4-3 Numancia
+May/22 Elche 4-0 Girona
+
+ Round 37
+
+May/17 Girona 1-1 Hercules
+May/16 Numancia 1-1 Rayo Vallecano
+May/16 Elche 1-0 Celta Vigo
+May/15 Las Palmas 1-1 Cadiz CF
+May/15 Gimnastic 0-1 Betis
+May/15 Huesca 2-3 R. Union
+May/15 Levante 1-1 Albacete
+May/15 Murcia 2-2 Villarreal B
+May/15 Salamanca 1-0 Cartagena
+May/15 Cordoba 1-1 Recreativo Huelva
+May/14 Real Sociedad 0-0 Castellon
+
+ Round 36
+
+May/10 Hercules 4-0 Cordoba
+May/09 Cadiz CF 2-1 Elche
+May/09 Albacete 2-1 Salamanca
+May/09 Betis 1-1 Murcia
+May/08 Cartagena 2-1 Numancia
+May/08 Celta Vigo 2-1 Girona
+May/08 R. Union 0-0 Real Sociedad
+May/08 Rayo Vallecano 4-1 Huesca
+May/08 Recreativo Huelva 0-1 Levante
+May/08 Villarreal B 2-5 Las Palmas
+May/07 Castellon 0-0 Gimnastic
+
+ Round 35
+
+May/03 Gimnastic 1-2 R. Union
+May/02 Murcia 1-1 Castellon
+May/02 Salamanca 1-2 Recreativo Huelva
+May/02 Levante 2-1 Hercules
+May/01 Celta Vigo 2-1 Cadiz CF
+May/01 Girona 2-1 Cordoba
+May/01 Huesca 0-2 Cartagena
+May/01 Las Palmas 1-1 Betis
+May/01 Numancia 1-1 Albacete
+May/01 Real Sociedad 1-0 Rayo Vallecano
+Apr/30 Elche 2-3 Villarreal B
+
+ Round 34
+
+Apr/25 Cadiz CF 2-0 Girona
+Apr/25 Cordoba 2-1 Levante
+Apr/25 Hercules 4-0 Salamanca
+Apr/25 Recreativo Huelva 1-3 Numancia
+Apr/25 Cartagena 1-1 Real Sociedad
+Apr/24 Albacete 0-0 Huesca
+Apr/24 Betis 0-3 Elche
+Apr/24 Castellon 2-0 Las Palmas
+Apr/24 R. Union 2-0 Murcia
+Apr/24 Villarreal B 1-0 Celta Vigo
+Apr/23 Rayo Vallecano 2-3 Gimnastic
+
+ Round 33
+
+Apr/18 Las Palmas 2-1 R. Union
+Apr/18 Cadiz CF 0-0 Villarreal B
+Apr/18 Elche 2-0 Castellon
+Apr/18 Murcia 0-3 Rayo Vallecano
+Apr/18 Numancia 1-1 Hercules
+Apr/18 Salamanca 1-0 Cordoba
+Apr/18 Celta Vigo 1-1 Betis
+Apr/17 Gimnastic 3-2 Cartagena
+Apr/17 Huesca 1-2 Recreativo Huelva
+Apr/17 Real Sociedad 0-0 Albacete
+Apr/16 Girona 0-4 Levante
+
+ Round 32
+
+Apr/12 Recreativo Huelva 2-0 Real Sociedad
+Apr/11 Castellon 2-1 Celta Vigo
+Apr/11 Cordoba 2-1 Numancia
+Apr/11 Levante 2-0 Salamanca
+Apr/11 Cartagena 3-2 Murcia
+Apr/10 Albacete 1-1 Gimnastic
+Apr/10 Betis 4-0 Cadiz CF
+Apr/10 R. Union 0-3 Elche
+Apr/10 Rayo Vallecano 3-2 Las Palmas
+Apr/10 Villarreal B 2-0 Girona
+Apr/09 Hercules 0-2 Huesca
+
+ Round 31
+
+Apr/05 Villarreal B 2-2 Betis
+Apr/04 Cadiz CF 1-0 Castellon
+Apr/04 Girona 1-0 Salamanca
+Apr/04 Real Sociedad 1-0 Hercules
+Apr/03 Celta Vigo 0-1 R. Union
+Apr/03 Elche 2-2 Rayo Vallecano
+Apr/03 Gimnastic 1-1 Recreativo Huelva
+Apr/03 Huesca 0-0 Cordoba
+Apr/03 Las Palmas 0-1 Cartagena
+Apr/03 Murcia 0-2 Albacete
+Apr/02 Numancia 0-1 Levante
+
+ Round 30
+
+Mar/28 Hercules 0-1 Gimnastic
+Mar/28 Salamanca 1-3 Numancia
+Mar/28 Cartagena 0-2 Elche
+Mar/27 Albacete 3-2 Las Palmas
+Mar/27 Castellon 3-2 Villarreal B
+Mar/27 Cordoba 2-0 Real Sociedad
+Mar/27 Levante 1-1 Huesca
+Mar/27 Rayo Vallecano 1-2 Celta Vigo
+Mar/27 Recreativo Huelva 0-2 Murcia
+Mar/27 Betis 0-1 Girona
+Mar/26 R. Union 0-0 Cadiz CF
+
+ Round 29
+
+Mar/22 Betis 2-0 Castellon
+Mar/21 Cadiz CF 1-1 Rayo Vallecano
+Mar/21 Girona 0-0 Numancia
+Mar/21 Huesca 2-0 Salamanca
+Mar/21 Real Sociedad 3-1 Levante
+Mar/20 Las Palmas 1-1 Recreativo Huelva
+Mar/20 Celta Vigo 1-0 Cartagena
+Mar/20 Elche 2-1 Albacete
+Mar/20 Gimnastic 0-2 Cordoba
+Mar/20 Villarreal B 3-1 R. Union
+Mar/19 Murcia 0-0 Hercules
+
+ Round 28
+
+Mar/14 Albacete 0-2 Celta Vigo
+Mar/14 Recreativo Huelva 2-1 Elche
+Mar/14 Salamanca 0-0 Real Sociedad
+Mar/14 Hercules 0-1 Las Palmas
+Mar/13 Castellon 0-1 Girona
+Mar/13 Cordoba 0-1 Murcia
+Mar/13 Levante 6-1 Gimnastic
+Mar/13 Numancia 1-0 Huesca
+Mar/13 R. Union 1-3 Betis
+Mar/13 Rayo Vallecano 0-2 Villarreal B
+Mar/12 Cartagena 4-1 Cadiz CF
+
+ Round 27
+
+Mar/07 Betis 3-1 Rayo Vallecano
+Mar/07 Cadiz CF 4-3 Albacete
+Mar/07 Murcia 1-1 Levante
+Mar/07 Real Sociedad 2-1 Numancia
+Mar/07 Elche 2-0 Hercules
+Mar/06 Castellon 1-1 R. Union
+Mar/06 Celta Vigo 1-1 Recreativo Huelva
+Mar/06 Girona 2-0 Huesca
+Mar/06 Las Palmas 1-0 Cordoba
+Mar/06 Villarreal B 0-0 Cartagena
+Mar/05 Gimnastic 1-2 Salamanca
+
+ Round 26
+
+Feb/28 Cordoba 2-0 Elche
+Feb/28 R. Union 1-1 Girona
+Feb/28 Cartagena 1-2 Betis
+Feb/27 Albacete 1-1 Villarreal B
+Feb/27 Hercules 1-0 Celta Vigo
+Feb/27 Huesca 1-1 Real Sociedad
+Feb/27 Levante 1-1 Las Palmas
+Feb/27 Recreativo Huelva 2-1 Cadiz CF
+Feb/27 Salamanca 0-2 Murcia
+Feb/27 Numancia 1-1 Gimnastic
+Feb/26 Rayo Vallecano 3-0 Castellon
+
+ Round 25
+
+Feb/21 Las Palmas 2-2 Salamanca
+Feb/21 Celta Vigo 1-0 Cordoba
+Feb/21 Gimnastic 0-1 Huesca
+Feb/21 Girona 1-0 Real Sociedad
+Feb/21 Murcia 1-0 Numancia
+Feb/21 R. Union 2-1 Rayo Vallecano
+Feb/21 Cadiz CF 2-2 Hercules
+Feb/20 Betis 0-0 Albacete
+Feb/20 Castellon 2-2 Cartagena
+Feb/20 Villarreal B 1-1 Recreativo Huelva
+Feb/19 Elche 0-0 Levante
+
+ Round 24
+
+Feb/14 Huesca 1-0 Murcia
+Feb/14 Levante 1-0 Celta Vigo
+Feb/14 Salamanca 0-1 Elche
+Feb/14 Real Sociedad 1-0 Gimnastic
+Feb/13 Albacete 1-1 Castellon
+Feb/13 Cartagena 1-0 R. Union
+Feb/13 Hercules 4-2 Villarreal B
+Feb/13 Numancia 3-1 Las Palmas
+Feb/13 Rayo Vallecano 0-3 Girona
+Feb/13 Recreativo Huelva 1-1 Betis
+Feb/12 Cordoba 1-0 Cadiz CF
+
+ Round 23
+
+Feb/07 Las Palmas 0-0 Huesca
+Feb/07 Cadiz CF 2-4 Levante
+Feb/07 Castellon 0-0 Recreativo Huelva
+Feb/07 Celta Vigo 0-0 Salamanca
+Feb/07 R. Union 2-1 Albacete
+Feb/07 Rayo Vallecano 2-3 Cartagena
+Feb/07 Betis 1-1 Hercules
+Feb/06 Girona 0-2 Gimnastic
+Feb/06 Murcia 1-1 Real Sociedad
+Feb/06 Villarreal B 4-0 Cordoba
+Feb/06 Elche 0-1 Numancia
+
+ Round 19
+
+Feb/03 Cordoba 0-0 Rayo Vallecano
+
+ Round 22
+
+Jan/31 Gimnastic 2-3 Murcia
+Jan/31 Numancia 0-0 Celta Vigo
+Jan/31 Recreativo Huelva 0-0 R. Union
+Jan/31 Salamanca 1-1 Cadiz CF
+Jan/31 Cordoba 0-1 Betis
+Jan/30 Albacete 2-2 Rayo Vallecano
+Jan/30 Cartagena 4-1 Girona
+Jan/30 Huesca 0-0 Elche
+Jan/30 Levante 2-1 Villarreal B
+Jan/30 Real Sociedad 2-2 Las Palmas
+Jan/30 Hercules 1-2 Castellon
+
+ Round 21
+
+Jan/24 Cordoba 0-0 Castellon
+Jan/24 Huesca 1-1 Celta Vigo
+Jan/24 Murcia 0-0 Girona
+Jan/24 Real Sociedad 0-1 Elche
+Jan/24 Recreativo Huelva 2-0 Rayo Vallecano
+Jan/24 Levante 1-0 Betis
+Jan/23 Albacete 0-0 Cartagena
+Jan/23 Gimnastic 2-1 Las Palmas
+Jan/23 Hercules 1-0 R. Union
+Jan/23 Salamanca 2-4 Villarreal B
+Jan/23 Numancia 1-3 Cadiz CF
+
+ Round 19
+
+Jan/20 Salamanca 1-1 Castellon
+
+ Round 20
+
+Jan/17 Cartagena 1-0 Recreativo Huelva
+Jan/17 Elche 2-2 Gimnastic
+Jan/17 R. Union 2-3 Cordoba
+Jan/17 Villarreal B 1-0 Numancia
+Jan/17 Rayo Vallecano 4-4 Hercules
+Jan/16 Cadiz CF 0-0 Huesca
+Jan/16 Castellon 0-0 Levante
+Jan/16 Celta Vigo 0-1 Real Sociedad
+Jan/16 Girona 2-2 Albacete
+Jan/16 Las Palmas 0-3 Murcia
+Jan/16 Betis 1-0 Salamanca
+
+ Round 19
+
+Jan/10 Girona 0-2 Las Palmas
+Jan/10 Huesca 0-1 Villarreal B
+Jan/10 Levante 1-0 R. Union
+Jan/10 Hercules 2-0 Cartagena
+Jan/09 Gimnastic 0-2 Celta Vigo
+Jan/09 Murcia 0-2 Elche
+Jan/09 Real Sociedad 4-1 Cadiz CF
+Jan/09 Recreativo Huelva 0-0 Albacete
+Jan/09 Numancia 3-0 Betis
+
+ Round 18
+
+Jan/03 Cadiz CF 0-1 Gimnastic
+Jan/03 Celta Vigo 1-1 Murcia
+Jan/03 Elche 2-5 Las Palmas
+Jan/03 Villarreal B 1-1 Real Sociedad
+Jan/03 Rayo Vallecano 0-0 Levante
+Jan/02 Albacete 1-2 Hercules
+Jan/02 Betis 1-1 Huesca
+Jan/02 Cartagena 0-0 Cordoba
+Jan/02 R. Union 1-1 Salamanca
+Jan/02 Recreativo Huelva 2-2 Girona
+Jan/02 Castellon 0-1 Numancia
+
+ Round 17
+
+Dec/20 Gimnastic 2-1 Villarreal B
+Dec/20 Girona 3-2 Elche
+Dec/20 Huesca 2-0 Castellon
+Dec/20 Murcia 2-2 Cadiz CF
+Dec/20 Real Sociedad 2-0 Betis
+Dec/19 Cordoba 0-2 Albacete
+Dec/19 Hercules 2-0 Recreativo Huelva
+Dec/19 Las Palmas 1-1 Celta Vigo
+Dec/19 Levante 1-2 Cartagena
+Dec/19 Numancia 1-0 R. Union
+Dec/19 Salamanca 0-1 Rayo Vallecano
+
+ Round 16
+
+Dec/13 Betis 3-0 Gimnastic
+Dec/13 Cadiz CF 0-0 Las Palmas
+Dec/13 Celta Vigo 2-1 Elche
+Dec/13 R. Union 1-1 Huesca
+Dec/13 Cartagena 3-4 Salamanca
+Dec/12 Albacete 1-0 Levante
+Dec/12 Hercules 2-0 Girona
+Dec/12 Rayo Vallecano 4-1 Numancia
+Dec/12 Recreativo Huelva 0-0 Cordoba
+Dec/12 Villarreal B 2-1 Murcia
+Dec/12 Castellon 0-1 Real Sociedad
+
+ Round 15
+
+Dec/06 Gimnastic 2-1 Castellon
+Dec/06 Las Palmas 0-0 Villarreal B
+Dec/06 Murcia 2-0 Betis
+Dec/06 Levante 1-1 Recreativo Huelva
+Dec/05 Elche 1-1 Cadiz CF
+Dec/05 Girona 1-2 Celta Vigo
+Dec/05 Huesca 2-1 Rayo Vallecano
+Dec/05 Numancia 2-1 Cartagena
+Dec/05 Real Sociedad 4-1 R. Union
+Dec/05 Salamanca 3-2 Albacete
+Dec/05 Cordoba 1-1 Hercules
+
+ Round 10
+
+Dec/02 Betis 4-0 Villarreal B
+
+ Round 14
+
+Nov/29 Albacete 2-3 Numancia
+Nov/29 Castellon 2-1 Murcia
+Nov/29 Villarreal B 2-2 Elche
+Nov/29 Betis 1-0 Las Palmas
+Nov/29 Cordoba 2-2 Girona
+Nov/29 Rayo Vallecano 3-3 Real Sociedad
+Nov/28 Cartagena 1-0 Huesca
+Nov/28 Hercules 2-1 Levante
+Nov/28 R. Union 1-0 Gimnastic
+Nov/28 Recreativo Huelva 0-2 Salamanca
+Nov/28 Cadiz CF 3-1 Celta Vigo
+
+ Round 13
+
+Nov/22 Elche 3-0 Betis
+Nov/22 Numancia 1-1 Recreativo Huelva
+Nov/22 Salamanca 0-0 Hercules
+Nov/22 Real Sociedad 1-0 Cartagena
+Nov/21 Celta Vigo 0-2 Villarreal B
+Nov/21 Gimnastic 1-1 Rayo Vallecano
+Nov/21 Huesca 2-1 Albacete
+Nov/21 Las Palmas 2-2 Castellon
+Nov/21 Levante 0-0 Cordoba
+Nov/21 Murcia 3-0 R. Union
+Nov/21 Girona 4-0 Cadiz CF
+
+ Round 12
+
+Nov/15 Betis 1-1 Celta Vigo
+Nov/15 Cartagena 0-2 Gimnastic
+Nov/15 Cordoba 2-0 Salamanca
+Nov/15 Hercules 1-0 Numancia
+Nov/14 Albacete 0-0 Real Sociedad
+Nov/14 Castellon 0-2 Elche
+Nov/14 Levante 3-2 Girona
+Nov/14 R. Union 0-0 Las Palmas
+Nov/14 Rayo Vallecano 2-0 Murcia
+Nov/14 Recreativo Huelva 2-0 Huesca
+Nov/14 Villarreal B 2-0 Cadiz CF
+
+ Round 11
+
+Nov/08 Cadiz CF 2-2 Betis
+Nov/08 Elche 2-1 R. Union
+Nov/08 Girona 3-1 Villarreal B
+Nov/08 Murcia 1-4 Cartagena
+Nov/07 Celta Vigo 2-1 Castellon
+Nov/07 Gimnastic 1-3 Albacete
+Nov/07 Huesca 1-0 Hercules
+Nov/07 Las Palmas 2-1 Rayo Vallecano
+Nov/07 Numancia 2-2 Cordoba
+Nov/07 Salamanca 3-2 Levante
+Nov/07 Real Sociedad 1-0 Recreativo Huelva
+
+ Round 10
+
+Nov/01 Levante 3-1 Numancia
+Nov/01 Salamanca 0-1 Girona
+Nov/01 Hercules 5-1 Real Sociedad
+Oct/31 Albacete 3-2 Murcia
+Oct/31 Cartagena 4-1 Las Palmas
+Oct/31 Castellon 4-1 Cadiz CF
+Oct/31 Cordoba 2-1 Huesca
+Oct/31 R. Union 2-0 Celta Vigo
+Oct/31 Rayo Vallecano 0-1 Elche
+Oct/31 Recreativo Huelva 0-1 Gimnastic
+
+ Round 9
+
+Oct/25 Cadiz CF 2-1 R. Union
+Oct/25 Elche 1-1 Cartagena
+Oct/25 Numancia 1-1 Salamanca
+Oct/25 Celta Vigo 0-0 Rayo Vallecano
+Oct/24 Girona 0-2 Betis
+Oct/24 Huesca 0-0 Levante
+Oct/24 Las Palmas 4-0 Albacete
+Oct/24 Murcia 0-1 Recreativo Huelva
+Oct/24 Real Sociedad 1-0 Cordoba
+Oct/24 Villarreal B 3-1 Castellon
+Oct/24 Gimnastic 1-1 Hercules
+
+ Round 8
+
+Oct/18 Albacete 2-2 Elche
+Oct/18 Cordoba 1-1 Gimnastic
+Oct/18 Levante 1-0 Real Sociedad
+Oct/18 Numancia 3-1 Girona
+Oct/18 Hercules 1-1 Murcia
+Oct/17 Cartagena 1-1 Celta Vigo
+Oct/17 R. Union 0-1 Villarreal B
+Oct/17 Rayo Vallecano 2-2 Cadiz CF
+Oct/17 Recreativo Huelva 2-0 Las Palmas
+Oct/17 Salamanca 2-1 Huesca
+Oct/17 Castellon 1-0 Betis
+
+ Round 7
+
+Oct/11 Cadiz CF 1-3 Cartagena
+Oct/11 Betis 1-1 R. Union
+Oct/11 Real Sociedad 2-0 Salamanca
+Oct/10 Celta Vigo 1-1 Albacete
+Oct/10 Elche 3-2 Recreativo Huelva
+Oct/10 Gimnastic 1-0 Levante
+Oct/10 Girona 1-0 Castellon
+Oct/10 Huesca 0-0 Numancia
+Oct/10 Las Palmas 0-0 Hercules
+Oct/10 Murcia 1-1 Cordoba
+Oct/10 Villarreal B 0-2 Rayo Vallecano
+
+ Round 6
+
+Oct/04 Albacete 0-1 Cadiz CF
+Oct/04 Cordoba 1-0 Las Palmas
+Oct/04 Numancia 1-3 Real Sociedad
+Oct/04 Salamanca 1-0 Gimnastic
+Oct/04 Rayo Vallecano 2-2 Betis
+Oct/03 Hercules 3-0 Elche
+Oct/03 Huesca 2-2 Girona
+Oct/03 Levante 2-2 Murcia
+Oct/03 R. Union 3-1 Castellon
+Oct/03 Recreativo Huelva 1-2 Celta Vigo
+Oct/03 Cartagena 0-0 Villarreal B
+
+ Round 5
+
+Sep/27 Elche 3-0 Cordoba
+Sep/27 Gimnastic 0-1 Numancia
+Sep/27 Real Sociedad 2-0 Huesca
+Sep/27 Betis 0-0 Cartagena
+Sep/26 Cadiz CF 1-0 Recreativo Huelva
+Sep/26 Castellon 1-3 Rayo Vallecano
+Sep/26 Girona 0-2 R. Union
+Sep/26 Las Palmas 0-1 Levante
+Sep/26 Murcia 2-2 Salamanca
+Sep/26 Villarreal B 2-2 Albacete
+Sep/26 Celta Vigo 0-1 Hercules
+
+ Round 4
+
+Sep/20 Albacete 1-3 Betis
+Sep/20 Real Sociedad 2-2 Girona
+Sep/20 Recreativo Huelva 2-1 Villarreal B
+Sep/20 Salamanca 0-1 Las Palmas
+Sep/20 Hercules 1-0 Cadiz CF
+Sep/19 Cartagena 2-1 Castellon
+Sep/19 Cordoba 1-0 Celta Vigo
+Sep/19 Levante 2-1 Elche
+Sep/19 Numancia 1-1 Murcia
+Sep/19 Rayo Vallecano 2-0 R. Union
+Sep/19 Huesca 0-1 Gimnastic
+
+ Round 3
+
+Sep/13 Betis 3-0 Recreativo Huelva
+Sep/13 Elche 2-2 Salamanca
+Sep/13 Murcia 1-1 Huesca
+Sep/13 Girona 1-1 Rayo Vallecano
+Sep/12 Cadiz CF 0-0 Cordoba
+Sep/12 Castellon 3-5 Albacete
+Sep/12 Celta Vigo 1-1 Levante
+Sep/12 Gimnastic 1-2 Real Sociedad
+Sep/12 Las Palmas 1-0 Numancia
+Sep/12 Villarreal B 1-0 Hercules
+Sep/12 R. Union 1-1 Cartagena
+
+ Round 2
+
+Sep/06 Albacete 1-0 R. Union
+Sep/06 Hercules 3-2 Betis
+Sep/06 Real Sociedad 0-0 Murcia
+Sep/06 Salamanca 1-1 Celta Vigo
+Sep/06 Numancia 4-1 Elche
+Sep/05 Levante 1-1 Cadiz CF
+Sep/05 Cartagena 2-0 Rayo Vallecano
+Sep/05 Cordoba 3-1 Villarreal B
+Sep/05 Gimnastic 1-1 Girona
+Sep/05 Huesca 1-1 Las Palmas
+Sep/05 Recreativo Huelva 2-0 Castellon
+
+ Round 1
+
+Aug/30 Murcia 0-1 Gimnastic
+Aug/30 Cadiz CF 0-1 Salamanca
+Aug/30 Castellon 0-0 Hercules
+Aug/30 Elche 0-2 Huesca
+Aug/29 Betis 3-0 Cordoba
+Aug/29 Celta Vigo 1-2 Numancia
+Aug/29 Girona 0-1 Cartagena
+Aug/29 Las Palmas 1-1 Real Sociedad
+Aug/29 R. Union 0-1 Recreativo Huelva
+Aug/29 Rayo Vallecano 3-0 Albacete
+Aug/29 Villarreal B 2-2 Levante

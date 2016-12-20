@@ -1,0 +1,438 @@
+
+ Round 35
+
+May/21 Den Haag 0-2 Groningen
+May/21 Dordrecht 2-3 Roosendaal
+May/21 Eindhoven FC 3-1 Veendam
+May/21 FC Emmen 2-1 Oss
+May/21 Heracles 2-0 Volendam
+May/21 Telstar 2-0 Excelsior
+May/21 Venlo 2-3 G.A. Eagles
+May/21 Zwolle 0-0 Haarlem
+May/20 Den Bosch 4-4 Helmond
+
+ Round 34
+
+May/16 Excelsior 7-1 Venlo
+May/14 Den Haag 2-1 Dordrecht
+May/14 G.A. Eagles 1-0 Groningen
+May/14 Haarlem 2-1 Eindhoven FC
+May/14 Helmond 1-0 FC Emmen
+May/14 Oss 0-0 Heracles
+May/14 Roosendaal 3-1 Zwolle
+May/14 Veendam 0-1 Den Bosch
+May/14 Volendam 5-4 Telstar
+
+ Round 33
+
+May/09 Heracles 0-0 FC Emmen
+May/07 Den Bosch 2-2 Haarlem
+May/07 Dordrecht 4-0 G.A. Eagles
+May/07 Eindhoven FC 1-0 Roosendaal
+May/07 Groningen 4-0 Excelsior
+May/07 Helmond 0-2 Veendam
+May/07 Telstar 2-2 Oss
+May/07 Venlo 2-4 Volendam
+May/07 Zwolle 2-1 Den Haag
+
+ Round 32
+
+May/02 Excelsior 1-2 Dordrecht
+May/02 Volendam 2-0 Groningen
+May/01 Roosendaal 1-2 Den Bosch
+Apr/30 Den Haag 2-0 Eindhoven FC
+Apr/30 FC Emmen 2-1 Telstar
+Apr/30 G.A. Eagles 2-3 Zwolle
+Apr/30 Haarlem 2-1 Veendam
+Apr/30 Heracles 0-1 Helmond
+Apr/30 Oss 5-0 Venlo
+
+ Round 31
+
+Apr/25 Venlo 1-0 FC Emmen
+Apr/24 Den Bosch 4-1 Den Haag
+Apr/23 Dordrecht 3-2 Volendam
+Apr/23 Eindhoven FC 3-2 G.A. Eagles
+Apr/23 Groningen 1-1 Oss
+Apr/23 Helmond 2-1 Haarlem
+Apr/23 Telstar 2-2 Heracles
+Apr/23 Veendam 3-5 Roosendaal
+Apr/23 Zwolle 3-1 Excelsior
+
+ Round 30
+
+Apr/18 Volendam 1-1 Zwolle
+Apr/17 FC Emmen 1-0 Groningen
+Apr/16 Den Haag 1-2 Veendam
+Apr/16 Excelsior 3-2 Eindhoven FC
+Apr/16 G.A. Eagles 1-2 Den Bosch
+Apr/16 Heracles 4-2 Venlo
+Apr/16 Oss 2-2 Dordrecht
+Apr/16 Roosendaal 2-2 Haarlem
+Apr/16 Telstar 2-0 Helmond
+
+ Round 29
+
+Apr/11 Groningen 2-1 Heracles
+Apr/10 Haarlem 0-1 Den Haag
+Apr/09 Den Bosch 3-3 Excelsior
+Apr/09 Dordrecht 1-0 FC Emmen
+Apr/09 Eindhoven FC 3-2 Volendam
+Apr/09 Helmond 3-3 Roosendaal
+Apr/09 Veendam 1-2 G.A. Eagles
+Apr/09 Venlo 3-3 Telstar
+Apr/09 Zwolle 1-0 Oss
+Apr/05 Groningen 1-2 Den Bosch
+
+ Round 28
+
+Apr/04 FC Emmen 3-0 Zwolle
+Apr/02 Den Haag 2-1 Roosendaal
+Apr/02 Excelsior 2-3 Veendam
+Apr/02 G.A. Eagles 3-3 Haarlem
+Apr/02 Heracles 1-0 Dordrecht
+Apr/02 Oss 0-4 Eindhoven FC
+Apr/02 Telstar 0-2 Groningen
+Apr/02 Venlo 0-1 Helmond
+Mar/27 Volendam 1-4 Den Bosch
+Mar/26 Veendam 1-1 Telstar
+
+ Round 27
+
+Mar/21 Eindhoven FC 1-1 FC Emmen
+Mar/21 Veendam 5-1 Volendam
+Mar/20 Den Bosch 2-1 Oss
+Mar/20 Groningen 3-3 Den Haag
+Mar/19 Dordrecht 4-0 Telstar
+Mar/19 Haarlem 1-1 Excelsior
+Mar/19 Roosendaal 0-0 G.A. Eagles
+Mar/19 Zwolle 0-1 Heracles
+Mar/16 Groningen 4-0 Venlo
+Mar/16 Helmond 1-1 Den Haag
+
+ Round 26
+
+Mar/14 Telstar 1-2 Zwolle
+Mar/14 Volendam 2-2 Haarlem
+Mar/13 G.A. Eagles 3-0 Den Haag
+Mar/12 Excelsior 1-1 Roosendaal
+Mar/12 FC Emmen 0-1 Den Bosch
+Mar/12 Groningen 2-0 Helmond
+Mar/12 Heracles 2-1 Eindhoven FC
+Mar/12 Oss 2-0 Veendam
+Mar/12 Venlo 1-2 Dordrecht
+
+ Round 25
+
+Mar/07 Helmond 2-2 G.A. Eagles
+Mar/05 Den Bosch 1-2 Heracles
+Mar/05 Den Haag 4-0 Excelsior
+Mar/05 Dordrecht 2-3 Groningen
+Mar/05 Eindhoven FC 3-0 Telstar
+Mar/05 Haarlem 1-1 Oss
+Mar/05 Roosendaal 0-1 Volendam
+Mar/05 Veendam 1-1 FC Emmen
+Mar/05 Zwolle 1-2 Venlo
+Mar/02 Heracles 0-1 Roosendaal
+Mar/02 Volendam 2-3 Excelsior
+
+ Round 24
+
+Feb/28 Venlo 8-1 Eindhoven FC
+Feb/27 Excelsior 3-2 G.A. Eagles
+Feb/27 Groningen 0-0 Zwolle
+Feb/26 Dordrecht 0-2 Helmond
+Feb/26 FC Emmen 3-1 Haarlem
+Feb/26 Heracles 2-1 Veendam
+Feb/26 Oss 0-3 Roosendaal
+Feb/26 Telstar 0-1 Den Bosch
+
+ Round 23
+
+Feb/23 Den Haag 0-2 Heracles
+Feb/23 Eindhoven FC 4-5 Groningen
+Feb/23 Helmond 0-1 Volendam
+Feb/23 Oss 1-2 G.A. Eagles
+Feb/23 Venlo 1-1 Veendam
+Feb/23 Zwolle 1-0 Dordrecht
+
+ Round 22
+
+Feb/21 Roosendaal 1-1 FC Emmen
+Feb/20 Veendam 1-2 Groningen
+Feb/19 Den Bosch 3-0 Venlo
+Feb/19 Den Haag 1-1 Oss
+Feb/19 Eindhoven FC 1-4 Zwolle
+Feb/19 G.A. Eagles 0-0 Volendam
+Feb/19 Haarlem 2-1 Heracles
+Feb/19 Helmond 1-3 Excelsior
+Feb/16 Dordrecht 3-0 Eindhoven FC
+Feb/14 Zwolle 1-2 Helmond
+Feb/13 FC Emmen 1-0 Den Haag
+Feb/13 Telstar 1-3 Haarlem
+
+ Round 21
+
+Feb/06 Volendam 1-1 Den Haag
+Feb/05 Den Bosch 2-0 Dordrecht
+Feb/05 Excelsior 3-0 Oss
+Feb/05 G.A. Eagles 3-0 FC Emmen
+Feb/05 Haarlem 0-1 Venlo
+Feb/05 Roosendaal 3-0 Telstar
+
+ Round 20
+
+Jan/31 Haarlem 3-3 Helmond
+Jan/30 Den Haag 1-2 Den Bosch
+Jan/30 Oss 0-0 Groningen
+Jan/29 Excelsior 3-2 Zwolle
+Jan/29 FC Emmen 2-1 Venlo
+Jan/29 G.A. Eagles 0-2 Eindhoven FC
+Jan/29 Heracles 2-2 Telstar
+Jan/29 Roosendaal 1-3 Veendam
+Jan/29 Volendam 4-1 Dordrecht
+
+ Round 16
+
+Jan/22 Veendam 1-3 Eindhoven FC
+
+ Round 19
+
+Dec/20 Eindhoven FC 5-1 Helmond
+Dec/20 Heracles 0-2 G.A. Eagles
+Dec/19 Telstar 0-0 Den Haag
+Dec/18 Dordrecht 1-2 Veendam
+Dec/18 FC Emmen 4-0 Excelsior
+Dec/18 Groningen 6-0 Haarlem
+Dec/18 Oss 1-2 Volendam
+Dec/18 Venlo 5-1 Roosendaal
+Dec/18 Zwolle 3-2 Den Bosch
+
+ Round 18
+
+Dec/15 Eindhoven FC 0-4 Den Bosch
+
+ Round 16
+
+Dec/15 G.A. Eagles 2-1 Venlo
+Dec/15 Roosendaal 1-0 Dordrecht
+Dec/15 Volendam 2-0 Heracles
+
+ Round 18
+
+Dec/14 Veendam 2-1 Zwolle
+
+ Round 17
+
+Dec/11 Den Haag 4-2 Venlo
+Dec/11 Dordrecht 0-2 Haarlem
+Dec/11 Excelsior 4-1 Heracles
+Dec/11 G.A. Eagles 3-3 Telstar
+Dec/11 Helmond 2-0 Oss
+Dec/11 Roosendaal 0-0 Groningen
+Dec/11 Volendam 3-1 FC Emmen
+
+ Round 16
+
+Dec/06 Excelsior 6-1 Telstar
+Dec/06 Haarlem 0-2 Zwolle
+Dec/06 Helmond 1-1 Den Bosch
+Dec/05 Oss 0-1 FC Emmen
+
+ Round 15
+
+Dec/02 Heracles 0-3 Oss
+Nov/29 Eindhoven FC 1-1 Haarlem
+Nov/28 Dordrecht 1-1 Den Haag
+Nov/27 Den Bosch 2-1 Veendam
+Nov/27 FC Emmen 2-1 Helmond
+Nov/27 Groningen 3-0 G.A. Eagles
+Nov/27 Telstar 4-2 Volendam
+Nov/27 Venlo 1-3 Excelsior
+Nov/27 Zwolle 3-2 Roosendaal
+
+ Round 14
+
+Nov/22 Den Haag 2-1 Zwolle
+Nov/22 Excelsior 0-2 Groningen
+Nov/21 Haarlem 1-7 Den Bosch
+Nov/20 FC Emmen 2-0 Heracles
+Nov/20 G.A. Eagles 2-3 Dordrecht
+Nov/20 Oss 0-0 Telstar
+Nov/20 Roosendaal 2-2 Eindhoven FC
+Nov/20 Veendam 0-3 Helmond
+Nov/20 Volendam 0-2 Venlo
+
+ Round 13
+
+Nov/15 Den Bosch 4-1 Roosendaal
+Nov/15 Dordrecht 1-0 Excelsior
+Nov/15 Eindhoven FC 1-7 Den Haag
+Nov/15 Groningen 3-2 Volendam
+Nov/15 Telstar 1-2 FC Emmen
+Nov/14 Zwolle 3-1 G.A. Eagles
+Nov/13 Helmond 2-1 Heracles
+Nov/13 Veendam 0-0 Haarlem
+Nov/13 Venlo 2-3 Oss
+Nov/11 Den Bosch 0-0 Telstar
+Nov/11 G.A. Eagles 2-2 Excelsior
+Nov/11 Zwolle 2-1 Groningen
+
+ Round 12
+
+Nov/08 Groningen 0-3 FC Emmen
+Nov/06 Den Bosch 5-2 G.A. Eagles
+Nov/06 Dordrecht 3-3 Oss
+Nov/06 Eindhoven FC 3-2 Excelsior
+Nov/06 Haarlem 2-0 Roosendaal
+Nov/06 Helmond 2-1 Telstar
+Nov/06 Veendam 1-0 Den Haag
+Nov/06 Venlo 3-0 Heracles
+Nov/06 Zwolle 2-2 Volendam
+
+ Round 11
+
+Nov/01 Heracles 1-2 Groningen
+Nov/01 Volendam 3-3 Eindhoven FC
+Oct/31 Excelsior 1-1 Den Bosch
+Oct/30 Den Haag 2-1 Haarlem
+Oct/30 FC Emmen 3-0 Dordrecht
+Oct/30 G.A. Eagles 3-1 Veendam
+Oct/30 Oss 1-1 Zwolle
+Oct/30 Roosendaal 1-2 Helmond
+Oct/30 Telstar 0-1 Venlo
+
+ Round 10
+
+Oct/25 Eindhoven FC 1-2 Oss
+Oct/23 Den Bosch 3-1 Volendam
+Oct/23 Dordrecht 2-2 Heracles
+Oct/23 Groningen 0-2 Telstar
+Oct/23 Haarlem 3-2 G.A. Eagles
+Oct/23 Helmond 2-1 Venlo
+Oct/23 Roosendaal 3-1 Den Haag
+Oct/23 Veendam 1-2 Excelsior
+Oct/23 Zwolle 0-1 FC Emmen
+
+ Round 9
+
+Oct/18 Excelsior 1-2 Haarlem
+Oct/18 Heracles 0-5 Zwolle
+Oct/17 Oss 0-2 Den Bosch
+Oct/16 Den Haag 1-4 Helmond
+Oct/16 FC Emmen 1-3 Eindhoven FC
+Oct/16 G.A. Eagles 2-1 Roosendaal
+Oct/16 Telstar 2-3 Dordrecht
+Oct/16 Venlo 1-1 Groningen
+Oct/16 Volendam 3-1 Veendam
+
+ Round 3
+
+Oct/10 Den Haag 1-0 Volendam
+
+ Round 8
+
+Oct/10 Eindhoven FC 1-1 Venlo
+Oct/10 Haarlem 1-5 FC Emmen
+Oct/10 Helmond 3-0 Dordrecht
+Oct/10 Roosendaal 2-1 Oss
+Oct/09 Veendam 0-1 Heracles
+
+ Round 7
+
+Oct/04 Eindhoven FC 2-1 Heracles
+Oct/04 Helmond 2-1 Groningen
+Oct/02 Den Bosch 3-0 FC Emmen
+Oct/02 Den Haag 1-1 G.A. Eagles
+Oct/02 Dordrecht 2-3 Venlo
+Oct/02 Haarlem 1-2 Volendam
+Oct/02 Roosendaal 1-5 Excelsior
+Oct/02 Veendam 0-1 Oss
+Oct/02 Zwolle 1-1 Telstar
+
+ Round 6
+
+Sep/27 Dordrecht 1-6 Zwolle
+Sep/27 FC Emmen 1-3 Veendam
+Sep/27 Heracles 2-3 Den Bosch
+Sep/26 Excelsior 4-2 Den Haag
+Sep/25 G.A. Eagles 1-0 Helmond
+Sep/25 Oss 4-2 Haarlem
+Sep/25 Telstar 3-2 Eindhoven FC
+Sep/25 Volendam 3-1 Roosendaal
+
+ Round 3
+
+Sep/24 Dordrecht 1-4 Den Bosch
+
+ Round 6
+
+Sep/24 Venlo 1-1 Zwolle
+
+ Round 5
+
+Sep/21 Groningen 3-0 Dordrecht
+Sep/20 Volendam 1-1 G.A. Eagles
+Sep/19 Oss 0-1 Den Haag
+Sep/18 Excelsior 2-2 Helmond
+Sep/18 FC Emmen 3-1 Roosendaal
+Sep/18 Groningen 5-0 Eindhoven FC
+Sep/18 Heracles 1-1 Haarlem
+Sep/18 Telstar 2-3 Veendam
+Sep/18 Venlo 2-3 Den Bosch
+
+ Round 4
+
+Sep/12 Den Bosch 0-0 Groningen
+Sep/12 Eindhoven FC 4-1 Dordrecht
+Sep/11 Den Haag 4-1 FC Emmen
+Sep/11 Excelsior 3-1 Volendam
+Sep/11 G.A. Eagles 3-0 Oss
+Sep/11 Haarlem 1-0 Telstar
+Sep/11 Helmond 0-3 Zwolle
+Sep/11 Roosendaal 3-1 Heracles
+Sep/11 Veendam 1-1 Venlo
+
+ Round 8
+
+Sep/08 Volendam 4-2 Helmond
+
+ Round 3
+
+Sep/06 Groningen 2-0 Veendam
+
+ Round 8
+
+Sep/06 Heracles 2-2 Den Haag
+
+ Round 3
+
+Sep/04 FC Emmen 1-0 G.A. Eagles
+Sep/04 Oss 3-0 Excelsior
+Sep/04 Telstar 0-5 Roosendaal
+Sep/04 Venlo 2-0 Haarlem
+Sep/04 Zwolle 1-1 Eindhoven FC
+
+ Round 2
+
+Aug/30 Excelsior 3-1 FC Emmen
+Aug/29 Volendam 3-2 Oss
+Aug/28 Den Bosch 0-0 Zwolle
+Aug/28 Den Haag 2-2 Telstar
+Aug/28 G.A. Eagles 3-1 Heracles
+Aug/28 Haarlem 2-3 Groningen
+Aug/28 Helmond 2-1 Eindhoven FC
+Aug/28 Roosendaal 1-3 Venlo
+Aug/28 Veendam 1-1 Dordrecht
+
+ Round 1
+
+Aug/23 Heracles 1-2 Excelsior
+Aug/23 Telstar 2-3 G.A. Eagles
+Aug/21 Den Bosch 0-1 Eindhoven FC
+Aug/21 FC Emmen 4-0 Volendam
+Aug/21 Groningen 6-0 Roosendaal
+Aug/21 Haarlem 0-4 Dordrecht
+Aug/21 Oss 2-1 Helmond
+Aug/21 Venlo 2-0 Den Haag
+Aug/21 Zwolle 0-3 Veendam

@@ -1,0 +1,591 @@
+
+ Round 42
+
+Jun/18 Almeria 1-0 Murcia
+Jun/18 Pontevedra 4-1 Salamanca
+Jun/18 Alaves 0-1 Gijon
+Jun/18 Eibar 1-1 Ferrol
+Jun/18 Gimnastic 4-4 Recreativo Huelva
+Jun/18 Lleida 0-2 Celta Vigo
+Jun/18 Tenerife 0-2 Cordoba
+Jun/18 Terrassa 1-0 Malaga B
+Jun/18 Xerez CD 0-2 Cadiz CF
+Jun/18 Valladolid 1-2 Elche
+Jun/17 Granada 74 1-3 El Ejido
+
+ Round 41
+
+Jun/12 Cadiz CF 3-1 Terrassa
+Jun/12 Celta Vigo 1-2 Eibar
+Jun/12 Cordoba 3-4 Valladolid
+Jun/12 El Ejido 2-2 Tenerife
+Jun/12 Elche 1-2 Alaves
+Jun/12 Ferrol 1-2 Xerez CD
+Jun/12 Malaga B 1-1 Pontevedra
+Jun/12 Recreativo Huelva 1-1 Almeria
+Jun/12 Salamanca 0-2 Granada 74
+Jun/12 Murcia 1-0 Lleida
+Jun/11 Gijon 0-3 Gimnastic
+
+ Round 40
+
+Jun/05 Xerez CD 3-0 Celta Vigo
+Jun/05 Almeria 1-0 Gijon
+Jun/05 Eibar 1-0 Murcia
+Jun/05 Elche 1-2 Cordoba
+Jun/05 Granada 74 0-0 Malaga B
+Jun/05 Lleida 2-3 Recreativo Huelva
+Jun/05 Tenerife 1-4 Salamanca
+Jun/05 Terrassa 3-2 Ferrol
+Jun/05 Valladolid 2-1 El Ejido
+Jun/04 Pontevedra 1-1 Cadiz CF
+Jun/04 Gimnastic 1-0 Alaves
+
+ Round 39
+
+May/29 Cadiz CF 0-0 Granada 74
+May/29 Gimnastic 1-2 Almeria
+May/29 El Ejido 1-0 Elche
+May/29 Ferrol 1-2 Pontevedra
+May/29 Salamanca 1-2 Valladolid
+May/29 Recreativo Huelva 0-0 Eibar
+May/28 Celta Vigo 2-1 Terrassa
+May/28 Alaves 1-1 Cordoba
+May/28 Murcia 1-1 Xerez CD
+May/28 Gijon 1-1 Lleida
+May/28 Malaga B 2-1 Tenerife
+
+ Round 38
+
+May/22 Almeria 0-1 Alaves
+May/22 Cordoba 2-1 El Ejido
+May/22 Elche 0-2 Salamanca
+May/22 Granada 74 3-0 Ferrol
+May/22 Terrassa 0-2 Murcia
+May/22 Valladolid 3-0 Malaga B
+May/22 Xerez CD 0-0 Recreativo Huelva
+May/22 Pontevedra 3-1 Celta Vigo
+May/21 Lleida 2-0 Gimnastic
+May/21 Eibar 1-0 Gijon
+May/21 Tenerife 2-0 Cadiz CF
+
+ Round 37
+
+May/15 Alaves 2-0 El Ejido
+May/15 Almeria 1-1 Lleida
+May/15 Gijon 0-0 Xerez CD
+May/15 Recreativo Huelva 2-1 Terrassa
+May/15 Salamanca 0-3 Cordoba
+May/15 Cadiz CF 6-1 Valladolid
+May/14 Gimnastic 3-2 Eibar
+May/14 Celta Vigo 0-1 Granada 74
+May/14 Ferrol 2-2 Tenerife
+May/14 Malaga B 1-0 Elche
+May/14 Murcia 2-2 Pontevedra
+
+ Round 36
+
+May/08 Granada 74 1-3 Murcia
+May/08 Cordoba 5-2 Malaga B
+May/08 Xerez CD 1-1 Gimnastic
+May/08 El Ejido 1-1 Salamanca
+May/08 Pontevedra 0-0 Recreativo Huelva
+May/08 Valladolid 1-1 Ferrol
+May/08 Lleida 0-1 Alaves
+May/07 Elche 1-1 Cadiz CF
+May/07 Tenerife 3-1 Celta Vigo
+May/07 Terrassa 1-0 Gijon
+May/07 Eibar 1-0 Almeria
+
+ Round 35
+
+May/01 Murcia 1-0 Tenerife
+May/01 Recreativo Huelva 3-2 Granada 74
+May/01 Cadiz CF 4-1 Cordoba
+May/01 Gijon 3-2 Pontevedra
+May/01 Lleida 1-1 Eibar
+May/01 Celta Vigo 2-0 Valladolid
+Apr/30 Alaves 2-1 Salamanca
+Apr/30 Almeria 1-2 Xerez CD
+Apr/30 Ferrol 0-1 Elche
+Apr/30 Gimnastic 3-1 Terrassa
+Apr/30 Malaga B 0-0 El Ejido
+
+ Round 34
+
+Apr/24 Tenerife 2-0 Recreativo Huelva
+Apr/24 Xerez CD 0-0 Lleida
+Apr/24 Granada 74 0-2 Gijon
+Apr/24 Pontevedra 3-1 Gimnastic
+Apr/24 Salamanca 1-2 Malaga B
+Apr/24 Terrassa 1-1 Almeria
+Apr/24 El Ejido 0-0 Cadiz CF
+Apr/24 Valladolid 0-2 Murcia
+Apr/24 Elche 0-1 Celta Vigo
+Apr/23 Cordoba 1-2 Ferrol
+Apr/23 Eibar 1-2 Alaves
+
+ Round 33
+
+Apr/17 Alaves 3-1 Malaga B
+Apr/17 Cadiz CF 0-0 Salamanca
+Apr/17 Celta Vigo 0-1 Cordoba
+Apr/17 Ferrol 2-0 El Ejido
+Apr/17 Gimnastic 0-0 Granada 74
+Apr/17 Recreativo Huelva 2-0 Valladolid
+Apr/16 Murcia 1-0 Elche
+Apr/16 Almeria 1-0 Pontevedra
+Apr/16 Gijon 1-1 Tenerife
+Apr/16 Lleida 4-2 Terrassa
+Apr/16 Eibar 0-0 Xerez CD
+
+ Round 32
+
+Apr/10 Granada 74 0-1 Almeria
+Apr/10 Pontevedra 5-0 Lleida
+Apr/10 Valladolid 2-0 Gijon
+Apr/10 Xerez CD 0-1 Alaves
+Apr/10 El Ejido 0-3 Celta Vigo
+Apr/10 Elche 0-1 Recreativo Huelva
+Apr/10 Terrassa 2-3 Eibar
+Apr/09 Malaga B 1-1 Cadiz CF
+Apr/09 Salamanca 0-2 Ferrol
+Apr/09 Tenerife 0-0 Gimnastic
+Apr/09 Cordoba 1-1 Murcia
+
+ Round 31
+
+Apr/03 Eibar 1-2 Pontevedra
+Apr/03 Gijon 3-1 Elche
+Apr/03 Gimnastic 0-1 Valladolid
+Apr/03 Lleida 0-0 Granada 74
+Apr/03 Murcia 3-3 El Ejido
+Apr/03 Recreativo Huelva 3-1 Cordoba
+Apr/03 Ferrol 1-0 Malaga B
+Apr/03 Alaves 1-3 Cadiz CF
+Apr/02 Almeria 0-1 Tenerife
+Apr/02 Celta Vigo 2-0 Salamanca
+Apr/02 Xerez CD 0-0 Terrassa
+
+ Round 30
+
+Mar/27 Elche 3-3 Gimnastic
+Mar/27 Granada 74 1-1 Eibar
+Mar/27 Tenerife 1-1 Lleida
+Mar/27 Cordoba 0-0 Gijon
+Mar/27 El Ejido 1-0 Recreativo Huelva
+Mar/27 Pontevedra 2-1 Xerez CD
+Mar/27 Salamanca 3-1 Murcia
+Mar/27 Valladolid 0-1 Almeria
+Mar/27 Cadiz CF 2-0 Ferrol
+Mar/26 Malaga B 0-1 Celta Vigo
+Mar/26 Terrassa 0-2 Alaves
+
+ Round 29
+
+Mar/20 Almeria 2-2 Elche
+Mar/20 Gijon 1-0 El Ejido
+Mar/20 Gimnastic 1-1 Cordoba
+Mar/20 Murcia 0-1 Malaga B
+Mar/20 Terrassa 1-0 Pontevedra
+Mar/20 Celta Vigo 0-2 Cadiz CF
+Mar/20 Xerez CD 3-5 Granada 74
+Mar/19 Alaves 2-1 Ferrol
+Mar/19 Eibar 0-0 Tenerife
+Mar/19 Lleida 2-0 Valladolid
+Mar/19 Recreativo Huelva 0-0 Salamanca
+
+ Round 28
+
+Mar/13 Cadiz CF 0-1 Murcia
+Mar/13 Cordoba 3-0 Almeria
+Mar/13 Elche 2-1 Lleida
+Mar/13 Granada 74 2-0 Terrassa
+Mar/13 Malaga B 0-1 Recreativo Huelva
+Mar/13 Pontevedra 1-3 Alaves
+Mar/13 Salamanca 2-1 Gijon
+Mar/13 Valladolid 1-2 Eibar
+Mar/12 El Ejido 1-0 Gimnastic
+Mar/12 Ferrol 1-2 Celta Vigo
+Mar/12 Tenerife 1-0 Xerez CD
+
+ Round 26
+
+Mar/09 Cordoba 0-0 Eibar
+
+ Round 27
+
+Mar/06 Almeria 1-1 El Ejido
+Mar/06 Eibar 5-2 Elche
+Mar/06 Gijon 2-0 Malaga B
+Mar/06 Gimnastic 2-0 Salamanca
+Mar/06 Lleida 1-2 Cordoba
+Mar/06 Murcia 1-0 Ferrol
+Mar/06 Pontevedra 2-2 Granada 74
+Mar/06 Xerez CD 0-0 Valladolid
+Mar/06 Alaves 0-3 Celta Vigo
+Mar/05 Recreativo Huelva 1-1 Cadiz CF
+Mar/05 Terrassa 0-0 Tenerife
+
+ Round 26
+
+Feb/27 Tenerife 0-0 Pontevedra
+Feb/27 Celta Vigo 1-0 Murcia
+Feb/27 El Ejido 2-0 Lleida
+Feb/27 Ferrol 0-1 Recreativo Huelva
+Feb/27 Granada 74 2-0 Alaves
+Feb/27 Salamanca 3-2 Almeria
+Feb/27 Valladolid 2-2 Terrassa
+Feb/27 Elche 1-2 Xerez CD
+Feb/26 Cadiz CF 0-0 Gijon
+Feb/26 Malaga B 0-1 Gimnastic
+
+ Round 25
+
+Feb/20 Alaves 2-3 Murcia
+Feb/20 Eibar 0-0 El Ejido
+Feb/20 Gimnastic 1-1 Cadiz CF
+Feb/20 Lleida 2-1 Salamanca
+Feb/20 Recreativo Huelva 1-2 Celta Vigo
+Feb/20 Xerez CD 1-1 Cordoba
+Feb/20 Gijon 3-2 Ferrol
+Feb/19 Granada 74 0-1 Tenerife
+Feb/19 Almeria 0-1 Malaga B
+Feb/19 Pontevedra 3-0 Valladolid
+Feb/19 Terrassa 0-1 Elche
+
+ Round 24
+
+Feb/13 Celta Vigo 1-0 Gijon
+Feb/13 Cordoba 2-1 Terrassa
+Feb/13 El Ejido 0-0 Xerez CD
+Feb/13 Elche 2-0 Pontevedra
+Feb/13 Ferrol 1-4 Gimnastic
+Feb/13 Malaga B 1-0 Lleida
+Feb/13 Murcia 1-3 Recreativo Huelva
+Feb/13 Valladolid 2-1 Granada 74
+Feb/13 Salamanca 1-2 Eibar
+Feb/12 Cadiz CF 2-1 Almeria
+Feb/12 Tenerife 1-0 Alaves
+
+ Round 23
+
+Feb/06 Tenerife 0-2 Valladolid
+Feb/06 Almeria 1-6 Ferrol
+Feb/06 Eibar 0-0 Malaga B
+Feb/06 Gijon 2-0 Murcia
+Feb/06 Granada 74 0-0 Elche
+Feb/06 Lleida 1-3 Cadiz CF
+Feb/06 Pontevedra 1-1 Cordoba
+Feb/06 Terrassa 2-0 El Ejido
+Feb/06 Alaves 0-2 Recreativo Huelva
+Feb/05 Gimnastic 0-2 Celta Vigo
+Feb/05 Xerez CD 1-0 Salamanca
+
+ Round 22
+
+Jan/30 Cadiz CF 1-2 Eibar
+Jan/30 Celta Vigo 1-0 Almeria
+Jan/30 Cordoba 0-1 Granada 74
+Jan/30 Ferrol 1-3 Lleida
+Jan/30 Murcia 1-0 Gimnastic
+Jan/30 Recreativo Huelva 1-1 Gijon
+Jan/30 Salamanca 3-1 Terrassa
+Jan/30 Valladolid 1-0 Alaves
+Jan/29 El Ejido 1-0 Pontevedra
+Jan/29 Elche 0-0 Tenerife
+Jan/29 Malaga B 0-3 Xerez CD
+
+ Round 21
+
+Jan/24 Malaga B 0-0 Terrassa
+Jan/23 Celta Vigo 0-0 Lleida
+Jan/23 El Ejido 2-2 Granada 74
+Jan/23 Gijon 1-2 Alaves
+Jan/23 Murcia 0-0 Almeria
+Jan/23 Salamanca 2-0 Pontevedra
+Jan/23 Cadiz CF 0-1 Xerez CD
+Jan/22 Cordoba 2-0 Tenerife
+Jan/22 Elche 3-2 Valladolid
+Jan/22 Ferrol 0-1 Eibar
+Jan/22 Recreativo Huelva 1-0 Gimnastic
+
+ Round 20
+
+Jan/16 Tenerife 1-1 El Ejido
+Jan/16 Gimnastic 1-0 Gijon
+Jan/16 Granada 74 2-1 Salamanca
+Jan/16 Pontevedra 1-1 Malaga B
+Jan/16 Terrassa 3-2 Cadiz CF
+Jan/16 Valladolid 0-1 Cordoba
+Jan/16 Xerez CD 2-2 Ferrol
+Jan/16 Alaves 1-0 Elche
+Jan/15 Almeria 1-0 Recreativo Huelva
+Jan/15 Eibar 2-1 Celta Vigo
+Jan/15 Lleida 5-1 Murcia
+
+ Round 19
+
+Jan/09 Alaves 1-1 Gimnastic
+Jan/09 Cadiz CF 4-0 Pontevedra
+Jan/09 El Ejido 0-3 Valladolid
+Jan/09 Gijon 1-0 Almeria
+Jan/09 Murcia 1-0 Eibar
+Jan/09 Recreativo Huelva 3-0 Lleida
+Jan/09 Celta Vigo 2-1 Xerez CD
+Jan/08 Cordoba 0-2 Elche
+Jan/08 Ferrol 3-0 Terrassa
+Jan/08 Salamanca 4-5 Tenerife
+Jan/08 Malaga B 3-1 Granada 74
+
+ Round 18
+
+Dec/23 Pontevedra 1-1 Ferrol
+Dec/22 Tenerife 1-1 Malaga B
+Dec/22 Almeria 1-1 Gimnastic
+Dec/22 Elche 3-1 El Ejido
+Dec/22 Cordoba 1-2 Alaves
+Dec/22 Granada 74 0-0 Cadiz CF
+Dec/22 Terrassa 1-4 Celta Vigo
+Dec/22 Xerez CD 0-1 Murcia
+Dec/22 Lleida 0-2 Gijon
+Dec/22 Valladolid 3-2 Salamanca
+Dec/21 Eibar 1-2 Recreativo Huelva
+
+ Round 17
+
+Dec/19 Alaves 2-1 Almeria
+Dec/19 Salamanca 2-0 Elche
+Dec/19 Celta Vigo 2-0 Pontevedra
+Dec/19 Malaga B 0-2 Valladolid
+Dec/18 Cadiz CF 4-1 Tenerife
+Dec/18 Ferrol 4-0 Granada 74
+Dec/18 Gimnastic 2-1 Lleida
+Dec/18 El Ejido 2-0 Cordoba
+Dec/18 Gijon 0-0 Eibar
+Dec/18 Murcia 0-1 Terrassa
+Dec/18 Recreativo Huelva 1-0 Xerez CD
+
+ Round 16
+
+Dec/12 Cordoba 0-0 Salamanca
+Dec/12 El Ejido 0-1 Alaves
+Dec/12 Elche 2-1 Malaga B
+Dec/12 Granada 74 2-2 Celta Vigo
+Dec/12 Lleida 1-0 Almeria
+Dec/12 Pontevedra 0-1 Murcia
+Dec/12 Terrassa 1-0 Recreativo Huelva
+Dec/12 Valladolid 0-1 Cadiz CF
+Dec/11 Eibar 0-2 Gimnastic
+Dec/11 Tenerife 1-1 Ferrol
+Dec/11 Xerez CD 1-0 Gijon
+
+ Round 15
+
+Dec/05 Almeria 2-1 Eibar
+Dec/05 Ferrol 2-3 Valladolid
+Dec/05 Gijon 2-0 Terrassa
+Dec/05 Gimnastic 1-0 Xerez CD
+Dec/05 Murcia 2-2 Granada 74
+Dec/05 Salamanca 1-1 El Ejido
+Dec/05 Cadiz CF 3-1 Elche
+Dec/05 Malaga B 3-2 Cordoba
+Dec/04 Alaves 2-0 Lleida
+Dec/04 Celta Vigo 1-1 Tenerife
+Dec/04 Recreativo Huelva 2-1 Pontevedra
+
+ Round 14
+
+Nov/28 Tenerife 2-1 Murcia
+Nov/28 Cordoba 0-2 Cadiz CF
+Nov/28 Eibar 1-1 Lleida
+Nov/28 El Ejido 1-2 Malaga B
+Nov/28 Granada 74 2-2 Recreativo Huelva
+Nov/28 Pontevedra 1-2 Gijon
+Nov/28 Salamanca 3-3 Alaves
+Nov/28 Elche 2-1 Ferrol
+Nov/27 Terrassa 1-2 Gimnastic
+Nov/27 Valladolid 3-3 Celta Vigo
+Nov/27 Xerez CD 1-1 Almeria
+
+ Round 13
+
+Nov/21 Almeria 2-2 Terrassa
+Nov/21 Gijon 2-2 Granada 74
+Nov/21 Gimnastic 0-0 Pontevedra
+Nov/21 Malaga B 1-3 Salamanca
+Nov/21 Murcia 0-1 Valladolid
+Nov/21 Celta Vigo 2-2 Elche
+Nov/21 Ferrol 0-0 Cordoba
+Nov/21 Alaves 0-2 Eibar
+Nov/20 Cadiz CF 3-0 El Ejido
+Nov/20 Recreativo Huelva 0-0 Tenerife
+Nov/20 Lleida 1-1 Xerez CD
+
+ Round 12
+
+Nov/14 Tenerife 1-0 Gijon
+Nov/14 El Ejido 0-0 Ferrol
+Nov/14 Elche 1-0 Murcia
+Nov/14 Granada 74 1-1 Gimnastic
+Nov/14 Pontevedra 0-2 Almeria
+Nov/14 Salamanca 1-3 Cadiz CF
+Nov/14 Valladolid 1-0 Recreativo Huelva
+Nov/14 Malaga B 1-1 Alaves
+Nov/14 Xerez CD 0-3 Eibar
+Nov/13 Cordoba 0-1 Celta Vigo
+Nov/13 Terrassa 3-0 Lleida
+
+ Round 11
+
+Nov/07 Almeria 0-0 Granada 74
+Nov/07 Gijon 1-1 Valladolid
+Nov/07 Lleida 3-0 Pontevedra
+Nov/07 Murcia 1-0 Cordoba
+Nov/07 Recreativo Huelva 2-1 Elche
+Nov/07 Celta Vigo 1-0 El Ejido
+Nov/06 Alaves 2-0 Xerez CD
+Nov/06 Cadiz CF 4-0 Malaga B
+Nov/06 Ferrol 2-1 Salamanca
+Nov/06 Gimnastic 1-0 Tenerife
+Nov/06 Eibar 1-0 Terrassa
+
+ Round 10
+
+Oct/31 Tenerife 1-3 Almeria
+Oct/31 El Ejido 1-1 Murcia
+Oct/31 Cordoba 0-2 Recreativo Huelva
+Oct/31 Granada 74 1-2 Lleida
+Oct/31 Pontevedra 2-3 Eibar
+Oct/31 Salamanca 0-1 Celta Vigo
+Oct/31 Terrassa 0-1 Xerez CD
+Oct/31 Valladolid 1-0 Gimnastic
+Oct/31 Elche 4-0 Gijon
+Oct/31 Malaga B 1-1 Ferrol
+Oct/30 Cadiz CF 0-1 Alaves
+
+ Round 9
+
+Oct/24 Almeria 0-0 Valladolid
+Oct/24 Ferrol 1-1 Cadiz CF
+Oct/24 Gijon 3-1 Cordoba
+Oct/24 Murcia 0-0 Salamanca
+Oct/24 Recreativo Huelva 1-1 El Ejido
+Oct/24 Celta Vigo 0-0 Malaga B
+Oct/24 Alaves 4-1 Terrassa
+Oct/23 Eibar 3-2 Granada 74
+Oct/23 Gimnastic 2-0 Elche
+Oct/23 Lleida 1-1 Tenerife
+Oct/23 Xerez CD 1-0 Pontevedra
+
+ Round 8
+
+Oct/17 Cordoba 2-0 Gimnastic
+Oct/17 Elche 0-0 Almeria
+Oct/17 Ferrol 2-1 Alaves
+Oct/17 Granada 74 0-2 Xerez CD
+Oct/17 Salamanca 1-0 Recreativo Huelva
+Oct/17 Valladolid 1-1 Lleida
+Oct/17 Cadiz CF 2-0 Celta Vigo
+Oct/16 El Ejido 1-1 Gijon
+Oct/16 Malaga B 0-2 Murcia
+Oct/16 Pontevedra 3-3 Terrassa
+Oct/16 Tenerife 1-1 Eibar
+
+ Round 7
+
+Oct/10 Xerez CD 1-1 Tenerife
+Oct/10 Gijon 1-2 Salamanca
+Oct/10 Gimnastic 1-4 El Ejido
+Oct/10 Murcia 0-2 Cadiz CF
+Oct/10 Terrassa 0-1 Granada 74
+Oct/10 Alaves 3-2 Pontevedra
+Oct/10 Almeria 2-0 Cordoba
+Oct/09 Eibar 2-0 Valladolid
+Oct/09 Celta Vigo 1-1 Ferrol
+Oct/09 Lleida 1-2 Elche
+Oct/09 Recreativo Huelva 0-1 Malaga B
+
+ Round 6
+
+Oct/04 Malaga B 1-0 Gijon
+Oct/03 Elche 1-0 Eibar
+Oct/03 Granada 74 2-3 Pontevedra
+Oct/03 Tenerife 2-1 Terrassa
+Oct/03 El Ejido 2-0 Almeria
+Oct/03 Ferrol 3-1 Murcia
+Oct/03 Salamanca 0-1 Gimnastic
+Oct/03 Valladolid 1-1 Xerez CD
+Oct/03 Cadiz CF 0-0 Recreativo Huelva
+Oct/02 Celta Vigo 2-2 Alaves
+Oct/02 Cordoba 0-1 Lleida
+
+ Round 5
+
+Sep/26 Almeria 0-1 Salamanca
+Sep/26 Gijon 0-0 Cadiz CF
+Sep/26 Lleida 0-1 El Ejido
+Sep/26 Murcia 1-1 Celta Vigo
+Sep/26 Recreativo Huelva 0-1 Ferrol
+Sep/26 Eibar 1-0 Cordoba
+Sep/26 Terrassa 2-1 Valladolid
+Sep/25 Alaves 1-1 Granada 74
+Sep/25 Gimnastic 0-2 Malaga B
+Sep/25 Pontevedra 1-1 Tenerife
+Sep/25 Xerez CD 1-1 Elche
+
+ Round 4
+
+Sep/19 Cordoba 1-2 Xerez CD
+Sep/19 Murcia 1-5 Alaves
+Sep/19 Cadiz CF 2-1 Gimnastic
+Sep/19 Tenerife 1-0 Granada 74
+Sep/19 Valladolid 0-1 Pontevedra
+Sep/19 Celta Vigo 1-1 Recreativo Huelva
+Sep/18 Salamanca 0-1 Lleida
+Sep/18 Elche 1-0 Terrassa
+Sep/18 Ferrol 0-0 Gijon
+Sep/18 Malaga B 1-2 Almeria
+Sep/18 El Ejido 4-1 Eibar
+
+ Round 3
+
+Sep/12 Granada 74 2-2 Valladolid
+Sep/12 Lleida 2-1 Malaga B
+Sep/12 Pontevedra 2-2 Elche
+Sep/12 Recreativo Huelva 1-0 Murcia
+Sep/12 Xerez CD 1-0 El Ejido
+Sep/12 Eibar 2-1 Salamanca
+Sep/12 Gimnastic 1-1 Ferrol
+Sep/12 Gijon 1-0 Celta Vigo
+Sep/11 Almeria 0-1 Cadiz CF
+Sep/11 Terrassa 2-0 Cordoba
+Sep/11 Alaves 1-0 Tenerife
+
+ Round 2
+
+Sep/05 Cordoba 0-0 Pontevedra
+Sep/05 Recreativo Huelva 0-0 Alaves
+Sep/05 Cadiz CF 0-2 Lleida
+Sep/05 El Ejido 0-0 Terrassa
+Sep/05 Malaga B 0-0 Eibar
+Sep/05 Murcia 1-3 Gijon
+Sep/05 Salamanca 1-1 Xerez CD
+Sep/05 Ferrol 0-1 Almeria
+Sep/04 Valladolid 2-1 Tenerife
+Sep/04 Elche 3-1 Granada 74
+Sep/04 Celta Vigo 1-0 Gimnastic
+
+ Round 1
+
+Aug/29 Granada 74 1-0 Cordoba
+Aug/29 Xerez CD 1-0 Malaga B
+Aug/29 Terrassa 3-0 Salamanca
+Aug/29 Almeria 0-1 Celta Vigo
+Aug/29 Gijon 0-1 Recreativo Huelva
+Aug/29 Gimnastic 2-0 Murcia
+Aug/29 Alaves 2-4 Valladolid
+Aug/28 Eibar 2-1 Cadiz CF
+Aug/28 Lleida 1-2 Ferrol
+Aug/28 Tenerife 1-0 Elche
+Aug/28 Pontevedra 0-1 El Ejido

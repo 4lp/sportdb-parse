@@ -1,0 +1,342 @@
+May/20 Apeldoorn 2-3 Dordrecht
+May/20 Excelsior 3-5 Zwolle
+May/20 FC Emmen 0-2 Maastricht
+May/20 G.A. Eagles 2-5 Sparta Rotterdam
+May/20 Haarlem 2-2 Cambuur
+May/20 Helmond 1-0 Venlo
+May/20 Heracles 2-2 Veendam
+May/20 Sittard 1-3 Telstar
+May/20 Volendam 3-0 Oss
+May/13 Sparta Rotterdam 0-0 Heracles
+May/13 Cambuur 0-1 FC Emmen
+May/13 Dordrecht 1-0 Volendam
+May/13 Eindhoven FC 4-2 Helmond
+May/13 Maastricht 2-2 Excelsior
+May/13 Oss 0-2 Haarlem
+May/13 Telstar 0-2 Apeldoorn
+May/13 Veendam 0-0 Sittard
+May/13 Venlo 1-0 G.A. Eagles
+May/06 Apeldoorn 0-1 Veendam
+May/06 Dordrecht 0-1 Telstar
+May/06 Excelsior 2-2 Cambuur
+May/06 FC Emmen 1-1 Oss
+May/06 G.A. Eagles 2-2 Eindhoven FC
+May/06 Helmond 0-1 Zwolle
+May/06 Heracles 2-0 Venlo
+May/06 Sittard 3-0 Sparta Rotterdam
+May/06 Volendam 1-0 Haarlem
+Apr/29 Cambuur 2-0 G.A. Eagles
+Apr/29 Eindhoven FC 2-1 Apeldoorn
+Apr/29 FC Emmen 1-4 Dordrecht
+Apr/29 Haarlem 2-2 Excelsior
+Apr/29 Maastricht 1-2 Heracles
+Apr/29 Oss 0-2 Helmond
+Apr/29 Sparta Rotterdam 0-0 Veendam
+Apr/29 Venlo 0-2 Telstar
+Apr/29 Zwolle 3-1 Sittard
+Apr/22 Apeldoorn 2-3 Zwolle
+Apr/22 Dordrecht 0-4 Sparta Rotterdam
+Apr/22 Excelsior 2-1 FC Emmen
+Apr/22 G.A. Eagles 0-0 Oss
+Apr/22 Helmond 1-1 Volendam
+Apr/22 Heracles 1-2 Cambuur
+Apr/22 Sittard 4-1 Maastricht
+Apr/22 Telstar 0-1 Eindhoven FC
+Apr/22 Veendam 0-2 Venlo
+Apr/17 Zwolle 2-1 G.A. Eagles
+Apr/15 Eindhoven FC 0-6 Heracles
+Apr/15 Haarlem 1-1 Dordrecht
+Apr/15 Maastricht 0-0 Helmond
+Apr/15 Oss 2-4 Excelsior
+Apr/15 Sparta Rotterdam 3-1 Apeldoorn
+Apr/15 Veendam 1-2 Telstar
+Apr/15 Venlo 2-0 Sittard
+Apr/15 Volendam 1-1 FC Emmen
+Apr/11 Apeldoorn 2-0 Venlo
+Apr/11 Dordrecht 0-0 Veendam
+Apr/11 Excelsior 1-2 Volendam
+Apr/11 FC Emmen 1-0 Haarlem
+Apr/11 G.A. Eagles 1-1 Maastricht
+Apr/11 Helmond 6-1 Cambuur
+Apr/11 Heracles 2-1 Zwolle
+Apr/11 Sittard 0-2 Eindhoven FC
+Apr/11 Telstar 3-3 Sparta Rotterdam
+Apr/08 Cambuur 0-2 Sittard
+Apr/08 Eindhoven FC 7-2 Veendam
+Apr/08 Excelsior 1-0 Dordrecht
+Apr/08 Haarlem 1-0 Helmond
+Apr/08 Maastricht 3-0 Apeldoorn
+Apr/08 Oss 0-1 Heracles
+Apr/08 Venlo 1-0 Sparta Rotterdam
+Apr/08 Volendam 4-0 G.A. Eagles
+Apr/08 Zwolle 3-3 Telstar
+Apr/04 Excelsior 1-2 Helmond
+Apr/04 FC Emmen 2-0 G.A. Eagles
+Apr/01 Apeldoorn 2-1 Cambuur
+Apr/01 Dordrecht 1-0 Venlo
+Apr/01 G.A. Eagles 2-1 Haarlem
+Apr/01 Helmond 2-0 FC Emmen
+Apr/01 Heracles 0-1 Volendam
+Apr/01 Sittard 0-0 Oss
+Apr/01 Sparta Rotterdam 5-1 Eindhoven FC
+Apr/01 Telstar 2-0 Maastricht
+Apr/01 Veendam 0-0 Zwolle
+Mar/28 Sittard 0-1 Haarlem
+Mar/28 Volendam 2-1 Telstar
+Mar/25 Cambuur 2-4 Telstar
+Mar/25 Eindhoven FC 1-3 Venlo
+Mar/25 Haarlem 0-1 Heracles
+Mar/25 Maastricht 4-0 Veendam
+Mar/25 Oss 2-0 Apeldoorn
+Mar/25 Volendam 3-0 Sittard
+Mar/25 Zwolle 0-1 Sparta Rotterdam
+Mar/21 Excelsior 1-4 Heracles
+Mar/21 FC Emmen 1-1 Sittard
+Mar/21 Haarlem 1-4 Apeldoorn
+Mar/21 Helmond 2-0 Dordrecht
+Mar/21 Maastricht 0-0 Venlo
+Mar/21 Oss 2-0 Veendam
+Mar/21 Zwolle 3-4 Eindhoven FC
+Mar/18 Apeldoorn 1-0 Volendam
+Mar/18 Dordrecht 2-1 Eindhoven FC
+Mar/18 G.A. Eagles 0-3 Excelsior
+Mar/18 Heracles 3-2 FC Emmen
+Mar/18 Sparta Rotterdam 1-1 Maastricht
+Mar/18 Telstar 1-2 Oss
+Mar/18 Veendam 1-1 Cambuur
+Mar/18 Venlo 2-5 Zwolle
+Mar/14 Cambuur 4-3 Eindhoven FC
+Mar/14 Excelsior 1-0 Apeldoorn
+Mar/14 FC Emmen 2-2 Telstar
+Mar/14 G.A. Eagles 0-0 Dordrecht
+Mar/14 Haarlem 0-0 Veendam
+Mar/14 Helmond 0-1 Heracles
+Mar/14 Maastricht 1-1 Zwolle
+Mar/14 Oss 0-3 Venlo
+Mar/14 Volendam 1-4 Sparta Rotterdam
+Mar/11 Dordrecht 0-5 Maastricht
+Mar/11 Eindhoven FC 1-1 Oss
+Mar/11 Heracles 1-3 G.A. Eagles
+Mar/11 Sittard 1-3 Helmond
+Mar/11 Sparta Rotterdam 6-1 Haarlem
+Mar/11 Telstar 2-1 Excelsior
+Mar/11 Veendam 1-0 FC Emmen
+Mar/11 Venlo 3-0 Volendam
+Mar/11 Zwolle 0-3 Cambuur
+Mar/04 Cambuur 0-1 Sparta Rotterdam
+Feb/27 Telstar 3-1 Haarlem
+Feb/25 Apeldoorn 3-2 FC Emmen
+Feb/25 Dordrecht 1-2 Zwolle
+Feb/25 Eindhoven FC 4-0 Maastricht
+Feb/25 G.A. Eagles 3-0 Helmond
+Feb/25 Sittard 0-1 Excelsior
+Feb/25 Sparta Rotterdam 5-0 Oss
+Feb/25 Veendam 2-1 Volendam
+Feb/25 Venlo 0-2 Cambuur
+Feb/18 Cambuur 2-0 Maastricht
+Feb/18 Excelsior 1-2 Veendam
+Feb/18 FC Emmen 0-5 Sparta Rotterdam
+Feb/18 G.A. Eagles 1-1 Sittard
+Feb/18 Haarlem 0-2 Venlo
+Feb/18 Helmond 7-1 Apeldoorn
+Feb/18 Heracles 4-1 Dordrecht
+Feb/18 Oss 0-0 Zwolle
+Feb/18 Volendam 3-1 Eindhoven FC
+Feb/13 Apeldoorn 4-0 G.A. Eagles
+Feb/13 Sparta Rotterdam 1-1 Excelsior
+Feb/11 Dordrecht 1-2 Cambuur
+Feb/11 Eindhoven FC 2-2 Haarlem
+Feb/11 Maastricht 2-0 Oss
+Feb/11 Sittard 0-3 Heracles
+Feb/11 Telstar 0-0 Helmond
+Feb/11 Venlo 4-0 FC Emmen
+Feb/11 Zwolle 2-0 Volendam
+Feb/04 Excelsior 2-2 Venlo
+Feb/04 FC Emmen 2-1 Eindhoven FC
+Feb/04 G.A. Eagles 1-2 Telstar
+Feb/04 Haarlem 2-2 Zwolle
+Feb/04 Heracles 3-0 Apeldoorn
+Feb/04 Volendam 0-0 Maastricht
+Feb/03 Helmond 2-2 Veendam
+Feb/03 Oss 2-0 Cambuur
+Feb/03 Sittard 1-1 Dordrecht
+Jan/29 Dordrecht 4-0 Oss
+Jan/28 Apeldoorn 2-0 Sittard
+Jan/28 Cambuur 3-0 Volendam
+Jan/28 Eindhoven FC 3-0 Excelsior
+Jan/28 Maastricht 1-0 Haarlem
+Jan/28 Sparta Rotterdam 3-1 Helmond
+Jan/28 Telstar 2-2 Heracles
+Jan/28 Veendam 1-1 G.A. Eagles
+Jan/28 Zwolle 5-2 FC Emmen
+Dec/17 Cambuur 1-0 Haarlem
+Dec/17 Dordrecht 2-1 Apeldoorn
+Dec/17 Maastricht 0-0 FC Emmen
+Dec/17 Oss 1-1 Volendam
+Dec/17 Sparta Rotterdam 2-2 G.A. Eagles
+Dec/17 Telstar 5-2 Sittard
+Dec/17 Veendam 0-1 Heracles
+Dec/17 Venlo 1-1 Helmond
+Dec/17 Zwolle 1-1 Excelsior
+Dec/10 Apeldoorn 0-1 Telstar
+Dec/10 Excelsior 2-0 Maastricht
+Dec/10 FC Emmen 1-0 Cambuur
+Dec/10 G.A. Eagles 1-1 Venlo
+Dec/10 Haarlem 1-1 Oss
+Dec/10 Helmond 1-0 Eindhoven FC
+Dec/10 Heracles 0-4 Sparta Rotterdam
+Dec/10 Sittard 2-4 Veendam
+Dec/10 Volendam 2-0 Dordrecht
+Dec/03 Cambuur 1-0 Excelsior
+Dec/03 Eindhoven FC 1-1 G.A. Eagles
+Dec/03 Haarlem 0-0 Volendam
+Dec/03 Oss 3-0 FC Emmen
+Dec/03 Sparta Rotterdam 4-3 Sittard
+Dec/03 Telstar 2-0 Dordrecht
+Dec/03 Veendam 3-1 Apeldoorn
+Dec/03 Venlo 0-2 Heracles
+Dec/03 Zwolle 1-2 Helmond
+Nov/28 G.A. Eagles 4-2 Zwolle
+Nov/26 Apeldoorn 1-1 Sparta Rotterdam
+Nov/26 Dordrecht 1-3 Haarlem
+Nov/26 Excelsior 1-2 Oss
+Nov/26 FC Emmen 2-3 Volendam
+Nov/26 Helmond 3-0 Maastricht
+Nov/26 Heracles 1-0 Eindhoven FC
+Nov/26 Sittard 2-5 Venlo
+Nov/26 Telstar 4-1 Veendam
+Nov/19 Cambuur 2-2 Helmond
+Nov/19 Eindhoven FC 1-1 Sittard
+Nov/19 Haarlem 3-1 FC Emmen
+Nov/19 Maastricht 0-1 G.A. Eagles
+Nov/19 Sparta Rotterdam 3-0 Telstar
+Nov/19 Veendam 2-0 Dordrecht
+Nov/19 Venlo 1-0 Apeldoorn
+Nov/19 Volendam 2-0 Excelsior
+Nov/19 Zwolle 2-1 Heracles
+Nov/13 Veendam 1-4 Eindhoven FC
+Nov/12 Apeldoorn 2-1 Maastricht
+Nov/12 Dordrecht 1-1 Excelsior
+Nov/12 G.A. Eagles 1-0 Volendam
+Nov/12 Helmond 5-0 Haarlem
+Nov/12 Heracles 2-2 Oss
+Nov/12 Sittard 3-1 Cambuur
+Nov/12 Sparta Rotterdam 3-0 Venlo
+Nov/12 Telstar 1-2 Zwolle
+Nov/05 Cambuur 2-1 Apeldoorn
+Nov/05 Eindhoven FC 1-7 Sparta Rotterdam
+Nov/05 FC Emmen 1-3 Helmond
+Nov/05 Haarlem 0-4 G.A. Eagles
+Nov/05 Maastricht 0-0 Telstar
+Nov/05 Oss 3-3 Sittard
+Nov/05 Venlo 0-1 Dordrecht
+Nov/05 Volendam 0-0 Heracles
+Nov/05 Zwolle 0-2 Veendam
+Nov/01 Cambuur 0-1 Venlo
+Oct/30 Helmond 4-2 Oss
+Oct/29 Apeldoorn 4-0 Eindhoven FC
+Oct/29 Dordrecht 1-0 FC Emmen
+Oct/29 Excelsior 2-0 Haarlem
+Oct/29 G.A. Eagles 1-3 Cambuur
+Oct/29 Heracles 5-1 Maastricht
+Oct/29 Sittard 2-1 Zwolle
+Oct/29 Telstar 0-0 Venlo
+Oct/29 Veendam 0-3 Sparta Rotterdam
+Oct/24 Sparta Rotterdam 3-5 Dordrecht
+Oct/22 Cambuur 1-3 Heracles
+Oct/22 Eindhoven FC 0-0 Telstar
+Oct/22 FC Emmen 3-2 Excelsior
+Oct/22 Maastricht 3-0 Sittard
+Oct/22 Oss 2-0 G.A. Eagles
+Oct/22 Venlo 2-2 Veendam
+Oct/22 Volendam 0-2 Helmond
+Oct/22 Zwolle 2-1 Apeldoorn
+Oct/18 Zwolle 1-1 Dordrecht
+Oct/15 Apeldoorn 2-1 Haarlem
+Oct/15 Dordrecht 2-1 Helmond
+Oct/15 Eindhoven FC 0-5 Zwolle
+Oct/15 Heracles 3-2 Excelsior
+Oct/15 Sittard 1-2 FC Emmen
+Oct/15 Sparta Rotterdam 4-1 Cambuur
+Oct/15 Telstar 2-0 Volendam
+Oct/15 Veendam 3-0 Oss
+Oct/15 Venlo 1-0 Maastricht
+Oct/10 Haarlem 2-1 Telstar
+Oct/08 FC Emmen 1-4 Apeldoorn
+Oct/08 Helmond 1-1 G.A. Eagles
+Oct/08 Maastricht 3-1 Eindhoven FC
+Oct/08 Oss 1-2 Sparta Rotterdam
+Oct/08 Volendam 2-0 Veendam
+Oct/05 Excelsior 1-1 Sittard
+Oct/01 Apeldoorn 4-1 Oss
+Oct/01 G.A. Eagles 3-1 FC Emmen
+Oct/01 Helmond 1-0 Excelsior
+Oct/01 Heracles 0-4 Haarlem
+Oct/01 Sittard 2-3 Volendam
+Oct/01 Sparta Rotterdam 1-1 Zwolle
+Oct/01 Telstar 1-0 Cambuur
+Oct/01 Veendam 2-3 Maastricht
+Oct/01 Venlo 5-2 Eindhoven FC
+Sep/25 Excelsior 3-0 G.A. Eagles
+Sep/25 Zwolle 2-2 Venlo
+Sep/24 Cambuur 0-0 Veendam
+Sep/24 Eindhoven FC 1-1 Dordrecht
+Sep/24 FC Emmen 0-2 Heracles
+Sep/24 Haarlem 5-1 Sittard
+Sep/24 Maastricht 1-1 Sparta Rotterdam
+Sep/24 Oss 3-2 Telstar
+Sep/24 Volendam 3-0 Apeldoorn
+Sep/17 Apeldoorn 3-2 Excelsior
+Sep/17 Dordrecht 2-0 G.A. Eagles
+Sep/17 Eindhoven FC 0-0 Cambuur
+Sep/17 Heracles 3-0 Helmond
+Sep/17 Sparta Rotterdam 1-2 Volendam
+Sep/17 Telstar 1-1 FC Emmen
+Sep/17 Veendam 2-3 Haarlem
+Sep/17 Venlo 5-1 Oss
+Sep/17 Zwolle 2-1 Maastricht
+Sep/10 Cambuur 0-0 Zwolle
+Sep/10 Excelsior 3-1 Telstar
+Sep/10 FC Emmen 3-3 Veendam
+Sep/10 G.A. Eagles 0-3 Heracles
+Sep/10 Haarlem 1-2 Sparta Rotterdam
+Sep/10 Helmond 0-1 Sittard
+Sep/10 Maastricht 0-1 Dordrecht
+Sep/10 Oss 0-3 Eindhoven FC
+Sep/10 Volendam 0-3 Venlo
+Sep/03 Apeldoorn 2-0 Helmond
+Sep/03 Dordrecht 2-0 Heracles
+Sep/03 Eindhoven FC 2-3 Volendam
+Sep/03 Maastricht 1-1 Cambuur
+Sep/03 Sittard 3-0 G.A. Eagles
+Sep/03 Sparta Rotterdam 0-0 FC Emmen
+Sep/03 Zwolle 3-0 Oss
+Sep/01 Veendam 2-3 Excelsior
+Sep/01 Venlo 1-1 Haarlem
+Aug/29 Volendam 3-0 Zwolle
+Aug/27 Cambuur 1-4 Dordrecht
+Aug/27 Excelsior 2-3 Sparta Rotterdam
+Aug/27 FC Emmen 0-1 Venlo
+Aug/27 G.A. Eagles 2-1 Apeldoorn
+Aug/27 Haarlem 4-0 Eindhoven FC
+Aug/27 Helmond 2-2 Telstar
+Aug/27 Heracles 0-0 Sittard
+Aug/27 Oss 2-1 Maastricht
+Aug/20 Apeldoorn 0-2 Heracles
+Aug/20 Cambuur 1-0 Oss
+Aug/20 Dordrecht 1-1 Sittard
+Aug/20 Eindhoven FC 3-3 FC Emmen
+Aug/20 Maastricht 1-1 Volendam
+Aug/20 Telstar 2-2 G.A. Eagles
+Aug/20 Veendam 4-0 Helmond
+Aug/20 Venlo 2-0 Excelsior
+Aug/20 Zwolle 2-0 Haarlem
+Aug/15 Volendam 4-0 Cambuur
+Aug/14 Sittard 3-1 Apeldoorn
+Aug/13 Excelsior 2-1 Eindhoven FC
+Aug/13 FC Emmen 0-1 Zwolle
+Aug/13 G.A. Eagles 0-1 Veendam
+Aug/13 Haarlem 2-0 Maastricht
+Aug/13 Helmond 2-2 Sparta Rotterdam
+Aug/13 Heracles 1-0 Telstar
+Aug/13 Oss 5-1 Dordrecht

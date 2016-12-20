@@ -1,0 +1,588 @@
+
+ Round 42
+
+Jun/29 Almeria 1-1 El Ejido
+Jun/29 Eibar 2-0 Albacete
+Jun/29 Ferrol 0-1 Tenerife
+Jun/29 Getafe 1-1 Cordoba
+Jun/29 Las Palmas 4-1 Elche
+Jun/29 Terrassa 2-0 Leganes
+Jun/28 Numancia 1-4 Xerez CD
+Jun/28 CD Badajoz 0-3 Gijon
+Jun/28 Zaragoza 1-3 Salamanca
+Jun/28 Compostela 1-0 Murcia
+Jun/28 R. Oviedo 1-2 Levante
+
+ Round 41
+
+Jun/21 Tenerife 0-0 Las Palmas
+Jun/21 Cordoba 1-0 R. Oviedo
+Jun/21 El Ejido 0-0 Zaragoza
+Jun/21 Elche 1-1 Numancia
+Jun/21 Gijon 0-0 Terrassa
+Jun/21 Leganes 0-1 Eibar
+Jun/21 Levante 3-4 Compostela
+Jun/21 Murcia 5-0 Ferrol
+Jun/21 Salamanca 3-1 Getafe
+Jun/21 Xerez CD 5-3 CD Badajoz
+Jun/21 Albacete 0-1 Almeria
+
+ Round 40
+
+Jun/15 CD Badajoz 2-3 Elche
+Jun/15 Terrassa 2-0 Xerez CD
+Jun/15 Compostela 1-2 Cordoba
+Jun/15 R. Oviedo 0-3 Salamanca
+Jun/15 Zaragoza 1-1 Albacete
+Jun/14 Almeria 0-2 Leganes
+Jun/14 Eibar 1-1 Gijon
+Jun/14 Ferrol 1-0 Levante
+Jun/14 Getafe 2-0 El Ejido
+Jun/14 Numancia 0-1 Las Palmas
+Jun/14 Tenerife 2-1 Murcia
+
+ Round 39
+
+Jun/08 Albacete 3-1 Getafe
+Jun/08 Cordoba 1-2 Ferrol
+Jun/08 Levante 2-1 Tenerife
+Jun/08 El Ejido 1-0 R. Oviedo
+Jun/08 Numancia 4-0 CD Badajoz
+Jun/08 Xerez CD 1-1 Eibar
+Jun/08 Salamanca 4-2 Compostela
+Jun/07 Leganes 2-0 Zaragoza
+Jun/07 Elche 2-2 Terrassa
+Jun/07 Gijon 2-2 Almeria
+Jun/07 Las Palmas 1-4 Murcia
+
+ Round 38
+
+Jun/01 Tenerife 2-0 Cordoba
+Jun/01 Terrassa 1-1 Numancia
+Jun/01 Compostela 2-2 El Ejido
+Jun/01 Eibar 0-1 Elche
+Jun/01 Ferrol 1-1 Salamanca
+Jun/01 Murcia 1-0 Levante
+May/31 Almeria 6-0 Xerez CD
+May/31 CD Badajoz 0-1 Las Palmas
+May/31 Getafe 0-3 Leganes
+May/31 R. Oviedo 0-0 Albacete
+May/31 Zaragoza 1-1 Gijon
+
+ Round 37
+
+May/25 CD Badajoz 1-1 Terrassa
+May/25 Salamanca 2-1 Tenerife
+May/25 Gijon 0-0 Getafe
+May/25 Numancia 1-0 Eibar
+May/25 Leganes 0-1 R. Oviedo
+May/25 Xerez CD 1-3 Zaragoza
+May/24 El Ejido 1-1 Ferrol
+May/24 Cordoba 0-2 Murcia
+May/24 Las Palmas 1-1 Levante
+May/24 Elche 0-2 Almeria
+May/24 Albacete 1-1 Compostela
+
+ Round 36
+
+May/18 Zaragoza 5-2 Elche
+May/18 Tenerife 4-0 El Ejido
+May/18 Murcia 1-1 Salamanca
+May/18 Almeria 1-2 Numancia
+May/18 Compostela 2-0 Leganes
+May/18 Eibar 1-2 CD Badajoz
+May/18 Terrassa 0-1 Las Palmas
+May/18 R. Oviedo 2-1 Gijon
+May/18 Getafe 2-1 Xerez CD
+May/17 Ferrol 2-1 Albacete
+May/17 Levante 1-2 Cordoba
+
+ Round 35
+
+May/11 El Ejido 0-1 Murcia
+May/11 CD Badajoz 4-3 Almeria
+May/11 Elche 1-1 Getafe
+May/11 Salamanca 1-1 Levante
+May/11 Terrassa 1-0 Eibar
+May/11 Leganes 1-0 Ferrol
+May/11 Numancia 2-2 Zaragoza
+May/10 Las Palmas 0-1 Cordoba
+May/10 Albacete 1-0 Tenerife
+May/10 Gijon 1-3 Compostela
+May/10 Xerez CD 4-1 R. Oviedo
+
+ Round 34
+
+May/04 Levante 2-2 El Ejido
+May/04 Tenerife 1-1 Leganes
+May/04 Zaragoza 2-0 CD Badajoz
+May/04 Almeria 3-0 Terrassa
+May/04 Cordoba 0-2 Salamanca
+May/04 Ferrol 2-1 Gijon
+May/04 R. Oviedo 2-1 Elche
+May/04 Getafe 1-1 Numancia
+May/04 Murcia 0-0 Albacete
+May/03 Compostela 0-1 Xerez CD
+May/03 Eibar 0-0 Las Palmas
+
+ Round 33
+
+Apr/27 CD Badajoz 1-2 Getafe
+Apr/27 Eibar 2-0 Almeria
+Apr/27 Elche 3-1 Compostela
+Apr/27 Numancia 4-2 R. Oviedo
+Apr/27 Xerez CD 1-1 Ferrol
+Apr/27 Albacete 2-2 Levante
+Apr/27 Leganes 0-1 Murcia
+Apr/26 Las Palmas 2-1 Salamanca
+Apr/26 El Ejido 2-1 Cordoba
+Apr/26 Gijon 2-1 Tenerife
+Apr/26 Terrassa 0-2 Zaragoza
+
+ Round 32
+
+Apr/20 Murcia 0-0 Gijon
+Apr/20 Tenerife 1-3 Xerez CD
+Apr/20 Zaragoza 2-0 Eibar
+Apr/20 Compostela 1-0 Numancia
+Apr/20 Cordoba 0-2 Albacete
+Apr/20 R. Oviedo 2-1 CD Badajoz
+Apr/20 Salamanca 2-0 El Ejido
+Apr/20 Ferrol 1-0 Elche
+Apr/20 Levante 4-0 Leganes
+Apr/20 Getafe 2-1 Terrassa
+Apr/19 Almeria 1-0 Las Palmas
+
+ Round 31
+
+Apr/13 Albacete 0-0 Salamanca
+Apr/13 Almeria 0-1 Zaragoza
+Apr/13 CD Badajoz 0-2 Compostela
+Apr/13 Eibar 0-0 Getafe
+Apr/13 Gijon 3-2 Levante
+Apr/13 Numancia 4-2 Ferrol
+Apr/13 Leganes 0-3 Cordoba
+Apr/13 Xerez CD 2-0 Murcia
+Apr/12 Las Palmas 2-0 El Ejido
+Apr/12 Elche 1-0 Tenerife
+Apr/12 Terrassa 2-2 R. Oviedo
+
+ Round 30
+
+Apr/06 Tenerife 2-0 Numancia
+Apr/06 Compostela 2-1 Terrassa
+Apr/06 El Ejido 0-1 Albacete
+Apr/06 Ferrol 2-0 CD Badajoz
+Apr/06 Levante 0-0 Xerez CD
+Apr/06 R. Oviedo 1-2 Eibar
+Apr/06 Salamanca 1-1 Leganes
+Apr/06 Cordoba 1-1 Gijon
+Apr/06 Zaragoza 1-2 Las Palmas
+Apr/06 Getafe 1-1 Almeria
+Apr/05 Murcia 1-0 Elche
+
+ Round 29
+
+Mar/30 Numancia 0-2 Murcia
+Mar/30 Gijon 1-1 Salamanca
+Mar/30 Zaragoza 3-1 Getafe
+Mar/30 CD Badajoz 2-1 Tenerife
+Mar/30 Almeria 1-1 R. Oviedo
+Mar/30 Terrassa 2-1 Ferrol
+Mar/30 Leganes 2-0 El Ejido
+Mar/29 Elche 0-2 Levante
+Mar/29 Las Palmas 1-1 Albacete
+Mar/29 Eibar 2-1 Compostela
+Mar/29 Xerez CD 1-0 Cordoba
+
+ Round 28
+
+Mar/23 Albacete 2-0 Leganes
+Mar/23 Compostela 4-1 Almeria
+Mar/23 Cordoba 1-0 Elche
+Mar/23 Murcia 2-0 CD Badajoz
+Mar/23 Salamanca 1-1 Xerez CD
+Mar/23 Tenerife 1-1 Terrassa
+Mar/23 Levante 0-0 Numancia
+Mar/23 R. Oviedo 0-2 Zaragoza
+Mar/22 El Ejido 1-0 Gijon
+Mar/22 Ferrol 0-1 Eibar
+Mar/22 Getafe 0-0 Las Palmas
+
+ Round 27
+
+Mar/16 Almeria 3-2 Ferrol
+Mar/16 CD Badajoz 1-1 Levante
+Mar/16 Elche 2-1 Salamanca
+Mar/16 Gijon 0-1 Albacete
+Mar/16 Numancia 0-0 Cordoba
+Mar/16 Xerez CD 2-1 El Ejido
+Mar/16 Zaragoza 0-1 Compostela
+Mar/16 Eibar 1-1 Tenerife
+Mar/16 Getafe 1-1 R. Oviedo
+Mar/15 Las Palmas 1-4 Leganes
+Mar/15 Terrassa 0-1 Murcia
+
+ Round 26
+
+Mar/09 Albacete 0-0 Xerez CD
+Mar/09 Compostela 1-3 Getafe
+Mar/09 Cordoba 0-0 CD Badajoz
+Mar/09 El Ejido 2-0 Elche
+Mar/09 Murcia 4-2 Eibar
+Mar/09 Salamanca 0-0 Numancia
+Mar/09 Leganes 0-2 Gijon
+Mar/09 R. Oviedo 0-0 Las Palmas
+Mar/08 Ferrol 1-2 Zaragoza
+Mar/08 Levante 1-0 Terrassa
+Mar/08 Tenerife 1-1 Almeria
+
+ Round 25
+
+Mar/02 Las Palmas 2-2 Gijon
+Mar/02 Almeria 1-1 Murcia
+Mar/02 Eibar 1-1 Levante
+Mar/02 Numancia 2-2 El Ejido
+Mar/02 R. Oviedo 1-1 Compostela
+Mar/02 Terrassa 0-4 Cordoba
+Mar/02 Xerez CD 2-2 Leganes
+Mar/02 Elche 1-2 Albacete
+Mar/02 Getafe 3-1 Ferrol
+Mar/01 CD Badajoz 1-1 Salamanca
+Mar/01 Zaragoza 1-3 Tenerife
+
+ Round 24
+
+Feb/23 Tenerife 1-0 Getafe
+Feb/23 Albacete 3-1 Numancia
+Feb/23 Compostela 0-3 Las Palmas
+Feb/23 Cordoba 0-0 Eibar
+Feb/23 El Ejido 1-0 CD Badajoz
+Feb/23 Ferrol 1-1 R. Oviedo
+Feb/23 Levante 2-1 Almeria
+Feb/23 Salamanca 1-2 Terrassa
+Feb/23 Leganes 2-2 Elche
+Feb/23 Murcia 2-0 Zaragoza
+Feb/22 Gijon 1-1 Xerez CD
+
+ Round 23
+
+Feb/16 CD Badajoz 0-3 Albacete
+Feb/16 Eibar 1-1 Salamanca
+Feb/16 Elche 1-1 Gijon
+Feb/16 Numancia 2-1 Leganes
+Feb/16 Terrassa 2-0 El Ejido
+Feb/16 Zaragoza 1-0 Levante
+Feb/15 Las Palmas 4-0 Xerez CD
+Feb/15 Almeria 1-3 Cordoba
+Feb/15 Compostela 1-1 Ferrol
+Feb/15 Getafe 3-1 Murcia
+Feb/15 R. Oviedo 0-2 Tenerife
+
+ Round 22
+
+Feb/09 Tenerife 5-1 Compostela
+Feb/09 Albacete 1-0 Terrassa
+Feb/09 El Ejido 0-0 Eibar
+Feb/09 Gijon 1-2 Numancia
+Feb/09 Murcia 0-1 R. Oviedo
+Feb/09 Salamanca 2-1 Almeria
+Feb/09 Leganes 1-3 CD Badajoz
+Feb/09 Levante 1-0 Getafe
+Feb/09 Xerez CD 2-1 Elche
+Feb/08 Cordoba 2-1 Zaragoza
+Feb/08 Ferrol 1-2 Las Palmas
+
+ Round 21
+
+Feb/02 Albacete 1-1 Eibar
+Feb/02 Cordoba 3-0 Getafe
+Feb/02 Elche 3-2 Las Palmas
+Feb/02 Gijon 4-0 CD Badajoz
+Feb/02 Murcia 2-0 Compostela
+Feb/02 Salamanca 0-1 Zaragoza
+Feb/02 Xerez CD 2-2 Numancia
+Feb/02 El Ejido 2-0 Almeria
+Feb/01 Leganes 1-1 Terrassa
+Feb/01 Levante 1-0 R. Oviedo
+Feb/01 Tenerife 4-0 Ferrol
+
+ Round 20
+
+Jan/26 Almeria 1-1 Albacete
+Jan/26 CD Badajoz 0-1 Xerez CD
+Jan/26 Compostela 3-1 Levante
+Jan/26 Eibar 0-1 Leganes
+Jan/26 Ferrol 0-3 Murcia
+Jan/26 Numancia 1-0 Elche
+Jan/26 R. Oviedo 1-0 Cordoba
+Jan/26 Terrassa 0-0 Gijon
+Jan/26 Zaragoza 0-0 El Ejido
+Jan/26 Getafe 1-0 Salamanca
+Jan/25 Las Palmas 1-0 Tenerife
+
+ Round 19
+
+Jan/19 Cordoba 0-0 Compostela
+Jan/19 Elche 0-1 CD Badajoz
+Jan/19 Gijon 1-0 Eibar
+Jan/19 Levante 1-0 Ferrol
+Jan/19 Salamanca 0-0 R. Oviedo
+Jan/19 Leganes 5-2 Almeria
+Jan/19 Murcia 2-0 Tenerife
+Jan/18 Las Palmas 0-0 Numancia
+Jan/18 Albacete 0-0 Zaragoza
+Jan/18 El Ejido 1-1 Getafe
+Jan/18 Xerez CD 2-2 Terrassa
+
+ Round 18
+
+Jan/12 Tenerife 0-0 Levante
+Jan/12 CD Badajoz 1-1 Numancia
+Jan/12 Compostela 0-0 Salamanca
+Jan/12 Eibar 1-0 Xerez CD
+Jan/12 Zaragoza 2-2 Leganes
+Jan/12 Getafe 1-2 Albacete
+Jan/11 Almeria 1-0 Gijon
+Jan/11 Ferrol 0-0 Cordoba
+Jan/11 Murcia 6-1 Las Palmas
+Jan/11 R. Oviedo 0-3 El Ejido
+Jan/11 Terrassa 1-1 Elche
+
+ Round 17
+
+Jan/05 Albacete 0-1 R. Oviedo
+Jan/05 Cordoba 1-1 Tenerife
+Jan/05 Gijon 1-1 Zaragoza
+Jan/05 Levante 0-0 Murcia
+Jan/05 Numancia 1-1 Terrassa
+Jan/05 Salamanca 0-0 Ferrol
+Jan/05 El Ejido 0-2 Compostela
+Jan/05 Leganes 2-1 Getafe
+Jan/04 Las Palmas 2-0 CD Badajoz
+Jan/04 Elche 0-0 Eibar
+Jan/04 Xerez CD 1-2 Almeria
+
+ Round 16
+
+Dec/22 Eibar 1-2 Numancia
+Dec/22 Zaragoza 1-0 Xerez CD
+Dec/22 Levante 1-1 Las Palmas
+Dec/22 Getafe 0-1 Gijon
+Dec/21 Tenerife 0-0 Salamanca
+Dec/21 Terrassa 1-0 CD Badajoz
+Dec/21 Murcia 1-0 Cordoba
+Dec/21 Almeria 0-3 Elche
+Dec/21 Compostela 3-3 Albacete
+Dec/21 Ferrol 1-1 El Ejido
+Dec/21 R. Oviedo 1-1 Leganes
+
+ Round 15
+
+Dec/15 CD Badajoz 1-1 Eibar
+Dec/15 Cordoba 1-2 Levante
+Dec/15 Elche 4-0 Zaragoza
+Dec/15 Las Palmas 2-0 Terrassa
+Dec/15 Numancia 0-0 Almeria
+Dec/15 Salamanca 0-0 Murcia
+Dec/15 Xerez CD 0-0 Getafe
+Dec/15 Gijon 1-0 R. Oviedo
+Dec/15 Leganes 0-0 Compostela
+Dec/14 Albacete 2-0 Ferrol
+Dec/14 El Ejido 0-1 Tenerife
+
+ Round 14
+
+Dec/08 Almeria 2-1 CD Badajoz
+Dec/08 Compostela 2-3 Gijon
+Dec/08 Cordoba 2-2 Las Palmas
+Dec/08 Ferrol 1-1 Leganes
+Dec/08 Levante 0-1 Salamanca
+Dec/08 Zaragoza 1-0 Numancia
+Dec/08 Murcia 3-0 El Ejido
+Dec/08 Getafe 1-1 Elche
+Dec/07 Tenerife 1-1 Albacete
+Dec/07 Eibar 1-1 Terrassa
+Dec/07 R. Oviedo 1-2 Xerez CD
+
+ Round 13
+
+Dec/01 CD Badajoz 0-4 Zaragoza
+Dec/01 El Ejido 0-0 Levante
+Dec/01 Elche 2-1 R. Oviedo
+Dec/01 Numancia 1-3 Getafe
+Dec/01 Salamanca 2-0 Cordoba
+Dec/01 Terrassa 0-2 Almeria
+Dec/01 Xerez CD 0-1 Compostela
+Dec/01 Albacete 0-0 Murcia
+Nov/30 Las Palmas 0-1 Eibar
+Nov/30 Gijon 3-1 Ferrol
+Nov/30 Leganes 1-1 Tenerife
+
+ Round 12
+
+Nov/24 Tenerife 2-2 Gijon
+Nov/24 Cordoba 0-1 El Ejido
+Nov/24 Ferrol 2-1 Xerez CD
+Nov/24 Murcia 0-1 Leganes
+Nov/24 R. Oviedo 1-1 Numancia
+Nov/24 Salamanca 2-1 Las Palmas
+Nov/24 Zaragoza 1-0 Terrassa
+Nov/24 Levante 2-2 Albacete
+Nov/24 Getafe 0-1 CD Badajoz
+Nov/23 Almeria 2-1 Eibar
+Nov/23 Compostela 0-1 Elche
+
+ Round 11
+
+Nov/17 Las Palmas 2-2 Almeria
+Nov/17 CD Badajoz 0-1 R. Oviedo
+Nov/17 Eibar 0-0 Zaragoza
+Nov/17 El Ejido 1-1 Salamanca
+Nov/17 Elche 1-2 Ferrol
+Nov/17 Gijon 1-0 Murcia
+Nov/17 Numancia 2-2 Compostela
+Nov/17 Leganes 0-1 Levante
+Nov/17 Xerez CD 1-1 Tenerife
+Nov/16 Albacete 0-0 Cordoba
+Nov/16 Terrassa 1-1 Getafe
+
+ Round 10
+
+Nov/10 Compostela 3-0 CD Badajoz
+Nov/10 El Ejido 0-0 Las Palmas
+Nov/10 Ferrol 1-0 Numancia
+Nov/10 Murcia 1-1 Xerez CD
+Nov/10 R. Oviedo 2-2 Terrassa
+Nov/10 Salamanca 0-1 Albacete
+Nov/10 Zaragoza 1-0 Almeria
+Nov/10 Levante 2-1 Gijon
+Nov/10 Getafe 4-2 Eibar
+Nov/09 Cordoba 1-0 Leganes
+Nov/09 Tenerife 0-0 Elche
+
+ Round 9
+
+Nov/03 Almeria 1-1 Getafe
+Nov/03 Gijon 0-0 Cordoba
+Nov/03 Numancia 1-0 Tenerife
+Nov/03 Elche 0-2 Murcia
+Nov/03 Leganes 0-2 Salamanca
+Nov/02 Las Palmas 0-1 Zaragoza
+Nov/02 CD Badajoz 1-0 Ferrol
+Nov/02 Albacete 1-1 El Ejido
+Nov/02 Eibar 2-1 R. Oviedo
+Nov/02 Terrassa 2-1 Compostela
+Nov/02 Xerez CD 2-1 Levante
+
+ Round 8
+
+Oct/27 Tenerife 3-3 CD Badajoz
+Oct/27 Compostela 1-0 Eibar
+Oct/27 Ferrol 1-1 Terrassa
+Oct/27 Murcia 2-1 Numancia
+Oct/27 R. Oviedo 1-1 Almeria
+Oct/27 Albacete 2-1 Las Palmas
+Oct/27 Salamanca 0-0 Gijon
+Oct/27 Cordoba 1-3 Xerez CD
+Oct/27 Getafe 1-2 Zaragoza
+Oct/26 El Ejido 1-0 Leganes
+Oct/26 Levante 2-2 Elche
+
+ Round 7
+
+Oct/20 Almeria 2-1 Compostela
+Oct/20 CD Badajoz 1-0 Murcia
+Oct/20 Gijon 1-1 El Ejido
+Oct/20 Numancia 0-2 Levante
+Oct/20 Xerez CD 0-1 Salamanca
+Oct/20 Zaragoza 3-1 R. Oviedo
+Oct/20 Leganes 1-1 Albacete
+Oct/20 Terrassa 1-1 Tenerife
+Oct/19 Las Palmas 2-1 Getafe
+Oct/19 Eibar 1-0 Ferrol
+Oct/19 Elche 0-0 Cordoba
+
+ Round 6
+
+Oct/13 Albacete 4-0 Gijon
+Oct/13 Tenerife 1-0 Eibar
+Oct/13 Compostela 0-0 Zaragoza
+Oct/13 Cordoba 1-1 Numancia
+Oct/13 Ferrol 1-1 Almeria
+Oct/13 Levante 4-0 CD Badajoz
+Oct/13 Murcia 0-0 Terrassa
+Oct/13 R. Oviedo 3-4 Getafe
+Oct/13 Salamanca 1-3 Elche
+Oct/12 El Ejido 2-0 Xerez CD
+Oct/12 Leganes 1-1 Las Palmas
+
+ Round 5
+
+Oct/06 Almeria 1-1 Tenerife
+Oct/06 Gijon 1-1 Leganes
+Oct/06 CD Badajoz 2-0 Cordoba
+Oct/06 Eibar 1-1 Murcia
+Oct/06 Elche 3-0 El Ejido
+Oct/06 Numancia 1-0 Salamanca
+Oct/06 Zaragoza 2-2 Ferrol
+Oct/06 Terrassa 1-1 Levante
+Oct/05 Getafe 2-0 Compostela
+Oct/05 Las Palmas 2-0 R. Oviedo
+Oct/05 Xerez CD 1-0 Albacete
+
+ Round 4
+
+Sep/29 Murcia 3-0 Almeria
+Sep/29 Tenerife 2-0 Zaragoza
+Sep/29 Gijon 0-0 Las Palmas
+Sep/29 El Ejido 3-2 Numancia
+Sep/29 Ferrol 2-1 Getafe
+Sep/29 Salamanca 0-1 CD Badajoz
+Sep/29 Albacete 1-1 Elche
+Sep/28 Compostela 0-1 R. Oviedo
+Sep/28 Cordoba 0-2 Terrassa
+Sep/28 Leganes 1-2 Xerez CD
+Sep/28 Levante 3-1 Eibar
+
+ Round 3
+
+Sep/22 Zaragoza 1-0 Murcia
+Sep/22 CD Badajoz 0-2 El Ejido
+Sep/22 Xerez CD 1-0 Gijon
+Sep/22 Elche 1-1 Leganes
+Sep/22 Terrassa 1-0 Salamanca
+Sep/22 Getafe 2-1 Tenerife
+Sep/21 Las Palmas 1-1 Compostela
+Sep/21 R. Oviedo 1-2 Ferrol
+Sep/21 Almeria 2-2 Levante
+Sep/21 Eibar 1-0 Cordoba
+Sep/21 Numancia 1-2 Albacete
+
+ Round 2
+
+Sep/15 Albacete 1-0 CD Badajoz
+Sep/15 Murcia 2-0 Getafe
+Sep/15 Salamanca 0-0 Eibar
+Sep/15 Levante 3-2 Zaragoza
+Sep/15 El Ejido 1-2 Terrassa
+Sep/15 Gijon 0-0 Elche
+Sep/15 Leganes 2-1 Numancia
+Sep/15 Xerez CD 2-2 Las Palmas
+Sep/14 Cordoba 3-0 Almeria
+Sep/14 Ferrol 1-1 Compostela
+Sep/14 Tenerife 1-1 R. Oviedo
+
+ Round 1
+
+Sep/01 CD Badajoz 0-0 Leganes
+Sep/01 R. Oviedo 0-1 Murcia
+Sep/01 Zaragoza 0-0 Cordoba
+Sep/01 Compostela 1-1 Tenerife
+Sep/01 Eibar 0-0 El Ejido
+Sep/01 Numancia 1-0 Gijon
+Aug/31 Almeria 1-2 Salamanca
+Aug/31 Elche 0-1 Xerez CD
+Aug/31 Las Palmas 2-0 Ferrol
+Aug/31 Getafe 2-2 Levante
+Aug/31 Terrassa 1-1 Albacete

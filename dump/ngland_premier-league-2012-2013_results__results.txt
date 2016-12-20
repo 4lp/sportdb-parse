@@ -1,0 +1,512 @@
+
+ Round 38
+
+May/19 Chelsea 2-1 Everton
+May/19 Liverpool 1-0 QPR
+May/19 Manchester City 2-3 Norwich
+May/19 Newcastle Utd 0-1 Arsenal
+May/19 Southampton 1-1 Stoke City
+May/19 Swansea 0-3 Fulham
+May/19 Tottenham 1-0 Sunderland
+May/19 West Brom 5-5 Manchester United
+May/19 West Ham 4-2 Reading
+May/19 Wigan 2-2 Aston Villa
+
+ Round 37
+
+May/14 Reading 0-2 Manchester City
+May/14 Arsenal 4-1 Wigan
+May/12 Manchester United 2-1 Swansea
+May/12 Everton 2-0 West Ham
+May/12 Fulham 1-3 Liverpool
+May/12 Norwich 4-0 West Brom
+May/12 QPR 1-2 Newcastle Utd
+May/12 Sunderland 1-1 Southampton
+May/12 Stoke City 1-2 Tottenham
+May/11 Aston Villa 1-2 Chelsea
+
+ Round 33
+
+May/08 Chelsea 2-2 Tottenham
+May/07 Manchester City 1-0 West Brom
+May/07 Wigan 2-3 Swansea
+
+ Round 36
+
+May/06 Sunderland 1-1 Stoke City
+May/05 Manchester United 0-1 Chelsea
+May/05 Liverpool 0-0 Everton
+May/04 QPR 0-1 Arsenal
+May/04 Fulham 2-4 Reading
+May/04 Norwich 1-2 Aston Villa
+May/04 Swansea 0-0 Manchester City
+May/04 Tottenham 1-0 Southampton
+May/04 West Brom 2-3 Wigan
+May/04 West Ham 0-0 Newcastle Utd
+
+ Round 35
+
+Apr/29 Aston Villa 6-1 Sunderland
+Apr/28 Arsenal 1-1 Manchester United
+Apr/28 Chelsea 2-0 Swansea
+Apr/28 Reading 0-0 QPR
+Apr/27 Newcastle Utd 0-6 Liverpool
+Apr/27 Everton 1-0 Fulham
+Apr/27 Southampton 0-3 West Brom
+Apr/27 Stoke City 1-0 Norwich
+Apr/27 Wigan 2-2 Tottenham
+Apr/27 Manchester City 2-1 West Ham
+
+ Round 34
+
+Apr/22 Manchester United 3-0 Aston Villa
+Apr/21 Liverpool 2-2 Chelsea
+Apr/21 Tottenham 3-1 Manchester City
+Apr/20 Fulham 0-1 Arsenal
+Apr/20 Norwich 2-1 Reading
+Apr/20 QPR 0-2 Stoke City
+Apr/20 Sunderland 1-0 Everton
+Apr/20 Swansea 0-0 Southampton
+Apr/20 West Brom 1-1 Newcastle Utd
+Apr/20 West Ham 2-0 Wigan
+
+ Round 29
+
+Apr/17 Fulham 0-3 Chelsea
+Apr/17 Manchester City 1-0 Wigan
+Apr/17 West Ham 2-2 Manchester United
+Apr/16 Arsenal 0-0 Everton
+
+ Round 33
+
+Apr/14 Stoke City 0-2 Manchester United
+Apr/14 Newcastle Utd 0-3 Sunderland
+Apr/13 Arsenal 3-1 Norwich
+Apr/13 Aston Villa 1-1 Fulham
+Apr/13 Everton 2-0 QPR
+Apr/13 Reading 0-0 Liverpool
+Apr/13 Southampton 1-1 West Ham
+
+ Round 32
+
+Apr/08 Manchester United 1-2 Manchester City
+Apr/07 QPR 1-1 Wigan
+Apr/07 Chelsea 2-1 Sunderland
+Apr/07 Newcastle Utd 1-0 Fulham
+Apr/07 Tottenham 2-2 Everton
+Apr/07 Liverpool 0-0 West Ham
+Apr/06 Norwich 2-2 Swansea
+Apr/06 Stoke City 1-3 Aston Villa
+Apr/06 West Brom 1-2 Arsenal
+Apr/06 Reading 0-2 Southampton
+
+ Round 31
+
+Apr/01 Fulham 3-2 QPR
+Mar/31 Aston Villa 1-2 Liverpool
+Mar/30 Everton 1-0 Stoke City
+Mar/30 Arsenal 4-1 Reading
+Mar/30 Manchester City 4-0 Newcastle Utd
+Mar/30 Southampton 2-1 Chelsea
+Mar/30 Swansea 1-2 Tottenham
+Mar/30 West Ham 3-1 West Brom
+Mar/30 Wigan 1-0 Norwich
+Mar/30 Sunderland 0-1 Manchester United
+
+ Round 30
+
+Mar/17 Chelsea 2-0 West Ham
+Mar/17 Wigan 2-1 Newcastle Utd
+Mar/17 Tottenham 0-1 Fulham
+Mar/17 Sunderland 1-1 Norwich
+Mar/16 Manchester United 1-0 Reading
+Mar/16 Aston Villa 3-2 QPR
+Mar/16 Southampton 3-1 Liverpool
+Mar/16 Stoke City 0-0 West Brom
+Mar/16 Swansea 0-2 Arsenal
+Mar/16 Everton 2-0 Manchester City
+
+ Round 29
+
+Mar/10 Liverpool 3-2 Tottenham
+Mar/10 Newcastle Utd 2-1 Stoke City
+Mar/09 Norwich 0-0 Southampton
+Mar/09 QPR 3-1 Sunderland
+Mar/09 Reading 1-2 Aston Villa
+Mar/09 West Brom 2-1 Swansea
+
+ Round 28
+
+Mar/04 Aston Villa 0-1 Manchester City
+Mar/03 Tottenham 2-1 Arsenal
+Mar/02 Wigan 0-4 Liverpool
+Mar/02 Chelsea 1-0 West Brom
+Mar/02 Everton 3-1 Reading
+Mar/02 Manchester United 4-0 Norwich
+Mar/02 Southampton 1-2 QPR
+Mar/02 Stoke City 0-1 West Ham
+Mar/02 Sunderland 2-2 Fulham
+Mar/02 Swansea 1-0 Newcastle Utd
+
+ Round 27
+
+Feb/25 West Ham 2-3 Tottenham
+Feb/24 Manchester City 2-0 Chelsea
+Feb/24 Newcastle Utd 4-2 Southampton
+Feb/23 Arsenal 2-1 Aston Villa
+Feb/23 Norwich 2-1 Everton
+Feb/23 QPR 0-2 Manchester United
+Feb/23 Reading 0-3 Wigan
+Feb/23 West Brom 2-1 Sunderland
+Feb/23 Fulham 1-0 Stoke City
+Feb/17 Liverpool 5-0 Swansea
+
+ Round 26
+
+Feb/11 Liverpool 0-2 West Brom
+Feb/10 Manchester United 2-0 Everton
+Feb/10 Aston Villa 2-1 West Ham
+Feb/09 Southampton 3-1 Manchester City
+Feb/09 Chelsea 4-1 Wigan
+Feb/09 Norwich 0-0 Fulham
+Feb/09 Stoke City 2-1 Reading
+Feb/09 Sunderland 0-1 Arsenal
+Feb/09 Swansea 4-1 QPR
+Feb/09 Tottenham 2-1 Newcastle Utd
+
+ Round 25
+
+Feb/03 Manchester City 2-2 Liverpool
+Feb/03 West Brom 0-1 Tottenham
+Feb/02 Fulham 0-1 Manchester United
+Feb/02 Arsenal 1-0 Stoke City
+Feb/02 Everton 3-3 Aston Villa
+Feb/02 Newcastle Utd 3-2 Chelsea
+Feb/02 Reading 2-1 Sunderland
+Feb/02 West Ham 1-0 Swansea
+Feb/02 Wigan 2-2 Southampton
+Feb/02 QPR 0-0 Norwich
+
+ Round 24
+
+Jan/30 Fulham 3-1 West Ham
+Jan/30 Manchester United 2-1 Southampton
+Jan/30 Reading 2-2 Chelsea
+Jan/30 Arsenal 2-2 Liverpool
+Jan/30 Everton 2-1 West Brom
+Jan/30 Norwich 1-1 Tottenham
+Jan/29 Aston Villa 1-2 Newcastle Utd
+Jan/29 QPR 0-0 Manchester City
+Jan/29 Stoke City 2-2 Wigan
+Jan/29 Sunderland 0-0 Swansea
+
+ Round 19
+
+Jan/23 Arsenal 5-1 West Ham
+
+ Round 23
+
+Jan/21 Southampton 0-0 Everton
+Jan/20 Tottenham 1-1 Manchester United
+Jan/20 Chelsea 2-1 Arsenal
+Jan/19 West Brom 2-2 Aston Villa
+Jan/19 Liverpool 5-0 Norwich
+Jan/19 Manchester City 2-0 Fulham
+Jan/19 Newcastle Utd 1-2 Reading
+Jan/19 Swansea 3-1 Stoke City
+Jan/19 West Ham 1-1 QPR
+Jan/19 Wigan 2-3 Sunderland
+
+ Round 17
+
+Jan/16 Chelsea 2-2 Southampton
+
+ Round 22
+
+Jan/13 Arsenal 0-2 Manchester City
+Jan/13 Manchester United 2-1 Liverpool
+Jan/12 Aston Villa 0-1 Southampton
+Jan/12 Everton 0-0 Swansea
+Jan/12 Fulham 1-1 Wigan
+Jan/12 Norwich 0-0 Newcastle Utd
+Jan/12 Reading 3-2 West Brom
+Jan/12 Stoke City 0-4 Chelsea
+Jan/12 Sunderland 3-0 West Ham
+Jan/12 QPR 0-0 Tottenham
+
+ Round 21
+
+Jan/02 Newcastle Utd 1-2 Everton
+Jan/02 Chelsea 0-1 QPR
+Jan/02 Liverpool 3-0 Sunderland
+Jan/01 Southampton 1-1 Arsenal
+Jan/01 Manchester City 3-0 Stoke City
+Jan/01 Swansea 2-2 Aston Villa
+Jan/01 Tottenham 3-1 Reading
+Jan/01 West Ham 2-1 Norwich
+Jan/01 Wigan 0-4 Manchester United
+Jan/01 West Brom 1-2 Fulham
+
+ Round 20
+
+Dec/30 QPR 0-3 Liverpool
+Dec/30 Everton 1-2 Chelsea
+Dec/29 Arsenal 7-3 Newcastle Utd
+Dec/29 Aston Villa 0-3 Wigan
+Dec/29 Fulham 1-2 Swansea
+Dec/29 Manchester United 2-0 West Brom
+Dec/29 Norwich 3-4 Manchester City
+Dec/29 Reading 1-0 West Ham
+Dec/29 Stoke City 3-3 Southampton
+Dec/29 Sunderland 1-2 Tottenham
+
+ Round 19
+
+Dec/26 Stoke City 3-1 Liverpool
+Dec/26 Aston Villa 0-4 Tottenham
+Dec/26 QPR 1-2 West Brom
+Dec/26 Everton 2-1 Wigan
+Dec/26 Fulham 1-1 Southampton
+Dec/26 Manchester United 4-3 Newcastle Utd
+Dec/26 Norwich 0-1 Chelsea
+Dec/26 Reading 0-0 Swansea
+Dec/26 Sunderland 1-0 Manchester City
+
+ Round 18
+
+Dec/23 Chelsea 8-0 Aston Villa
+Dec/23 Swansea 1-1 Manchester United
+Dec/22 Liverpool 4-0 Fulham
+Dec/22 Manchester City 1-0 Reading
+Dec/22 Newcastle Utd 1-0 QPR
+Dec/22 Southampton 0-1 Sunderland
+Dec/22 Tottenham 0-0 Stoke City
+Dec/22 West Brom 2-1 Norwich
+Dec/22 West Ham 1-2 Everton
+Dec/22 Wigan 0-1 Arsenal
+
+ Round 17
+
+Dec/17 Reading 2-5 Arsenal
+Dec/16 West Brom 0-0 West Ham
+Dec/16 Tottenham 1-0 Swansea
+Dec/15 Liverpool 1-3 Aston Villa
+Dec/15 Manchester United 3-1 Sunderland
+Dec/15 Norwich 2-1 Wigan
+Dec/15 QPR 2-1 Fulham
+Dec/15 Stoke City 1-1 Everton
+Dec/15 Newcastle Utd 1-3 Manchester City
+
+ Round 2
+
+Dec/11 Sunderland 3-0 Reading
+
+ Round 16
+
+Dec/10 Fulham 2-1 Newcastle Utd
+Dec/09 West Ham 2-3 Liverpool
+Dec/09 Everton 2-1 Tottenham
+Dec/09 Manchester City 2-3 Manchester United
+Dec/08 Arsenal 2-0 West Brom
+Dec/08 Aston Villa 0-0 Stoke City
+Dec/08 Southampton 1-0 Reading
+Dec/08 Sunderland 1-3 Chelsea
+Dec/08 Swansea 3-4 Norwich
+Dec/08 Wigan 2-2 QPR
+
+ Round 15
+
+Dec/03 Newcastle Utd 3-0 Wigan
+Dec/02 Norwich 2-1 Sunderland
+Dec/01 Reading 3-4 Manchester United
+Dec/01 Arsenal 0-2 Swansea
+Dec/01 Fulham 0-3 Tottenham
+Dec/01 Liverpool 1-0 Southampton
+Dec/01 Manchester City 1-1 Everton
+Dec/01 QPR 1-1 Aston Villa
+Dec/01 West Brom 0-1 Stoke City
+Dec/01 West Ham 3-1 Chelsea
+
+ Round 14
+
+Nov/28 Manchester United 1-0 West Ham
+Nov/28 Wigan 0-2 Manchester City
+Nov/28 Chelsea 0-0 Fulham
+Nov/28 Everton 1-1 Arsenal
+Nov/28 Southampton 1-1 Norwich
+Nov/28 Stoke City 2-1 Newcastle Utd
+Nov/28 Swansea 3-1 West Brom
+Nov/28 Tottenham 2-1 Liverpool
+Nov/27 Aston Villa 1-0 Reading
+Nov/27 Sunderland 0-0 QPR
+
+ Round 13
+
+Nov/25 Chelsea 0-0 Manchester City
+Nov/25 Tottenham 3-1 West Ham
+Nov/25 Southampton 2-0 Newcastle Utd
+Nov/25 Swansea 0-0 Liverpool
+Nov/24 Aston Villa 0-0 Arsenal
+Nov/24 Everton 1-1 Norwich
+Nov/24 Manchester United 3-1 QPR
+Nov/24 Stoke City 1-0 Fulham
+Nov/24 Wigan 3-2 Reading
+Nov/24 Sunderland 2-4 West Brom
+
+ Round 12
+
+Nov/19 West Ham 1-1 Stoke City
+Nov/18 Fulham 1-3 Sunderland
+Nov/17 Norwich 1-0 Manchester United
+Nov/17 Liverpool 3-0 Wigan
+Nov/17 Manchester City 5-0 Aston Villa
+Nov/17 Newcastle Utd 1-2 Swansea
+Nov/17 QPR 1-3 Southampton
+Nov/17 Reading 2-1 Everton
+Nov/17 West Brom 2-1 Chelsea
+Nov/17 Arsenal 5-2 Tottenham
+
+ Round 11
+
+Nov/11 Chelsea 1-1 Liverpool
+Nov/11 Newcastle Utd 0-1 West Ham
+Nov/11 Manchester City 2-1 Tottenham
+Nov/10 Aston Villa 2-3 Manchester United
+Nov/10 Arsenal 3-3 Fulham
+Nov/10 Everton 2-1 Sunderland
+Nov/10 Reading 0-0 Norwich
+Nov/10 Southampton 1-1 Swansea
+Nov/10 Stoke City 1-0 QPR
+Nov/10 Wigan 1-2 West Brom
+
+ Round 10
+
+Nov/05 West Brom 2-0 Southampton
+Nov/04 Liverpool 1-1 Newcastle Utd
+Nov/04 QPR 1-1 Reading
+Nov/03 West Ham 0-0 Manchester City
+Nov/03 Fulham 2-2 Everton
+Nov/03 Norwich 1-0 Stoke City
+Nov/03 Sunderland 0-1 Aston Villa
+Nov/03 Swansea 1-1 Chelsea
+Nov/03 Tottenham 0-1 Wigan
+Nov/03 Manchester United 2-1 Arsenal
+
+ Round 9
+
+Oct/28 Chelsea 2-3 Manchester United
+Oct/28 Newcastle Utd 2-1 West Brom
+Oct/28 Southampton 1-2 Tottenham
+Oct/28 Everton 2-2 Liverpool
+Oct/27 Manchester City 1-0 Swansea
+Oct/27 Arsenal 1-0 QPR
+Oct/27 Reading 3-3 Fulham
+Oct/27 Stoke City 0-0 Sunderland
+Oct/27 Wigan 2-1 West Ham
+Oct/27 Aston Villa 1-1 Norwich
+
+ Round 8
+
+Oct/21 QPR 1-1 Everton
+Oct/21 Sunderland 1-1 Newcastle Utd
+Oct/20 Norwich 1-0 Arsenal
+Oct/20 Fulham 1-0 Aston Villa
+Oct/20 Liverpool 1-0 Reading
+Oct/20 Manchester United 4-2 Stoke City
+Oct/20 Swansea 2-1 Wigan
+Oct/20 West Brom 1-2 Manchester City
+Oct/20 West Ham 4-1 Southampton
+Oct/20 Tottenham 2-4 Chelsea
+
+ Round 7
+
+Oct/07 Newcastle Utd 0-3 Manchester United
+Oct/07 Liverpool 0-0 Stoke City
+Oct/07 Tottenham 2-0 Aston Villa
+Oct/07 Southampton 2-2 Fulham
+Oct/06 West Ham 1-3 Arsenal
+Oct/06 Chelsea 4-1 Norwich
+Oct/06 Swansea 2-2 Reading
+Oct/06 West Brom 3-2 QPR
+Oct/06 Wigan 2-2 Everton
+Oct/06 Manchester City 3-0 Sunderland
+
+ Round 6
+
+Oct/01 QPR 1-2 West Ham
+Sep/30 Aston Villa 1-1 West Brom
+Sep/29 Manchester United 2-3 Tottenham
+Sep/29 Everton 3-1 Southampton
+Sep/29 Fulham 1-2 Manchester City
+Sep/29 Norwich 2-5 Liverpool
+Sep/29 Reading 2-2 Newcastle Utd
+Sep/29 Stoke City 2-0 Swansea
+Sep/29 Sunderland 1-0 Wigan
+Sep/29 Arsenal 1-2 Chelsea
+
+ Round 5
+
+Sep/23 Manchester City 1-1 Arsenal
+Sep/23 Tottenham 2-1 QPR
+Sep/23 Newcastle Utd 1-0 Norwich
+Sep/23 Liverpool 1-2 Manchester United
+Sep/22 Chelsea 1-0 Stoke City
+Sep/22 Southampton 4-1 Aston Villa
+Sep/22 West Brom 1-0 Reading
+Sep/22 West Ham 1-1 Sunderland
+Sep/22 Wigan 1-2 Fulham
+Sep/22 Swansea 0-3 Everton
+
+ Round 4
+
+Sep/17 Everton 2-2 Newcastle Utd
+Sep/16 Reading 1-3 Tottenham
+Sep/15 Sunderland 1-1 Liverpool
+Sep/15 Arsenal 6-1 Southampton
+Sep/15 Aston Villa 2-0 Swansea
+Sep/15 Fulham 3-0 West Brom
+Sep/15 Manchester United 4-0 Wigan
+Sep/15 QPR 0-0 Chelsea
+Sep/15 Stoke City 1-1 Manchester City
+Sep/15 Norwich 0-0 West Ham
+
+ Round 3
+
+Sep/02 Newcastle Utd 1-1 Aston Villa
+Sep/02 Southampton 2-3 Manchester United
+Sep/02 Liverpool 0-2 Arsenal
+Sep/01 Manchester City 3-1 QPR
+Sep/01 Swansea 2-2 Sunderland
+Sep/01 Tottenham 1-1 Norwich
+Sep/01 West Brom 2-0 Everton
+Sep/01 Wigan 2-2 Stoke City
+Sep/01 West Ham 3-0 Fulham
+
+ Round 2
+
+Aug/26 Liverpool 2-2 Manchester City
+Aug/26 Stoke City 0-0 Arsenal
+Aug/25 Chelsea 2-0 Newcastle Utd
+Aug/25 Aston Villa 1-3 Everton
+Aug/25 Manchester United 3-2 Fulham
+Aug/25 Norwich 1-1 QPR
+Aug/25 Southampton 0-2 Wigan
+Aug/25 Tottenham 1-1 West Brom
+Aug/25 Swansea 3-0 West Ham
+
+ Round 3
+
+Aug/22 Chelsea 4-2 Reading
+
+ Round 1
+
+Aug/20 Everton 1-0 Manchester United
+Aug/19 Manchester City 3-2 Southampton
+Aug/19 Wigan 0-2 Chelsea
+Aug/18 Newcastle Utd 2-1 Tottenham
+Aug/18 Arsenal 0-0 Sunderland
+Aug/18 Fulham 5-0 Norwich
+Aug/18 QPR 0-5 Swansea
+Aug/18 Reading 1-1 Stoke City
+Aug/18 West Brom 3-0 Liverpool
+Aug/18 West Ham 1-0 Aston Villa

@@ -57,7 +57,7 @@ def convertFile(content):
 	for line in content:
 		if (line != "" and line != " " and line != "  " and not line.endswith(")") and not line.startswith("(")):
 			#Is there a team this would conflict with?
-			if ("Round " in line or "Final" in line or "Semi-finals" in line or "Week" in line):
+			if ("Round " in line or "Final" in line or "Semi-finals" in line or "Week" in line or "Quarter-finals" in line):
 				formattedLines.append("\n%s\n" % line)
 				matchday += 1
 			elif count % 4 == 0:

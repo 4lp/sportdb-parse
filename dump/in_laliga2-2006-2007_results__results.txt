@@ -1,0 +1,588 @@
+
+ Round 42
+
+Jun/17 Almeria 3-0 Vecindario
+Jun/16 Numancia 1-2 Valladolid
+Jun/16 Salamanca 1-0 Granada 74
+Jun/16 Albacete 1-0 Lorca Deportiva
+Jun/16 Gijon 2-1 Xerez CD
+Jun/16 Hercules 0-2 Elche
+Jun/16 Las Palmas 0-2 El Ejido
+Jun/16 Murcia 1-4 Tenerife
+Jun/16 Alaves 1-2 Ponferradina
+Jun/16 Cadiz CF 3-3 Real Madrid B
+Jun/16 Castellon 0-1 Malaga
+
+ Round 41
+
+Jun/10 Valladolid 4-2 Albacete
+Jun/10 Tenerife 1-0 Salamanca
+Jun/10 Xerez CD 1-1 Numancia
+Jun/10 Ponferradina 4-1 Hercules
+Jun/08 El Ejido 4-1 Gijon
+Jun/08 Elche 1-0 Castellon
+Jun/08 Granada 74 4-2 Las Palmas
+Jun/08 Lorca Deportiva 1-2 Alaves
+Jun/08 Malaga 1-1 Cadiz CF
+Jun/08 Real Madrid B 3-1 Almeria
+Jun/08 Vecindario 1-1 Murcia
+
+ Round 40
+
+Jun/03 Alaves 1-2 Valladolid
+Jun/03 Murcia 2-2 Real Madrid B
+Jun/03 Albacete 0-0 Xerez CD
+Jun/03 Almeria 2-2 Malaga
+Jun/03 Castellon 4-0 Ponferradina
+Jun/03 Hercules 1-1 Lorca Deportiva
+Jun/03 Numancia 3-1 El Ejido
+Jun/02 Cadiz CF 3-1 Elche
+Jun/02 Gijon 4-3 Granada 74
+Jun/02 Las Palmas 2-2 Salamanca
+Jun/02 Tenerife 0-2 Vecindario
+
+ Round 39
+
+May/27 Elche 0-2 Almeria
+May/27 Salamanca 2-3 Vecindario
+May/27 Malaga 1-2 Murcia
+May/27 Real Madrid B 2-3 Tenerife
+May/26 El Ejido 1-0 Albacete
+May/26 Ponferradina 1-3 Cadiz CF
+May/26 Las Palmas 3-1 Gijon
+May/26 Lorca Deportiva 0-4 Castellon
+May/26 Valladolid 0-1 Hercules
+May/26 Xerez CD 0-2 Alaves
+May/26 Granada 74 1-0 Numancia
+
+ Round 38
+
+May/20 Castellon 2-1 Valladolid
+May/20 Albacete 2-2 Granada 74
+May/20 Cadiz CF 0-0 Lorca Deportiva
+May/20 Tenerife 1-2 Malaga
+May/20 Murcia 0-2 Elche
+May/19 Alaves 2-1 El Ejido
+May/19 Almeria 3-1 Ponferradina
+May/19 Gijon 2-1 Salamanca
+May/19 Hercules 2-0 Xerez CD
+May/19 Numancia 3-0 Las Palmas
+May/19 Vecindario 2-1 Real Madrid B
+
+ Round 37
+
+May/13 El Ejido 2-0 Hercules
+May/13 Xerez CD 1-0 Castellon
+May/13 Valladolid 2-2 Cadiz CF
+May/13 Lorca Deportiva 3-1 Almeria
+May/12 Las Palmas 0-1 Albacete
+May/12 Gijon 1-0 Numancia
+May/12 Elche 0-1 Tenerife
+May/12 Granada 74 5-1 Alaves
+May/12 Malaga 3-2 Vecindario
+May/12 Ponferradina 1-1 Murcia
+May/12 Salamanca 3-2 Real Madrid B
+
+ Round 36
+
+May/06 Tenerife 0-1 Ponferradina
+May/06 Castellon 0-0 El Ejido
+May/06 Cadiz CF 1-2 Xerez CD
+May/06 Almeria 3-2 Valladolid
+May/05 Vecindario 1-4 Elche
+May/05 Alaves 1-2 Las Palmas
+May/05 Albacete 2-1 Gijon
+May/05 Hercules 1-1 Granada 74
+May/05 Murcia 1-0 Lorca Deportiva
+May/05 Numancia 0-0 Salamanca
+May/05 Real Madrid B 2-1 Malaga
+
+ Round 35
+
+Apr/29 Ponferradina 3-3 Vecindario
+Apr/29 Lorca Deportiva 2-3 Tenerife
+Apr/29 Numancia 1-1 Albacete
+Apr/29 Salamanca 0-0 Malaga
+Apr/29 Elche 2-1 Real Madrid B
+Apr/29 Valladolid 1-1 Murcia
+Apr/28 Gijon 1-1 Alaves
+Apr/28 Granada 74 1-1 Castellon
+Apr/28 Las Palmas 3-1 Hercules
+Apr/28 Xerez CD 3-0 Almeria
+Apr/28 El Ejido 0-1 Cadiz CF
+
+ Round 34
+
+Apr/22 Tenerife 0-2 Valladolid
+Apr/22 Vecindario 1-1 Lorca Deportiva
+Apr/22 Alaves 2-2 Numancia
+Apr/22 Albacete 1-1 Salamanca
+Apr/22 Hercules 1-1 Gijon
+Apr/22 Malaga 2-0 Elche
+Apr/22 Murcia 3-0 Xerez CD
+Apr/22 Real Madrid B 3-1 Ponferradina
+Apr/22 Almeria 3-1 El Ejido
+Apr/21 Cadiz CF 1-2 Granada 74
+Apr/21 Castellon 2-0 Las Palmas
+
+ Round 33
+
+Apr/15 Gijon 2-2 Castellon
+Apr/15 Lorca Deportiva 2-0 Real Madrid B
+Apr/15 Numancia 2-2 Hercules
+Apr/15 Salamanca 0-1 Elche
+Apr/15 Ponferradina 2-2 Malaga
+Apr/15 Valladolid 3-0 Vecindario
+Apr/15 Granada 74 0-1 Almeria
+Apr/14 Albacete 2-2 Alaves
+Apr/14 El Ejido 0-2 Murcia
+Apr/14 Las Palmas 0-3 Cadiz CF
+Apr/14 Xerez CD 1-2 Tenerife
+
+ Round 32
+
+Apr/08 Tenerife 3-1 El Ejido
+Apr/08 Almeria 2-1 Las Palmas
+Apr/08 Castellon 3-1 Numancia
+Apr/08 Elche 1-0 Ponferradina
+Apr/08 Alaves 0-2 Salamanca
+Apr/08 Cadiz CF 1-1 Gijon
+Apr/07 Hercules 0-1 Albacete
+Apr/07 Malaga 4-0 Lorca Deportiva
+Apr/07 Murcia 2-1 Granada 74
+Apr/07 Real Madrid B 1-3 Valladolid
+Apr/07 Vecindario 2-1 Xerez CD
+
+ Round 31
+
+Apr/01 Alaves 2-3 Hercules
+Apr/01 El Ejido 1-0 Vecindario
+Apr/01 Numancia 1-0 Cadiz CF
+Apr/01 Salamanca 3-3 Ponferradina
+Apr/01 Valladolid 1-0 Malaga
+Apr/01 Albacete 0-1 Castellon
+Apr/01 Granada 74 2-1 Tenerife
+Apr/01 Gijon 1-2 Almeria
+Mar/31 Las Palmas 1-0 Murcia
+Mar/31 Lorca Deportiva 2-0 Elche
+Mar/31 Xerez CD 3-1 Real Madrid B
+
+ Round 30
+
+Mar/25 Elche 0-1 Valladolid
+Mar/25 Ponferradina 2-1 Lorca Deportiva
+Mar/25 Vecindario 0-1 Granada 74
+Mar/25 Almeria 3-0 Numancia
+Mar/25 Castellon 2-0 Alaves
+Mar/25 Real Madrid B 4-1 El Ejido
+Mar/25 Malaga 1-0 Xerez CD
+Mar/24 Cadiz CF 1-2 Albacete
+Mar/24 Hercules 2-0 Salamanca
+Mar/24 Murcia 3-1 Gijon
+Mar/24 Tenerife 3-1 Las Palmas
+
+ Round 29
+
+Mar/18 Valladolid 1-0 Ponferradina
+Mar/18 Alaves 1-1 Cadiz CF
+Mar/18 El Ejido 4-1 Malaga
+Mar/18 Gijon 1-1 Tenerife
+Mar/18 Salamanca 2-1 Lorca Deportiva
+Mar/18 Xerez CD 2-1 Elche
+Mar/18 Numancia 1-2 Murcia
+Mar/17 Albacete 1-1 Almeria
+Mar/17 Granada 74 0-0 Real Madrid B
+Mar/17 Hercules 2-2 Castellon
+Mar/17 Las Palmas 3-1 Vecindario
+
+ Round 28
+
+Mar/11 Tenerife 1-0 Numancia
+Mar/11 Almeria 2-2 Alaves
+Mar/11 Malaga 0-0 Granada 74
+Mar/11 Cadiz CF 1-1 Hercules
+Mar/11 Castellon 1-2 Salamanca
+Mar/11 Lorca Deportiva 0-2 Valladolid
+Mar/11 Ponferradina 1-1 Xerez CD
+Mar/11 Murcia 0-1 Albacete
+Mar/10 Vecindario 0-2 Gijon
+Mar/10 Elche 2-0 El Ejido
+Mar/10 Real Madrid B 0-3 Las Palmas
+
+ Round 27
+
+Mar/04 Xerez CD 1-0 Lorca Deportiva
+Mar/04 Gijon 0-1 Real Madrid B
+Mar/04 El Ejido 1-1 Ponferradina
+Mar/04 Granada 74 1-1 Elche
+Mar/04 Numancia 3-0 Vecindario
+Mar/04 Salamanca 1-1 Valladolid
+Mar/04 Hercules 0-2 Almeria
+Mar/03 Las Palmas 2-1 Malaga
+Mar/03 Alaves 1-1 Murcia
+Mar/03 Albacete 2-0 Tenerife
+Mar/03 Castellon 2-0 Cadiz CF
+
+ Round 26
+
+Feb/25 Vecindario 1-0 Albacete
+Feb/25 Malaga 1-1 Gijon
+Feb/25 Valladolid 1-1 Xerez CD
+Feb/25 Lorca Deportiva 1-3 El Ejido
+Feb/25 Murcia 3-1 Hercules
+Feb/25 Ponferradina 1-0 Granada 74
+Feb/25 Elche 2-1 Las Palmas
+Feb/24 Almeria 2-1 Castellon
+Feb/24 Cadiz CF 2-0 Salamanca
+Feb/24 Real Madrid B 0-0 Numancia
+Feb/24 Tenerife 1-2 Alaves
+
+ Round 25
+
+Feb/18 Las Palmas 0-0 Ponferradina
+Feb/18 Salamanca 1-0 Xerez CD
+Feb/18 Alaves 5-1 Vecindario
+Feb/18 Castellon 0-1 Murcia
+Feb/18 El Ejido 2-3 Valladolid
+Feb/18 Gijon 0-0 Elche
+Feb/18 Numancia 2-0 Malaga
+Feb/17 Albacete 1-0 Real Madrid B
+Feb/17 Cadiz CF 2-2 Almeria
+Feb/17 Granada 74 2-1 Lorca Deportiva
+Feb/17 Hercules 3-1 Tenerife
+
+ Round 24
+
+Feb/11 Vecindario 1-1 Hercules
+Feb/11 Tenerife 2-0 Castellon
+Feb/11 Valladolid 1-0 Granada 74
+Feb/11 Elche 1-2 Numancia
+Feb/11 Lorca Deportiva 0-1 Las Palmas
+Feb/11 Malaga 0-3 Albacete
+Feb/11 Xerez CD 2-1 El Ejido
+Feb/11 Almeria 3-1 Salamanca
+Feb/10 Murcia 1-0 Cadiz CF
+Feb/10 Ponferradina 0-3 Gijon
+Feb/10 Real Madrid B 1-1 Alaves
+
+ Round 23
+
+Feb/04 Salamanca 0-0 El Ejido
+Feb/04 Castellon 0-0 Vecindario
+Feb/04 Gijon 0-1 Lorca Deportiva
+Feb/04 Numancia 1-0 Ponferradina
+Feb/04 Almeria 2-1 Murcia
+Feb/03 Hercules 0-3 Real Madrid B
+Feb/03 Alaves 0-1 Malaga
+Feb/03 Albacete 0-0 Elche
+Feb/03 Cadiz CF 1-0 Tenerife
+Feb/03 Granada 74 1-0 Xerez CD
+Feb/03 Las Palmas 2-2 Valladolid
+
+ Round 22
+
+Jan/28 Vecindario 1-2 Cadiz CF
+Jan/28 Tenerife 2-1 Almeria
+Jan/28 Elche 1-0 Alaves
+Jan/28 Malaga 0-0 Hercules
+Jan/28 El Ejido 2-0 Granada 74
+Jan/28 Murcia 1-0 Salamanca
+Jan/27 Lorca Deportiva 1-1 Numancia
+Jan/27 Ponferradina 4-3 Albacete
+Jan/27 Real Madrid B 1-1 Castellon
+Jan/27 Valladolid 1-0 Gijon
+Jan/27 Xerez CD 0-0 Las Palmas
+
+ Round 21
+
+Jan/21 Vecindario 0-1 Almeria
+Jan/21 Granada 74 1-0 Salamanca
+Jan/21 Malaga 0-0 Castellon
+Jan/21 El Ejido 1-1 Las Palmas
+Jan/21 Lorca Deportiva 3-0 Albacete
+Jan/21 Ponferradina 0-2 Alaves
+Jan/21 Valladolid 2-0 Numancia
+Jan/21 Xerez CD 3-1 Gijon
+Jan/20 Elche 2-0 Hercules
+Jan/20 Real Madrid B 0-1 Cadiz CF
+Jan/20 Tenerife 1-1 Murcia
+
+ Round 20
+
+Jan/14 Almeria 1-0 Real Madrid B
+Jan/14 Numancia 1-0 Xerez CD
+Jan/14 Hercules 3-0 Ponferradina
+Jan/14 Murcia 4-3 Vecindario
+Jan/14 Salamanca 0-0 Tenerife
+Jan/14 Cadiz CF 1-0 Malaga
+Jan/13 Alaves 3-1 Lorca Deportiva
+Jan/13 Albacete 0-2 Valladolid
+Jan/13 Castellon 1-2 Elche
+Jan/13 Gijon 0-1 El Ejido
+Jan/13 Las Palmas 0-1 Granada 74
+
+ Round 19
+
+Jan/07 Real Madrid B 0-2 Murcia
+Jan/07 El Ejido 0-0 Numancia
+Jan/07 Elche 1-1 Cadiz CF
+Jan/07 Granada 74 3-1 Gijon
+Jan/07 Ponferradina 1-0 Castellon
+Jan/07 Salamanca 2-2 Las Palmas
+Jan/07 Valladolid 1-0 Alaves
+Jan/06 Lorca Deportiva 0-1 Hercules
+Jan/06 Malaga 2-1 Almeria
+Jan/06 Vecindario 2-1 Tenerife
+Jan/06 Xerez CD 0-1 Albacete
+
+ Round 18
+
+Dec/21 Alaves 1-0 Xerez CD
+Dec/21 Gijon 2-0 Las Palmas
+Dec/21 Hercules 2-2 Valladolid
+Dec/20 Tenerife 3-2 Real Madrid B
+Dec/20 Almeria 2-0 Elche
+Dec/20 Vecindario 0-3 Salamanca
+Dec/20 Albacete 1-1 El Ejido
+Dec/20 Cadiz CF 0-0 Ponferradina
+Dec/20 Castellon 2-1 Lorca Deportiva
+Dec/20 Numancia 2-1 Granada 74
+Dec/20 Murcia 3-2 Malaga
+
+ Round 17
+
+Dec/17 Xerez CD 0-2 Hercules
+Dec/17 Lorca Deportiva 1-2 Cadiz CF
+Dec/17 Salamanca 0-1 Gijon
+Dec/16 Las Palmas 1-1 Numancia
+Dec/16 Ponferradina 0-1 Almeria
+Dec/16 El Ejido 5-2 Alaves
+Dec/16 Elche 1-1 Murcia
+Dec/16 Granada 74 2-1 Albacete
+Dec/16 Malaga 1-0 Tenerife
+Dec/16 Real Madrid B 3-2 Vecindario
+Dec/16 Valladolid 1-0 Castellon
+
+ Round 16
+
+Dec/10 Tenerife 2-0 Elche
+Dec/10 Real Madrid B 2-1 Salamanca
+Dec/10 Albacete 1-1 Las Palmas
+Dec/10 Murcia 1-1 Ponferradina
+Dec/10 Cadiz CF 0-0 Valladolid
+Dec/09 Hercules 1-0 El Ejido
+Dec/09 Alaves 1-0 Granada 74
+Dec/09 Almeria 4-0 Lorca Deportiva
+Dec/09 Castellon 1-0 Xerez CD
+Dec/09 Numancia 2-0 Gijon
+Dec/09 Vecindario 1-1 Malaga
+
+ Round 15
+
+Dec/03 Valladolid 2-2 Almeria
+Dec/03 El Ejido 0-2 Castellon
+Dec/03 Gijon 0-1 Albacete
+Dec/03 Granada 74 2-1 Hercules
+Dec/03 Salamanca 0-0 Numancia
+Dec/03 Xerez CD 1-4 Cadiz CF
+Dec/02 Las Palmas 6-1 Alaves
+Dec/02 Elche 2-1 Vecindario
+Dec/02 Lorca Deportiva 1-1 Murcia
+Dec/02 Malaga 3-3 Real Madrid B
+Dec/02 Ponferradina 1-0 Tenerife
+
+ Round 14
+
+Nov/26 Tenerife 1-1 Lorca Deportiva
+Nov/26 Malaga 1-0 Salamanca
+Nov/26 Cadiz CF 0-0 El Ejido
+Nov/26 Hercules 1-1 Las Palmas
+Nov/26 Murcia 1-4 Valladolid
+Nov/25 Alaves 0-0 Gijon
+Nov/25 Albacete 1-3 Numancia
+Nov/25 Almeria 1-1 Xerez CD
+Nov/25 Castellon 2-0 Granada 74
+Nov/25 Real Madrid B 0-2 Elche
+Nov/25 Vecindario 1-0 Ponferradina
+
+ Round 13
+
+Nov/19 Valladolid 1-0 Tenerife
+Nov/19 Elche 2-1 Malaga
+Nov/19 Lorca Deportiva 1-1 Vecindario
+Nov/19 Numancia 1-1 Alaves
+Nov/19 Ponferradina 0-3 Real Madrid B
+Nov/19 Xerez CD 1-1 Murcia
+Nov/18 Las Palmas 1-0 Castellon
+Nov/18 El Ejido 1-2 Almeria
+Nov/18 Gijon 1-0 Hercules
+Nov/18 Granada 74 1-1 Cadiz CF
+Nov/18 Salamanca 4-1 Albacete
+
+ Round 12
+
+Nov/12 Almeria 3-1 Granada 74
+Nov/12 Tenerife 0-2 Xerez CD
+Nov/12 Vecindario 1-2 Valladolid
+Nov/12 Castellon 0-3 Gijon
+Nov/12 Malaga 1-1 Ponferradina
+Nov/12 Alaves 1-1 Albacete
+Nov/11 Cadiz CF 0-0 Las Palmas
+Nov/11 Elche 1-1 Salamanca
+Nov/11 Murcia 0-1 El Ejido
+Nov/11 Hercules 2-0 Numancia
+Nov/11 Real Madrid B 2-0 Lorca Deportiva
+
+ Round 11
+
+Nov/05 Valladolid 4-0 Real Madrid B
+Nov/05 El Ejido 4-2 Tenerife
+Nov/05 Numancia 2-1 Castellon
+Nov/05 Ponferradina 1-1 Elche
+Nov/05 Salamanca 3-0 Alaves
+Nov/05 Granada 74 1-1 Murcia
+Nov/04 Las Palmas 3-1 Almeria
+Nov/04 Albacete 0-1 Hercules
+Nov/04 Gijon 5-4 Cadiz CF
+Nov/04 Lorca Deportiva 2-2 Malaga
+Nov/04 Xerez CD 1-0 Vecindario
+
+ Round 10
+
+Oct/29 Murcia 3-1 Las Palmas
+Oct/29 Elche 0-2 Lorca Deportiva
+Oct/29 Malaga 0-1 Valladolid
+Oct/29 Cadiz CF 1-0 Numancia
+Oct/29 Ponferradina 1-2 Salamanca
+Oct/28 Tenerife 1-0 Granada 74
+Oct/28 Almeria 2-0 Gijon
+Oct/28 Castellon 0-0 Albacete
+Oct/28 Hercules 3-1 Alaves
+Oct/28 Real Madrid B 1-1 Xerez CD
+Oct/28 Vecindario 0-4 El Ejido
+
+ Round 9
+
+Oct/22 Salamanca 2-2 Hercules
+Oct/22 Albacete 4-1 Cadiz CF
+Oct/22 El Ejido 0-0 Real Madrid B
+Oct/22 Gijon 0-1 Murcia
+Oct/22 Numancia 1-1 Almeria
+Oct/22 Xerez CD 1-0 Malaga
+Oct/21 Alaves 2-0 Castellon
+Oct/21 Granada 74 2-0 Vecindario
+Oct/21 Las Palmas 0-0 Tenerife
+Oct/21 Lorca Deportiva 1-0 Ponferradina
+Oct/21 Valladolid 1-0 Elche
+
+ Round 8
+
+Oct/15 Murcia 3-0 Numancia
+Oct/15 Tenerife 0-4 Gijon
+Oct/15 Almeria 2-1 Albacete
+Oct/15 Lorca Deportiva 0-2 Salamanca
+Oct/15 Ponferradina 2-2 Valladolid
+Oct/15 Elche 1-1 Xerez CD
+Oct/15 Cadiz CF 1-1 Alaves
+Oct/14 Castellon 0-0 Hercules
+Oct/14 Malaga 1-1 El Ejido
+Oct/14 Real Madrid B 2-1 Granada 74
+Oct/14 Vecindario 1-0 Las Palmas
+
+ Round 7
+
+Oct/08 Albacete 0-0 Murcia
+Oct/08 Las Palmas 2-1 Real Madrid B
+Oct/08 Hercules 0-1 Cadiz CF
+Oct/08 Salamanca 1-2 Castellon
+Oct/08 Xerez CD 3-1 Ponferradina
+Oct/08 Granada 74 2-0 Malaga
+Oct/08 Alaves 1-0 Almeria
+Oct/07 Gijon 1-0 Vecindario
+Oct/07 El Ejido 2-1 Elche
+Oct/07 Numancia 0-1 Tenerife
+Oct/07 Valladolid 1-0 Lorca Deportiva
+
+ Round 6
+
+Oct/01 Elche 1-2 Granada 74
+Oct/01 Almeria 3-0 Hercules
+Oct/01 Lorca Deportiva 2-1 Xerez CD
+Oct/01 Ponferradina 2-0 El Ejido
+Oct/01 Valladolid 2-3 Salamanca
+Oct/01 Tenerife 1-0 Albacete
+Oct/01 Real Madrid B 0-3 Gijon
+Sep/30 Vecindario 1-5 Numancia
+Sep/30 Cadiz CF 0-2 Castellon
+Sep/30 Malaga 3-1 Las Palmas
+Sep/30 Murcia 1-0 Alaves
+
+ Round 5
+
+Sep/24 Las Palmas 2-2 Elche
+Sep/24 Castellon 1-1 Almeria
+Sep/24 El Ejido 1-1 Lorca Deportiva
+Sep/24 Granada 74 1-1 Ponferradina
+Sep/24 Albacete 3-2 Vecindario
+Sep/24 Numancia 0-1 Real Madrid B
+Sep/24 Gijon 1-3 Malaga
+Sep/24 Xerez CD 1-1 Valladolid
+Sep/23 Alaves 0-0 Tenerife
+Sep/23 Hercules 0-1 Murcia
+Sep/23 Salamanca 2-0 Cadiz CF
+
+ Round 4
+
+Sep/17 Murcia 2-1 Castellon
+Sep/17 Tenerife 3-2 Hercules
+Sep/17 Xerez CD 5-0 Salamanca
+Sep/17 Valladolid 0-1 El Ejido
+Sep/17 Almeria 2-1 Cadiz CF
+Sep/16 Vecindario 0-1 Alaves
+Sep/16 Lorca Deportiva 1-0 Granada 74
+Sep/16 Real Madrid B 2-1 Albacete
+Sep/16 Elche 1-0 Gijon
+Sep/16 Malaga 1-2 Numancia
+Sep/16 Ponferradina 3-0 Las Palmas
+
+ Round 3
+
+Sep/10 Salamanca 2-0 Almeria
+Sep/10 Hercules 1-0 Vecindario
+Sep/10 Gijon 1-0 Ponferradina
+Sep/10 Numancia 3-2 Elche
+Sep/10 Cadiz CF 1-1 Murcia
+Sep/09 Las Palmas 2-1 Lorca Deportiva
+Sep/09 Albacete 2-1 Malaga
+Sep/09 Castellon 2-1 Tenerife
+Sep/09 Alaves 3-1 Real Madrid B
+Sep/09 El Ejido 0-2 Xerez CD
+Sep/09 Granada 74 1-0 Valladolid
+
+ Round 2
+
+Sep/03 Malaga 1-0 Alaves
+Sep/03 Ponferradina 2-0 Numancia
+Sep/03 Tenerife 0-1 Cadiz CF
+Sep/03 El Ejido 1-0 Salamanca
+Sep/03 Valladolid 2-0 Las Palmas
+Sep/02 Xerez CD 2-0 Granada 74
+Sep/02 Elche 1-2 Albacete
+Sep/02 Vecindario 4-2 Castellon
+Sep/02 Murcia 3-2 Almeria
+Sep/02 Lorca Deportiva 0-2 Gijon
+Sep/02 Real Madrid B 0-3 Hercules
+
+ Round 1
+
+Aug/27 Granada 74 3-0 El Ejido
+Aug/27 Alaves 1-1 Elche
+Aug/27 Salamanca 3-2 Murcia
+Aug/27 Albacete 2-0 Ponferradina
+Aug/27 Cadiz CF 3-0 Vecindario
+Aug/27 Hercules 0-1 Malaga
+Aug/27 Numancia 0-0 Lorca Deportiva
+Aug/27 Castellon 1-1 Real Madrid B
+Aug/27 Gijon 1-3 Valladolid
+Aug/26 Almeria 0-1 Tenerife
+Aug/26 Las Palmas 0-1 Xerez CD

@@ -1,0 +1,594 @@
+
+ Round 42
+
+Jun/21 Tenerife 1-2 Castellon
+Jun/20 Huesca 3-1 Girona
+Jun/20 Alicante 3-3 Sevilla FC B
+Jun/20 Celta Vigo 1-1 Xerez CD
+Jun/20 Cordoba 2-1 Murcia
+Jun/20 Elche 1-2 Real Sociedad
+Jun/20 Rayo Vallecano 2-2 Zaragoza
+Jun/20 Salamanca 1-5 Hercules
+Jun/20 Eibar 1-0 Gimnastic
+Jun/20 Albacete 1-0 Alaves
+Jun/20 Levante 2-2 Las Palmas
+
+ Round 41
+
+Jun/14 Castellon 4-0 Eibar
+Jun/14 Gimnastic 2-0 Elche
+Jun/14 Real Sociedad 1-1 Levante
+Jun/13 Murcia 2-1 Salamanca
+Jun/13 Alaves 1-0 Alicante
+Jun/13 Girona 0-1 Tenerife
+Jun/13 Hercules 4-1 Albacete
+Jun/13 Las Palmas 0-0 Rayo Vallecano
+Jun/13 Sevilla FC B 0-0 Celta Vigo
+Jun/13 Xerez CD 2-1 Huesca
+Jun/13 Zaragoza 3-1 Cordoba
+
+ Round 40
+
+Jun/07 Tenerife 2-0 Xerez CD
+Jun/07 Huesca 3-0 Sevilla FC B
+Jun/07 Levante 2-0 Elche
+Jun/07 Eibar 2-2 Girona
+Jun/06 Gimnastic 0-1 Castellon
+Jun/06 Albacete 0-0 Murcia
+Jun/06 Alicante 1-2 Hercules
+Jun/06 Celta Vigo 2-1 Alaves
+Jun/06 Cordoba 4-1 Las Palmas
+Jun/06 Rayo Vallecano 4-1 Real Sociedad
+Jun/06 Salamanca 1-3 Zaragoza
+
+ Round 39
+
+May/31 Las Palmas 1-1 Salamanca
+May/31 Elche 0-1 Castellon
+May/31 Real Sociedad 0-2 Cordoba
+May/31 Hercules 2-2 Celta Vigo
+May/30 Alaves 3-0 Huesca
+May/30 Girona 2-1 Gimnastic
+May/30 Levante 1-0 Rayo Vallecano
+May/30 Murcia 3-1 Alicante
+May/30 Sevilla FC B 0-4 Tenerife
+May/30 Xerez CD 3-0 Eibar
+May/30 Zaragoza 3-0 Albacete
+
+ Round 38
+
+May/24 Rayo Vallecano 1-2 Elche
+May/24 Tenerife 3-0 Alaves
+May/24 Castellon 1-2 Girona
+May/24 Eibar 2-2 Sevilla FC B
+May/24 Huesca 0-0 Hercules
+May/24 Gimnastic 2-1 Xerez CD
+May/23 Albacete 1-0 Las Palmas
+May/23 Alicante 0-3 Zaragoza
+May/23 Celta Vigo 2-2 Murcia
+May/23 Cordoba 3-1 Levante
+May/23 Salamanca 0-1 Real Sociedad
+
+ Round 37
+
+May/17 Xerez CD 1-0 Castellon
+May/17 Levante 1-2 Salamanca
+May/17 Sevilla FC B 1-3 Gimnastic
+May/16 Alaves 1-1 Eibar
+May/16 Elche 2-1 Girona
+May/16 Las Palmas 0-1 Alicante
+May/16 Murcia 0-0 Huesca
+May/16 Rayo Vallecano 5-0 Cordoba
+May/16 Real Sociedad 1-0 Albacete
+May/16 Zaragoza 3-0 Celta Vigo
+May/16 Hercules 3-1 Tenerife
+
+ Round 36
+
+May/10 Alicante 1-2 Real Sociedad
+May/10 Gimnastic 1-1 Alaves
+May/10 Castellon 3-0 Sevilla FC B
+May/10 Girona 0-2 Xerez CD
+May/10 Tenerife 3-1 Murcia
+May/09 Huesca 0-1 Zaragoza
+May/09 Salamanca 0-1 Rayo Vallecano
+May/09 Albacete 0-1 Levante
+May/09 Celta Vigo 0-1 Las Palmas
+May/09 Cordoba 1-1 Elche
+May/09 Eibar 0-1 Hercules
+
+ Round 35
+
+May/03 Cordoba 0-2 Salamanca
+May/03 Alaves 0-1 Castellon
+May/03 Elche 0-1 Xerez CD
+May/03 Hercules 2-2 Gimnastic
+May/03 Sevilla FC B 2-1 Girona
+May/02 Real Sociedad 2-2 Celta Vigo
+May/02 Zaragoza 1-1 Tenerife
+May/02 Las Palmas 1-1 Huesca
+May/02 Rayo Vallecano 0-3 Albacete
+May/02 Levante 2-0 Alicante
+May/02 Murcia 2-0 Eibar
+
+ Round 34
+
+Apr/26 Alicante 2-0 Rayo Vallecano
+Apr/26 Celta Vigo 2-2 Levante
+Apr/26 Huesca 1-2 Real Sociedad
+Apr/26 Salamanca 1-1 Elche
+Apr/26 Xerez CD 2-0 Sevilla FC B
+Apr/25 Albacete 1-1 Cordoba
+Apr/25 Castellon 0-0 Hercules
+Apr/25 Eibar 2-3 Zaragoza
+Apr/25 Gimnastic 3-0 Murcia
+Apr/25 Girona 0-1 Alaves
+Apr/25 Tenerife 2-0 Las Palmas
+
+ Round 33
+
+Apr/19 Murcia 2-2 Castellon
+Apr/19 Alaves 1-2 Xerez CD
+Apr/19 Cordoba 2-1 Alicante
+Apr/19 Hercules 3-0 Girona
+Apr/18 Elche 2-0 Sevilla FC B
+Apr/18 Las Palmas 1-0 Eibar
+Apr/18 Levante 1-0 Huesca
+Apr/18 Rayo Vallecano 4-1 Celta Vigo
+Apr/18 Real Sociedad 1-2 Tenerife
+Apr/18 Salamanca 3-1 Albacete
+Apr/18 Zaragoza 1-0 Gimnastic
+
+ Round 32
+
+Apr/12 Albacete 2-1 Elche
+Apr/12 Alicante 0-0 Salamanca
+Apr/12 Celta Vigo 1-0 Cordoba
+Apr/12 Huesca 0-1 Rayo Vallecano
+Apr/12 Tenerife 5-1 Levante
+Apr/11 Castellon 1-1 Zaragoza
+Apr/11 Eibar 1-1 Real Sociedad
+Apr/11 Gimnastic 0-0 Las Palmas
+Apr/11 Xerez CD 3-0 Hercules
+Apr/11 Girona 1-0 Murcia
+Apr/11 Sevilla FC B 1-1 Alaves
+
+ Round 31
+
+Apr/05 Hercules 8-0 Sevilla FC B
+Apr/05 Elche 1-0 Alaves
+Apr/05 Salamanca 2-1 Celta Vigo
+Apr/05 Albacete 0-2 Alicante
+Apr/05 Levante 2-0 Eibar
+Apr/05 Murcia 1-2 Xerez CD
+Apr/04 Zaragoza 1-0 Girona
+Apr/04 Cordoba 1-0 Huesca
+Apr/04 Las Palmas 1-0 Castellon
+Apr/04 Rayo Vallecano 0-0 Tenerife
+Apr/04 Real Sociedad 0-0 Gimnastic
+
+ Round 30
+
+Mar/29 Alaves 1-3 Hercules
+Mar/29 Eibar 0-1 Rayo Vallecano
+Mar/29 Huesca 0-0 Salamanca
+Mar/29 Tenerife 2-0 Cordoba
+Mar/29 Alicante 0-3 Elche
+Mar/29 Gimnastic 2-0 Levante
+Mar/28 Castellon 0-3 Real Sociedad
+Mar/28 Celta Vigo 0-0 Albacete
+Mar/28 Girona 2-2 Las Palmas
+Mar/28 Sevilla FC B 3-3 Murcia
+Mar/28 Xerez CD 1-2 Zaragoza
+
+ Round 29
+
+Mar/22 Rayo Vallecano 3-2 Gimnastic
+Mar/22 Real Sociedad 2-0 Girona
+Mar/22 Elche 2-2 Hercules
+Mar/21 Zaragoza 4-0 Sevilla FC B
+Mar/21 Albacete 0-2 Huesca
+Mar/21 Alicante 2-2 Celta Vigo
+Mar/21 Cordoba 1-1 Eibar
+Mar/21 Las Palmas 2-3 Xerez CD
+Mar/21 Levante 3-1 Castellon
+Mar/21 Murcia 1-0 Alaves
+Mar/21 Salamanca 1-2 Tenerife
+
+ Round 28
+
+Mar/15 Tenerife 1-1 Albacete
+Mar/15 Eibar 1-2 Salamanca
+Mar/15 Girona 0-0 Levante
+Mar/15 Huesca 0-1 Alicante
+Mar/15 Hercules 3-2 Murcia
+Mar/14 Castellon 0-0 Rayo Vallecano
+Mar/14 Alaves 2-2 Zaragoza
+Mar/14 Celta Vigo 2-2 Elche
+Mar/14 Gimnastic 2-2 Cordoba
+Mar/14 Sevilla FC B 2-2 Las Palmas
+Mar/14 Xerez CD 1-3 Real Sociedad
+
+ Round 27
+
+Mar/08 Salamanca 4-0 Gimnastic
+Mar/08 Levante 2-2 Xerez CD
+Mar/08 Real Sociedad 1-0 Sevilla FC B
+Mar/08 Zaragoza 2-2 Hercules
+Mar/08 Elche 1-1 Murcia
+Mar/07 Las Palmas 2-1 Alaves
+Mar/07 Albacete 2-0 Eibar
+Mar/07 Alicante 2-2 Tenerife
+Mar/07 Celta Vigo 0-1 Huesca
+Mar/07 Cordoba 2-1 Castellon
+Mar/07 Rayo Vallecano 1-1 Girona
+
+ Round 26
+
+Mar/01 Tenerife 3-0 Celta Vigo
+Mar/01 Castellon 2-0 Salamanca
+Mar/01 Eibar 1-2 Alicante
+Mar/01 Gimnastic 1-0 Albacete
+Mar/01 Sevilla FC B 1-2 Levante
+Feb/28 Girona 1-1 Cordoba
+Feb/28 Hercules 4-2 Las Palmas
+Feb/28 Huesca 3-2 Elche
+Feb/28 Murcia 1-4 Zaragoza
+Feb/28 Xerez CD 1-1 Rayo Vallecano
+Feb/28 Alaves 2-1 Real Sociedad
+
+ Round 25
+
+Feb/22 Alicante 1-3 Gimnastic
+Feb/22 Levante 2-3 Alaves
+Feb/22 Real Sociedad 1-2 Hercules
+Feb/22 Salamanca 2-2 Girona
+Feb/22 Cordoba 1-2 Xerez CD
+Feb/21 Albacete 2-0 Castellon
+Feb/21 Celta Vigo 1-2 Eibar
+Feb/21 Huesca 0-0 Tenerife
+Feb/21 Rayo Vallecano 1-0 Sevilla FC B
+Feb/21 Elche 2-0 Zaragoza
+Feb/21 Las Palmas 0-1 Murcia
+
+ Round 24
+
+Feb/15 Tenerife 3-2 Elche
+Feb/15 Alaves 0-2 Rayo Vallecano
+Feb/15 Castellon 2-0 Alicante
+Feb/15 Xerez CD 2-1 Salamanca
+Feb/14 Gimnastic 1-1 Celta Vigo
+Feb/14 Girona 3-3 Albacete
+Feb/14 Hercules 4-2 Levante
+Feb/14 Murcia 2-0 Real Sociedad
+Feb/14 Sevilla FC B 0-2 Cordoba
+Feb/14 Zaragoza 2-0 Las Palmas
+Feb/14 Eibar 2-0 Huesca
+
+ Round 23
+
+Feb/08 Alicante 1-1 Girona
+Feb/08 Cordoba 3-0 Alaves
+Feb/08 Elche 1-1 Las Palmas
+Feb/08 Huesca 3-2 Gimnastic
+Feb/08 Salamanca 6-0 Sevilla FC B
+Feb/08 Tenerife 2-0 Eibar
+Feb/08 Celta Vigo 1-2 Castellon
+Feb/07 Albacete 0-2 Xerez CD
+Feb/07 Levante 2-1 Murcia
+Feb/07 Real Sociedad 1-1 Zaragoza
+Feb/07 Rayo Vallecano 1-0 Hercules
+
+ Round 21
+
+Feb/04 Gimnastic 2-0 Eibar
+
+ Round 22
+
+Feb/01 Alaves 1-1 Salamanca
+Feb/01 Eibar 1-2 Elche
+Feb/01 Gimnastic 0-1 Tenerife
+Feb/01 Xerez CD 2-0 Alicante
+Feb/01 Zaragoza 2-1 Levante
+Jan/31 Castellon 1-1 Huesca
+Jan/31 Girona 2-2 Celta Vigo
+Jan/31 Hercules 1-0 Cordoba
+Jan/31 Las Palmas 0-1 Real Sociedad
+Jan/31 Murcia 0-1 Rayo Vallecano
+Jan/31 Sevilla FC B 1-1 Albacete
+
+ Round 21
+
+Jan/25 Zaragoza 2-3 Rayo Vallecano
+Jan/25 Hercules 2-2 Salamanca
+Jan/25 Sevilla FC B 2-3 Alicante
+Jan/24 Las Palmas 1-2 Levante
+Jan/24 Real Sociedad 0-0 Elche
+Jan/24 Alaves 0-2 Albacete
+Jan/24 Castellon 2-2 Tenerife
+Jan/24 Girona 2-0 Huesca
+Jan/24 Murcia 1-0 Cordoba
+Jan/24 Xerez CD 2-0 Celta Vigo
+
+ Round 17
+
+Jan/21 Murcia 1-0 Celta Vigo
+
+ Round 20
+
+Jan/18 Tenerife 4-1 Girona
+Jan/18 Alicante 0-2 Alaves
+Jan/18 Eibar 0-1 Castellon
+Jan/18 Huesca 1-1 Xerez CD
+Jan/18 Elche 2-0 Gimnastic
+Jan/17 Celta Vigo 2-0 Sevilla FC B
+Jan/17 Albacete 0-3 Hercules
+Jan/17 Cordoba 1-0 Zaragoza
+Jan/17 Levante 0-2 Real Sociedad
+Jan/17 Rayo Vallecano 1-1 Las Palmas
+Jan/17 Salamanca 2-3 Murcia
+
+ Round 19
+
+Jan/11 Castellon 2-1 Gimnastic
+Jan/11 Elche 0-2 Levante
+Jan/11 Girona 2-0 Eibar
+Jan/11 Real Sociedad 1-1 Rayo Vallecano
+Jan/11 Xerez CD 2-0 Tenerife
+Jan/10 Las Palmas 0-0 Cordoba
+Jan/10 Alaves 1-2 Celta Vigo
+Jan/10 Hercules 1-2 Alicante
+Jan/10 Murcia 1-0 Albacete
+Jan/10 Sevilla FC B 1-1 Huesca
+Jan/10 Zaragoza 1-0 Salamanca
+
+ Round 18
+
+Jan/04 Tenerife 2-1 Sevilla FC B
+Jan/04 Cordoba 2-2 Real Sociedad
+Jan/04 Huesca 2-0 Alaves
+Jan/04 Rayo Vallecano 0-0 Levante
+Jan/04 Celta Vigo 2-1 Hercules
+Jan/03 Albacete 1-1 Zaragoza
+Jan/03 Alicante 0-2 Murcia
+Jan/03 Castellon 2-2 Elche
+Jan/03 Eibar 1-1 Xerez CD
+Jan/03 Salamanca 2-2 Las Palmas
+Jan/03 Gimnastic 3-0 Girona
+
+ Round 17
+
+Dec/21 Alaves 1-2 Tenerife
+Dec/21 Xerez CD 1-2 Gimnastic
+Dec/20 Zaragoza 3-0 Alicante
+Dec/20 Girona 1-0 Castellon
+Dec/20 Hercules 3-2 Huesca
+Dec/20 Las Palmas 3-0 Albacete
+Dec/20 Levante 3-0 Cordoba
+Dec/20 Elche 2-0 Rayo Vallecano
+Dec/20 Real Sociedad 1-0 Salamanca
+Dec/20 Sevilla FC B 0-0 Eibar
+
+ Round 16
+
+Dec/14 Eibar 1-0 Alaves
+Dec/14 Tenerife 3-2 Hercules
+Dec/14 Gimnastic 3-1 Sevilla FC B
+Dec/14 Girona 1-1 Elche
+Dec/14 Salamanca 3-0 Levante
+Dec/14 Castellon 2-2 Xerez CD
+Dec/13 Albacete 2-1 Real Sociedad
+Dec/13 Celta Vigo 2-0 Zaragoza
+Dec/13 Cordoba 0-1 Rayo Vallecano
+Dec/13 Huesca 1-0 Murcia
+Dec/13 Alicante 1-2 Las Palmas
+
+ Round 15
+
+Dec/07 Hercules 2-0 Eibar
+Dec/07 Murcia 2-2 Tenerife
+Dec/07 Sevilla FC B 0-2 Castellon
+Dec/06 Alaves 1-1 Gimnastic
+Dec/06 Xerez CD 2-2 Girona
+Dec/06 Elche 3-1 Cordoba
+Dec/06 Las Palmas 2-0 Celta Vigo
+Dec/06 Levante 3-1 Albacete
+Dec/06 Real Sociedad 1-0 Alicante
+Dec/06 Zaragoza 2-2 Huesca
+Dec/06 Rayo Vallecano 1-1 Salamanca
+
+ Round 14
+
+Nov/30 Salamanca 1-0 Cordoba
+Nov/30 Tenerife 1-2 Zaragoza
+Nov/30 Alicante 0-2 Levante
+Nov/30 Castellon 0-1 Alaves
+Nov/30 Gimnastic 2-2 Hercules
+Nov/29 Albacete 2-1 Rayo Vallecano
+Nov/29 Celta Vigo 0-0 Real Sociedad
+Nov/29 Eibar 3-1 Murcia
+Nov/29 Girona 1-0 Sevilla FC B
+Nov/29 Huesca 2-1 Las Palmas
+Nov/29 Xerez CD 3-1 Elche
+
+ Round 13
+
+Nov/23 Alaves 1-0 Girona
+Nov/23 Elche 3-1 Salamanca
+Nov/23 Levante 1-3 Celta Vigo
+Nov/23 Rayo Vallecano 0-0 Alicante
+Nov/23 Real Sociedad 1-0 Huesca
+Nov/22 Cordoba 1-0 Albacete
+Nov/22 Hercules 0-0 Castellon
+Nov/22 Las Palmas 0-1 Tenerife
+Nov/22 Murcia 1-1 Gimnastic
+Nov/22 Sevilla FC B 1-2 Xerez CD
+Nov/22 Zaragoza 3-0 Eibar
+
+ Round 12
+
+Nov/16 Tenerife 1-1 Real Sociedad
+Nov/16 Xerez CD 5-0 Alaves
+Nov/16 Celta Vigo 0-0 Rayo Vallecano
+Nov/16 Girona 1-0 Hercules
+Nov/16 Huesca 2-1 Levante
+Nov/16 Sevilla FC B 0-2 Elche
+Nov/16 Castellon 2-0 Murcia
+Nov/15 Albacete 2-2 Salamanca
+Nov/15 Alicante 2-2 Cordoba
+Nov/15 Eibar 1-2 Las Palmas
+Nov/15 Gimnastic 0-0 Zaragoza
+
+ Round 11
+
+Nov/09 Elche 0-0 Albacete
+Nov/09 Alaves 2-2 Sevilla FC B
+Nov/09 Salamanca 2-0 Alicante
+Nov/09 Zaragoza 1-1 Castellon
+Nov/09 Hercules 0-0 Xerez CD
+Nov/08 Cordoba 3-4 Celta Vigo
+Nov/08 Las Palmas 2-2 Gimnastic
+Nov/08 Levante 2-1 Tenerife
+Nov/08 Murcia 2-0 Girona
+Nov/08 Rayo Vallecano 1-0 Huesca
+Nov/08 Real Sociedad 0-0 Eibar
+
+ Round 10
+
+Nov/02 Celta Vigo 2-0 Salamanca
+Nov/02 Tenerife 2-0 Rayo Vallecano
+Nov/02 Alaves 0-3 Elche
+Nov/02 Alicante 1-2 Albacete
+Nov/02 Eibar 0-0 Levante
+Nov/02 Sevilla FC B 1-2 Hercules
+Nov/02 Xerez CD 5-3 Murcia
+Nov/01 Castellon 1-1 Las Palmas
+Nov/01 Gimnastic 1-2 Real Sociedad
+Nov/01 Huesca 3-1 Cordoba
+Nov/01 Girona 1-0 Zaragoza
+
+ Round 9
+
+Oct/26 Hercules 3-0 Alaves
+Oct/26 Murcia 1-0 Sevilla FC B
+Oct/26 Levante 2-2 Gimnastic
+Oct/26 Real Sociedad 2-3 Castellon
+Oct/26 Salamanca 2-0 Huesca
+Oct/26 Albacete 1-1 Celta Vigo
+Oct/25 Las Palmas 2-2 Girona
+Oct/25 Cordoba 2-0 Tenerife
+Oct/25 Elche 0-0 Alicante
+Oct/25 Rayo Vallecano 4-1 Eibar
+Oct/25 Zaragoza 2-1 Xerez CD
+
+ Round 8
+
+Oct/19 Eibar 1-0 Cordoba
+Oct/19 Gimnastic 3-1 Rayo Vallecano
+Oct/19 Huesca 1-2 Albacete
+Oct/19 Hercules 0-0 Elche
+Oct/18 Alaves 4-1 Murcia
+Oct/18 Castellon 4-1 Levante
+Oct/18 Celta Vigo 2-2 Alicante
+Oct/18 Girona 0-0 Real Sociedad
+Oct/18 Sevilla FC B 0-4 Zaragoza
+Oct/18 Tenerife 2-3 Salamanca
+Oct/18 Xerez CD 1-0 Las Palmas
+
+ Round 7
+
+Oct/12 Salamanca 2-0 Eibar
+Oct/12 Cordoba 0-0 Gimnastic
+Oct/12 Levante 1-1 Girona
+Oct/12 Albacete 0-1 Tenerife
+Oct/12 Elche 1-1 Celta Vigo
+Oct/12 Rayo Vallecano 4-2 Castellon
+Oct/11 Zaragoza 4-2 Alaves
+Oct/11 Alicante 1-3 Huesca
+Oct/11 Las Palmas 2-0 Sevilla FC B
+Oct/11 Murcia 0-0 Hercules
+Oct/11 Real Sociedad 0-0 Xerez CD
+
+ Round 6
+
+Oct/05 Gimnastic 2-0 Salamanca
+Oct/05 Murcia 1-0 Elche
+Oct/05 Alaves 2-1 Las Palmas
+Oct/05 Huesca 0-0 Celta Vigo
+Oct/05 Castellon 1-1 Cordoba
+Oct/04 Eibar 1-1 Albacete
+Oct/04 Girona 1-1 Rayo Vallecano
+Oct/04 Hercules 2-1 Zaragoza
+Oct/04 Tenerife 3-1 Alicante
+Oct/04 Xerez CD 2-0 Levante
+Oct/04 Sevilla FC B 1-0 Real Sociedad
+
+ Round 5
+
+Sep/28 Elche 2-2 Huesca
+Sep/28 Alicante 3-1 Eibar
+Sep/28 Levante 2-0 Sevilla FC B
+Sep/28 Salamanca 1-0 Castellon
+Sep/28 Albacete 3-2 Gimnastic
+Sep/28 Rayo Vallecano 3-3 Xerez CD
+Sep/28 Celta Vigo 2-1 Tenerife
+Sep/27 Cordoba 2-0 Girona
+Sep/27 Las Palmas 1-1 Hercules
+Sep/27 Real Sociedad 1-1 Alaves
+Sep/27 Zaragoza 2-1 Murcia
+
+ Round 4
+
+Sep/21 Hercules 1-1 Real Sociedad
+Sep/21 Tenerife 1-1 Huesca
+Sep/21 Zaragoza 2-0 Elche
+Sep/21 Girona 0-1 Salamanca
+Sep/21 Eibar 0-0 Celta Vigo
+Sep/21 Castellon 1-0 Albacete
+Sep/21 Xerez CD 0-1 Cordoba
+Sep/20 Gimnastic 1-1 Alicante
+Sep/20 Alaves 2-2 Levante
+Sep/20 Murcia 0-0 Las Palmas
+Sep/20 Sevilla FC B 0-0 Rayo Vallecano
+
+ Round 3
+
+Sep/14 Albacete 1-1 Girona
+Sep/14 Levante 0-2 Hercules
+Sep/14 Salamanca 2-1 Xerez CD
+Sep/14 Elche 2-4 Tenerife
+Sep/13 Rayo Vallecano 2-1 Alaves
+Sep/13 Las Palmas 2-2 Zaragoza
+Sep/13 Real Sociedad 2-0 Murcia
+Sep/13 Alicante 0-0 Castellon
+Sep/13 Celta Vigo 0-2 Gimnastic
+Sep/13 Cordoba 1-1 Sevilla FC B
+Sep/13 Huesca 2-0 Eibar
+
+ Round 2
+
+Sep/07 Murcia 1-2 Levante
+Sep/07 Alaves 1-0 Cordoba
+Sep/07 Gimnastic 1-1 Huesca
+Sep/07 Sevilla FC B 1-1 Salamanca
+Sep/07 Xerez CD 2-1 Albacete
+Sep/07 Girona 3-0 Alicante
+Sep/07 Las Palmas 2-0 Elche
+Sep/07 Eibar 3-2 Tenerife
+Sep/07 Castellon 2-0 Celta Vigo
+Sep/06 Hercules 1-1 Rayo Vallecano
+Sep/06 Zaragoza 2-2 Real Sociedad
+
+ Round 1
+
+Aug/31 Elche 0-1 Eibar
+Aug/31 Albacete 2-1 Sevilla FC B
+Aug/31 Cordoba 0-3 Hercules
+Aug/31 Huesca 2-2 Castellon
+Aug/31 Salamanca 0-0 Alaves
+Aug/30 Tenerife 3-2 Gimnastic
+Aug/30 Alicante 0-1 Xerez CD
+Aug/30 Celta Vigo 0-1 Girona
+Aug/30 Levante 2-1 Zaragoza
+Aug/30 Rayo Vallecano 1-0 Murcia
+Aug/30 Real Sociedad 1-0 Las Palmas

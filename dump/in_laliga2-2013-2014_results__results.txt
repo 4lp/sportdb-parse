@@ -1,0 +1,600 @@
+
+ Final
+
+Jun/22 Las Palmas 1-1 Cordoba
+Jun/19 Cordoba 0-0 Las Palmas
+
+ Semi-finals
+
+Jun/15 Murcia 1-2 Cordoba
+Jun/15 Gijon 0-1 Las Palmas
+Jun/11 Las Palmas 1-0 Gijon
+Jun/11 Cordoba 0-0 Murcia
+
+ Round 42
+
+Jun/08 Alcorcon 1-0 Zaragoza
+Jun/08 Numancia 1-1 Eibar
+Jun/07 Cordoba 0-0 Mallorca
+Jun/07 Gijon 3-0 Tenerife
+Jun/07 Girona 3-1 Dep. La Coruna
+Jun/07 Hercules 1-2 Barcelona B
+Jun/07 Jaen 2-3 Alaves
+Jun/07 Las Palmas 3-2 Ponferradina
+Jun/07 Lugo 1-0 Mirandes
+Jun/07 Murcia 1-0 Real Madrid B
+Jun/07 Sabadell 0-0 Recreativo Huelva
+
+ Round 41
+
+May/31 Alaves 3-1 Numancia
+May/31 Barcelona B 4-3 Alcorcon
+May/31 Dep. La Coruna 1-0 Jaen
+May/31 Eibar 1-0 Lugo
+May/31 Mallorca 2-0 Las Palmas
+May/31 Mirandes 0-1 Hercules
+May/31 Ponferradina 1-2 Girona
+May/31 Real Madrid B 2-1 Sabadell
+May/31 Recreativo Huelva 1-1 Cordoba
+May/31 Tenerife 0-1 Murcia
+May/31 Zaragoza 1-1 Gijon
+
+ Round 40
+
+May/25 Alcorcon 2-0 Mirandes
+May/25 Las Palmas 2-3 Recreativo Huelva
+May/25 Eibar 1-0 Alaves
+May/25 Numancia 2-1 Dep. La Coruna
+May/25 Jaen 0-1 Ponferradina
+May/25 Sabadell 1-0 Tenerife
+May/25 Murcia 1-1 Zaragoza
+May/25 Girona 1-1 Mallorca
+May/25 Hercules 1-1 Lugo
+May/25 Cordoba 2-0 Real Madrid B
+May/24 Gijon 1-0 Barcelona B
+
+ Round 39
+
+May/18 Ponferradina 0-1 Numancia
+May/18 Real Madrid B 3-2 Las Palmas
+May/18 Recreativo Huelva 1-0 Girona
+May/18 Lugo 0-1 Alaves
+May/18 Dep. La Coruna 1-1 Eibar
+May/17 Barcelona B 4-0 Murcia
+May/17 Tenerife 0-1 Cordoba
+May/17 Hercules 1-2 Alcorcon
+May/17 Mirandes 1-1 Gijon
+May/17 Zaragoza 2-2 Sabadell
+May/17 Mallorca 0-0 Jaen
+
+ Round 38
+
+May/11 Jaen 3-1 Recreativo Huelva
+May/11 Alaves 1-1 Dep. La Coruna
+May/11 Murcia 5-0 Mirandes
+May/11 Cordoba 1-2 Zaragoza
+May/10 Las Palmas 1-0 Tenerife
+May/10 Eibar 0-0 Ponferradina
+May/10 Alcorcon 1-0 Lugo
+May/10 Sabadell 2-1 Barcelona B
+May/10 Numancia 1-1 Mallorca
+May/10 Gijon 2-1 Hercules
+May/10 Girona 1-1 Real Madrid B
+
+ Round 37
+
+May/04 Mirandes 2-2 Sabadell
+May/04 Recreativo Huelva 0-0 Numancia
+May/04 Tenerife 0-1 Girona
+May/04 Mallorca 0-2 Eibar
+May/04 Real Madrid B 1-1 Jaen
+May/04 Zaragoza 1-2 Las Palmas
+May/03 Barcelona B 0-1 Cordoba
+May/03 Hercules 2-3 Murcia
+May/03 Lugo 2-2 Dep. La Coruna
+May/03 Alcorcon 1-0 Gijon
+May/03 Ponferradina 2-1 Alaves
+
+ Round 36
+
+Apr/27 Murcia 1-1 Alcorcon
+Apr/27 Girona 2-0 Zaragoza
+Apr/27 Numancia 0-0 Real Madrid B
+Apr/27 Jaen 1-0 Tenerife
+Apr/27 Sabadell 2-1 Hercules
+Apr/27 Eibar 0-0 Recreativo Huelva
+Apr/26 Las Palmas 0-2 Barcelona B
+Apr/26 Cordoba 1-1 Mirandes
+Apr/26 Dep. La Coruna 0-3 Ponferradina
+Apr/26 Alaves 1-0 Mallorca
+Apr/26 Gijon 2-0 Lugo
+
+ Round 35
+
+Apr/20 Alcorcon 3-1 Sabadell
+Apr/20 Zaragoza 1-0 Jaen
+Apr/20 Tenerife 3-2 Numancia
+Apr/20 Gijon 0-0 Murcia
+Apr/20 Recreativo Huelva 0-2 Alaves
+Apr/20 Mallorca 0-3 Dep. La Coruna
+Apr/19 Mirandes 2-1 Las Palmas
+Apr/19 Barcelona B 2-1 Girona
+Apr/19 Real Madrid B 0-1 Eibar
+Apr/19 Hercules 0-1 Cordoba
+Apr/19 Lugo 3-0 Ponferradina
+
+ Round 34
+
+Apr/13 Ponferradina 2-0 Mallorca
+Apr/13 Alaves 2-2 Real Madrid B
+Apr/13 Eibar 1-2 Tenerife
+Apr/13 Cordoba 3-1 Alcorcon
+Apr/13 Jaen 0-3 Barcelona B
+Apr/13 Murcia 3-1 Lugo
+Apr/13 Dep. La Coruna 2-0 Recreativo Huelva
+Apr/12 Las Palmas 2-1 Hercules
+Apr/12 Sabadell 2-0 Gijon
+Apr/12 Numancia 2-2 Zaragoza
+Apr/12 Girona 4-0 Mirandes
+
+ Round 33
+
+Apr/06 Mirandes 2-1 Jaen
+Apr/06 Recreativo Huelva 1-0 Ponferradina
+Apr/06 Tenerife 2-0 Alaves
+Apr/06 Barcelona B 3-0 Numancia
+Apr/06 Gijon 1-2 Cordoba
+Apr/06 Hercules 0-0 Girona
+Apr/06 Lugo 2-1 Mallorca
+Apr/06 Zaragoza 1-0 Eibar
+Apr/05 Alcorcon 2-0 Las Palmas
+Apr/05 Real Madrid B 0-2 Dep. La Coruna
+Apr/05 Murcia 2-0 Sabadell
+
+ Round 32
+
+Mar/30 Alaves 2-2 Zaragoza
+Mar/30 Girona 3-1 Alcorcon
+Mar/30 Jaen 1-1 Hercules
+Mar/30 Sabadell 1-0 Lugo
+Mar/30 Las Palmas 2-1 Gijon
+Mar/29 Numancia 0-1 Mirandes
+Mar/29 Dep. La Coruna 1-1 Tenerife
+Mar/29 Eibar 0-0 Barcelona B
+Mar/29 Mallorca 0-0 Recreativo Huelva
+Mar/29 Cordoba 1-1 Murcia
+Mar/29 Ponferradina 0-0 Real Madrid B
+
+ Round 31
+
+Mar/23 Real Madrid B 1-2 Mallorca
+Mar/23 Tenerife 5-0 Ponferradina
+Mar/23 Gijon 3-1 Girona
+Mar/23 Hercules 0-0 Numancia
+Mar/23 Zaragoza 0-1 Dep. La Coruna
+Mar/22 Murcia 1-3 Las Palmas
+Mar/22 Sabadell 3-2 Cordoba
+Mar/22 Lugo 2-0 Recreativo Huelva
+Mar/22 Alcorcon 0-0 Jaen
+Mar/22 Barcelona B 2-1 Alaves
+Mar/22 Mirandes 1-4 Eibar
+
+ Round 30
+
+Mar/16 Numancia 0-1 Alcorcon
+Mar/16 Eibar 1-1 Hercules
+Mar/16 Mallorca 2-0 Tenerife
+Mar/16 Cordoba 1-1 Lugo
+Mar/16 Girona 0-1 Murcia
+Mar/16 Ponferradina 4-2 Zaragoza
+Mar/15 Dep. La Coruna 0-0 Barcelona B
+Mar/15 Las Palmas 5-0 Sabadell
+Mar/15 Recreativo Huelva 2-3 Real Madrid B
+Mar/15 Alaves 0-2 Mirandes
+Mar/15 Jaen 3-2 Gijon
+
+ Round 29
+
+Mar/09 Murcia 2-0 Jaen
+Mar/09 Lugo 1-1 Real Madrid B
+Mar/09 Tenerife 1-0 Recreativo Huelva
+Mar/09 Barcelona B 1-0 Ponferradina
+Mar/09 Gijon 2-2 Numancia
+Mar/09 Hercules 2-0 Alaves
+Mar/09 Zaragoza 1-1 Mallorca
+Mar/08 Cordoba 0-1 Las Palmas
+Mar/08 Sabadell 4-0 Girona
+Mar/08 Mirandes 1-0 Dep. La Coruna
+Mar/08 Alcorcon 0-0 Eibar
+
+ Round 28
+
+Mar/02 Numancia 1-0 Murcia
+Mar/02 Ponferradina 1-1 Mirandes
+Mar/02 Dep. La Coruna 3-2 Hercules
+Mar/02 Girona 0-1 Cordoba
+Mar/02 Jaen 0-1 Sabadell
+Mar/02 Las Palmas 0-0 Lugo
+Mar/02 Eibar 3-0 Gijon
+Mar/01 Mallorca 1-2 Barcelona B
+Mar/01 Real Madrid B 2-2 Tenerife
+Mar/01 Recreativo Huelva 2-2 Zaragoza
+Mar/01 Alaves 1-0 Alcorcon
+
+ Round 27
+
+Feb/23 Murcia 0-0 Eibar
+Feb/23 Zaragoza 0-2 Real Madrid B
+Feb/23 Lugo 1-3 Tenerife
+Feb/23 Cordoba 0-0 Jaen
+Feb/23 Hercules 1-0 Ponferradina
+Feb/23 Sabadell 0-0 Numancia
+Feb/23 Alcorcon 1-2 Dep. La Coruna
+Feb/22 Las Palmas 2-1 Girona
+Feb/22 Mirandes 0-0 Mallorca
+Feb/22 Barcelona B 0-1 Recreativo Huelva
+Feb/22 Gijon 2-0 Alaves
+
+ Round 26
+
+Feb/16 Numancia 3-0 Cordoba
+Feb/16 Recreativo Huelva 1-0 Mirandes
+Feb/16 Alaves 0-1 Murcia
+Feb/16 Girona 6-0 Lugo
+Feb/16 Ponferradina 0-2 Alcorcon
+Feb/16 Dep. La Coruna 1-1 Gijon
+Feb/15 Jaen 3-0 Las Palmas
+Feb/15 Mallorca 0-1 Hercules
+Feb/15 Eibar 1-0 Sabadell
+Feb/15 Real Madrid B 3-1 Barcelona B
+Feb/15 Tenerife 1-1 Zaragoza
+
+ Round 25
+
+Feb/09 Alcorcon 1-1 Mallorca
+Feb/09 Murcia 1-0 Dep. La Coruna
+Feb/09 Barcelona B 2-0 Tenerife
+Feb/09 Cordoba 0-2 Eibar
+Feb/09 Gijon 1-1 Ponferradina
+Feb/09 Mirandes 2-1 Real Madrid B
+Feb/09 Hercules 1-2 Recreativo Huelva
+Feb/08 Girona 1-1 Jaen
+Feb/08 Las Palmas 0-0 Numancia
+Feb/08 Lugo 1-0 Zaragoza
+Feb/08 Sabadell 0-4 Alaves
+
+ Round 24
+
+Feb/02 Recreativo Huelva 2-1 Alcorcon
+Feb/02 Tenerife 3-0 Mirandes
+Feb/02 Alaves 1-1 Cordoba
+Feb/02 Jaen 0-0 Lugo
+Feb/02 Numancia 0-0 Girona
+Feb/02 Zaragoza 0-2 Barcelona B
+Feb/02 Mallorca 1-3 Gijon
+Feb/01 Ponferradina 2-0 Murcia
+Feb/01 Dep. La Coruna 2-1 Sabadell
+Feb/01 Eibar 1-0 Las Palmas
+Feb/01 Real Madrid B 4-0 Hercules
+
+ Round 23
+
+Jan/26 Murcia 2-2 Mallorca
+Jan/26 Alcorcon 0-2 Real Madrid B
+Jan/26 Hercules 2-3 Tenerife
+Jan/26 Jaen 0-0 Numancia
+Jan/26 Sabadell 1-1 Ponferradina
+Jan/26 Gijon 0-0 Recreativo Huelva
+Jan/25 Las Palmas 0-2 Alaves
+Jan/25 Lugo 1-0 Barcelona B
+Jan/25 Cordoba 0-1 Dep. La Coruna
+Jan/25 Girona 1-1 Eibar
+Jan/25 Mirandes 0-1 Zaragoza
+
+ Round 22
+
+Jan/19 Ponferradina 0-1 Cordoba
+Jan/19 Zaragoza 0-0 Hercules
+Jan/19 Barcelona B 1-1 Mirandes
+Jan/19 Eibar 2-0 Jaen
+Jan/19 Mallorca 4-1 Sabadell
+Jan/19 Numancia 0-1 Lugo
+Jan/19 Dep. La Coruna 1-2 Las Palmas
+Jan/18 Tenerife 0-4 Alcorcon
+Jan/18 Recreativo Huelva 0-0 Murcia
+Jan/18 Alaves 1-1 Girona
+Jan/18 Real Madrid B 1-2 Gijon
+
+ Round 21
+
+Jan/12 Mirandes 2-0 Lugo
+Jan/12 Zaragoza 3-1 Alcorcon
+Jan/12 Tenerife 0-0 Gijon
+Jan/12 Barcelona B 5-0 Hercules
+Jan/12 Eibar 1-2 Numancia
+Jan/12 Recreativo Huelva 1-2 Sabadell
+Jan/12 Mallorca 2-2 Cordoba
+Jan/11 Ponferradina 0-0 Las Palmas
+Jan/11 Real Madrid B 2-2 Murcia
+Jan/11 Alaves 1-2 Jaen
+Jan/11 Dep. La Coruna 0-0 Girona
+
+ Round 20
+
+Jan/05 Jaen 0-0 Dep. La Coruna
+Jan/05 Alcorcon 2-2 Barcelona B
+Jan/05 Girona 1-1 Ponferradina
+Jan/05 Gijon 2-3 Zaragoza
+Jan/04 Las Palmas 2-2 Mallorca
+Jan/04 Cordoba 2-0 Recreativo Huelva
+Jan/04 Hercules 1-0 Mirandes
+Jan/04 Lugo 0-0 Eibar
+Jan/04 Murcia 1-2 Tenerife
+Jan/04 Numancia 0-2 Alaves
+Jan/04 Sabadell 3-2 Real Madrid B
+
+ Round 19
+
+Dec/22 Mirandes 1-1 Alcorcon
+Dec/22 Zaragoza 0-0 Murcia
+Dec/22 Mallorca 2-0 Girona
+Dec/22 Ponferradina 1-0 Jaen
+Dec/22 Recreativo Huelva 1-3 Las Palmas
+Dec/21 Tenerife 0-3 Sabadell
+Dec/21 Real Madrid B 3-1 Cordoba
+Dec/21 Alaves 0-2 Eibar
+Dec/21 Barcelona B 2-2 Gijon
+Dec/21 Dep. La Coruna 3-3 Numancia
+Dec/21 Lugo 1-3 Hercules
+
+ Round 18
+
+Dec/15 Jaen 2-1 Mallorca
+Dec/15 Cordoba 1-0 Tenerife
+Dec/15 Gijon 3-2 Mirandes
+Dec/15 Murcia 3-1 Barcelona B
+Dec/15 Eibar 2-1 Dep. La Coruna
+Dec/14 Numancia 2-0 Ponferradina
+Dec/14 Girona 1-1 Recreativo Huelva
+Dec/14 Las Palmas 0-2 Real Madrid B
+Dec/14 Alcorcon 0-2 Hercules
+Dec/14 Alaves 2-1 Lugo
+Dec/14 Sabadell 1-0 Zaragoza
+
+ Round 17
+
+Dec/08 Ponferradina 2-1 Eibar
+Dec/08 Zaragoza 2-1 Cordoba
+Dec/08 Mallorca 0-0 Numancia
+Dec/08 Mirandes 1-1 Murcia
+Dec/07 Dep. La Coruna 2-1 Alaves
+Dec/07 Barcelona B 2-0 Sabadell
+Dec/07 Hercules 0-1 Gijon
+Dec/04 Recreativo Huelva 1-1 Jaen
+Dec/04 Tenerife 3-0 Las Palmas
+Dec/04 Lugo 1-2 Alcorcon
+Dec/04 Real Madrid B 3-2 Girona
+
+ Round 16
+
+Dec/01 Numancia 2-3 Recreativo Huelva
+Dec/01 Jaen 0-1 Real Madrid B
+Dec/01 Alaves 2-2 Ponferradina
+Dec/01 Gijon 2-2 Alcorcon
+Dec/01 Girona 2-2 Tenerife
+Dec/01 Sabadell 3-1 Mirandes
+Dec/01 Murcia 1-2 Hercules
+Nov/30 Las Palmas 0-1 Zaragoza
+Nov/30 Dep. La Coruna 0-0 Lugo
+Nov/30 Cordoba 1-2 Barcelona B
+Nov/30 Eibar 0-1 Mallorca
+
+ Round 15
+
+Nov/24 Alcorcon 0-0 Murcia
+Nov/24 Ponferradina 0-1 Dep. La Coruna
+Nov/24 Tenerife 2-1 Jaen
+Nov/24 Hercules 3-0 Sabadell
+Nov/24 Mirandes 3-1 Cordoba
+Nov/24 Recreativo Huelva 1-2 Eibar
+Nov/24 Zaragoza 1-0 Girona
+Nov/24 Lugo 1-3 Gijon
+Nov/23 Barcelona B 1-2 Las Palmas
+Nov/23 Real Madrid B 0-0 Numancia
+Nov/23 Mallorca 2-1 Alaves
+
+ Round 14
+
+Nov/17 Cordoba 4-2 Hercules
+Nov/17 Eibar 6-0 Real Madrid B
+Nov/17 Numancia 0-0 Tenerife
+Nov/17 Dep. La Coruna 3-1 Mallorca
+Nov/16 Las Palmas 3-1 Mirandes
+Nov/16 Sabadell 1-2 Alcorcon
+Nov/16 Jaen 3-0 Zaragoza
+Nov/16 Alaves 3-3 Recreativo Huelva
+Nov/16 Girona 1-2 Barcelona B
+Nov/16 Murcia 1-1 Gijon
+Nov/16 Ponferradina 0-2 Lugo
+
+ Round 13
+
+Nov/10 Real Madrid B 1-0 Alaves
+Nov/10 Tenerife 2-0 Eibar
+Nov/10 Gijon 3-1 Sabadell
+Nov/10 Mallorca 2-2 Ponferradina
+Nov/10 Mirandes 1-2 Girona
+Nov/10 Recreativo Huelva 0-1 Dep. La Coruna
+Nov/09 Hercules 2-1 Las Palmas
+Nov/09 Alcorcon 0-0 Cordoba
+Nov/09 Zaragoza 1-2 Numancia
+Nov/09 Barcelona B 0-3 Jaen
+Nov/09 Lugo 1-1 Murcia
+
+ Round 12
+
+Nov/03 Ponferradina 3-1 Recreativo Huelva
+Nov/03 Dep. La Coruna 2-0 Real Madrid B
+Nov/03 Alaves 2-2 Tenerife
+Nov/03 Jaen 1-2 Mirandes
+Nov/03 Sabadell 2-1 Murcia
+Nov/03 Cordoba 2-2 Gijon
+Nov/02 Girona 2-2 Hercules
+Nov/02 Las Palmas 1-0 Alcorcon
+Nov/02 Mallorca 0-0 Lugo
+Nov/02 Eibar 3-2 Zaragoza
+Nov/02 Numancia 1-0 Barcelona B
+
+ Round 11
+
+Oct/27 Alcorcon 0-0 Girona
+Oct/27 Real Madrid B 1-1 Ponferradina
+Oct/27 Barcelona B 0-2 Eibar
+Oct/27 Gijon 2-3 Las Palmas
+Oct/27 Hercules 0-1 Jaen
+Oct/27 Lugo 1-0 Sabadell
+Oct/27 Mirandes 0-0 Numancia
+Oct/27 Murcia 2-2 Cordoba
+Oct/27 Recreativo Huelva 3-1 Mallorca
+Oct/26 Tenerife 2-0 Dep. La Coruna
+Oct/26 Zaragoza 2-2 Alaves
+
+ Round 10
+
+Oct/20 Numancia 1-1 Hercules
+Oct/20 Girona 2-1 Gijon
+Oct/20 Las Palmas 0-0 Murcia
+Oct/20 Mallorca 2-0 Real Madrid B
+Oct/20 Eibar 1-0 Mirandes
+Oct/20 Jaen 1-0 Alcorcon
+Oct/20 Dep. La Coruna 1-1 Zaragoza
+Oct/19 Recreativo Huelva 3-3 Lugo
+Oct/19 Alaves 2-3 Barcelona B
+Oct/19 Cordoba 1-0 Sabadell
+Oct/19 Ponferradina 0-1 Tenerife
+
+ Round 9
+
+Oct/13 Alcorcon 0-1 Numancia
+Oct/13 Zaragoza 2-1 Ponferradina
+Oct/13 Hercules 0-0 Eibar
+Oct/13 Tenerife 0-1 Mallorca
+Oct/13 Gijon 1-1 Jaen
+Oct/13 Barcelona B 0-1 Dep. La Coruna
+Oct/12 Sabadell 0-0 Las Palmas
+Oct/12 Real Madrid B 1-2 Recreativo Huelva
+Oct/12 Lugo 1-0 Cordoba
+Oct/12 Mirandes 2-3 Alaves
+Oct/12 Murcia 1-0 Girona
+
+ Round 8
+
+Oct/06 Alaves 3-1 Hercules
+Oct/06 Real Madrid B 2-0 Lugo
+Oct/06 Eibar 0-0 Alcorcon
+Oct/06 Girona 1-1 Sabadell
+Oct/06 Jaen 3-2 Murcia
+Oct/06 Ponferradina 1-0 Barcelona B
+Oct/06 Recreativo Huelva 2-1 Tenerife
+Oct/06 Mallorca 2-4 Zaragoza
+Oct/05 Dep. La Coruna 0-0 Mirandes
+Oct/05 Las Palmas 2-0 Cordoba
+Oct/05 Numancia 0-0 Gijon
+
+ Round 7
+
+Sep/29 Murcia 2-1 Numancia
+Sep/29 Zaragoza 1-2 Recreativo Huelva
+Sep/29 Tenerife 1-0 Real Madrid B
+Sep/29 Barcelona B 0-1 Mallorca
+Sep/29 Cordoba 2-0 Girona
+Sep/29 Mirandes 1-0 Ponferradina
+Sep/29 Hercules 0-2 Dep. La Coruna
+Sep/28 Alcorcon 2-0 Alaves
+Sep/28 Gijon 3-2 Eibar
+Sep/28 Lugo 3-0 Las Palmas
+Sep/28 Sabadell 3-0 Jaen
+
+ Round 6
+
+Sep/22 Jaen 0-0 Cordoba
+Sep/22 Dep. La Coruna 1-0 Alcorcon
+Sep/22 Girona 0-2 Las Palmas
+Sep/22 Mallorca 1-0 Mirandes
+Sep/22 Ponferradina 5-1 Hercules
+Sep/22 Alaves 3-0 Gijon
+Sep/21 Real Madrid B 1-2 Zaragoza
+Sep/21 Eibar 0-0 Murcia
+Sep/21 Numancia 3-1 Sabadell
+Sep/21 Tenerife 0-1 Lugo
+Sep/20 Recreativo Huelva 3-0 Barcelona B
+
+ Round 5
+
+Sep/15 Alcorcon 0-1 Ponferradina
+Sep/15 Hercules 2-2 Mallorca
+Sep/15 Las Palmas 1-0 Jaen
+Sep/15 Murcia 2-1 Alaves
+Sep/15 Gijon 2-0 Dep. La Coruna
+Sep/15 Barcelona B 2-0 Real Madrid B
+Sep/14 Sabadell 1-0 Eibar
+Sep/14 Cordoba 3-1 Numancia
+Sep/14 Lugo 1-2 Girona
+Sep/14 Mirandes 0-3 Recreativo Huelva
+Sep/14 Zaragoza 3-0 Tenerife
+
+ Round 4
+
+Sep/08 Recreativo Huelva 2-0 Hercules
+Sep/08 Eibar 1-0 Cordoba
+Sep/08 Jaen 3-1 Girona
+Sep/08 Real Madrid B 0-1 Mirandes
+Sep/08 Tenerife 2-2 Barcelona B
+Sep/08 Ponferradina 2-2 Gijon
+Sep/08 Dep. La Coruna 0-1 Murcia
+Sep/07 Numancia 1-1 Las Palmas
+Sep/07 Alaves 1-1 Sabadell
+Sep/07 Mallorca 2-1 Alcorcon
+Sep/07 Zaragoza 0-1 Lugo
+
+ Round 3
+
+Sep/01 Alcorcon 3-0 Recreativo Huelva
+Sep/01 Cordoba 1-1 Alaves
+Sep/01 Lugo 4-2 Jaen
+Sep/01 Mirandes 2-0 Tenerife
+Sep/01 Murcia 2-2 Ponferradina
+Sep/01 Sabadell 0-3 Dep. La Coruna
+Sep/01 Gijon 3-0 Mallorca
+Aug/31 Barcelona B 1-0 Zaragoza
+Aug/31 Girona 2-2 Numancia
+Aug/31 Hercules 2-1 Real Madrid B
+Aug/31 Las Palmas 1-1 Eibar
+
+ Round 2
+
+Aug/25 Mallorca 2-4 Murcia
+Aug/25 Numancia 4-2 Jaen
+Aug/25 Ponferradina 2-0 Sabadell
+Aug/25 Recreativo Huelva 1-1 Gijon
+Aug/25 Tenerife 0-0 Hercules
+Aug/24 Barcelona B 2-1 Lugo
+Aug/24 Real Madrid B 0-1 Alcorcon
+Aug/24 Alaves 1-1 Las Palmas
+Aug/24 Dep. La Coruna 0-1 Cordoba
+Aug/24 Eibar 0-3 Girona
+Aug/24 Zaragoza 0-0 Mirandes
+
+ Round 1
+
+Aug/18 Murcia 2-3 Recreativo Huelva
+Aug/18 Alcorcon 1-0 Tenerife
+Aug/18 Gijon 1-0 Real Madrid B
+Aug/18 Jaen 1-2 Eibar
+Aug/18 Sabadell 4-0 Mallorca
+Aug/17 Cordoba 1-0 Ponferradina
+Aug/17 Lugo 0-0 Numancia
+Aug/17 Hercules 1-1 Zaragoza
+Aug/17 Las Palmas 0-1 Dep. La Coruna
+Aug/17 Mirandes 2-1 Barcelona B
+Aug/16 Girona 1-0 Alaves

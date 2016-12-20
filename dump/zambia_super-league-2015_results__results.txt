@@ -1,0 +1,366 @@
+
+ Round 30
+
+Nov/18 Forest Rangers 1-0 Power Dynamos
+Nov/18 Green Buffaloes FC 2-0 National Assembly
+Nov/18 Lusaka Dynamos 1-2 ZESCO
+Nov/18 Mufulira 1-1 Red Arrows
+Nov/18 Nakambala Leopards 2-1 Konkola
+Nov/18 NAPSA Stars 2-0 Nkwazi
+Nov/18 Nkana 2-0 Nchanga Rangers
+Nov/18 Zanaco 1-0 Green Eagles
+
+ Round 29
+
+Nov/01 Green Eagles 1-0 Forest Rangers
+Nov/01 Konkola 1-1 NAPSA Stars
+Nov/01 Nkana 3-0 Mufulira
+Nov/01 Nchanga Rangers 1-2 Power Dynamos
+Oct/31 National Assembly 1-1 Lusaka Dynamos
+Oct/31 Nkwazi 2-2 Green Buffaloes FC
+Oct/31 Red Arrows 1-3 Nakambala Leopards
+Oct/31 ZESCO 0-4 Zanaco
+
+ Round 28
+
+Oct/29 Mufulira 2-0 Nchanga Rangers
+Oct/28 Forest Rangers 1-1 ZESCO
+Oct/28 Green Buffaloes FC 1-1 Konkola
+Oct/28 Nakambala Leopards 0-0 Nkana
+Oct/28 NAPSA Stars 1-1 Red Arrows
+Oct/28 Power Dynamos 3-1 Green Eagles
+Oct/28 Zanaco 4-1 National Assembly
+Oct/28 Lusaka Dynamos 0-1 Nkwazi
+
+ Round 27
+
+Oct/09 Mufulira 1-1 Nakambala Leopards
+Oct/08 Nkana 0-1 NAPSA Stars
+Oct/07 Konkola 1-0 Lusaka Dynamos
+Oct/07 National Assembly 0-1 Forest Rangers
+Oct/07 Nchanga Rangers 1-0 Green Eagles
+Oct/07 Nkwazi 1-1 Zanaco
+Oct/07 Red Arrows 1-0 Green Buffaloes FC
+Oct/07 ZESCO 3-0 Power Dynamos
+
+ Round 26
+
+Oct/04 Zanaco 2-0 Konkola
+Oct/04 Lusaka Dynamos 1-2 Red Arrows
+Oct/03 Forest Rangers 1-0 Nkwazi
+Oct/03 Green Buffaloes FC 2-1 Nkana
+Oct/03 Green Eagles 2-2 ZESCO
+Oct/03 Nakambala Leopards 1-0 Nchanga Rangers
+Oct/03 Power Dynamos 2-0 National Assembly
+Oct/03 NAPSA Stars 0-1 Mufulira
+
+ Round 25
+
+Sep/27 Nchanga Rangers 1-2 ZESCO
+Sep/27 Konkola 0-1 Forest Rangers
+Sep/26 Mufulira 0-1 Green Buffaloes FC
+Sep/26 Nakambala Leopards 0-0 NAPSA Stars
+Sep/26 National Assembly 1-1 Green Eagles
+Sep/26 Nkana 4-1 Lusaka Dynamos
+Sep/26 Nkwazi 0-0 Power Dynamos
+Sep/26 Red Arrows 0-0 Zanaco
+
+ Round 23
+
+Sep/23 Nkwazi 1-1 ZESCO
+
+ Round 24
+
+Sep/13 Zanaco 1-0 Nkana
+Sep/13 Lusaka Dynamos 1-3 Mufulira
+Sep/12 Forest Rangers 0-0 Red Arrows
+Sep/12 Green Buffaloes FC 2-1 Nakambala Leopards
+Sep/12 Green Eagles 1-2 Nkwazi
+Sep/12 NAPSA Stars 0-0 Nchanga Rangers
+Sep/12 Power Dynamos 1-1 Konkola
+Sep/12 ZESCO 3-1 National Assembly
+
+ Round 23
+
+Sep/05 Konkola 1-2 Green Eagles
+Sep/05 Mufulira 0-2 Zanaco
+Sep/05 Nakambala Leopards 0-0 Lusaka Dynamos
+Sep/05 NAPSA Stars 0-1 Green Buffaloes FC
+Sep/05 Nchanga Rangers 2-0 National Assembly
+Sep/05 Nkana 1-0 Forest Rangers
+Sep/05 Red Arrows 1-1 Power Dynamos
+
+ Round 22
+
+Aug/30 ZESCO 1-0 Konkola
+Aug/30 Forest Rangers 0-2 Mufulira
+Aug/29 Green Buffaloes FC 1-1 Nchanga Rangers
+Aug/29 Green Eagles 0-1 Red Arrows
+Aug/29 National Assembly 1-0 Nkwazi
+Aug/29 Power Dynamos 2-1 Nkana
+Aug/29 Zanaco 0-0 Nakambala Leopards
+Aug/29 Lusaka Dynamos 0-1 NAPSA Stars
+
+ Round 21
+
+Aug/22 Green Buffaloes FC 1-0 Lusaka Dynamos
+Aug/22 Konkola 3-0 National Assembly
+Aug/22 Mufulira 1-0 Power Dynamos
+Aug/22 Nakambala Leopards 2-1 Forest Rangers
+Aug/22 NAPSA Stars 0-1 Zanaco
+Aug/22 Nchanga Rangers 1-0 Nkwazi
+Aug/22 Nkana 2-0 Green Eagles
+Aug/22 Red Arrows 0-2 ZESCO
+
+ Round 20
+
+Aug/16 Power Dynamos 2-0 Nakambala Leopards
+Aug/15 Green Eagles 2-1 Mufulira
+Aug/15 National Assembly 0-1 Red Arrows
+Aug/15 Nkwazi 4-1 Konkola
+Aug/15 Zanaco 1-1 Green Buffaloes FC
+Aug/15 ZESCO 5-3 Nkana
+Aug/15 Forest Rangers 0-1 NAPSA Stars
+Aug/15 Lusaka Dynamos 2-0 Nchanga Rangers
+
+ Round 19
+
+Aug/09 NAPSA Stars 0-1 Power Dynamos
+Aug/08 Green Buffaloes FC 1-0 Forest Rangers
+Aug/08 Lusaka Dynamos 0-2 Zanaco
+Aug/08 Mufulira 0-3 ZESCO
+Aug/08 Nakambala Leopards 0-1 Green Eagles
+Aug/08 Nchanga Rangers 1-0 Konkola
+Aug/08 Nkana 3-1 National Assembly
+Aug/08 Red Arrows 0-0 Nkwazi
+
+ Round 18
+
+Aug/03 Konkola 1-2 Red Arrows
+Aug/02 Forest Rangers 0-3 Lusaka Dynamos
+Aug/02 Green Eagles 0-0 NAPSA Stars
+Aug/02 National Assembly 0-1 Mufulira
+Aug/02 Nkwazi 0-1 Nkana
+Aug/02 Power Dynamos 0-1 Green Buffaloes FC
+Aug/02 Zanaco 3-2 Nchanga Rangers
+Aug/02 ZESCO 0-0 Nakambala Leopards
+
+ Round 17
+
+Jul/26 NAPSA Stars 0-0 ZESCO
+Jul/26 Green Buffaloes FC 0-3 Green Eagles
+Jul/25 Mufulira 1-1 Nkwazi
+Jul/25 Nakambala Leopards 2-0 National Assembly
+Jul/25 Nchanga Rangers 2-3 Red Arrows
+Jul/25 Nkana 1-1 Konkola
+Jul/25 Zanaco 1-0 Forest Rangers
+Jul/25 Lusaka Dynamos 1-2 Power Dynamos
+
+ Round 16
+
+Jul/22 Red Arrows 1-1 Nkana
+Jul/19 ZESCO 2-1 Green Buffaloes FC
+Jul/19 Forest Rangers 0-3 Nchanga Rangers
+Jul/18 Green Eagles 3-0 Lusaka Dynamos
+Jul/18 Konkola 0-1 Mufulira
+Jul/18 National Assembly 0-2 NAPSA Stars
+Jul/18 Nkwazi 2-0 Nakambala Leopards
+Jul/18 Power Dynamos 1-0 Zanaco
+
+ Round 14
+
+Jul/12 Zanaco 0-1 ZESCO
+
+ Round 12
+
+Jul/09 Power Dynamos 0-2 ZESCO
+
+ Round 8
+
+Jul/06 Power Dynamos 1-0 Red Arrows
+
+ Round 11
+
+Jul/05 ZESCO 1-0 Green Eagles
+
+ Round 15
+
+Jun/27 Green Eagles 3-3 Zanaco
+Jun/27 Konkola 2-0 Nakambala Leopards
+Jun/27 National Assembly 0-2 Green Buffaloes FC
+Jun/27 Nchanga Rangers 1-0 Nkana
+Jun/27 Nkwazi 1-0 NAPSA Stars
+Jun/27 Power Dynamos 1-0 Forest Rangers
+Jun/27 Red Arrows 0-0 Mufulira
+Jun/27 ZESCO 4-0 Lusaka Dynamos
+
+ Round 14
+
+Jun/24 Nakambala Leopards 0-0 Red Arrows
+
+ Round 10
+
+Jun/24 Power Dynamos 3-1 Nkwazi
+Jun/24 ZESCO 2-1 Nchanga Rangers
+
+ Round 14
+
+Jun/21 Green Buffaloes FC 0-0 Nkwazi
+Jun/21 NAPSA Stars 0-0 Konkola
+Jun/20 Forest Rangers 2-1 Green Eagles
+Jun/20 Lusaka Dynamos 2-0 National Assembly
+Jun/20 Mufulira 2-0 Nkana
+Jun/20 Power Dynamos 1-1 Nchanga Rangers
+
+ Round 13
+
+Jun/14 Green Eagles 1-1 Power Dynamos
+Jun/14 Konkola 1-1 Green Buffaloes FC
+Jun/14 National Assembly 3-2 Zanaco
+Jun/14 Nchanga Rangers 3-0 Mufulira
+Jun/14 Nkana 0-0 Nakambala Leopards
+Jun/14 Nkwazi 2-2 Lusaka Dynamos
+Jun/14 Red Arrows 1-0 NAPSA Stars
+Jun/14 ZESCO 1-2 Forest Rangers
+
+ Round 11
+
+Jun/10 National Assembly 0-1 Power Dynamos
+Jun/10 Red Arrows 1-1 Lusaka Dynamos
+
+ Round 12
+
+Jun/06 Forest Rangers 1-0 National Assembly
+Jun/06 Green Buffaloes FC 1-1 Red Arrows
+Jun/06 Green Eagles 3-1 Nchanga Rangers
+Jun/06 Lusaka Dynamos 2-1 Konkola
+Jun/06 Nakambala Leopards 0-0 Mufulira
+Jun/06 Zanaco 1-1 Nkwazi
+Jun/06 NAPSA Stars 1-0 Nkana
+
+ Round 11
+
+May/30 Konkola 0-1 Zanaco
+May/30 Mufulira 2-1 NAPSA Stars
+May/30 Nchanga Rangers 0-0 Nakambala Leopards
+May/30 Nkana 2-0 Green Buffaloes FC
+May/30 Nkwazi 0-1 Forest Rangers
+
+ Round 10
+
+May/24 NAPSA Stars 0-1 Nakambala Leopards
+May/24 Green Buffaloes FC 2-1 Mufulira
+May/23 Forest Rangers 2-1 Konkola
+May/23 Green Eagles 1-2 National Assembly
+May/23 Lusaka Dynamos 3-0 Nkana
+May/23 Zanaco 2-0 Red Arrows
+
+ Round 8
+
+May/20 Green Buffaloes FC 2-0 NAPSA Stars
+May/20 Zanaco 3-2 Mufulira
+May/20 ZESCO 1-2 Nkwazi
+
+ Round 9
+
+May/16 Konkola 0-1 Power Dynamos
+May/16 Mufulira 2-0 Lusaka Dynamos
+May/16 Nakambala Leopards 0-1 Green Buffaloes FC
+May/16 National Assembly 0-1 ZESCO
+May/16 Nchanga Rangers 1-2 NAPSA Stars
+May/16 Nkana 1-1 Zanaco
+May/16 Nkwazi 2-1 Green Eagles
+May/16 Red Arrows 3-1 Forest Rangers
+
+ Round 8
+
+May/09 Forest Rangers 0-1 Nkana
+May/09 Green Eagles 1-2 Konkola
+May/09 Lusaka Dynamos 1-0 Nakambala Leopards
+May/09 National Assembly 2-1 Nchanga Rangers
+
+ Round 3
+
+May/06 Green Buffaloes FC 1-2 Power Dynamos
+May/06 Nakambala Leopards 1-2 ZESCO
+
+ Round 7
+
+May/03 Nkana 1-0 Power Dynamos
+May/02 Mufulira 2-1 Forest Rangers
+May/02 Nakambala Leopards 1-2 Zanaco
+May/02 NAPSA Stars 1-2 Lusaka Dynamos
+May/02 Nchanga Rangers 0-1 Green Buffaloes FC
+May/02 Nkwazi 2-1 National Assembly
+May/02 Red Arrows 3-0 Green Eagles
+May/02 Konkola 0-1 ZESCO
+
+ Round 6
+
+Apr/25 Forest Rangers 1-0 Nakambala Leopards
+Apr/25 Green Eagles 0-0 Nkana
+Apr/25 National Assembly 1-1 Konkola
+Apr/25 Nkwazi 1-0 Nchanga Rangers
+Apr/25 Power Dynamos 1-1 Mufulira
+Apr/25 Zanaco 4-0 NAPSA Stars
+Apr/25 ZESCO 3-2 Red Arrows
+Apr/25 Lusaka Dynamos 1-1 Green Buffaloes FC
+
+ Round 1
+
+Apr/22 Zanaco 1-0 Power Dynamos
+
+ Round 5
+
+Apr/19 Nkana 0-0 ZESCO
+Apr/18 Green Buffaloes FC 0-3 Zanaco
+Apr/18 Konkola 3-0 Nkwazi
+Apr/18 Mufulira 0-0 Green Eagles
+Apr/18 Nakambala Leopards 0-1 Power Dynamos
+Apr/18 Red Arrows 1-2 National Assembly
+Apr/18 NAPSA Stars 0-2 Forest Rangers
+Apr/18 Nchanga Rangers 0-0 Lusaka Dynamos
+
+ Round 4
+
+Apr/12 ZESCO 4-1 Mufulira
+Apr/11 Forest Rangers 0-3 Green Buffaloes FC
+Apr/11 Green Eagles 1-1 Nakambala Leopards
+Apr/11 Konkola 0-0 Nchanga Rangers
+Apr/11 National Assembly 0-1 Nkana
+Apr/11 Nkwazi 2-0 Red Arrows
+Apr/11 Power Dynamos 3-0 NAPSA Stars
+Apr/11 Zanaco 1-1 Lusaka Dynamos
+
+ Round 3
+
+Apr/05 Mufulira 2-1 National Assembly
+Apr/05 Nchanga Rangers 1-1 Zanaco
+Apr/05 Nkana 1-2 Nkwazi
+Apr/04 Lusaka Dynamos 1-1 Forest Rangers
+Apr/04 NAPSA Stars 0-0 Green Eagles
+Apr/04 Red Arrows 1-1 Konkola
+
+ Round 1
+
+Mar/22 Green Buffaloes FC 0-0 ZESCO
+
+ Round 2
+
+Mar/22 National Assembly 1-1 Nakambala Leopards
+Mar/21 Forest Rangers 0-1 Zanaco
+Mar/21 Green Eagles 1-0 Green Buffaloes FC
+Mar/21 Konkola 0-0 Nkana
+Mar/21 Power Dynamos 3-0 Lusaka Dynamos
+Mar/21 Red Arrows 1-1 Nchanga Rangers
+Mar/21 ZESCO 2-0 NAPSA Stars
+Mar/21 Nkwazi 0-1 Mufulira
+
+ Round 1
+
+Mar/15 Nkana 0-1 Red Arrows
+Mar/15 Mufulira 0-1 Konkola
+Mar/14 Lusaka Dynamos 0-1 Green Eagles
+Mar/14 Nakambala Leopards 0-0 Nkwazi
+Mar/14 NAPSA Stars 3-1 National Assembly
+Mar/14 Nchanga Rangers 2-0 Forest Rangers

@@ -1,0 +1,603 @@
+
+ Final
+
+Jun/18 Girona 0-1 Osasuna
+Jun/15 Osasuna 2-1 Girona
+
+ Semi-finals
+
+Jun/12 Girona 3-1 Cordoba
+Jun/11 Gimnastic 2-3 Osasuna
+Jun/09 Cordoba 2-1 Girona
+Jun/08 Osasuna 3-1 Gimnastic
+
+ Round 42
+
+Jun/04 Alcorcon 4-1 Elche
+Jun/04 Cordoba 1-1 Almeria
+Jun/04 Gimnastic 1-1 Alaves
+Jun/04 Llagostera 6-2 Zaragoza
+Jun/04 Mirandes 0-1 Leganes
+Jun/04 Ponferradina 0-1 Girona
+Jun/04 R. Oviedo 0-5 Osasuna
+Jun/04 Valladolid 1-3 Mallorca
+Jun/04 Ath Bilbao B 2-0 Tenerife
+Jun/04 Huesca 1-0 Lugo
+Jun/04 Numancia 2-0 Albacete
+
+ Round 41
+
+May/29 Alaves 2-0 Numancia
+May/29 Albacete 2-1 Ath Bilbao B
+May/29 Almeria 2-1 Mirandes
+May/29 Elche 2-2 Valladolid
+May/29 Girona 2-0 Alcorcon
+May/29 Leganes 2-0 Llagostera
+May/29 Lugo 0-3 Gimnastic
+May/29 Mallorca 0-1 Cordoba
+May/29 Osasuna 2-3 Huesca
+May/29 Tenerife 1-1 Ponferradina
+May/29 Zaragoza 1-0 R. Oviedo
+
+ Round 40
+
+May/26 R. Oviedo 0-1 Leganes
+May/26 Ath Bilbao B 2-3 Alaves
+May/26 Huesca 1-1 Zaragoza
+May/25 Gimnastic 1-0 Osasuna
+May/25 Llagostera 0-0 Almeria
+May/25 Mirandes 0-3 Cordoba
+May/25 Numancia 1-0 Lugo
+May/25 Ponferradina 2-1 Albacete
+May/24 Alcorcon 2-1 Tenerife
+May/24 Mallorca 2-1 Elche
+May/24 Valladolid 0-0 Girona
+
+ Round 39
+
+May/22 Almeria 3-1 R. Oviedo
+May/22 Alaves 2-0 Ponferradina
+May/22 Lugo 2-0 Ath Bilbao B
+May/22 Mirandes 0-0 Llagostera
+May/22 Osasuna 3-2 Numancia
+May/22 Zaragoza 0-1 Gimnastic
+May/21 Leganes 2-3 Huesca
+May/21 Albacete 0-2 Alcorcon
+May/21 Cordoba 3-1 Elche
+May/21 Girona 1-0 Mallorca
+May/21 Tenerife 3-1 Valladolid
+
+ Round 38
+
+May/15 Ath Bilbao B 0-0 Osasuna
+May/15 Huesca 2-1 Almeria
+May/15 Llagostera 1-0 Cordoba
+May/15 Alcorcon 0-1 Alaves
+May/15 Elche 1-1 Girona
+May/15 Ponferradina 2-1 Lugo
+May/15 Gimnastic 0-0 Leganes
+May/14 Mallorca 1-0 Tenerife
+May/14 Numancia 2-2 Zaragoza
+May/14 R. Oviedo 4-1 Mirandes
+May/14 Valladolid 1-0 Albacete
+
+ Round 37
+
+May/08 Albacete 1-0 Mallorca
+May/08 Cordoba 1-0 Girona
+May/08 Leganes 2-2 Numancia
+May/08 Mirandes 1-0 Huesca
+May/08 Zaragoza 2-0 Ath Bilbao B
+May/08 Alaves 2-1 Valladolid
+May/07 Tenerife 1-1 Elche
+May/07 Almeria 1-2 Gimnastic
+May/07 Llagostera 2-0 R. Oviedo
+May/07 Lugo 1-2 Alcorcon
+May/07 Osasuna 0-0 Ponferradina
+
+ Round 36
+
+May/02 Ath Bilbao B 1-2 Leganes
+May/01 Ponferradina 1-1 Zaragoza
+May/01 Elche 1-1 Albacete
+May/01 Gimnastic 3-2 Mirandes
+May/01 Girona 1-0 Tenerife
+May/01 Valladolid 1-1 Lugo
+May/01 R. Oviedo 1-0 Cordoba
+Apr/30 Mallorca 0-0 Alaves
+Apr/30 Alcorcon 0-1 Osasuna
+Apr/30 Huesca 3-1 Llagostera
+Apr/30 Numancia 2-0 Almeria
+
+ Round 35
+
+Apr/24 Zaragoza 3-1 Alcorcon
+Apr/24 Almeria 3-2 Ath Bilbao B
+Apr/24 Cordoba 0-0 Tenerife
+Apr/24 Lugo 2-1 Mallorca
+Apr/24 Mirandes 0-2 Numancia
+Apr/24 Osasuna 1-0 Valladolid
+Apr/23 Alaves 0-0 Elche
+Apr/23 Albacete 0-3 Girona
+Apr/23 Leganes 3-0 Ponferradina
+Apr/23 Llagostera 1-1 Gimnastic
+Apr/23 R. Oviedo 0-1 Huesca
+
+ Round 34
+
+Apr/17 Mallorca 1-1 Osasuna
+Apr/17 Alcorcon 2-0 Leganes
+Apr/17 Huesca 0-2 Cordoba
+Apr/17 Ponferradina 1-3 Almeria
+Apr/17 Tenerife 1-0 Albacete
+Apr/17 Gimnastic 0-0 R. Oviedo
+Apr/16 Valladolid 1-2 Zaragoza
+Apr/16 Ath Bilbao B 1-1 Mirandes
+Apr/16 Elche 2-0 Lugo
+Apr/16 Girona 1-0 Alaves
+Apr/16 Numancia 1-1 Llagostera
+
+ Round 33
+
+Apr/10 Osasuna 0-0 Elche
+Apr/10 Alaves 2-2 Tenerife
+Apr/10 Cordoba 2-3 Albacete
+Apr/10 Huesca 2-0 Gimnastic
+Apr/10 R. Oviedo 1-0 Numancia
+Apr/10 Zaragoza 2-1 Mallorca
+Apr/09 Leganes 4-0 Valladolid
+Apr/09 Almeria 1-1 Alcorcon
+Apr/09 Llagostera 2-1 Ath Bilbao B
+Apr/09 Lugo 1-1 Girona
+Apr/09 Mirandes 1-0 Ponferradina
+
+ Round 32
+
+Apr/04 Ath Bilbao B 2-1 R. Oviedo
+Apr/03 Albacete 0-1 Alaves
+Apr/03 Girona 0-0 Osasuna
+Apr/03 Numancia 3-2 Huesca
+Apr/03 Tenerife 1-0 Lugo
+Apr/03 Valladolid 1-1 Almeria
+Apr/03 Gimnastic 4-4 Cordoba
+Apr/02 Alcorcon 1-0 Mirandes
+Apr/02 Elche 2-1 Zaragoza
+Apr/02 Mallorca 3-0 Leganes
+Apr/02 Ponferradina 1-0 Llagostera
+
+ Round 31
+
+Mar/27 Almeria 1-1 Mallorca
+Mar/27 Llagostera 4-0 Alcorcon
+Mar/27 Lugo 2-1 Albacete
+Mar/27 Mirandes 4-1 Valladolid
+Mar/27 Zaragoza 0-3 Girona
+Mar/27 Cordoba 1-2 Alaves
+Mar/26 R. Oviedo 3-0 Ponferradina
+Mar/26 Gimnastic 1-0 Numancia
+Mar/26 Huesca 1-2 Ath Bilbao B
+Mar/26 Leganes 0-0 Elche
+Mar/26 Osasuna 0-0 Tenerife
+
+ Round 30
+
+Mar/20 Numancia 1-1 Cordoba
+Mar/20 Ath Bilbao B 0-4 Gimnastic
+Mar/20 Girona 1-1 Leganes
+Mar/20 Mallorca 1-1 Mirandes
+Mar/20 Ponferradina 2-1 Huesca
+Mar/20 Tenerife 0-0 Zaragoza
+Mar/19 Elche 0-0 Almeria
+Mar/19 Alaves 0-0 Lugo
+Mar/19 Albacete 3-1 Osasuna
+Mar/19 Alcorcon 1-0 R. Oviedo
+Mar/19 Valladolid 3-0 Llagostera
+
+ Round 27
+
+Mar/16 Huesca 1-2 Mallorca
+
+ Round 29
+
+Mar/13 Leganes 0-1 Tenerife
+Mar/13 Cordoba 1-2 Lugo
+Mar/13 Gimnastic 1-1 Ponferradina
+Mar/13 Huesca 1-0 Alcorcon
+Mar/13 Llagostera 3-0 Mallorca
+Mar/13 Osasuna 3-1 Alaves
+Mar/12 R. Oviedo 2-4 Valladolid
+Mar/12 Almeria 1-0 Girona
+Mar/12 Mirandes 1-2 Elche
+Mar/12 Numancia 3-2 Ath Bilbao B
+Mar/12 Zaragoza 1-0 Albacete
+
+ Round 28
+
+Mar/06 Albacete 0-3 Leganes
+Mar/06 Alcorcon 1-1 Gimnastic
+Mar/06 Ponferradina 1-0 Numancia
+Mar/06 Tenerife 0-0 Almeria
+Mar/06 Valladolid 0-1 Huesca
+Mar/06 Alaves 0-0 Zaragoza
+Mar/05 Lugo 2-0 Osasuna
+Mar/05 Ath Bilbao B 1-2 Cordoba
+Mar/05 Elche 1-1 Llagostera
+Mar/05 Girona 2-0 Mirandes
+Mar/05 Mallorca 1-0 R. Oviedo
+
+ Round 27
+
+Feb/28 R. Oviedo 3-0 Elche
+Feb/28 Almeria 1-0 Albacete
+Feb/28 Gimnastic 1-1 Valladolid
+Feb/28 Mirandes 1-2 Tenerife
+Feb/28 Zaragoza 3-1 Lugo
+Feb/28 Leganes 2-0 Alaves
+Feb/27 Cordoba 0-1 Osasuna
+Feb/27 Ath Bilbao B 4-2 Ponferradina
+Feb/27 Llagostera 0-1 Girona
+Feb/27 Numancia 1-1 Alcorcon
+
+ Round 26
+
+Feb/21 Osasuna 1-1 Zaragoza
+Feb/21 Elche 1-1 Huesca
+Feb/21 Girona 1-1 R. Oviedo
+Feb/21 Tenerife 3-1 Llagostera
+Feb/21 Valladolid 2-2 Numancia
+Feb/21 Alaves 1-1 Almeria
+Feb/20 Ponferradina 1-3 Cordoba
+Feb/20 Albacete 1-1 Mirandes
+Feb/20 Alcorcon 1-0 Ath Bilbao B
+Feb/20 Lugo 1-2 Leganes
+Feb/20 Mallorca 2-2 Gimnastic
+
+ Round 25
+
+Feb/14 Numancia 2-0 Mallorca
+Feb/14 Huesca 0-1 Girona
+Feb/14 Leganes 2-0 Osasuna
+Feb/14 Llagostera 2-0 Albacete
+Feb/14 R. Oviedo 1-0 Tenerife
+Feb/14 Cordoba 0-2 Zaragoza
+Feb/13 Mirandes 0-0 Alaves
+Feb/13 Almeria 0-2 Lugo
+Feb/13 Ath Bilbao B 0-1 Valladolid
+Feb/13 Gimnastic 1-0 Elche
+Feb/13 Ponferradina 0-0 Alcorcon
+
+ Round 24
+
+Feb/07 Osasuna 0-0 Almeria
+Feb/07 Alaves 1-0 Llagostera
+Feb/07 Girona 1-1 Gimnastic
+Feb/07 Lugo 1-4 Mirandes
+Feb/07 Mallorca 2-3 Ath Bilbao B
+Feb/07 Alcorcon 3-3 Cordoba
+Feb/06 Elche 0-0 Numancia
+Feb/06 Albacete 2-2 R. Oviedo
+Feb/06 Tenerife 1-1 Huesca
+Feb/06 Valladolid 0-0 Ponferradina
+Feb/06 Zaragoza 1-0 Leganes
+
+ Round 23
+
+Jan/31 Mirandes 4-0 Osasuna
+Jan/31 Ath Bilbao B 0-1 Elche
+Jan/31 Gimnastic 2-1 Tenerife
+Jan/31 Numancia 1-1 Girona
+Jan/31 Ponferradina 0-2 Mallorca
+Jan/31 Almeria 2-1 Zaragoza
+Jan/30 R. Oviedo 1-1 Alaves
+Jan/30 Alcorcon 0-0 Valladolid
+Jan/30 Cordoba 2-3 Leganes
+Jan/30 Huesca 3-1 Albacete
+Jan/30 Llagostera 0-0 Lugo
+
+ Round 22
+
+Jan/24 Elche 1-0 Ponferradina
+Jan/24 Albacete 1-1 Gimnastic
+Jan/24 Osasuna 3-0 Llagostera
+Jan/24 Tenerife 0-0 Numancia
+Jan/24 Zaragoza 1-2 Mirandes
+Jan/24 Valladolid 2-0 Cordoba
+Jan/23 Leganes 2-1 Almeria
+Jan/23 Alaves 1-0 Huesca
+Jan/23 Girona 2-1 Ath Bilbao B
+Jan/23 Lugo 2-2 R. Oviedo
+Jan/23 Mallorca 1-0 Alcorcon
+
+ Round 21
+
+Jan/17 Almeria 0-1 Cordoba
+Jan/17 Alaves 1-3 Gimnastic
+Jan/17 Girona 4-0 Ponferradina
+Jan/17 Leganes 4-0 Mirandes
+Jan/17 Lugo 1-1 Huesca
+Jan/17 Mallorca 0-1 Valladolid
+Jan/16 Osasuna 0-0 R. Oviedo
+Jan/16 Albacete 0-2 Numancia
+Jan/16 Elche 2-0 Alcorcon
+Jan/16 Tenerife 2-0 Ath Bilbao B
+Jan/16 Zaragoza 1-0 Llagostera
+
+ Round 20
+
+Jan/10 Cordoba 3-1 Mallorca
+Jan/10 Ath Bilbao B 0-1 Albacete
+Jan/10 Huesca 0-1 Osasuna
+Jan/10 Llagostera 0-1 Leganes
+Jan/10 Ponferradina 0-1 Tenerife
+Jan/10 R. Oviedo 1-0 Zaragoza
+Jan/09 Numancia 0-1 Alaves
+Jan/09 Alcorcon 1-0 Girona
+Jan/09 Gimnastic 1-2 Lugo
+Jan/09 Mirandes 1-1 Almeria
+Jan/09 Valladolid 1-1 Elche
+
+ Round 19
+
+Jan/04 Girona 1-0 Valladolid
+Jan/04 Tenerife 1-2 Alcorcon
+Jan/03 Zaragoza 3-3 Huesca
+Jan/03 Albacete 2-2 Ponferradina
+Jan/03 Almeria 2-1 Llagostera
+Jan/03 Leganes 1-1 R. Oviedo
+Jan/03 Lugo 2-3 Numancia
+Jan/03 Cordoba 1-2 Mirandes
+Jan/02 Elche 1-1 Mallorca
+Jan/02 Alaves 3-0 Ath Bilbao B
+Jan/02 Osasuna 1-1 Gimnastic
+
+ Round 18
+
+Dec/21 Ath Bilbao B 1-1 Lugo
+Dec/20 R. Oviedo 1-0 Almeria
+Dec/20 Alcorcon 1-0 Albacete
+Dec/20 Huesca 1-1 Leganes
+Dec/20 Llagostera 0-0 Mirandes
+Dec/20 Valladolid 4-1 Tenerife
+Dec/19 Numancia 1-3 Osasuna
+Dec/19 Gimnastic 3-1 Zaragoza
+Dec/19 Mallorca 1-1 Girona
+Dec/19 Ponferradina 0-1 Alaves
+Dec/18 Elche 2-1 Cordoba
+
+ Round 17
+
+Dec/13 Mirandes 1-2 R. Oviedo
+Dec/13 Albacete 0-1 Valladolid
+Dec/13 Almeria 1-2 Huesca
+Dec/13 Leganes 1-0 Gimnastic
+Dec/13 Osasuna 1-1 Ath Bilbao B
+Dec/13 Zaragoza 2-2 Numancia
+Dec/12 Tenerife 2-1 Mallorca
+Dec/12 Alaves 1-1 Alcorcon
+Dec/12 Cordoba 2-0 Llagostera
+Dec/12 Girona 0-1 Elche
+Dec/12 Lugo 3-1 Ponferradina
+
+ Round 16
+
+Dec/07 Ath Bilbao B 0-1 Zaragoza
+Dec/06 Girona 1-2 Cordoba
+Dec/06 Huesca 1-2 Mirandes
+Dec/06 Mallorca 2-0 Albacete
+Dec/06 Numancia 1-2 Leganes
+Dec/06 R. Oviedo 2-1 Llagostera
+Dec/06 Ponferradina 3-0 Osasuna
+Dec/05 Gimnastic 2-2 Almeria
+Dec/05 Alcorcon 1-1 Lugo
+Dec/05 Elche 0-0 Tenerife
+Dec/05 Valladolid 1-2 Alaves
+
+ Round 15
+
+Nov/29 Cordoba 2-1 R. Oviedo
+Nov/29 Albacete 1-0 Elche
+Nov/29 Mirandes 0-1 Gimnastic
+Nov/29 Tenerife 1-1 Girona
+Nov/29 Zaragoza 2-0 Ponferradina
+Nov/29 Lugo 1-1 Valladolid
+Nov/28 Alaves 1-0 Mallorca
+Nov/28 Almeria 1-1 Numancia
+Nov/28 Leganes 1-0 Ath Bilbao B
+Nov/28 Llagostera 2-0 Huesca
+Nov/28 Osasuna 1-2 Alcorcon
+
+ Round 14
+
+Nov/22 Alcorcon 1-0 Zaragoza
+Nov/22 Gimnastic 2-0 Llagostera
+Nov/22 Girona 3-0 Albacete
+Nov/22 Ponferradina 1-0 Leganes
+Nov/22 Tenerife 1-1 Cordoba
+Nov/22 Valladolid 0-1 Osasuna
+Nov/21 Elche 0-1 Alaves
+Nov/21 Ath Bilbao B 0-0 Almeria
+Nov/21 Huesca 0-1 R. Oviedo
+Nov/21 Mallorca 1-1 Lugo
+Nov/21 Numancia 2-2 Mirandes
+
+ Round 13
+
+Nov/15 Osasuna 2-1 Mallorca
+Nov/15 Almeria 1-1 Ponferradina
+Nov/15 Cordoba 1-1 Huesca
+Nov/15 Llagostera 2-1 Numancia
+Nov/15 R. Oviedo 2-0 Gimnastic
+Nov/15 Zaragoza 0-2 Valladolid
+Nov/14 Lugo 1-1 Elche
+Nov/14 Alaves 1-0 Girona
+Nov/14 Albacete 1-2 Tenerife
+Nov/14 Leganes 3-0 Alcorcon
+Nov/14 Mirandes 3-0 Ath Bilbao B
+
+ Round 12
+
+Nov/09 Ath Bilbao B 2-0 Llagostera
+Nov/08 Alcorcon 0-0 Almeria
+Nov/08 Albacete 2-0 Cordoba
+Nov/08 Gimnastic 2-0 Huesca
+Nov/08 Girona 0-1 Lugo
+Nov/08 Numancia 1-0 R. Oviedo
+Nov/08 Elche 2-1 Osasuna
+Nov/07 Mallorca 0-0 Zaragoza
+Nov/07 Ponferradina 2-2 Mirandes
+Nov/07 Tenerife 2-0 Alaves
+Nov/07 Valladolid 1-1 Leganes
+
+ Round 11
+
+Nov/01 Almeria 1-1 Valladolid
+Nov/01 Alaves 1-1 Albacete
+Nov/01 Leganes 0-0 Mallorca
+Nov/01 Osasuna 0-1 Girona
+Nov/01 R. Oviedo 0-0 Ath Bilbao B
+Nov/01 Zaragoza 2-0 Elche
+Oct/31 Mirandes 3-0 Alcorcon
+Oct/31 Cordoba 2-0 Gimnastic
+Oct/31 Huesca 2-0 Numancia
+Oct/31 Llagostera 0-1 Ponferradina
+Oct/31 Lugo 2-0 Tenerife
+
+ Round 10
+
+Oct/25 Tenerife 2-2 Osasuna
+Oct/25 Albacete 2-0 Lugo
+Oct/25 Numancia 1-1 Gimnastic
+Oct/25 Ponferradina 4-2 R. Oviedo
+Oct/25 Valladolid 2-1 Mirandes
+Oct/25 Mallorca 1-0 Almeria
+Oct/24 Girona 0-0 Zaragoza
+Oct/24 Alaves 3-2 Cordoba
+Oct/24 Alcorcon 6-1 Llagostera
+Oct/24 Ath Bilbao B 0-0 Huesca
+Oct/24 Elche 0-0 Leganes
+
+ Round 9
+
+Oct/18 Zaragoza 2-0 Tenerife
+Oct/18 Cordoba 3-2 Numancia
+Oct/18 Huesca 1-1 Ponferradina
+Oct/18 Llagostera 3-1 Valladolid
+Oct/18 Lugo 1-0 Alaves
+Oct/18 Almeria 2-3 Elche
+Oct/17 Osasuna 1-0 Albacete
+Oct/17 Gimnastic 2-1 Ath Bilbao B
+Oct/17 Leganes 2-2 Girona
+Oct/17 Mirandes 2-2 Mallorca
+Oct/17 R. Oviedo 3-2 Alcorcon
+
+ Round 8
+
+Oct/11 Girona 1-1 Almeria
+Oct/11 Albacete 1-3 Zaragoza
+Oct/11 Alcorcon 0-1 Huesca
+Oct/11 Lugo 1-2 Cordoba
+Oct/11 Mallorca 1-0 Llagostera
+Oct/11 Valladolid 2-3 R. Oviedo
+Oct/10 Alaves 3-0 Osasuna
+Oct/10 Ath Bilbao B 0-0 Numancia
+Oct/10 Elche 1-4 Mirandes
+Oct/10 Ponferradina 2-2 Gimnastic
+Oct/10 Tenerife 0-0 Leganes
+
+ Round 7
+
+Oct/04 Huesca 1-1 Valladolid
+Oct/04 Leganes 3-2 Albacete
+Oct/04 Llagostera 4-1 Elche
+Oct/04 Mirandes 1-0 Girona
+Oct/04 Osasuna 4-0 Lugo
+Oct/04 R. Oviedo 1-1 Mallorca
+Oct/03 Zaragoza 1-0 Alaves
+Oct/03 Almeria 2-2 Tenerife
+Oct/03 Cordoba 1-0 Ath Bilbao B
+Oct/03 Gimnastic 0-2 Alcorcon
+Oct/03 Numancia 1-0 Ponferradina
+
+ Round 6
+
+Sep/27 Albacete 3-0 Almeria
+Sep/27 Alaves 0-0 Leganes
+Sep/27 Girona 2-2 Llagostera
+Sep/27 Tenerife 3-0 Mirandes
+Sep/27 Valladolid 0-0 Gimnastic
+Sep/27 Elche 1-1 R. Oviedo
+Sep/26 Osasuna 0-0 Cordoba
+Sep/26 Alcorcon 1-1 Numancia
+Sep/26 Lugo 0-0 Zaragoza
+Sep/26 Mallorca 0-1 Huesca
+Sep/26 Ponferradina 1-0 Ath Bilbao B
+
+ Round 5
+
+Sep/20 Cordoba 1-0 Ponferradina
+Sep/20 Almeria 0-2 Alaves
+Sep/20 Gimnastic 1-0 Mallorca
+Sep/20 Huesca 1-3 Elche
+Sep/20 Numancia 2-2 Valladolid
+Sep/20 Zaragoza 0-1 Osasuna
+Sep/19 Ath Bilbao B 1-0 Alcorcon
+Sep/19 Leganes 0-0 Lugo
+Sep/19 Llagostera 0-2 Tenerife
+Sep/19 Mirandes 1-1 Albacete
+Sep/19 R. Oviedo 1-2 Girona
+
+ Round 4
+
+Sep/13 Tenerife 0-2 R. Oviedo
+Sep/13 Albacete 1-0 Llagostera
+Sep/13 Alcorcon 1-0 Ponferradina
+Sep/13 Lugo 1-0 Almeria
+Sep/13 Mallorca 0-0 Numancia
+Sep/13 Girona 0-0 Huesca
+Sep/12 Zaragoza 0-1 Cordoba
+Sep/12 Alaves 2-3 Mirandes
+Sep/12 Elche 1-0 Gimnastic
+Sep/12 Osasuna 2-1 Leganes
+Sep/12 Valladolid 1-0 Ath Bilbao B
+
+ Round 3
+
+Sep/06 Almeria 2-1 Osasuna
+Sep/06 Leganes 1-1 Zaragoza
+Sep/06 Cordoba 1-3 Alcorcon
+Sep/06 Llagostera 3-0 Alaves
+Sep/06 Ponferradina 3-0 Valladolid
+Sep/06 R. Oviedo 3-1 Albacete
+Sep/06 Ath Bilbao B 3-1 Mallorca
+Sep/05 Gimnastic 1-0 Girona
+Sep/05 Huesca 1-1 Tenerife
+Sep/05 Mirandes 1-1 Lugo
+Sep/05 Numancia 0-0 Elche
+
+ Round 2
+
+Aug/30 Elche 2-1 Ath Bilbao B
+Aug/30 Mallorca 1-0 Ponferradina
+Aug/30 Tenerife 1-2 Gimnastic
+Aug/30 Valladolid 2-0 Alcorcon
+Aug/30 Alaves 2-0 R. Oviedo
+Aug/30 Osasuna 1-0 Mirandes
+Aug/29 Zaragoza 3-2 Almeria
+Aug/29 Albacete 1-1 Huesca
+Aug/29 Girona 2-3 Numancia
+Aug/29 Leganes 3-1 Cordoba
+Aug/29 Lugo 1-0 Llagostera
+
+ Round 1
+
+Aug/24 Ath Bilbao B 0-1 Girona
+Aug/23 Almeria 3-2 Leganes
+Aug/23 Gimnastic 2-2 Albacete
+Aug/23 Numancia 6-3 Tenerife
+Aug/23 Ponferradina 2-0 Elche
+Aug/23 Mirandes 1-1 Zaragoza
+Aug/23 R. Oviedo 2-2 Lugo
+Aug/22 Cordoba 1-0 Valladolid
+Aug/22 Alcorcon 2-0 Mallorca
+Aug/22 Huesca 2-3 Alaves
+Aug/22 Llagostera 0-2 Osasuna

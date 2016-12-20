@@ -1,0 +1,591 @@
+
+ Round 42
+
+May/25 Albacete 1-2 Leganes
+May/25 Cordoba 1-1 Ferrol
+May/25 El Ejido 1-0 Santander
+May/25 Gimnastic 3-1 CF Extremadura
+May/25 Murcia 3-0 Jaen
+May/25 Numancia 1-2 Levante
+May/25 Xerez CD 2-1 R. Oviedo
+May/25 Atl. Madrid 1-1 Burgos
+May/25 CD Badajoz 2-2 Salamanca
+May/25 Gijon 3-1 Recreativo Huelva
+May/25 Elche 0-0 Eibar
+
+ Round 41
+
+May/19 Burgos 0-1 Murcia
+May/19 CF Extremadura 1-1 El Ejido
+May/19 Jaen 0-1 Elche
+May/19 Leganes 0-1 Numancia
+May/19 Levante 0-1 CD Badajoz
+May/19 R. Oviedo 0-2 Gimnastic
+May/19 Recreativo Huelva 2-1 Xerez CD
+May/19 Santander 1-0 Atl. Madrid
+May/19 Eibar 2-1 Cordoba
+May/19 Salamanca 1-2 Gijon
+May/18 Ferrol 2-0 Albacete
+
+ Round 40
+
+May/12 Murcia 0-0 Santander
+May/12 Elche 2-0 Burgos
+May/12 Albacete 0-0 Eibar
+May/12 CD Badajoz 3-2 Leganes
+May/12 El Ejido 3-0 R. Oviedo
+May/12 Numancia 4-0 Ferrol
+May/11 Atl. Madrid 3-2 CF Extremadura
+May/11 Recreativo Huelva 2-0 Salamanca
+May/11 Cordoba 2-1 Jaen
+May/11 Gijon 0-1 Levante
+May/11 Gimnastic 2-1 Xerez CD
+
+ Round 39
+
+May/05 Burgos 0-1 Cordoba
+May/05 Ferrol 1-0 CD Badajoz
+May/05 Levante 0-1 Recreativo Huelva
+May/05 R. Oviedo 2-3 Atl. Madrid
+May/04 CF Extremadura 0-2 Murcia
+May/04 Santander 0-0 Elche
+May/04 Jaen 1-0 Albacete
+May/04 Xerez CD 0-2 Salamanca
+May/04 Eibar 2-0 Numancia
+May/04 Gimnastic 2-2 El Ejido
+May/04 Leganes 0-2 Gijon
+
+ Round 38
+
+Apr/28 Albacete 2-1 Burgos
+Apr/28 CD Badajoz 0-1 Eibar
+Apr/28 Gijon 5-3 Ferrol
+Apr/28 Murcia 1-1 R. Oviedo
+Apr/28 Numancia 1-0 Jaen
+Apr/28 Recreativo Huelva 1-2 Leganes
+Apr/28 Salamanca 0-1 Levante
+Apr/28 Cordoba 0-4 Santander
+Apr/27 Atl. Madrid 3-3 Gimnastic
+Apr/27 El Ejido 1-1 Xerez CD
+Apr/27 Elche 0-0 CF Extremadura
+
+ Round 37
+
+Apr/21 Burgos 1-1 Numancia
+Apr/21 CF Extremadura 3-2 Cordoba
+Apr/21 Eibar 2-0 Gijon
+Apr/21 Ferrol 1-1 Recreativo Huelva
+Apr/21 Gimnastic 1-1 Murcia
+Apr/21 Jaen 0-1 CD Badajoz
+Apr/21 R. Oviedo 3-6 Elche
+Apr/21 Leganes 3-1 Salamanca
+Apr/21 Santander 3-1 Albacete
+Apr/20 Xerez CD 0-1 Levante
+Apr/20 El Ejido 1-2 Atl. Madrid
+
+ Round 36
+
+Apr/14 Albacete 1-1 CF Extremadura
+Apr/14 CD Badajoz 2-3 Burgos
+Apr/14 Cordoba 0-1 R. Oviedo
+Apr/14 Elche 1-0 Gimnastic
+Apr/14 Murcia 0-1 El Ejido
+Apr/14 Numancia 0-1 Santander
+Apr/14 Salamanca 3-1 Ferrol
+Apr/14 Gijon 3-2 Jaen
+Apr/14 Atl. Madrid 0-0 Xerez CD
+Apr/13 Levante 1-2 Leganes
+Apr/13 Recreativo Huelva 1-0 Eibar
+
+ Round 35
+
+Apr/07 Burgos 0-0 Gijon
+Apr/07 CF Extremadura 0-2 Numancia
+Apr/07 Eibar 0-1 Salamanca
+Apr/07 El Ejido 0-0 Elche
+Apr/07 Ferrol 1-2 Levante
+Apr/07 Gimnastic 1-0 Cordoba
+Apr/07 R. Oviedo 0-0 Albacete
+Apr/07 Santander 3-0 CD Badajoz
+Apr/07 Jaen 1-1 Recreativo Huelva
+Apr/06 Xerez CD 3-3 Leganes
+Apr/06 Atl. Madrid 4-2 Murcia
+
+ Round 34
+
+Mar/31 Recreativo Huelva 0-1 Burgos
+Mar/31 CD Badajoz 2-2 CF Extremadura
+Mar/31 Gijon 1-1 Santander
+Mar/31 Levante 0-0 Eibar
+Mar/31 Salamanca 0-1 Jaen
+Mar/31 Murcia 0-0 Xerez CD
+Mar/30 Albacete 1-0 Gimnastic
+Mar/30 Cordoba 0-1 El Ejido
+Mar/30 Leganes 2-2 Ferrol
+Mar/30 Elche 5-1 Atl. Madrid
+Mar/30 Numancia 1-2 R. Oviedo
+
+ Round 33
+
+Mar/24 Burgos 0-0 Salamanca
+Mar/24 CF Extremadura 1-2 Gijon
+Mar/24 El Ejido 2-0 Albacete
+Mar/24 Jaen 0-1 Levante
+Mar/24 Murcia 2-1 Elche
+Mar/24 R. Oviedo 1-0 CD Badajoz
+Mar/24 Santander 1-5 Recreativo Huelva
+Mar/23 Eibar 0-0 Leganes
+Mar/23 Gimnastic 3-1 Numancia
+Mar/23 Xerez CD 2-1 Ferrol
+Mar/23 Atl. Madrid 0-0 Cordoba
+
+ Round 32
+
+Mar/17 CD Badajoz 2-1 Gimnastic
+Mar/17 Cordoba 2-1 Murcia
+Mar/17 Elche 4-0 Xerez CD
+Mar/17 Ferrol 1-1 Eibar
+Mar/17 Gijon 0-0 R. Oviedo
+Mar/17 Numancia 3-0 El Ejido
+Mar/17 Salamanca 1-2 Santander
+Mar/17 Leganes 2-0 Jaen
+Mar/17 Levante 0-0 Burgos
+Mar/17 Recreativo Huelva 3-2 CF Extremadura
+Mar/16 Albacete 2-1 Atl. Madrid
+
+ Round 31
+
+Mar/10 Xerez CD 1-0 Eibar
+Mar/10 Burgos 0-0 Leganes
+Mar/10 CF Extremadura 0-1 Salamanca
+Mar/10 El Ejido 1-0 CD Badajoz
+Mar/10 Elche 2-3 Cordoba
+Mar/10 Jaen 1-4 Ferrol
+Mar/10 Murcia 0-0 Albacete
+Mar/10 R. Oviedo 1-1 Recreativo Huelva
+Mar/10 Santander 4-2 Levante
+Mar/10 Gimnastic 1-1 Gijon
+Mar/09 Atl. Madrid 2-2 Numancia
+
+ Round 30
+
+Mar/03 Albacete 0-2 Elche
+Mar/03 CD Badajoz 0-1 Atl. Madrid
+Mar/03 Eibar 1-1 Jaen
+Mar/03 Ferrol 3-0 Burgos
+Mar/03 Gijon 1-1 El Ejido
+Mar/03 Levante 1-0 CF Extremadura
+Mar/03 Numancia 1-0 Murcia
+Mar/03 Salamanca 3-0 R. Oviedo
+Mar/03 Cordoba 0-0 Xerez CD
+Mar/02 Leganes 1-4 Santander
+Mar/02 Recreativo Huelva 1-0 Gimnastic
+
+ Round 29
+
+Feb/24 Murcia 1-1 CD Badajoz
+Feb/24 CF Extremadura 2-1 Leganes
+Feb/24 Cordoba 3-1 Albacete
+Feb/24 Elche 1-1 Numancia
+Feb/24 Gimnastic 2-2 Salamanca
+Feb/24 R. Oviedo 1-1 Levante
+Feb/24 Santander 0-1 Ferrol
+Feb/24 Xerez CD 1-0 Jaen
+Feb/24 Atl. Madrid 0-1 Gijon
+Feb/23 Burgos 0-0 Eibar
+Feb/23 El Ejido 0-0 Recreativo Huelva
+
+ Round 28
+
+Feb/17 Albacete 3-0 Xerez CD
+Feb/17 CD Badajoz 1-3 Elche
+Feb/17 Ferrol 2-0 CF Extremadura
+Feb/17 Gijon 0-1 Murcia
+Feb/17 Numancia 0-2 Cordoba
+Feb/17 Salamanca 0-2 El Ejido
+Feb/17 Eibar 2-2 Santander
+Feb/16 Jaen 0-0 Burgos
+Feb/16 Leganes 1-3 R. Oviedo
+Feb/16 Levante 2-2 Gimnastic
+Feb/16 Recreativo Huelva 1-3 Atl. Madrid
+
+ Round 27
+
+Feb/10 Albacete 3-1 Numancia
+Feb/10 Atl. Madrid 2-1 Salamanca
+Feb/10 CF Extremadura 0-1 Eibar
+Feb/10 Cordoba 1-2 CD Badajoz
+Feb/10 El Ejido 1-0 Levante
+Feb/10 Gimnastic 0-1 Leganes
+Feb/10 Murcia 2-0 Recreativo Huelva
+Feb/10 Xerez CD 1-0 Burgos
+Feb/10 Elche 1-0 Gijon
+Feb/09 R. Oviedo 2-1 Ferrol
+Feb/09 Santander 2-0 Jaen
+
+ Round 26
+
+Feb/07 Levante 2-4 Atl. Madrid
+Feb/06 CD Badajoz 2-3 Albacete
+Feb/06 Jaen 1-0 CF Extremadura
+Feb/06 Recreativo Huelva 1-0 Elche
+Feb/06 Gijon 3-0 Cordoba
+Feb/06 Salamanca 0-0 Murcia
+Feb/06 Burgos 0-0 Santander
+Feb/06 Eibar 1-1 R. Oviedo
+Feb/06 Ferrol 1-2 Gimnastic
+Feb/06 Leganes 2-0 El Ejido
+Feb/06 Numancia 1-1 Xerez CD
+
+ Round 25
+
+Feb/03 Albacete 1-2 Gijon
+Feb/03 El Ejido 3-0 Ferrol
+Feb/03 Gimnastic 1-0 Eibar
+Feb/03 Xerez CD 2-1 Santander
+Feb/02 Murcia 0-1 Levante
+Feb/02 R. Oviedo 0-0 Jaen
+Feb/02 CF Extremadura 2-0 Burgos
+Feb/02 Numancia 1-2 CD Badajoz
+Feb/02 Cordoba 0-0 Recreativo Huelva
+Feb/02 Atl. Madrid 0-2 Leganes
+Feb/02 Elche 4-1 Salamanca
+
+ Round 24
+
+Jan/27 Burgos 1-1 R. Oviedo
+Jan/27 CD Badajoz 1-0 Xerez CD
+Jan/27 Eibar 4-2 El Ejido
+Jan/27 Gijon 2-1 Numancia
+Jan/27 Jaen 0-1 Gimnastic
+Jan/27 Salamanca 0-0 Cordoba
+Jan/27 Santander 1-1 CF Extremadura
+Jan/27 Leganes 0-0 Murcia
+Jan/27 Recreativo Huelva 3-1 Albacete
+Jan/26 Ferrol 1-1 Atl. Madrid
+Jan/26 Levante 1-1 Elche
+
+ Round 23
+
+Jan/20 Albacete 0-1 Salamanca
+Jan/20 CD Badajoz 1-2 Gijon
+Jan/20 Cordoba 3-1 Levante
+Jan/20 El Ejido 1-0 Jaen
+Jan/20 Elche 1-0 Leganes
+Jan/20 Murcia 1-2 Ferrol
+Jan/20 Numancia 0-0 Recreativo Huelva
+Jan/20 R. Oviedo 0-0 Santander
+Jan/19 Gimnastic 0-0 Burgos
+Jan/19 Xerez CD 1-2 CF Extremadura
+Jan/19 Atl. Madrid 1-0 Eibar
+
+ Round 22
+
+Jan/13 Burgos 2-0 El Ejido
+Jan/13 Eibar 0-1 Murcia
+Jan/13 Gijon 0-1 Xerez CD
+Jan/13 Jaen 1-0 Atl. Madrid
+Jan/13 Levante 1-1 Albacete
+Jan/13 Salamanca 2-0 Numancia
+Jan/13 Santander 4-0 Gimnastic
+Jan/13 CF Extremadura 1-1 R. Oviedo
+Jan/13 Leganes 1-1 Cordoba
+Jan/12 Ferrol 1-0 Elche
+Jan/12 Recreativo Huelva 2-0 CD Badajoz
+
+ Round 21
+
+Jan/06 CF Extremadura 1-0 Gimnastic
+Jan/06 Eibar 3-1 Elche
+Jan/06 Ferrol 1-3 Cordoba
+Jan/06 Jaen 0-0 Murcia
+Jan/06 Levante 0-1 Numancia
+Jan/06 Recreativo Huelva 0-0 Gijon
+Jan/06 Salamanca 2-2 CD Badajoz
+Jan/06 Burgos 0-4 Atl. Madrid
+Jan/06 Leganes 1-2 Albacete
+Jan/05 R. Oviedo 1-0 Xerez CD
+Jan/05 Santander 2-1 El Ejido
+
+ Round 20
+
+Dec/23 Albacete 2-1 Ferrol
+Dec/23 CD Badajoz 2-2 Levante
+Dec/23 Cordoba 0-2 Eibar
+Dec/23 El Ejido 0-0 CF Extremadura
+Dec/23 Elche 1-3 Jaen
+Dec/23 Gijon 1-1 Salamanca
+Dec/23 Gimnastic 1-0 R. Oviedo
+Dec/23 Murcia 1-2 Burgos
+Dec/23 Numancia 1-0 Leganes
+Dec/23 Xerez CD 0-0 Recreativo Huelva
+Dec/22 Atl. Madrid 2-0 Santander
+
+ Round 19
+
+Dec/16 Burgos 0-0 Elche
+Dec/16 CF Extremadura 2-0 Atl. Madrid
+Dec/16 Eibar 1-0 Albacete
+Dec/16 Ferrol 2-1 Numancia
+Dec/16 Jaen 1-2 Cordoba
+Dec/16 R. Oviedo 1-1 El Ejido
+Dec/16 Salamanca 2-3 Recreativo Huelva
+Dec/16 Leganes 1-0 CD Badajoz
+Dec/16 Santander 1-0 Murcia
+Dec/15 Levante 4-3 Gijon
+Dec/15 Xerez CD 2-1 Gimnastic
+
+ Round 18
+
+Dec/09 Albacete 4-0 Jaen
+Dec/09 CD Badajoz 2-1 Ferrol
+Dec/09 El Ejido 1-0 Gimnastic
+Dec/09 Gijon 1-1 Leganes
+Dec/09 Murcia 2-1 CF Extremadura
+Dec/09 Numancia 1-1 Eibar
+Dec/09 Recreativo Huelva 0-0 Levante
+Dec/09 Salamanca 1-1 Xerez CD
+Dec/09 Atl. Madrid 0-0 R. Oviedo
+Dec/08 Cordoba 1-1 Burgos
+Dec/08 Elche 1-1 Santander
+
+ Round 17
+
+Dec/02 CF Extremadura 1-0 Elche
+Dec/02 Eibar 0-1 CD Badajoz
+Dec/02 Ferrol 1-2 Gijon
+Dec/02 Gimnastic 1-2 Atl. Madrid
+Dec/02 Levante 2-2 Salamanca
+Dec/02 R. Oviedo 2-0 Murcia
+Dec/02 Santander 2-0 Cordoba
+Dec/02 Burgos 0-0 Albacete
+Dec/02 Leganes 0-0 Recreativo Huelva
+Dec/01 Xerez CD 2-1 El Ejido
+Dec/01 Jaen 1-2 Numancia
+
+ Round 16
+
+Nov/25 Albacete 0-1 Santander
+Nov/25 CD Badajoz 1-0 Jaen
+Nov/25 Gijon 1-0 Eibar
+Nov/25 Murcia 0-2 Gimnastic
+Nov/25 Numancia 1-5 Burgos
+Nov/25 Salamanca 1-0 Leganes
+Nov/25 Levante 0-1 Xerez CD
+Nov/24 Elche 2-0 R. Oviedo
+Nov/24 Recreativo Huelva 1-0 Ferrol
+Nov/24 Atl. Madrid 1-0 El Ejido
+Nov/24 Cordoba 2-0 CF Extremadura
+
+ Round 15
+
+Nov/18 Burgos 0-1 CD Badajoz
+Nov/18 CF Extremadura 0-0 Albacete
+Nov/18 Eibar 1-1 Recreativo Huelva
+Nov/18 El Ejido 0-0 Murcia
+Nov/18 Ferrol 3-1 Salamanca
+Nov/18 Gimnastic 1-2 Elche
+Nov/18 R. Oviedo 3-1 Cordoba
+Nov/18 Leganes 2-1 Levante
+Nov/18 Xerez CD 0-1 Atl. Madrid
+Nov/17 Jaen 3-3 Gijon
+Nov/17 Santander 4-0 Numancia
+
+ Round 5
+
+Nov/14 Gimnastic 2-0 Ferrol
+
+ Round 14
+
+Nov/11 CD Badajoz 3-2 Santander
+Nov/11 Cordoba 1-1 Gimnastic
+Nov/11 Elche 2-0 El Ejido
+Nov/11 Levante 3-1 Ferrol
+Nov/11 Murcia 3-1 Atl. Madrid
+Nov/11 Numancia 0-0 CF Extremadura
+Nov/11 Recreativo Huelva 0-3 Jaen
+Nov/11 Salamanca 1-0 Eibar
+Nov/11 Albacete 1-1 R. Oviedo
+Nov/11 Leganes 0-1 Xerez CD
+Nov/10 Gijon 0-1 Burgos
+
+ Round 13
+
+Nov/08 Ferrol 3-0 Leganes
+Nov/07 Atl. Madrid 4-0 Elche
+Nov/07 CF Extremadura 0-4 CD Badajoz
+Nov/07 Jaen 0-1 Salamanca
+Nov/07 Xerez CD 3-1 Murcia
+Nov/07 Santander 2-1 Gijon
+Nov/07 Burgos 1-3 Recreativo Huelva
+Nov/07 Eibar 7-0 Levante
+Nov/07 Gimnastic 0-1 Albacete
+Nov/07 R. Oviedo 0-0 Numancia
+Nov/06 El Ejido 1-1 Cordoba
+
+ Round 12
+
+Nov/04 CD Badajoz 1-0 R. Oviedo
+Nov/04 Elche 1-1 Murcia
+Nov/04 Levante 0-1 Jaen
+Nov/04 Salamanca 0-1 Burgos
+Nov/04 Ferrol 2-2 Xerez CD
+Nov/03 Albacete 2-1 El Ejido
+Nov/03 Gijon 1-1 CF Extremadura
+Nov/03 Numancia 0-0 Gimnastic
+Nov/03 Cordoba 0-2 Atl. Madrid
+Nov/03 Leganes 1-0 Eibar
+Nov/03 Recreativo Huelva 1-1 Santander
+
+ Round 11
+
+Oct/28 Burgos 0-1 Levante
+Oct/28 Gimnastic 1-1 CD Badajoz
+Oct/28 Jaen 1-0 Leganes
+Oct/28 Santander 2-0 Salamanca
+Oct/28 CF Extremadura 0-3 Recreativo Huelva
+Oct/28 Murcia 1-0 Cordoba
+Oct/28 R. Oviedo 0-2 Gijon
+Oct/27 Eibar 2-0 Ferrol
+Oct/27 El Ejido 3-4 Numancia
+Oct/27 Atl. Madrid 3-2 Albacete
+Oct/27 Xerez CD 2-0 Elche
+
+ Round 10
+
+Oct/21 Albacete 1-0 Murcia
+Oct/21 Gijon 1-1 Gimnastic
+Oct/21 Levante 1-1 Santander
+Oct/21 Recreativo Huelva 0-2 R. Oviedo
+Oct/21 Salamanca 0-0 CF Extremadura
+Oct/21 CD Badajoz 0-1 El Ejido
+Oct/21 Eibar 2-0 Xerez CD
+Oct/21 Numancia 1-2 Atl. Madrid
+Oct/20 Cordoba 3-0 Elche
+Oct/20 Ferrol 0-1 Jaen
+Oct/20 Leganes 0-0 Burgos
+
+ Round 9
+
+Oct/14 Atl. Madrid 1-0 CD Badajoz
+Oct/14 CF Extremadura 1-0 Levante
+Oct/14 El Ejido 2-2 Gijon
+Oct/14 Elche 1-0 Albacete
+Oct/14 Gimnastic 1-2 Recreativo Huelva
+Oct/14 Murcia 1-2 Numancia
+Oct/14 R. Oviedo 0-0 Salamanca
+Oct/14 Jaen 0-0 Eibar
+Oct/14 Burgos 2-4 Ferrol
+Oct/13 Santander 3-1 Leganes
+Oct/13 Xerez CD 1-0 Cordoba
+
+ Round 8
+
+Oct/07 Recreativo Huelva 1-0 El Ejido
+Oct/07 Albacete 0-0 Cordoba
+Oct/07 Eibar 1-0 Burgos
+Oct/07 Ferrol 2-0 Santander
+Oct/07 Numancia 1-1 Elche
+Oct/07 Salamanca 3-3 Gimnastic
+Oct/07 CD Badajoz 1-1 Murcia
+Oct/07 Gijon 2-1 Atl. Madrid
+Oct/07 Leganes 2-0 CF Extremadura
+Oct/06 Jaen 0-2 Xerez CD
+Oct/06 Levante 0-0 R. Oviedo
+
+ Round 7
+
+Oct/03 Cordoba 1-0 Numancia
+Oct/03 Elche 1-0 CD Badajoz
+Oct/03 CF Extremadura 1-2 Ferrol
+Oct/03 El Ejido 2-5 Salamanca
+Oct/03 Murcia 3-1 Gijon
+Oct/03 Santander 1-1 Eibar
+Oct/03 Xerez CD 1-2 Albacete
+Oct/03 Burgos 0-0 Jaen
+Oct/03 Gimnastic 1-0 Levante
+Oct/03 R. Oviedo 0-0 Leganes
+Oct/02 Atl. Madrid 1-1 Recreativo Huelva
+
+ Round 6
+
+Sep/30 Leganes 2-1 Gimnastic
+Sep/30 Burgos 3-1 Xerez CD
+Sep/30 Levante 0-0 El Ejido
+Sep/30 Ferrol 0-2 R. Oviedo
+Sep/29 Jaen 0-0 Santander
+Sep/29 Salamanca 0-0 Atl. Madrid
+Sep/29 Numancia 1-0 Albacete
+Sep/29 Recreativo Huelva 0-1 Murcia
+Sep/29 CD Badajoz 0-1 Cordoba
+Sep/29 Gijon 0-1 Elche
+Sep/29 Eibar 0-0 CF Extremadura
+
+ Round 5
+
+Sep/23 Albacete 2-0 CD Badajoz
+Sep/23 Cordoba 1-2 Gijon
+Sep/23 Murcia 3-3 Salamanca
+Sep/23 R. Oviedo 1-0 Eibar
+Sep/23 El Ejido 1-1 Leganes
+Sep/23 Elche 1-1 Recreativo Huelva
+Sep/23 Santander 0-2 Burgos
+Sep/23 Xerez CD 2-1 Numancia
+Sep/22 Atl. Madrid 2-1 Levante
+Sep/22 CF Extremadura 5-0 Jaen
+
+ Round 4
+
+Sep/15 Burgos 1-0 CF Extremadura
+Sep/15 CD Badajoz 0-0 Numancia
+Sep/15 Eibar 3-1 Gimnastic
+Sep/15 Gijon 0-0 Albacete
+Sep/15 Jaen 1-3 R. Oviedo
+Sep/15 Leganes 0-3 Atl. Madrid
+Sep/15 Levante 0-0 Murcia
+Sep/15 Santander 1-0 Xerez CD
+Sep/14 Ferrol 2-1 El Ejido
+Sep/14 Recreativo Huelva 2-1 Cordoba
+Sep/14 Salamanca 1-0 Elche
+
+ Round 3
+
+Sep/08 CF Extremadura 2-0 Santander
+Sep/08 Cordoba 4-2 Salamanca
+Sep/08 El Ejido 0-0 Eibar
+Sep/08 Murcia 0-0 Leganes
+Sep/08 Numancia 3-1 Gijon
+Sep/08 R. Oviedo 2-0 Burgos
+Sep/07 Albacete 0-0 Recreativo Huelva
+Sep/07 Atl. Madrid 1-1 Ferrol
+Sep/07 Elche 2-2 Levante
+Sep/07 Gimnastic 0-2 Jaen
+Sep/07 Xerez CD 2-0 CD Badajoz
+
+ Round 2
+
+Sep/01 Burgos 1-0 Gimnastic
+Sep/01 CF Extremadura 0-1 Xerez CD
+Sep/01 Gijon 3-0 CD Badajoz
+Sep/01 Jaen 3-1 El Ejido
+Sep/01 Leganes 0-0 Elche
+Sep/01 Levante 3-1 Cordoba
+Sep/01 Recreativo Huelva 1-0 Numancia
+Sep/01 Salamanca 2-0 Albacete
+Sep/01 Santander 1-1 R. Oviedo
+Aug/31 Eibar 0-3 Atl. Madrid
+Aug/31 Ferrol 2-0 Murcia
+
+ Round 1
+
+Aug/25 Albacete 3-0 Levante
+Aug/25 CD Badajoz 1-0 Recreativo Huelva
+Aug/25 Cordoba 1-1 Leganes
+Aug/25 Murcia 0-0 Eibar
+Aug/25 Numancia 2-2 Salamanca
+Aug/25 R. Oviedo 1-1 CF Extremadura
+Aug/25 Xerez CD 1-0 Gijon
+Aug/24 Atl. Madrid 2-0 Jaen
+Aug/24 El Ejido 0-1 Burgos
+Aug/24 Elche 0-0 Ferrol
+Aug/24 Gimnastic 0-0 Santander

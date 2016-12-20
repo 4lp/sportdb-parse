@@ -1,0 +1,597 @@
+
+ Round 42
+
+Jun/19 Cadiz CF 2-1 Almeria
+Jun/19 Eibar 1-2 Alaves
+Jun/19 El Ejido 1-0 Xerez CD
+Jun/19 Gijon 1-0 Malaga B
+Jun/19 Granada 74 2-0 Algeciras
+Jun/19 Leganes 0-1 Cordoba
+Jun/19 Numancia 2-0 Recreativo Huelva
+Jun/19 Rayo Vallecano 1-2 Las Palmas
+Jun/19 Tenerife 3-5 Getafe
+Jun/19 Terrassa 4-4 Levante
+Jun/18 Elche 1-2 Salamanca
+
+ Round 41
+
+Jun/13 Alaves 1-0 Granada 74
+Jun/13 Algeciras 0-1 Numancia
+Jun/13 Almeria 2-1 Gijon
+Jun/13 Cordoba 1-0 Elche
+Jun/13 Getafe 2-1 Eibar
+Jun/13 Las Palmas 2-1 Terrassa
+Jun/13 Levante 2-0 El Ejido
+Jun/13 Malaga B 2-2 Tenerife
+Jun/13 Recreativo Huelva 3-1 Leganes
+Jun/13 Salamanca 1-1 Rayo Vallecano
+Jun/11 Xerez CD 1-1 Cadiz CF
+
+ Round 40
+
+Jun/06 Elche 2-0 Recreativo Huelva
+Jun/06 Rayo Vallecano 2-0 Cordoba
+Jun/06 Gijon 2-0 Cadiz CF
+Jun/06 Tenerife 2-0 Almeria
+Jun/06 Leganes 3-2 Algeciras
+Jun/06 Numancia 3-1 Alaves
+Jun/05 El Ejido 1-0 Las Palmas
+Jun/05 Eibar 3-3 Malaga B
+Jun/05 Granada 74 1-2 Getafe
+Jun/05 Terrassa 1-1 Salamanca
+Jun/05 Xerez CD 1-2 Levante
+
+ Round 39
+
+May/30 Las Palmas 1-1 Xerez CD
+May/30 Algeciras 2-2 Elche
+May/30 Almeria 1-0 Eibar
+May/30 Cadiz CF 0-3 Levante
+May/30 Cordoba 2-2 Terrassa
+May/30 Recreativo Huelva 0-0 Rayo Vallecano
+May/30 Salamanca 0-0 El Ejido
+May/30 Getafe 2-1 Numancia
+May/29 Gijon 0-2 Tenerife
+May/29 Alaves 1-1 Leganes
+May/29 Malaga B 2-0 Granada 74
+
+ Round 35
+
+May/27 Algeciras 2-1 Xerez CD
+
+ Round 38
+
+May/23 El Ejido 1-1 Cordoba
+May/23 Numancia 3-0 Malaga B
+May/23 Eibar 2-2 Gijon
+May/23 Granada 74 1-1 Almeria
+May/23 Rayo Vallecano 2-2 Algeciras
+May/23 Terrassa 2-2 Recreativo Huelva
+May/23 Leganes 0-0 Getafe
+May/23 Levante 2-0 Las Palmas
+May/22 Tenerife 2-2 Cadiz CF
+May/22 Xerez CD 3-0 Salamanca
+May/22 Elche 0-2 Alaves
+
+ Round 37
+
+May/16 Algeciras 2-1 Terrassa
+May/16 Tenerife 1-1 Eibar
+May/16 Almeria 1-1 Numancia
+May/16 Cordoba 1-2 Xerez CD
+May/16 Gijon 4-1 Granada 74
+May/16 Salamanca 0-1 Levante
+May/16 Alaves 3-0 Rayo Vallecano
+May/15 Cadiz CF 4-1 Las Palmas
+May/15 Malaga B 0-0 Leganes
+May/15 Recreativo Huelva 1-0 El Ejido
+May/15 Getafe 3-1 Elche
+
+ Round 36
+
+May/09 El Ejido 0-0 Algeciras
+May/09 Elche 2-3 Malaga B
+May/09 Xerez CD 1-0 Recreativo Huelva
+May/09 Eibar 0-1 Cadiz CF
+May/09 Leganes 0-0 Almeria
+May/09 Numancia 1-1 Gijon
+May/08 Las Palmas 1-1 Salamanca
+May/08 Granada 74 2-3 Tenerife
+May/08 Levante 2-2 Cordoba
+May/08 Rayo Vallecano 1-2 Getafe
+May/08 Terrassa 0-0 Alaves
+
+ Round 35
+
+May/02 Tenerife 1-0 Numancia
+May/02 Almeria 3-1 Elche
+May/02 Cadiz CF 3-3 Salamanca
+May/02 Eibar 0-2 Granada 74
+May/02 Gijon 1-1 Leganes
+May/02 Recreativo Huelva 0-0 Levante
+May/01 Alaves 0-0 El Ejido
+May/01 Cordoba 1-2 Las Palmas
+May/01 Getafe 2-0 Terrassa
+May/01 Malaga B 2-1 Rayo Vallecano
+
+ Round 34
+
+Apr/25 Levante 3-1 Algeciras
+Apr/25 Numancia 2-3 Eibar
+Apr/25 El Ejido 0-0 Getafe
+Apr/25 Salamanca 3-0 Cordoba
+Apr/25 Terrassa 0-1 Malaga B
+Apr/25 Elche 2-1 Gijon
+Apr/24 Las Palmas 0-4 Recreativo Huelva
+Apr/24 Xerez CD 1-2 Alaves
+Apr/24 Granada 74 2-2 Cadiz CF
+Apr/24 Leganes 0-0 Tenerife
+Apr/24 Rayo Vallecano 1-1 Almeria
+
+ Round 33
+
+Apr/18 Granada 74 0-2 Numancia
+Apr/18 Recreativo Huelva 3-1 Salamanca
+Apr/18 Almeria 0-2 Terrassa
+Apr/18 Algeciras 2-0 Las Palmas
+Apr/18 Malaga B 0-0 El Ejido
+Apr/18 Alaves 3-2 Levante
+Apr/18 Getafe 0-0 Xerez CD
+Apr/17 Eibar 1-1 Leganes
+Apr/17 Cadiz CF 0-0 Cordoba
+Apr/17 Gijon 3-1 Rayo Vallecano
+Apr/17 Tenerife 2-1 Elche
+
+ Round 32
+
+Apr/11 Las Palmas 1-2 Alaves
+Apr/11 Cordoba 1-2 Recreativo Huelva
+Apr/11 Salamanca 1-0 Algeciras
+Apr/11 Xerez CD 2-1 Malaga B
+Apr/11 Elche 2-0 Eibar
+Apr/11 Leganes 0-0 Granada 74
+Apr/11 Levante 1-1 Getafe
+Apr/10 El Ejido 1-2 Almeria
+Apr/10 Numancia 2-0 Cadiz CF
+Apr/10 Rayo Vallecano 1-1 Tenerife
+Apr/10 Terrassa 1-0 Gijon
+
+ Round 31
+
+Apr/04 Tenerife 0-0 Terrassa
+Apr/04 Almeria 1-2 Xerez CD
+Apr/04 Gijon 1-0 El Ejido
+Apr/04 Numancia 3-0 Leganes
+Apr/04 Alaves 1-0 Salamanca
+Apr/04 Cadiz CF 3-1 Recreativo Huelva
+Apr/03 Algeciras 0-1 Cordoba
+Apr/03 Eibar 5-0 Rayo Vallecano
+Apr/03 Getafe 3-0 Las Palmas
+Apr/03 Malaga B 1-5 Levante
+Apr/03 Granada 74 2-0 Elche
+
+ Round 30
+
+Mar/28 Recreativo Huelva 1-0 Algeciras
+Mar/28 Cordoba 0-0 Alaves
+Mar/28 El Ejido 1-0 Tenerife
+Mar/28 Levante 2-1 Almeria
+Mar/28 Salamanca 0-1 Getafe
+Mar/28 Xerez CD 2-1 Gijon
+Mar/28 Elche 1-1 Numancia
+Mar/28 Leganes 0-1 Cadiz CF
+Mar/27 Las Palmas 1-1 Malaga B
+Mar/27 Rayo Vallecano 2-0 Granada 74
+Mar/27 Terrassa 2-1 Eibar
+
+ Round 26
+
+Mar/24 Alaves 3-0 Getafe
+
+ Round 29
+
+Mar/21 Alaves 1-1 Recreativo Huelva
+Mar/21 Cadiz CF 2-1 Algeciras
+Mar/21 Granada 74 2-2 Terrassa
+Mar/21 Numancia 1-0 Rayo Vallecano
+Mar/21 Tenerife 2-1 Xerez CD
+Mar/21 Gijon 1-2 Levante
+Mar/21 Leganes 2-0 Elche
+Mar/20 Almeria 3-0 Las Palmas
+Mar/20 Eibar 0-0 El Ejido
+Mar/20 Getafe 1-0 Cordoba
+Mar/20 Malaga B 2-2 Salamanca
+
+ Round 28
+
+Mar/14 Cordoba 0-1 Malaga B
+Mar/14 Elche 1-0 Cadiz CF
+Mar/14 Salamanca 0-0 Almeria
+Mar/14 Terrassa 0-1 Numancia
+Mar/14 Xerez CD 1-1 Eibar
+Mar/14 Las Palmas 1-2 Gijon
+Mar/13 El Ejido 0-1 Granada 74
+Mar/13 Algeciras 1-2 Alaves
+Mar/13 Levante 1-0 Tenerife
+Mar/13 Rayo Vallecano 0-0 Leganes
+Mar/13 Recreativo Huelva 2-0 Getafe
+
+ Round 27
+
+Mar/07 Cadiz CF 1-1 Alaves
+Mar/07 Elche 2-1 Rayo Vallecano
+Mar/07 Gijon 1-1 Salamanca
+Mar/07 Granada 74 0-1 Xerez CD
+Mar/07 Numancia 1-0 El Ejido
+Mar/07 Leganes 1-0 Terrassa
+Mar/07 Tenerife 2-0 Las Palmas
+Mar/06 Almeria 1-1 Cordoba
+Mar/06 Eibar 2-0 Levante
+Mar/06 Getafe 3-0 Algeciras
+Mar/06 Malaga B 0-0 Recreativo Huelva
+
+ Round 26
+
+Feb/29 Algeciras 0-0 Malaga B
+Feb/29 Cordoba 4-1 Gijon
+Feb/29 El Ejido 2-1 Leganes
+Feb/29 Rayo Vallecano 2-0 Cadiz CF
+Feb/29 Levante 0-0 Granada 74
+Feb/28 Recreativo Huelva 1-0 Almeria
+Feb/28 Terrassa 1-1 Elche
+Feb/28 Las Palmas 1-0 Eibar
+Feb/28 Salamanca 2-2 Tenerife
+Feb/28 Xerez CD 0-1 Numancia
+
+ Round 25
+
+Feb/22 Tenerife 1-0 Cordoba
+Feb/22 Almeria 2-2 Algeciras
+Feb/22 Eibar 0-0 Salamanca
+Feb/22 Elche 1-2 El Ejido
+Feb/22 Gijon 0-0 Recreativo Huelva
+Feb/22 Leganes 3-3 Xerez CD
+Feb/22 Numancia 3-1 Levante
+Feb/21 Granada 74 3-1 Las Palmas
+Feb/21 Malaga B 2-1 Alaves
+Feb/21 Rayo Vallecano 1-0 Terrassa
+Feb/21 Cadiz CF 2-1 Getafe
+
+ Round 24
+
+Feb/15 Alaves 2-0 Almeria
+Feb/15 Algeciras 0-3 Gijon
+Feb/15 Levante 1-0 Leganes
+Feb/15 Salamanca 1-2 Granada 74
+Feb/15 Terrassa 1-0 Cadiz CF
+Feb/15 Xerez CD 2-1 Elche
+Feb/15 Cordoba 1-0 Eibar
+Feb/15 Getafe 2-1 Malaga B
+Feb/14 El Ejido 1-0 Rayo Vallecano
+Feb/14 Las Palmas 2-1 Numancia
+Feb/14 Recreativo Huelva 0-0 Tenerife
+
+ Round 23
+
+Feb/08 Almeria 0-1 Getafe
+Feb/08 Granada 74 1-2 Cordoba
+Feb/08 Numancia 0-0 Salamanca
+Feb/08 Rayo Vallecano 2-1 Xerez CD
+Feb/08 Tenerife 0-0 Algeciras
+Feb/08 Terrassa 2-0 El Ejido
+Feb/08 Gijon 2-0 Alaves
+Feb/07 Cadiz CF 0-1 Malaga B
+Feb/07 Eibar 1-1 Recreativo Huelva
+Feb/07 Elche 1-0 Levante
+Feb/07 Leganes 0-2 Las Palmas
+
+ Round 22
+
+Feb/01 Algeciras 2-2 Eibar
+Feb/01 Cordoba 0-0 Numancia
+Feb/01 El Ejido 1-0 Cadiz CF
+Feb/01 Levante 3-1 Rayo Vallecano
+Feb/01 Malaga B 2-2 Almeria
+Feb/01 Recreativo Huelva 1-1 Granada 74
+Feb/01 Salamanca 3-1 Leganes
+Feb/01 Getafe 0-2 Gijon
+Jan/31 Alaves 0-0 Tenerife
+Jan/31 Las Palmas 1-2 Elche
+Jan/31 Xerez CD 0-1 Terrassa
+
+ Round 21
+
+Jan/26 Malaga B 0-0 Gijon
+Jan/25 Algeciras 2-0 Granada 74
+Jan/25 Cordoba 1-3 Leganes
+Jan/25 Recreativo Huelva 2-0 Numancia
+Jan/25 Salamanca 3-0 Elche
+Jan/25 Xerez CD 1-0 El Ejido
+Jan/25 Alaves 0-2 Eibar
+Jan/24 Almeria 1-2 Cadiz CF
+Jan/24 Getafe 1-0 Tenerife
+Jan/24 Las Palmas 1-0 Rayo Vallecano
+Jan/24 Levante 2-1 Terrassa
+
+ Round 20
+
+Jan/18 Tenerife 0-1 Malaga B
+Jan/18 Eibar 2-0 Getafe
+Jan/18 El Ejido 1-0 Levante
+Jan/18 Gijon 2-0 Almeria
+Jan/18 Granada 74 0-1 Alaves
+Jan/18 Numancia 0-1 Algeciras
+Jan/18 Rayo Vallecano 1-1 Salamanca
+Jan/18 Cadiz CF 2-2 Xerez CD
+Jan/17 Elche 1-1 Cordoba
+Jan/17 Leganes 0-2 Recreativo Huelva
+Jan/17 Terrassa 2-2 Las Palmas
+
+ Round 19
+
+Jan/11 Algeciras 1-2 Leganes
+Jan/11 Cadiz CF 0-1 Gijon
+Jan/11 Cordoba 2-3 Rayo Vallecano
+Jan/11 Levante 0-1 Xerez CD
+Jan/11 Recreativo Huelva 3-0 Elche
+Jan/11 Salamanca 2-3 Terrassa
+Jan/11 Alaves 1-1 Numancia
+Jan/11 Malaga B 1-0 Eibar
+Jan/10 Las Palmas 0-0 El Ejido
+Jan/10 Almeria 0-0 Tenerife
+Jan/10 Getafe 2-2 Granada 74
+
+ Round 18
+
+Jan/04 El Ejido 1-3 Salamanca
+Jan/04 Elche 3-2 Algeciras
+Jan/04 Granada 74 3-1 Malaga B
+Jan/04 Leganes 0-0 Alaves
+Jan/04 Rayo Vallecano 1-2 Recreativo Huelva
+Jan/04 Xerez CD 4-4 Las Palmas
+Jan/04 Levante 2-1 Cadiz CF
+Jan/03 Eibar 1-0 Almeria
+Jan/03 Numancia 0-0 Getafe
+Jan/03 Tenerife 0-1 Gijon
+Jan/03 Terrassa 1-0 Cordoba
+
+ Round 17
+
+Dec/21 Alaves 2-1 Elche
+Dec/21 Algeciras 1-1 Rayo Vallecano
+Dec/21 Almeria 2-3 Granada 74
+Dec/21 Cordoba 1-0 El Ejido
+Dec/21 Gijon 1-0 Eibar
+Dec/21 Salamanca 2-2 Xerez CD
+Dec/21 Getafe 3-1 Leganes
+Dec/20 Las Palmas 1-2 Levante
+Dec/20 Malaga B 0-2 Numancia
+Dec/20 Cadiz CF 4-1 Tenerife
+Dec/20 Recreativo Huelva 1-2 Terrassa
+
+ Round 16
+
+Dec/14 El Ejido 2-0 Recreativo Huelva
+Dec/14 Elche 1-1 Getafe
+Dec/14 Granada 74 3-2 Gijon
+Dec/14 Leganes 2-1 Malaga B
+Dec/14 Numancia 0-0 Almeria
+Dec/13 Terrassa 0-0 Algeciras
+Dec/13 Las Palmas 0-2 Cadiz CF
+Dec/13 Eibar 0-0 Tenerife
+Dec/13 Rayo Vallecano 1-2 Alaves
+Dec/13 Xerez CD 0-0 Cordoba
+Dec/13 Levante 2-1 Salamanca
+
+ Round 15
+
+Dec/07 Algeciras 0-1 El Ejido
+Dec/07 Almeria 1-3 Leganes
+Dec/07 Cadiz CF 0-0 Eibar
+Dec/07 Cordoba 1-1 Levante
+Dec/07 Tenerife 1-1 Granada 74
+Dec/07 Gijon 1-0 Numancia
+Dec/07 Malaga B 1-1 Elche
+Dec/06 Alaves 0-1 Terrassa
+Dec/06 Getafe 3-1 Rayo Vallecano
+Dec/06 Recreativo Huelva 0-0 Xerez CD
+Dec/06 Salamanca 2-0 Las Palmas
+
+ Round 14
+
+Nov/30 El Ejido 1-3 Alaves
+Nov/30 Granada 74 1-3 Eibar
+Nov/30 Leganes 1-3 Gijon
+Nov/30 Levante 0-0 Recreativo Huelva
+Nov/30 Rayo Vallecano 2-1 Malaga B
+Nov/30 Xerez CD 2-1 Algeciras
+Nov/30 Salamanca 0-0 Cadiz CF
+Nov/29 Las Palmas 3-1 Cordoba
+Nov/29 Elche 3-3 Almeria
+Nov/29 Numancia 2-1 Tenerife
+Nov/29 Terrassa 1-2 Getafe
+
+ Round 13
+
+Nov/24 Malaga B 1-3 Terrassa
+Nov/23 Alaves 1-1 Xerez CD
+Nov/23 Cadiz CF 2-1 Granada 74
+Nov/23 Cordoba 1-0 Salamanca
+Nov/23 Gijon 2-0 Elche
+Nov/23 Recreativo Huelva 2-2 Las Palmas
+Nov/23 Almeria 1-2 Rayo Vallecano
+Nov/23 Getafe 1-1 El Ejido
+Nov/22 Algeciras 0-1 Levante
+Nov/22 Eibar 1-1 Numancia
+Nov/22 Tenerife 0-0 Leganes
+
+ Round 12
+
+Nov/16 Elche 2-0 Tenerife
+Nov/16 El Ejido 1-2 Malaga B
+Nov/16 Numancia 7-0 Granada 74
+Nov/16 Rayo Vallecano 2-1 Gijon
+Nov/16 Salamanca 1-1 Recreativo Huelva
+Nov/16 Terrassa 0-0 Almeria
+Nov/16 Xerez CD 1-2 Getafe
+Nov/15 Las Palmas 2-2 Algeciras
+Nov/15 Cordoba 1-0 Cadiz CF
+Nov/15 Levante 0-0 Alaves
+Nov/15 Leganes 1-2 Eibar
+
+ Round 11
+
+Nov/09 Algeciras 0-1 Salamanca
+Nov/09 Cadiz CF 2-0 Numancia
+Nov/09 Eibar 0-1 Elche
+Nov/09 Gijon 1-0 Terrassa
+Nov/09 Granada 74 1-1 Leganes
+Nov/09 Recreativo Huelva 0-2 Cordoba
+Nov/09 Tenerife 2-1 Rayo Vallecano
+Nov/09 Getafe 0-0 Levante
+Nov/09 Malaga B 5-2 Xerez CD
+Nov/08 Alaves 1-0 Las Palmas
+Nov/08 Almeria 3-1 El Ejido
+
+ Round 10
+
+Nov/02 Elche 2-2 Granada 74
+Nov/02 Cordoba 2-0 Algeciras
+Nov/02 El Ejido 0-0 Gijon
+Nov/02 Levante 1-0 Malaga B
+Nov/02 Salamanca 3-1 Alaves
+Nov/02 Xerez CD 0-1 Almeria
+Nov/02 Leganes 0-2 Numancia
+Nov/01 Las Palmas 1-1 Getafe
+Nov/01 Rayo Vallecano 0-1 Eibar
+Nov/01 Recreativo Huelva 1-0 Cadiz CF
+Nov/01 Terrassa 1-1 Tenerife
+
+ Round 9
+
+Oct/26 Tenerife 0-1 El Ejido
+Oct/26 Gijon 3-0 Xerez CD
+Oct/26 Cadiz CF 1-2 Leganes
+Oct/26 Alaves 1-0 Cordoba
+Oct/26 Malaga B 0-1 Las Palmas
+Oct/26 Almeria 1-0 Levante
+Oct/26 Getafe 1-1 Salamanca
+Oct/25 Algeciras 2-2 Recreativo Huelva
+Oct/25 Eibar 3-1 Terrassa
+Oct/25 Numancia 2-0 Elche
+Oct/24 Granada 74 2-1 Rayo Vallecano
+
+ Round 8
+
+Oct/19 El Ejido 0-0 Eibar
+Oct/19 Terrassa 0-0 Granada 74
+Oct/19 Algeciras 0-1 Cadiz CF
+Oct/19 Elche 1-0 Leganes
+Oct/19 Rayo Vallecano 2-5 Numancia
+Oct/19 Salamanca 1-1 Malaga B
+Oct/19 Xerez CD 0-0 Tenerife
+Oct/19 Recreativo Huelva 0-0 Alaves
+Oct/18 Las Palmas 1-1 Almeria
+Oct/18 Cordoba 0-0 Getafe
+Oct/18 Levante 2-1 Gijon
+
+ Round 7
+
+Oct/12 Alaves 1-1 Algeciras
+Oct/12 Almeria 0-0 Salamanca
+Oct/12 Cadiz CF 1-1 Elche
+Oct/12 Getafe 0-0 Recreativo Huelva
+Oct/12 Gijon 1-1 Las Palmas
+Oct/12 Granada 74 2-2 El Ejido
+Oct/12 Malaga B 2-2 Cordoba
+Oct/12 Numancia 2-0 Terrassa
+Oct/11 Eibar 0-0 Xerez CD
+Oct/11 Leganes 1-1 Rayo Vallecano
+Oct/11 Tenerife 1-1 Levante
+
+ Round 6
+
+Oct/04 Alaves 2-0 Cadiz CF
+Oct/04 Algeciras 3-0 Getafe
+Oct/04 Cordoba 0-1 Almeria
+Oct/04 El Ejido 1-3 Numancia
+Oct/04 Las Palmas 1-1 Tenerife
+Oct/04 Levante 1-0 Eibar
+Oct/04 Rayo Vallecano 1-2 Elche
+Oct/04 Recreativo Huelva 0-0 Malaga B
+Oct/04 Salamanca 0-2 Gijon
+Oct/04 Terrassa 0-1 Leganes
+Oct/04 Xerez CD 2-1 Granada 74
+
+ Round 5
+
+Sep/28 Cadiz CF 1-0 Rayo Vallecano
+Sep/28 Gijon 1-1 Cordoba
+Sep/28 Granada 74 0-0 Levante
+Sep/28 Malaga B 0-0 Algeciras
+Sep/28 Tenerife 1-1 Salamanca
+Sep/27 Almeria 2-2 Recreativo Huelva
+Sep/27 Eibar 1-1 Las Palmas
+Sep/27 Elche 2-3 Terrassa
+Sep/27 Getafe 0-0 Alaves
+Sep/27 Leganes 0-0 El Ejido
+Sep/27 Numancia 0-0 Xerez CD
+
+ Round 4
+
+Sep/21 Alaves 1-0 Malaga B
+Sep/21 Cordoba 1-1 Tenerife
+Sep/21 El Ejido 1-2 Elche
+Sep/21 Getafe 3-2 Cadiz CF
+Sep/21 Las Palmas 2-3 Granada 74
+Sep/21 Levante 4-0 Numancia
+Sep/21 Recreativo Huelva 1-1 Gijon
+Sep/21 Xerez CD 1-1 Leganes
+Sep/20 Algeciras 0-0 Almeria
+Sep/20 Salamanca 1-2 Eibar
+Sep/20 Terrassa 1-2 Rayo Vallecano
+
+ Round 1
+
+Sep/17 Elche 1-2 Las Palmas
+
+ Round 3
+
+Sep/14 Almeria 2-1 Alaves
+Sep/14 Cadiz CF 2-0 Terrassa
+Sep/14 Eibar 0-0 Cordoba
+Sep/14 Gijon 3-2 Algeciras
+Sep/14 Granada 74 1-1 Salamanca
+Sep/14 Leganes 0-0 Levante
+Sep/14 Numancia 2-0 Las Palmas
+Sep/13 Elche 1-1 Xerez CD
+Sep/13 Malaga B 1-1 Getafe
+Sep/13 Rayo Vallecano 3-1 El Ejido
+Sep/13 Tenerife 2-1 Recreativo Huelva
+
+ Round 2
+
+Sep/07 Alaves 2-1 Gijon
+Sep/07 Algeciras 1-1 Tenerife
+Sep/07 Cordoba 1-1 Granada 74
+Sep/07 El Ejido 2-1 Terrassa
+Sep/07 Getafe 1-1 Almeria
+Sep/07 Recreativo Huelva 1-0 Eibar
+Sep/07 Salamanca 1-0 Numancia
+Sep/06 Las Palmas 2-2 Leganes
+Sep/06 Levante 1-1 Elche
+Sep/06 Malaga B 1-3 Cadiz CF
+Sep/06 Xerez CD 0-0 Rayo Vallecano
+
+ Round 1
+
+Aug/31 Eibar 2-1 Algeciras
+Aug/31 Gijon 0-2 Getafe
+Aug/31 Granada 74 1-1 Recreativo Huelva
+Aug/31 Leganes 0-0 Salamanca
+Aug/31 Numancia 1-0 Cordoba
+Aug/31 Rayo Vallecano 0-2 Levante
+Aug/31 Tenerife 1-0 Alaves
+Aug/31 Terrassa 1-1 Xerez CD
+Aug/30 Almeria 3-2 Malaga B
+Aug/30 Cadiz CF 2-1 El Ejido

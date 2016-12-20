@@ -1,0 +1,588 @@
+
+ Round 42
+
+Jun/19 Atl. Madrid B 4-0 Osasuna
+Jun/19 CD Logrones 0-0 Leganes
+Jun/19 Eibar 3-0 Toledo
+Jun/19 Gijon 4-2 Albacete
+Jun/19 Las Palmas 4-1 Barcelona B
+Jun/19 Malaga 0-1 Sevilla
+Jun/19 Mallorca B 1-3 Hercules
+Jun/19 Numancia 3-0 Recreativo Huelva
+Jun/19 Rayo Vallecano 1-1 CD Badajoz
+Jun/18 Compostela 3-0 Ourense
+Jun/18 Lleida 2-3 CP Merida
+
+ Round 41
+
+Jun/12 Albacete 0-1 Eibar
+Jun/12 Hercules 0-2 Las Palmas
+Jun/12 Leganes 0-2 Rayo Vallecano
+Jun/12 Osasuna 3-2 Mallorca B
+Jun/12 Sevilla 5-1 Compostela
+Jun/11 Barcelona B 4-0 Gijon
+Jun/11 CD Badajoz 1-2 Atl. Madrid B
+Jun/11 CP Merida 2-1 CD Logrones
+Jun/11 Ourense 0-2 Numancia
+Jun/11 Recreativo Huelva 2-1 Lleida
+Jun/11 Toledo 1-2 Malaga
+
+ Round 40
+
+Jun/05 CD Logrones 4-1 Recreativo Huelva
+Jun/05 Gijon 2-0 Hercules
+Jun/05 Lleida 2-1 Ourense
+Jun/05 Mallorca B 3-3 CD Badajoz
+Jun/05 Numancia 3-2 Sevilla
+Jun/05 Rayo Vallecano 1-0 CP Merida
+Jun/05 Toledo 0-2 Albacete
+Jun/04 Atl. Madrid B 1-1 Leganes
+Jun/04 Compostela 3-3 Malaga
+Jun/04 Eibar 2-0 Barcelona B
+Jun/04 Las Palmas 1-0 Osasuna
+
+ Round 39
+
+May/29 CP Merida 1-1 Atl. Madrid B
+May/29 Leganes 0-0 Mallorca B
+May/29 Malaga 3-2 Albacete
+May/29 Osasuna 0-4 Gijon
+May/29 Ourense 1-0 CD Logrones
+May/29 Recreativo Huelva 0-0 Rayo Vallecano
+May/28 Barcelona B 0-3 Toledo
+May/28 CD Badajoz 0-0 Las Palmas
+May/28 Compostela 0-1 Numancia
+May/28 Hercules 1-3 Eibar
+May/28 Sevilla 2-2 Lleida
+
+ Round 38
+
+May/23 Mallorca B 0-0 CP Merida
+May/22 Albacete 3-0 Barcelona B
+May/22 Atl. Madrid B 3-1 Recreativo Huelva
+May/22 Gijon 1-0 CD Badajoz
+May/22 Numancia 0-0 Malaga
+May/22 Rayo Vallecano 2-0 Ourense
+May/22 Toledo 1-2 Hercules
+May/21 CD Logrones 0-1 Sevilla
+May/21 Eibar 2-0 Osasuna
+May/21 Las Palmas 1-1 Leganes
+May/21 Lleida 2-3 Compostela
+
+ Round 37
+
+May/15 CP Merida 1-1 Las Palmas
+May/15 Leganes 0-1 Gijon
+May/15 Numancia 2-2 Lleida
+May/15 Osasuna 0-1 Toledo
+May/15 Ourense 0-4 Atl. Madrid B
+May/15 Recreativo Huelva 3-2 Mallorca B
+May/14 CD Badajoz 1-1 Eibar
+May/14 Compostela 3-1 CD Logrones
+May/14 Hercules 2-1 Albacete
+May/14 Malaga 2-0 Barcelona B
+May/14 Sevilla 4-1 Rayo Vallecano
+
+ Round 36
+
+May/09 Mallorca B 2-0 Ourense
+May/08 Barcelona B 4-1 Hercules
+May/08 CD Logrones 1-0 Numancia
+May/08 Eibar 0-0 Leganes
+May/08 Gijon 2-0 CP Merida
+May/08 Rayo Vallecano 1-2 Compostela
+May/08 Toledo 1-1 CD Badajoz
+May/07 Albacete 2-0 Osasuna
+May/07 Atl. Madrid B 0-1 Sevilla
+May/07 Las Palmas 0-0 Recreativo Huelva
+May/07 Lleida 0-2 Malaga
+
+ Round 35
+
+May/01 Compostela 0-3 Atl. Madrid B
+May/01 Leganes 1-2 Toledo
+May/01 Malaga 2-1 Hercules
+May/01 Numancia 2-1 Rayo Vallecano
+May/01 Osasuna 1-2 Barcelona B
+May/01 Recreativo Huelva 0-0 Gijon
+Apr/30 CD Badajoz 0-0 Albacete
+Apr/30 CP Merida 0-2 Eibar
+Apr/30 Lleida 2-1 CD Logrones
+Apr/30 Ourense 4-1 Las Palmas
+Apr/30 Sevilla 3-1 Mallorca B
+
+ Round 34
+
+Apr/25 Mallorca B 1-1 Compostela
+Apr/24 Albacete 0-0 Leganes
+Apr/24 Atl. Madrid B 3-1 Numancia
+Apr/24 CD Logrones 1-1 Malaga
+Apr/24 Eibar 0-0 Recreativo Huelva
+Apr/24 Gijon 1-0 Ourense
+Apr/24 Hercules 1-1 Osasuna
+Apr/24 Rayo Vallecano 4-1 Lleida
+Apr/24 Toledo 1-0 CP Merida
+Apr/23 Barcelona B 0-1 CD Badajoz
+Apr/23 Las Palmas 2-2 Sevilla
+
+ Round 33
+
+Apr/17 CD Badajoz 1-1 Hercules
+Apr/17 CP Merida 3-0 Albacete
+Apr/17 Lleida 3-0 Atl. Madrid B
+Apr/17 Malaga 3-0 Osasuna
+Apr/17 Numancia 4-1 Mallorca B
+Apr/17 Ourense 4-2 Eibar
+Apr/17 Recreativo Huelva 2-2 Toledo
+Apr/17 Sevilla 2-0 Gijon
+Apr/16 CD Logrones 1-0 Rayo Vallecano
+Apr/16 Compostela 0-1 Las Palmas
+Apr/16 Leganes 2-0 Barcelona B
+
+ Round 32
+
+Apr/10 Albacete 0-0 Recreativo Huelva
+Apr/10 Atl. Madrid B 3-2 CD Logrones
+Apr/10 Barcelona B 3-1 CP Merida
+Apr/10 Eibar 1-3 Sevilla
+Apr/10 Gijon 3-1 Compostela
+Apr/10 Las Palmas 0-2 Numancia
+Apr/10 Mallorca B 1-1 Lleida
+Apr/10 Osasuna 2-0 CD Badajoz
+Apr/10 Rayo Vallecano 0-2 Malaga
+Apr/10 Toledo 2-0 Ourense
+Apr/09 Hercules 0-1 Leganes
+
+ Round 31
+
+Apr/03 CD Logrones 0-1 Mallorca B
+Apr/03 CP Merida 3-1 Hercules
+Apr/03 Leganes 3-1 Osasuna
+Apr/03 Lleida 1-1 Las Palmas
+Apr/03 Malaga 1-2 CD Badajoz
+Apr/03 Numancia 1-1 Gijon
+Apr/03 Ourense 2-2 Albacete
+Apr/03 Recreativo Huelva 5-0 Barcelona B
+Apr/03 Sevilla 2-2 Toledo
+Apr/02 Compostela 1-0 Eibar
+Apr/02 Rayo Vallecano 3-0 Atl. Madrid B
+
+ Round 30
+
+Mar/27 Albacete 3-1 Sevilla
+Mar/27 CD Badajoz 1-0 Leganes
+Mar/27 Gijon 0-1 Lleida
+Mar/27 Hercules 0-0 Recreativo Huelva
+Mar/27 Mallorca B 4-4 Rayo Vallecano
+Mar/27 Osasuna 0-0 CP Merida
+Mar/27 Toledo 2-2 Compostela
+Mar/26 Atl. Madrid B 5-3 Malaga
+Mar/26 Barcelona B 5-0 Ourense
+Mar/26 Eibar 1-2 Numancia
+Mar/26 Las Palmas 2-1 CD Logrones
+
+ Round 29
+
+Mar/20 CD Logrones 0-2 Gijon
+Mar/20 Compostela 3-1 Albacete
+Mar/20 CP Merida 1-0 CD Badajoz
+Mar/20 Malaga 3-0 Leganes
+Mar/20 Numancia 0-2 Toledo
+Mar/20 Ourense 1-2 Hercules
+Mar/20 Rayo Vallecano 2-2 Las Palmas
+Mar/20 Recreativo Huelva 0-0 Osasuna
+Mar/19 Atl. Madrid B 2-1 Mallorca B
+Mar/19 Lleida 3-2 Eibar
+Mar/19 Sevilla 0-3 Barcelona B
+
+ Round 28
+
+Mar/13 Albacete 1-1 Numancia
+Mar/13 CD Badajoz 0-3 Recreativo Huelva
+Mar/13 Gijon 0-0 Rayo Vallecano
+Mar/13 Hercules 0-0 Sevilla
+Mar/13 Leganes 1-1 CP Merida
+Mar/13 Mallorca B 0-1 Malaga
+Mar/13 Osasuna 2-1 Ourense
+Mar/13 Toledo 2-1 Lleida
+Mar/12 Barcelona B 1-0 Compostela
+Mar/12 Eibar 2-2 CD Logrones
+Mar/12 Las Palmas 0-1 Atl. Madrid B
+
+ Round 27
+
+Mar/06 Atl. Madrid B 1-0 Gijon
+Mar/06 CD Logrones 1-0 Toledo
+Mar/06 Compostela 3-1 Hercules
+Mar/06 Lleida 0-0 Albacete
+Mar/06 Mallorca B 2-0 Las Palmas
+Mar/06 Ourense 1-1 CD Badajoz
+Mar/06 Rayo Vallecano 3-0 Eibar
+Mar/06 Recreativo Huelva 0-0 Leganes
+Mar/06 Sevilla 4-0 Osasuna
+Mar/05 Malaga 4-3 CP Merida
+Mar/05 Numancia 0-2 Barcelona B
+
+ Round 26
+
+Feb/27 Albacete 2-0 CD Logrones
+Feb/27 CD Badajoz 1-0 Sevilla
+Feb/27 CP Merida 0-0 Recreativo Huelva
+Feb/27 Eibar 3-1 Atl. Madrid B
+Feb/27 Gijon 3-2 Mallorca B
+Feb/27 Hercules 0-0 Numancia
+Feb/27 Las Palmas 1-1 Malaga
+Feb/27 Leganes 3-0 Ourense
+Feb/26 Barcelona B 1-2 Lleida
+Feb/26 Osasuna 2-1 Compostela
+Feb/26 Toledo 0-1 Rayo Vallecano
+
+ Round 25
+
+Feb/20 Atl. Madrid B 2-1 Toledo
+Feb/20 CD Logrones 0-1 Barcelona B
+Feb/20 Ourense 0-1 CP Merida
+Feb/20 Sevilla 1-0 Leganes
+Feb/19 Compostela 1-0 CD Badajoz
+Feb/19 Las Palmas 3-0 Gijon
+Feb/19 Lleida 1-0 Hercules
+Feb/19 Malaga 3-1 Recreativo Huelva
+Feb/19 Mallorca B 0-1 Eibar
+Feb/19 Numancia 3-0 Osasuna
+Feb/19 Rayo Vallecano 2-0 Albacete
+
+ Round 24
+
+Feb/13 Barcelona B 1-0 Rayo Vallecano
+Feb/13 CP Merida 3-3 Sevilla
+Feb/13 Gijon 1-1 Malaga
+Feb/13 Hercules 1-1 CD Logrones
+Feb/13 Leganes 2-2 Compostela
+Feb/13 Osasuna 2-0 Lleida
+Feb/13 Recreativo Huelva 2-0 Ourense
+Feb/13 Toledo 1-0 Mallorca B
+Feb/12 Albacete 0-0 Atl. Madrid B
+Feb/12 CD Badajoz 2-1 Numancia
+Feb/12 Eibar 0-1 Las Palmas
+
+ Round 23
+
+Feb/06 CD Logrones 0-0 Osasuna
+Feb/06 Compostela 0-0 CP Merida
+Feb/06 Gijon 3-1 Eibar
+Feb/06 Las Palmas 0-0 Toledo
+Feb/06 Lleida 0-0 CD Badajoz
+Feb/06 Malaga 1-1 Ourense
+Feb/06 Mallorca B 0-0 Albacete
+Feb/06 Numancia 1-1 Leganes
+Feb/06 Rayo Vallecano 3-0 Hercules
+Feb/06 Sevilla 1-0 Recreativo Huelva
+Feb/05 Atl. Madrid B 2-0 Barcelona B
+
+ Round 22
+
+Jan/30 Albacete 1-0 Las Palmas
+Jan/30 CD Badajoz 2-1 CD Logrones
+Jan/30 CP Merida 2-0 Numancia
+Jan/30 Hercules 1-3 Atl. Madrid B
+Jan/30 Osasuna 1-1 Rayo Vallecano
+Jan/30 Ourense 2-3 Sevilla
+Jan/30 Toledo 2-5 Gijon
+Jan/29 Barcelona B 1-2 Mallorca B
+Jan/29 Eibar 0-0 Malaga
+Jan/29 Leganes 1-0 Lleida
+Jan/29 Recreativo Huelva 1-1 Compostela
+
+ Round 21
+
+Jan/23 Albacete 0-0 Gijon
+Jan/23 CD Badajoz 2-2 Rayo Vallecano
+Jan/23 CP Merida 1-0 Lleida
+Jan/23 Hercules 2-1 Mallorca B
+Jan/23 Osasuna 2-2 Atl. Madrid B
+Jan/23 Recreativo Huelva 3-2 Numancia
+Jan/23 Sevilla 2-3 Malaga
+Jan/23 Toledo 1-2 Eibar
+Jan/22 Barcelona B 1-2 Las Palmas
+Jan/22 Leganes 1-1 CD Logrones
+Jan/22 Ourense 0-2 Compostela
+
+ Round 20
+
+Jan/16 Atl. Madrid B 1-1 CD Badajoz
+Jan/16 Compostela 1-0 Sevilla
+Jan/16 Eibar 0-1 Albacete
+Jan/16 Gijon 2-1 Barcelona B
+Jan/16 Las Palmas 4-2 Hercules
+Jan/16 Lleida 0-2 Recreativo Huelva
+Jan/16 Malaga 3-0 Toledo
+Jan/16 Mallorca B 1-1 Osasuna
+Jan/16 Numancia 4-0 Ourense
+Jan/15 CD Logrones 2-1 CP Merida
+Jan/15 Rayo Vallecano 1-0 Leganes
+
+ Round 19
+
+Jan/09 Albacete 0-2 Toledo
+Jan/09 Barcelona B 0-0 Eibar
+Jan/09 CD Badajoz 0-1 Mallorca B
+Jan/09 CP Merida 4-2 Rayo Vallecano
+Jan/09 Hercules 1-0 Gijon
+Jan/09 Leganes 1-1 Atl. Madrid B
+Jan/09 Malaga 2-1 Compostela
+Jan/09 Osasuna 4-0 Las Palmas
+Jan/09 Ourense 1-1 Lleida
+Jan/09 Recreativo Huelva 1-2 CD Logrones
+Jan/09 Sevilla 1-0 Numancia
+
+ Round 18
+
+Jan/02 Albacete 2-2 Malaga
+Jan/02 Atl. Madrid B 0-1 CP Merida
+Jan/02 CD Logrones 2-2 Ourense
+Jan/02 Gijon 1-1 Osasuna
+Jan/02 Las Palmas 1-1 CD Badajoz
+Jan/02 Lleida 3-0 Sevilla
+Jan/02 Numancia 1-0 Compostela
+Jan/02 Rayo Vallecano 2-1 Recreativo Huelva
+Jan/01 Eibar 1-0 Hercules
+Jan/01 Mallorca B 2-1 Leganes
+Jan/01 Toledo 2-1 Barcelona B
+
+ Round 17
+
+Dec/19 Barcelona B 0-1 Albacete
+Dec/19 CD Badajoz 2-0 Gijon
+Dec/19 Compostela 1-1 Lleida
+Dec/19 CP Merida 3-0 Mallorca B
+Dec/19 Hercules 1-0 Toledo
+Dec/19 Leganes 0-0 Las Palmas
+Dec/19 Malaga 2-1 Numancia
+Dec/19 Ourense 1-2 Rayo Vallecano
+Dec/19 Recreativo Huelva 1-0 Atl. Madrid B
+Dec/19 Sevilla 0-3 CD Logrones
+Dec/18 Osasuna 3-0 Eibar
+
+ Round 16
+
+Dec/12 Albacete 3-1 Hercules
+Dec/12 Atl. Madrid B 2-1 Ourense
+Dec/12 CD Logrones 0-3 Compostela
+Dec/12 Eibar 0-1 CD Badajoz
+Dec/12 Gijon 0-0 Leganes
+Dec/12 Lleida 2-1 Numancia
+Dec/12 Rayo Vallecano 1-4 Sevilla
+Dec/12 Toledo 1-4 Osasuna
+Dec/11 Barcelona B 1-1 Malaga
+Dec/11 Las Palmas 1-0 CP Merida
+Dec/11 Mallorca B 2-1 Recreativo Huelva
+
+ Round 15
+
+Dec/05 CD Badajoz 0-1 Toledo
+Dec/05 Compostela 1-3 Rayo Vallecano
+Dec/05 CP Merida 0-1 Gijon
+Dec/05 Hercules 1-2 Barcelona B
+Dec/05 Leganes 2-0 Eibar
+Dec/05 Malaga 0-0 Lleida
+Dec/05 Numancia 2-3 CD Logrones
+Dec/05 Osasuna 1-0 Albacete
+Dec/05 Recreativo Huelva 0-0 Las Palmas
+Dec/05 Sevilla 2-2 Atl. Madrid B
+Dec/04 Ourense 1-2 Mallorca B
+
+ Round 14
+
+Nov/28 Albacete 0-1 CD Badajoz
+Nov/28 Atl. Madrid B 0-0 Compostela
+Nov/28 CD Logrones 1-1 Lleida
+Nov/28 Eibar 1-0 CP Merida
+Nov/28 Gijon 0-1 Recreativo Huelva
+Nov/28 Mallorca B 0-0 Sevilla
+Nov/28 Rayo Vallecano 1-1 Numancia
+Nov/27 Barcelona B 4-0 Osasuna
+Nov/27 Hercules 0-3 Malaga
+Nov/27 Las Palmas 6-0 Ourense
+Nov/27 Toledo 3-3 Leganes
+
+ Round 13
+
+Nov/21 CD Badajoz 1-0 Barcelona B
+Nov/21 Compostela 2-0 Mallorca B
+Nov/21 CP Merida 1-1 Toledo
+Nov/21 Leganes 0-0 Albacete
+Nov/21 Malaga 3-2 CD Logrones
+Nov/21 Numancia 2-1 Atl. Madrid B
+Nov/21 Ourense 1-2 Gijon
+Nov/21 Recreativo Huelva 2-0 Eibar
+Nov/21 Sevilla 1-3 Las Palmas
+Nov/20 Lleida 0-0 Rayo Vallecano
+Nov/20 Osasuna 0-0 Hercules
+
+ Round 12
+
+Nov/14 Albacete 0-2 CP Merida
+Nov/14 Atl. Madrid B 2-2 Lleida
+Nov/14 Gijon 2-2 Sevilla
+Nov/14 Hercules 2-0 CD Badajoz
+Nov/14 Mallorca B 0-3 Numancia
+Nov/14 Osasuna 1-0 Malaga
+Nov/14 Rayo Vallecano 2-1 CD Logrones
+Nov/14 Toledo 1-0 Recreativo Huelva
+Nov/13 Barcelona B 0-2 Leganes
+Nov/13 Eibar 2-1 Ourense
+Nov/13 Las Palmas 1-1 Compostela
+
+ Round 11
+
+Nov/07 CD Badajoz 0-1 Osasuna
+Nov/07 CD Logrones 2-3 Atl. Madrid B
+Nov/07 CP Merida 4-2 Barcelona B
+Nov/07 Leganes 2-2 Hercules
+Nov/07 Malaga 1-3 Rayo Vallecano
+Nov/07 Ourense 0-1 Toledo
+Nov/07 Sevilla 2-0 Eibar
+Nov/06 Compostela 2-2 Gijon
+Nov/06 Lleida 1-0 Mallorca B
+Nov/06 Numancia 0-0 Las Palmas
+Nov/06 Recreativo Huelva 1-0 Albacete
+
+ Round 10
+
+Oct/31 Atl. Madrid B 1-2 Rayo Vallecano
+Oct/31 CD Badajoz 2-0 Malaga
+Oct/31 Eibar 1-3 Compostela
+Oct/31 Gijon 0-2 Numancia
+Oct/31 Hercules 0-0 CP Merida
+Oct/31 Mallorca B 1-1 CD Logrones
+Oct/31 Osasuna 1-0 Leganes
+Oct/31 Toledo 2-0 Sevilla
+Oct/30 Albacete 2-1 Ourense
+Oct/30 Barcelona B 1-2 Recreativo Huelva
+Oct/30 Las Palmas 0-0 Lleida
+
+ Round 9
+
+Oct/24 CD Logrones 1-1 Las Palmas
+Oct/24 Compostela 1-1 Toledo
+Oct/24 CP Merida 1-0 Osasuna
+Oct/24 Leganes 1-0 CD Badajoz
+Oct/24 Lleida 0-1 Gijon
+Oct/24 Numancia 2-1 Eibar
+Oct/24 Rayo Vallecano 2-1 Mallorca B
+Oct/24 Recreativo Huelva 1-0 Hercules
+Oct/24 Sevilla 2-1 Albacete
+Oct/23 Malaga 0-3 Atl. Madrid B
+Oct/23 Ourense 2-0 Barcelona B
+
+ Round 8
+
+Oct/18 Mallorca B 3-4 Atl. Madrid B
+Oct/17 Albacete 1-0 Compostela
+Oct/17 CD Badajoz 0-0 CP Merida
+Oct/17 Eibar 1-1 Lleida
+Oct/17 Gijon 0-1 CD Logrones
+Oct/17 Hercules 0-2 Ourense
+Oct/17 Leganes 0-2 Malaga
+Oct/17 Osasuna 0-0 Recreativo Huelva
+Oct/17 Toledo 1-1 Numancia
+Oct/16 Barcelona B 2-2 Sevilla
+Oct/16 Las Palmas 3-0 Rayo Vallecano
+
+ Round 7
+
+Oct/10 Atl. Madrid B 2-1 Las Palmas
+Oct/10 CP Merida 2-0 Leganes
+Oct/10 Lleida 3-1 Toledo
+Oct/10 Malaga 2-1 Mallorca B
+Oct/10 Numancia 1-1 Albacete
+Oct/10 Ourense 1-4 Osasuna
+Oct/10 Recreativo Huelva 1-0 CD Badajoz
+Oct/09 CD Logrones 1-1 Eibar
+Oct/09 Compostela 2-1 Barcelona B
+Oct/09 Rayo Vallecano 2-1 Gijon
+Oct/09 Sevilla 1-0 Hercules
+
+ Round 6
+
+Oct/03 Albacete 0-1 Lleida
+Oct/03 CD Badajoz 2-0 Ourense
+Oct/03 CP Merida 1-4 Malaga
+Oct/03 Gijon 0-3 Atl. Madrid B
+Oct/03 Osasuna 2-1 Sevilla
+Oct/03 Toledo 4-1 CD Logrones
+Oct/02 Barcelona B 0-4 Numancia
+Oct/02 Eibar 1-2 Rayo Vallecano
+Oct/02 Hercules 3-2 Compostela
+Oct/02 Las Palmas 4-2 Mallorca B
+Oct/02 Leganes 1-0 Recreativo Huelva
+
+ Round 5
+
+Sep/27 Mallorca B 2-0 Gijon
+Sep/26 Atl. Madrid B 2-1 Eibar
+Sep/26 CD Logrones 0-1 Albacete
+Sep/26 Malaga 0-0 Las Palmas
+Sep/26 Numancia 2-0 Hercules
+Sep/26 Ourense 1-0 Leganes
+Sep/26 Recreativo Huelva 0-0 CP Merida
+Sep/26 Sevilla 0-0 CD Badajoz
+Sep/25 Compostela 0-2 Osasuna
+Sep/25 Lleida 2-3 Barcelona B
+Sep/25 Rayo Vallecano 1-1 Toledo
+
+ Round 4
+
+Sep/19 Albacete 2-2 Rayo Vallecano
+Sep/19 CD Badajoz 2-2 Compostela
+Sep/19 CP Merida 1-1 Ourense
+Sep/19 Gijon 0-2 Las Palmas
+Sep/19 Leganes 0-1 Sevilla
+Sep/19 Osasuna 0-1 Numancia
+Sep/19 Toledo 2-0 Atl. Madrid B
+Sep/18 Barcelona B 1-2 CD Logrones
+Sep/18 Eibar 0-1 Mallorca B
+Sep/18 Hercules 0-3 Lleida
+Sep/18 Recreativo Huelva 2-2 Malaga
+
+ Round 3
+
+Sep/13 Mallorca B 0-1 Toledo
+Sep/12 Atl. Madrid B 0-0 Albacete
+Sep/12 CD Logrones 2-1 Hercules
+Sep/12 Lleida 1-0 Osasuna
+Sep/12 Malaga 1-1 Gijon
+Sep/12 Numancia 2-1 CD Badajoz
+Sep/12 Ourense 1-0 Recreativo Huelva
+Sep/12 Sevilla 0-0 CP Merida
+Sep/11 Compostela 4-1 Leganes
+Sep/11 Las Palmas 3-0 Eibar
+Sep/11 Rayo Vallecano 0-0 Barcelona B
+
+ Round 2
+
+Sep/05 Albacete 0-2 Mallorca B
+Sep/05 Barcelona B 1-1 Atl. Madrid B
+Sep/05 CD Badajoz 1-2 Lleida
+Sep/05 CP Merida 0-1 Compostela
+Sep/05 Eibar 2-1 Gijon
+Sep/05 Hercules 1-1 Rayo Vallecano
+Sep/05 Leganes 0-5 Numancia
+Sep/05 Osasuna 1-1 CD Logrones
+Sep/05 Ourense 0-1 Malaga
+Sep/05 Recreativo Huelva 0-1 Sevilla
+Sep/05 Toledo 2-0 Las Palmas
+
+ Round 1
+
+Aug/29 Atl. Madrid B 2-3 Hercules
+Aug/29 CD Logrones 1-0 CD Badajoz
+Aug/29 Compostela 0-0 Recreativo Huelva
+Aug/29 Gijon 0-0 Toledo
+Aug/29 Lleida 1-4 Leganes
+Aug/29 Malaga 2-1 Eibar
+Aug/29 Mallorca B 4-1 Barcelona B
+Aug/29 Numancia 2-1 CP Merida
+Aug/29 Rayo Vallecano 1-1 Osasuna
+Aug/29 Sevilla 3-0 Ourense
+Aug/28 Las Palmas 2-1 Albacete

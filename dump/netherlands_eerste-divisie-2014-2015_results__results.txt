@@ -1,0 +1,503 @@
+
+ Round 38
+
+May/08 Achilles 29 0-1 Jong FC Twente
+May/08 Den Bosch 3-3 Almere City
+May/08 Eindhoven FC 5-1 Maastricht
+May/08 Jong Ajax 1-1 Oss
+May/08 Jong PSV 2-0 Volendam
+May/08 Roda 1-3 FC Emmen
+May/08 Sittard 0-2 Waalwijk
+May/08 Sparta Rotterdam 1-1 Graafschap
+May/08 Telstar 4-0 Helmond
+May/08 Venlo 3-1 Nijmegen
+
+ Round 37
+
+May/01 Almere City 0-1 Roda
+May/01 FC Emmen 4-0 Telstar
+May/01 Graafschap 3-0 Sittard
+May/01 Helmond 3-1 Achilles 29
+May/01 Jong FC Twente 0-1 Eindhoven FC
+May/01 Maastricht 3-0 Den Bosch
+May/01 Nijmegen 2-1 Jong Ajax
+May/01 Oss 1-5 Sparta Rotterdam
+May/01 Volendam 1-1 Venlo
+May/01 Waalwijk 2-2 Jong PSV
+
+ Round 36
+
+Apr/24 Achilles 29 1-3 Graafschap
+Apr/24 Almere City 1-1 Volendam
+Apr/24 Eindhoven FC 2-1 Oss
+Apr/24 Jong Ajax 0-2 Helmond
+Apr/24 Maastricht 2-1 FC Emmen
+Apr/24 Roda 2-2 Jong FC Twente
+Apr/24 Sittard 1-3 Jong PSV
+Apr/24 Telstar 5-0 Waalwijk
+Apr/24 Venlo 1-1 Sparta Rotterdam
+Apr/24 Den Bosch 1-3 Nijmegen
+
+ Round 35
+
+Apr/20 Jong FC Twente 1-0 Jong Ajax
+Apr/20 Jong PSV 1-1 Roda
+Apr/19 Nijmegen 2-1 Almere City
+Apr/19 Sparta Rotterdam 3-1 Telstar
+Apr/18 FC Emmen 2-2 Achilles 29
+Apr/18 Graafschap 2-0 Den Bosch
+Apr/17 Helmond 3-1 Venlo
+Apr/17 Oss 0-1 Maastricht
+Apr/17 Volendam 2-4 Sittard
+Apr/17 Waalwijk 0-1 Eindhoven FC
+
+ Round 34
+
+Apr/13 Jong Ajax 0-2 FC Emmen
+Apr/12 Nijmegen 2-0 Graafschap
+Apr/12 Roda 7-0 Helmond
+Apr/11 Sittard 2-2 Jong FC Twente
+Apr/11 Almere City 3-2 Sparta Rotterdam
+Apr/10 Achilles 29 0-1 Waalwijk
+Apr/10 Den Bosch 1-1 Jong PSV
+Apr/10 Maastricht 6-2 Volendam
+Apr/10 Telstar 2-1 Oss
+Apr/10 Venlo 2-1 Eindhoven FC
+
+ Round 33
+
+Apr/07 Jong PSV 2-0 Jong Ajax
+Apr/06 Achilles 29 0-2 Maastricht
+Apr/06 Eindhoven FC 1-0 Telstar
+Apr/06 Graafschap 0-2 Volendam
+Apr/06 Helmond 1-0 Almere City
+Apr/06 Jong FC Twente 0-1 FC Emmen
+Apr/06 Oss 1-2 Nijmegen
+Apr/06 Sittard 0-0 Den Bosch
+Apr/06 Sparta Rotterdam 6-0 Roda
+Apr/06 Waalwijk 0-0 Venlo
+
+ Round 32
+
+Apr/03 Almere City 2-3 Waalwijk
+Apr/03 FC Emmen 3-2 Sittard
+Apr/03 Helmond 2-1 Graafschap
+Apr/03 Jong Ajax 1-2 Eindhoven FC
+Apr/03 Maastricht 3-0 Telstar
+Apr/03 Nijmegen 1-0 Sparta Rotterdam
+Apr/03 Oss 2-1 Den Bosch
+Apr/03 Roda 3-0 Achilles 29
+Apr/03 Venlo 0-2 Jong PSV
+Apr/03 Volendam 2-2 Jong FC Twente
+
+ Round 31
+
+Mar/21 Graafschap 3-0 Jong Ajax
+Mar/21 Sittard 1-1 Venlo
+Mar/21 Den Bosch 0-1 Roda
+Mar/20 Achilles 29 3-1 Almere City
+Mar/20 Eindhoven FC 1-0 Sparta Rotterdam
+Mar/20 Jong FC Twente 1-0 Oss
+Mar/20 Maastricht 1-4 Nijmegen
+Mar/20 Telstar 1-1 Jong PSV
+Mar/20 Volendam 4-1 Helmond
+Mar/20 Waalwijk 1-1 FC Emmen
+
+ Round 30
+
+Mar/16 Almere City 2-2 Graafschap
+Mar/16 FC Emmen 3-2 Eindhoven FC
+Mar/16 Helmond 1-2 Jong FC Twente
+Mar/16 Jong Ajax 3-0 Sittard
+Mar/16 Jong PSV 1-1 Maastricht
+Mar/16 Nijmegen 7-0 Volendam
+Mar/16 Oss 4-1 Waalwijk
+Mar/16 Roda 2-4 Telstar
+Mar/16 Sparta Rotterdam 0-0 Achilles 29
+Mar/16 Venlo 4-0 Den Bosch
+
+ Round 29
+
+Mar/13 Almere City 0-0 FC Emmen
+Mar/13 Den Bosch 2-0 Jong FC Twente
+Mar/13 Graafschap 5-0 Jong PSV
+Mar/13 Helmond 2-3 Eindhoven FC
+Mar/13 Maastricht 1-1 Waalwijk
+Mar/13 Nijmegen 2-0 Telstar
+Mar/13 Oss 1-0 Roda
+Mar/13 Sparta Rotterdam 3-0 Sittard
+Mar/13 Venlo 1-0 Jong Ajax
+Mar/13 Volendam 1-0 Achilles 29
+
+ Round 28
+
+Mar/09 Jong Ajax 3-1 Almere City
+Mar/09 Jong FC Twente 0-1 Nijmegen
+Mar/09 Jong PSV 0-0 Helmond
+Mar/08 Achilles 29 2-1 Den Bosch
+Mar/08 Roda 1-1 Graafschap
+Mar/07 Waalwijk 2-1 Sparta Rotterdam
+Mar/07 Eindhoven FC 3-1 Volendam
+Mar/06 FC Emmen 2-3 Oss
+Mar/06 Sittard 0-3 Maastricht
+Mar/06 Telstar 0-3 Venlo
+
+ Round 23
+
+Mar/02 Achilles 29 1-3 Telstar
+
+ Round 27
+
+Feb/27 Almere City 2-2 Jong PSV
+Feb/27 Den Bosch 1-2 Telstar
+Feb/27 Graafschap 1-0 Eindhoven FC
+Feb/27 Helmond 3-0 Waalwijk
+Feb/27 Jong Ajax 1-3 Maastricht
+Feb/27 Nijmegen 3-0 Roda
+Feb/27 Oss 1-0 Sittard
+Feb/27 Sparta Rotterdam 1-2 Jong FC Twente
+Feb/27 Venlo 1-1 Achilles 29
+Feb/27 Volendam 3-2 FC Emmen
+
+ Round 22
+
+Feb/23 Jong Ajax 0-0 Den Bosch
+
+ Round 26
+
+Feb/23 Jong FC Twente 3-1 Graafschap
+Feb/23 Jong PSV 1-3 Oss
+Feb/22 Achilles 29 1-3 Nijmegen
+Feb/21 Sittard 1-2 Almere City
+Feb/21 Maastricht 1-1 Helmond
+Feb/20 Eindhoven FC 2-0 Den Bosch
+Feb/20 FC Emmen 2-1 Sparta Rotterdam
+Feb/20 Roda 2-1 Venlo
+Feb/20 Telstar 1-1 Volendam
+Feb/20 Waalwijk 4-4 Jong Ajax
+
+ Round 23
+
+Feb/17 Graafschap 1-1 Venlo
+
+ Round 25
+
+Feb/16 Jong Ajax 3-3 Roda
+Feb/15 Sparta Rotterdam 0-2 Jong PSV
+Feb/14 Jong FC Twente 3-1 Telstar
+Feb/13 Almere City 0-1 Venlo
+Feb/13 Eindhoven FC 3-1 Sittard
+Feb/13 FC Emmen 2-3 Nijmegen
+Feb/13 Graafschap 3-1 Maastricht
+Feb/13 Helmond 1-5 Den Bosch
+Feb/13 Oss 2-2 Achilles 29
+Feb/13 Volendam 2-0 Waalwijk
+
+ Round 24
+
+Feb/09 Almere City 2-1 Eindhoven FC
+Feb/09 Den Bosch 2-0 FC Emmen
+Feb/09 Helmond 0-5 Sparta Rotterdam
+Feb/09 Jong Ajax 2-1 Achilles 29
+Feb/09 Maastricht 2-2 Jong FC Twente
+Feb/09 Nijmegen 5-2 Jong PSV
+Feb/09 Roda 3-2 Volendam
+Feb/09 Telstar 3-0 Sittard
+Feb/09 Venlo 2-1 Oss
+Feb/09 Waalwijk 0-5 Graafschap
+
+ Round 23
+
+Feb/06 Eindhoven FC 0-2 Roda
+Feb/06 Jong FC Twente 0-3 Almere City
+Feb/06 Jong PSV 0-2 FC Emmen
+Feb/06 Oss 3-1 Helmond
+Feb/06 Sittard 0-3 Nijmegen
+Feb/06 Sparta Rotterdam 4-1 Maastricht
+Feb/06 Volendam 3-4 Jong Ajax
+Feb/06 Waalwijk 0-3 Den Bosch
+
+ Round 22
+
+Feb/03 Almere City 3-3 Telstar
+Feb/02 Jong FC Twente 4-1 Waalwijk
+Feb/01 Maastricht 3-1 Roda
+Feb/01 Nijmegen 3-1 Helmond
+Jan/31 Graafschap 2-1 Oss
+Jan/30 Eindhoven FC 2-1 Jong PSV
+Jan/30 FC Emmen 1-1 Venlo
+Jan/30 Sittard 0-0 Achilles 29
+Jan/30 Volendam 1-1 Sparta Rotterdam
+
+ Round 21
+
+Jan/27 Telstar 0-2 Graafschap
+Jan/26 Jong PSV 4-1 Jong FC Twente
+Jan/25 Roda 1-3 Sittard
+Jan/25 Venlo 3-0 Maastricht
+Jan/25 Sparta Rotterdam 6-0 Jong Ajax
+Jan/23 Achilles 29 1-1 Eindhoven FC
+Jan/23 Den Bosch 0-5 Volendam
+Jan/23 Helmond 2-2 FC Emmen
+Jan/23 Oss 4-1 Almere City
+Jan/23 Waalwijk 0-2 Nijmegen
+
+ Round 20
+
+Jan/19 Jong FC Twente 0-1 Venlo
+Jan/17 Graafschap 1-2 FC Emmen
+Jan/17 Volendam 2-2 Oss
+Jan/16 Achilles 29 2-0 Jong PSV
+Jan/16 Den Bosch 1-1 Sparta Rotterdam
+Jan/16 Eindhoven FC 3-0 Nijmegen
+Jan/16 Maastricht 1-0 Almere City
+Jan/16 Sittard 1-0 Helmond
+Jan/16 Telstar 1-1 Jong Ajax
+Jan/16 Waalwijk 3-0 Roda
+
+ Round 19
+
+Dec/21 Nijmegen 4-1 Maastricht
+Dec/21 Roda 3-1 Den Bosch
+Dec/21 Venlo 0-0 Sittard
+Dec/20 Almere City 0-0 Achilles 29
+Dec/20 Helmond 3-4 Volendam
+Dec/20 Jong Ajax 3-1 Graafschap
+Dec/20 Sparta Rotterdam 2-0 Eindhoven FC
+Dec/19 FC Emmen 5-3 Waalwijk
+Dec/19 Jong PSV 1-1 Telstar
+Dec/19 Oss 4-1 Jong FC Twente
+
+ Round 18
+
+Dec/13 Achilles 29 3-0 Venlo
+Dec/12 Eindhoven FC 4-3 Graafschap
+Dec/12 FC Emmen 4-1 Volendam
+Dec/12 Jong FC Twente 0-0 Sparta Rotterdam
+Dec/12 Jong PSV 0-1 Almere City
+Dec/12 Maastricht 2-2 Jong Ajax
+Dec/12 Roda 0-1 Nijmegen
+Dec/12 Sittard 4-5 Oss
+Dec/12 Telstar 1-2 Den Bosch
+Dec/12 Waalwijk 0-0 Helmond
+
+ Round 17
+
+Dec/08 Jong Ajax 3-2 Waalwijk
+Dec/07 Nijmegen 6-2 Achilles 29
+Dec/07 Sparta Rotterdam 3-0 FC Emmen
+Dec/07 Venlo 1-1 Roda
+Dec/07 Volendam 1-0 Telstar
+Dec/06 Den Bosch 0-0 Eindhoven FC
+Dec/06 Graafschap 6-3 Jong FC Twente
+Dec/06 Helmond 3-2 Maastricht
+Dec/06 Oss 2-0 Jong PSV
+Dec/06 Almere City 3-0 Sittard
+
+ Round 16
+
+Dec/02 Jong PSV 3-1 Graafschap
+Dec/01 Eindhoven FC 3-0 Helmond
+Dec/01 FC Emmen 2-2 Almere City
+Dec/01 Jong Ajax 4-0 Venlo
+Dec/01 Jong FC Twente 1-1 Den Bosch
+Dec/01 Roda 4-3 Oss
+Dec/01 Sittard 0-0 Sparta Rotterdam
+Dec/01 Telstar 0-1 Nijmegen
+Dec/01 Waalwijk 0-1 Maastricht
+Dec/01 Achilles 29 2-4 Volendam
+
+ Round 15
+
+Nov/28 Almere City 1-1 Jong Ajax
+Nov/28 Den Bosch 0-1 Achilles 29
+Nov/28 Graafschap 1-2 Roda
+Nov/28 Helmond 2-1 Jong PSV
+Nov/28 Maastricht 0-1 Sittard
+Nov/28 Nijmegen 5-1 Jong FC Twente
+Nov/28 Oss 1-2 FC Emmen
+Nov/28 Sparta Rotterdam 2-1 Waalwijk
+Nov/28 Venlo 1-0 Telstar
+Nov/28 Volendam 2-3 Eindhoven FC
+
+ Round 14
+
+Nov/24 Jong Ajax 1-1 Nijmegen
+Nov/24 Jong PSV 3-1 Waalwijk
+Nov/23 Sparta Rotterdam 2-2 Oss
+Nov/22 Achilles 29 3-2 Helmond
+Nov/21 Den Bosch 2-1 Maastricht
+Nov/21 Eindhoven FC 0-1 Jong FC Twente
+Nov/21 Roda 1-4 Almere City
+Nov/21 Sittard 0-0 Graafschap
+Nov/21 Telstar 1-3 FC Emmen
+Nov/21 Venlo 4-2 Volendam
+
+ Round 13
+
+Nov/09 Nijmegen 2-1 Venlo
+Nov/08 Graafschap 3-2 Sparta Rotterdam
+Nov/08 Jong FC Twente 2-2 Achilles 29
+Nov/08 Waalwijk 0-2 Sittard
+Nov/07 Almere City 2-1 Den Bosch
+Nov/07 FC Emmen 2-3 Roda
+Nov/07 Helmond 5-2 Telstar
+Nov/07 Maastricht 1-2 Eindhoven FC
+Nov/07 Oss 1-4 Jong Ajax
+Nov/07 Volendam 1-0 Jong PSV
+
+ Round 12
+
+Nov/03 Jong FC Twente 3-3 Volendam
+Nov/03 Jong PSV 2-2 Venlo
+Nov/02 Achilles 29 0-4 Roda
+Nov/02 Sparta Rotterdam 2-2 Nijmegen
+Nov/01 Graafschap 5-0 Helmond
+Nov/01 Waalwijk 1-4 Almere City
+Nov/01 Den Bosch 0-1 Oss
+Oct/31 Eindhoven FC 2-1 Jong Ajax
+Oct/31 Sittard 1-8 FC Emmen
+Oct/31 Telstar 2-0 Maastricht
+
+ Round 11
+
+Oct/26 Nijmegen 3-1 Oss
+Oct/26 Roda 3-0 Sparta Rotterdam
+Oct/25 Maastricht 3-2 Achilles 29
+Oct/25 Venlo 0-0 Waalwijk
+Oct/24 Almere City 3-2 Helmond
+Oct/24 Den Bosch 1-0 Sittard
+Oct/24 FC Emmen 3-0 Jong FC Twente
+Oct/24 Jong Ajax 1-1 Jong PSV
+Oct/24 Telstar 0-5 Eindhoven FC
+Oct/24 Volendam 2-1 Graafschap
+
+ Round 10
+
+Oct/20 Jong FC Twente 0-2 Roda
+Oct/20 Jong PSV 1-1 Sittard
+Oct/19 Nijmegen 3-1 Den Bosch
+Oct/19 Sparta Rotterdam 1-0 Venlo
+Oct/18 Graafschap 2-0 Achilles 29
+Oct/18 FC Emmen 6-0 Maastricht
+Oct/17 Helmond 2-2 Jong Ajax
+Oct/17 Oss 3-0 Eindhoven FC
+Oct/17 Volendam 2-3 Almere City
+Oct/17 Waalwijk 2-0 Telstar
+
+ Round 9
+
+Oct/03 Achilles 29 1-2 FC Emmen
+Oct/03 Almere City 1-2 Nijmegen
+Oct/03 Den Bosch 1-2 Graafschap
+Oct/03 Eindhoven FC 2-0 Waalwijk
+Oct/03 Jong Ajax 5-1 Jong FC Twente
+Oct/03 Maastricht 0-2 Oss
+Oct/03 Roda 1-1 Jong PSV
+Oct/03 Sittard 0-1 Volendam
+Oct/03 Telstar 4-3 Sparta Rotterdam
+Oct/03 Venlo 2-1 Helmond
+
+ Round 8
+
+Sep/29 Jong FC Twente 3-0 Sittard
+Sep/29 Jong PSV 5-1 Den Bosch
+Sep/28 Graafschap 0-2 Nijmegen
+Sep/28 Volendam 3-0 Maastricht
+Sep/28 Waalwijk 0-4 Achilles 29
+Sep/27 Oss 2-1 Telstar
+Sep/27 Sparta Rotterdam 3-0 Almere City
+Sep/27 Helmond 1-2 Roda
+Sep/26 Eindhoven FC 1-0 Venlo
+Sep/26 FC Emmen 2-2 Jong Ajax
+
+ Round 7
+
+Sep/20 Nijmegen 4-0 FC Emmen
+Sep/20 Waalwijk 1-3 Volendam
+Sep/20 Roda 1-0 Jong Ajax
+Sep/19 Achilles 29 2-2 Oss
+Sep/19 Den Bosch 3-0 Helmond
+Sep/19 Jong PSV 0-2 Sparta Rotterdam
+Sep/19 Maastricht 0-1 Graafschap
+Sep/19 Sittard 0-2 Eindhoven FC
+Sep/19 Telstar 1-1 Jong FC Twente
+Sep/19 Venlo 3-2 Almere City
+
+ Round 6
+
+Sep/15 Jong Ajax 4-2 Sparta Rotterdam
+Sep/15 Jong FC Twente 0-0 Jong PSV
+Sep/14 Volendam 2-2 Den Bosch
+Sep/13 Graafschap 3-2 Telstar
+Sep/13 Sittard 0-2 Roda
+Sep/13 Eindhoven FC 2-0 Achilles 29
+Sep/13 Nijmegen 1-0 Waalwijk
+Sep/12 Almere City 4-2 Oss
+Sep/12 FC Emmen 2-2 Helmond
+Sep/12 Maastricht 0-0 Venlo
+
+ Round 5
+
+Aug/31 Roda 2-0 Maastricht
+Aug/30 Oss 3-2 Graafschap
+Aug/29 Achilles 29 0-3 Sittard
+Aug/29 Den Bosch 2-0 Jong Ajax
+Aug/29 Helmond 1-4 Nijmegen
+Aug/29 Jong PSV 1-3 Eindhoven FC
+Aug/29 Sparta Rotterdam 0-5 Volendam
+Aug/29 Telstar 3-1 Almere City
+Aug/29 Venlo 1-4 FC Emmen
+Aug/29 Waalwijk 1-2 Jong FC Twente
+
+ Round 4
+
+Aug/26 Jong PSV 1-0 Nijmegen
+Aug/25 Achilles 29 3-2 Jong Ajax
+Aug/25 Eindhoven FC 2-1 Almere City
+Aug/25 FC Emmen 2-2 Den Bosch
+Aug/25 Graafschap 1-1 Waalwijk
+Aug/25 Jong FC Twente 1-2 Maastricht
+Aug/25 Oss 2-3 Venlo
+Aug/25 Sittard 0-1 Telstar
+Aug/25 Sparta Rotterdam 0-0 Helmond
+Aug/25 Volendam 3-0 Roda
+
+ Round 3
+
+Aug/22 Almere City 0-1 Jong FC Twente
+Aug/22 Den Bosch 2-3 Waalwijk
+Aug/22 FC Emmen 5-0 Jong PSV
+Aug/22 Helmond 2-1 Oss
+Aug/22 Jong Ajax 0-5 Volendam
+Aug/22 Maastricht 0-2 Sparta Rotterdam
+Aug/22 Nijmegen 5-1 Sittard
+Aug/22 Roda 2-1 Eindhoven FC
+Aug/22 Telstar 2-0 Achilles 29
+Aug/22 Venlo 1-0 Graafschap
+
+ Round 2
+
+Aug/18 Jong FC Twente 2-2 Helmond
+Aug/16 Graafschap 3-0 Almere City
+Aug/16 Sittard 0-2 Jong Ajax
+Aug/15 Achilles 29 1-3 Sparta Rotterdam
+Aug/15 Den Bosch 2-0 Venlo
+Aug/15 Eindhoven FC 3-0 FC Emmen
+Aug/15 Maastricht 2-1 Jong PSV
+Aug/15 Telstar 1-2 Roda
+Aug/15 Volendam 0-2 Nijmegen
+Aug/15 Waalwijk 0-4 Oss
+
+ Round 1
+
+Aug/11 Jong Ajax 3-0 Telstar
+Aug/10 Nijmegen 3-1 Eindhoven FC
+Aug/10 Sparta Rotterdam 2-1 Den Bosch
+Aug/09 Jong PSV 2-0 Achilles 29
+Aug/08 Almere City 5-0 Maastricht
+Aug/08 FC Emmen 1-1 Graafschap
+Aug/08 Helmond 0-1 Sittard
+Aug/08 Oss 0-4 Volendam
+Aug/08 Roda 3-2 Waalwijk
+Aug/08 Venlo 1-0 Jong FC Twente
