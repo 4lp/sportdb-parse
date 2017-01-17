@@ -37,34 +37,22 @@ class rowParser(HTMLParser):
 		data = data.decode()
 		self.data.append(data)
 
-#convert.py
-
 def convertFile(content):
-	content = str(content)
-	content = content.replace("[","")
-	content = content.replace("]","")
-	content = content.replace("\'","")
-	content = content.split(",")
-	print(content)
-	lines = ''
+	content = str(content).replace("[","").replace("]","").replace("\'","").split(",")
 	count = 0
 	date = ''
 	team1 = ''
 	team2 = ''
 	score = ''
-	matchday = 1
 	formattedLines = []
 	for line in content:
 		if (line != "" and line != " " and line != "  " and not line.endswith(")") and not line.startswith("(")):
 			#Is there a team this would conflict with?
 			if ("Round " in line or "Final" in line or "Semi-finals" in line or "Week" in line or "Quarter-finals" in line):
 				formattedLines.append("\n%s\n" % line)
-				matchday += 1
 			elif count % 4 == 0:
 				rawDate = line.strip().replace(",", "")
-				date = time.strptime(rawDate, "%b %d %I:%M %p")
-				date = time.strftime("%b %d", date)
-				date = date.replace(" ", "/")
+				date = (time.strftime("%b %d", time.strptime(rawDate, "%b %d %I:%M %p"))).replace(" ", "/")
 				count += 1
 			elif count % 4 == 1:
 				team1 = line.strip()
@@ -143,8 +131,7 @@ def main(argv):
 				#convert.py
 				final = convertFile(data)
 				#sanitize url for filename
-				inputfile = inputfile.lstrip("http://www.scoreboard.com/")
-				inputfile = inputfile.replace("/","_")
+				inputfile = inputfile.lstrip("http://www.scoreboard.com/").replace("/","_")
 				saveLoc = ".\\%s_results.txt" % inputfile
 				writeFile(final, saveLoc)
 				driver.quit()
